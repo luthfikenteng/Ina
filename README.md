@@ -1,2 +1,2 @@
 # Jangan di Copas
-Pelanggan
+Khusu buat Pelanggan
