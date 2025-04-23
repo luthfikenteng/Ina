@@ -2192,7 +2192,6 @@ free
 
 
 
-
 ========SPORTS INDO========
 ========SPORTS INDO========
 ========SPORTS INDO========
@@ -4164,10 +4163,10 @@ https://why.biz.id/Iptv/oxygen.php?id=ebskids
 https://why.biz.id/Iptv/oxygen.php?id=jitv
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BTjfF3p/golden-multiplex.png" group-title="IZZIGO TV", GOLDEN MULTIPLEX
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BTjfF3p/golden-multiplex.png" group-title="TEST", GOLDEN MULTIPLEX
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"f23601997bc024ea96b6b9d1e2b8b3fc":"521a2cfdd3f649a9543422dc41fa4ca0"}
+#KODIPROP:inputstream.adaptive.license_key=f23601997bc024ea96b6b9d1e2b8b3fc:521a2cfdd3f649a9543422dc41fa4ca0
 https://aka-live1-ott.izzigo.tv/4/out/u/dash/GOLDEN-MULTIPLEX/default.mpd
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SRSMbffZ/espn.png" group-title="TEST", ESPN MX
