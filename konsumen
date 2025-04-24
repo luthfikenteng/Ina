@@ -133,11 +133,11 @@ https://inews-cutv.rctiplus.id/inews-sdi.m3u8
 
 =======================================
 
-#EXTINF:-1 group-title="Indonesia" tvg-id="Sindo News TV HD - [Channel 434].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co.com/9v1hgk1/Sindonews.png",SINDONEWS
-#KODIPROP:inputstream.adaptive.stream_headers=referer=&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=26cc3e3343858d3986322f16e10b5823:0ad735e707e1c79bc550efa49f2ea4bd
-#https://dsgtq5sngxkde.cloudfront.net/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mpd|Referer=https://www.visionplus.id/&user-agent=Android
+#EXTINF:-1 group-title="Indonesia" tvg-id="Sindo News TV HD - [Channel 5].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co.com/7Jv7DPNY/SINDONEWS.png",SINDONEWS
+#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux; Android 15) Media3/1.6.0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/drmkv.php?id=5&type=drm
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/8c2df39f9b2842fbb997b89378841ad9/index.mpd
 
 =======================================
 
@@ -399,11 +399,11 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/7b0404cd6a8a4a908123f10774854e46/in
 
 =======================================
 
-#EXTINF:-1 group-title="INDONESIA HD" tvg-id="Sindo News TV HD - [Channel 434].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co.com/9v1hgk1/Sindonews.png",SINDONEWS HD
-#KODIPROP:inputstream.adaptive.stream_headers=referer=&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=26cc3e3343858d3986322f16e10b5823:0ad735e707e1c79bc550efa49f2ea4bd
-#https://dsgtq5sngxkde.cloudfront.net/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mpd|Referer=https://www.visionplus.id/
+#EXTINF:-1 group-title="INDONESIA HD" tvg-id="Sindo News TV HD - [Channel 5].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co.com/7Jv7DPNY/SINDONEWS.png",SINDONEWS HD
+#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux; Android 15) Media3/1.6.0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/drmkv.php?id=5&type=drm
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/8c2df39f9b2842fbb997b89378841ad9/index.mpd
 
 =======================================
 
@@ -918,7 +918,7 @@ http://op-group1-swiftservesd-1.dens.tv/s/s34/index.m3u8
 
 =======================================
 
-#EXTINF:0 tvg-logo="https://i.ibb.co.com/t2LL0r5/mycinema.png" group-title="MOVIES",MY CINEMA
+#EXTINF:0 tvg-logo="https://i.ibb.co.com/0yMpwdM1/MYCINEMA.png" group-title="MOVIES",MY CINEMA
 http://op-group1-swiftservehd-1.dens.tv/h/h192/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=My_Cinema_HD|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
  =======================================
  
@@ -2149,7 +2149,6 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:negara/manifest.mpd?id=8
 
 
 free
-
 
 
 
@@ -4155,4 +4154,5 @@ https://aka-live1-ott.izzigo.tv/1/out/u/dash/ESPN-3-HD/dash/default.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=666607af08b9eeddaae1d6c36a34d689:10fdc24a14e8423f5e5ff03569439b14
 https://aka-live1-ott.izzigo.tv/1/out/u/dash/ESPN-PLUS-HD/default.mpd
+
 
