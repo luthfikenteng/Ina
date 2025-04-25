@@ -2173,7 +2173,7 @@ https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=6686&type=dash
 
 
 
-#EXTINF:-1 tvg-id="Champions TV 3.id" tvg-logo="https://iili.io/2lP42X2.png" group-title="SPORTS INDO",Champions TV 3
+#EXTINF:-1 tvg-id="Champions TV 3.id" tvg-logo="https://i.ibb.co.com/ksZkb96Q/CH3.png" group-title="SPORTS INDO",Champions TV 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
@@ -2181,7 +2181,7 @@ https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=6686&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=6786&type=drm 
 https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=6786&type=dash
 
-#EXTINF:-1 tvg-id="Champions TV 5.id" tvg-logo="https://iili.io/2lP4dzl.png" group-title="SPORTS INDO",Champions TV 5
+#EXTINF:-1 tvg-id="Champions TV 5.id" tvg-logo="https://i.ibb.co.com/7NKQcgc2/CH5.png" group-title="SPORTS INDO",Champions TV 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
@@ -2189,7 +2189,7 @@ https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=6786&type=dash
 https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=9182&type=dash
 
 
-#EXTINF:-1 tvg-id="Champions TV 6.id" tvg-logo="https://iili.io/2lP4f19.png" group-title="SPORTS INDO",Champions TV 6
+#EXTINF:-1 tvg-id="Champions TV 6.id" tvg-logo="https://i.ibb.co.com/tp7JbgxQ/CH6.png" group-title="SPORTS INDO",Champions TV 6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
@@ -2198,7 +2198,7 @@ https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=9183&type=dash
 
 
 
-#EXTINF:0 tvg-id="PL" tvg-logo="https://i.ibb.co.com/Vprs3ftF/Premier-League-TV.png" group-title="SPORTS INDO", PREMIER LEAGUE TV
+#EXTINF:0 tvg-id="PL" tvg-logo="https://i.ibb.co.com/rRZz7ftW/PL.png" group-title="SPORTS INDO", PREMIER LEAGUE TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -2208,7 +2208,7 @@ https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/m
 
 
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/68y2OmC.png" group-title="SPORTS INDO",Soccer Channel
+#EXTINF:0 tvg-logo="https://i.ibb.co.com/GXYxL0D/SCC.png" group-title="SPORTS INDO",Soccer Channel
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/drmkv.php?id=115&type=drm
@@ -2216,14 +2216,14 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/in
 
 
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/OkQzNhc.png" group-title="SPORTS INDO",Sportstars 1 HD
+#EXTINF:0 tvg-logo="https://i.ibb.co.com/prRZnJBs/SS1.png" group-title="SPORTS INDO",Sportstars 1 HD
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/drmkv.php?id=112&type=drm
 https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd|referrer=https://visionplus.id/
 
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/A1hlnLA.png" group-title="SPORTS INDO",Sportstars 2 HD 
+#EXTINF:0 tvg-logo="https://i.ibb.co.com/DP40bmvB/SS2.png" group-title="SPORTS INDO",Sportstars 2 HD 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/drmkv.php?id=113&type=drm
@@ -2232,7 +2232,7 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/in
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#EXTINF:-1 tvg-id="" group-title="SPORTS INDO"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Sportstars_3.png", Sportstars 3
+#EXTINF:-1 tvg-id="" group-title="SPORTS INDO"  tvg-logo="https://i.ibb.co.com/Qv9Fw7qD/SS3.png", Sportstars 3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
 #KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/drmkv.php?id=114&type=drm
@@ -2240,7 +2240,7 @@ https://terabit.web.id/media.mpd?id=114&type=dash|referrer=https://visionplus.id
 
 
 
-#EXTINF:0 tvg-id="SS4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Sportstars_4.png" group-title="SPORTS INDO", SPORTSTARS 4 HD
+#EXTINF:0 tvg-id="SS4" tvg-logo="https://i.ibb.co.com/B2VjN5B3/SS4.png" group-title="SPORTS INDO", SPORTSTARS 4 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
