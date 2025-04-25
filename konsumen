@@ -1626,32 +1626,32 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/dd9cfc9ae76a4f8abbaa89708a915e38/ind
 https://streamtv.mediasector.es/hls/activatv/index.m3u8
 
 
-#EXTINF:-1 tvg-id="afn" tvg-logo="" group-title="MUSIC",AFN TV
+#EXTINF:-1 tvg-id="afn" tvg-logo="https://i.ibb.co.com/Rk07CWp7/AFN.png" group-title="MUSIC",AFN TV
 https://bozztv.com/1gbw5/tintv2/tintv2/playlist.m3u8
 
-#EXTINF:-1 tvg-id="afrobeat" tvg-logo="" group-title="MUSIC",AFROBEATS HD
+#EXTINF:-1 tvg-id="afrobeat" tvg-logo="https://i.ibb.co.com/RR5RyqY/AFRO.png" group-title="MUSIC",AFROBEATS HD
 https://stream.ecable.tv/afrobeats/index.m3u8
 
-#EXTINF:-1 tvg-id="IMTV.id" tvg-logo="https://i.ibb.co.com/k26cWyz/imtv.png" group-title="MUSIC",IMTV
+#EXTINF:-1 tvg-id="IMTV.id" tvg-logo="https://i.ibb.co.com/pBTzdRwz/IMTV.png" group-title="MUSIC",IMTV
 https://5bf7b725107e5.streamlock.net/imtv/imtv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="MUSIC",K-Pop TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N6s0Pdyt/KPOP.png" group-title="MUSIC",K-Pop TV
 https://live.24hrkpop.com/hls/3/stream.m3u8|user-agent=OTTNavigator/1.7.1.6 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSZbDC2h2l8cNdnXt4Q4Hgu_r1rvhBOpmGLR8k9jUwmA&s" group-title="MUSIC",New K-Pop
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N6s0Pdyt/KPOP.png" group-title="MUSIC",New K-Pop
 https://8fd4e0b07d96480eb52382739cc8acce.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_NewKID/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="MUSIC",K-Pop TVPlay
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N6s0Pdyt/KPOP.png" group-title="MUSIC",K-Pop TVPlay
 https://stream.gia.tv/giatv/giatv-kpoptvplay/kpoptvplay/playlist.m3u8|user-agent=ExoPlayerDemo/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 
 
-#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/mictv.png" group-title="MUSIC",MIC TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/MynHCnts/MIC.png" group-title="MUSIC",MIC TV
 https://v2.siar.us/mic/live/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="musik.id" tvg-name="musik indonesia" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5OyeFSTUV_2U4GZOK3MSaK-ul9zUFZNJgyw&usqp=CAU" group-title="MUSIC",Musik Indonesia ID (INDIHOME)
+#EXTINF:-1 tvg-id="musik.id" tvg-name="musik indonesia" tvg-logo="https://i.ibb.co.com/LDVJDmXF/MIC.png" group-title="MUSIC",Musik Indonesia ID (INDIHOME)
 https://cdn08jtedge.indihometv.com/dassdvr/134/musikindo/manifest.mpd
 #https://raw.githubusercontent.com/AFDigitalTV/Channel/refs/heads/main/MusicIndo.m3u8
 
@@ -2094,6 +2094,8 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:negara/manifest.mpd?id=8
 
 
 free
+
+
 
 
 
@@ -4102,8 +4104,6 @@ https://aka-live1-ott.izzigo.tv/1/out/u/dash/ESPN-PLUS-HD/default.mpd
 
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTt7GLYiTjX8ezsZ3ge7CkPJIXPWTFYntIvSpG6wBbYRzjmGTSx_ODY8To&s=10" group-title="TEST",PROLIGA
 http://xtv.ooo:8080/live/387546/200900/350997.ts
-
-
 
 
 
