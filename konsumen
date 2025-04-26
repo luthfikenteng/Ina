@@ -2610,7 +2610,7 @@ http://212.102.60.231/TSN_5/index.m3u8
 
 =======================================
 
-#EXTINF:-1 tvg-id="Sportsnet World HD.ca" tvg-logo="https://iili.io/d9lhT0B.png" group-title="SPORTS",Sportsnet World
+#EXTINF:-1 tvg-id="Sportsnet World HD.ca" tvg-logo="https://i.ibb.co.com/5XQwgPhc/SNW.png" group-title="SPORTS",Sportsnet World
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -2620,7 +2620,7 @@ http://212.102.60.231/TSN_5/index.m3u8
 
 =======================================
 
-#EXTINF:-1 tvg-id="StarzPlay Sports.ua" tvg-logo="https://iili.io/2MEFfFj.png" group-title="SPORTS",Starzplay Sports
+#EXTINF:-1 tvg-id="StarzPlay Sports.ua" tvg-logo="https://i.ibb.co.com/B5Mqn1vG/SP.png" group-title="SPORTS",Starzplay Sports
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=42d7a462640c6748371d39f23e4a18c3:f4bef9f080f4a3a52dd55d5c3b8b81e2
@@ -2628,7 +2628,7 @@ http://212.102.60.231/TSN_5/index.m3u8
 https://uselector.cdn.intigral-ott.net/SPZ/SPZ.isml/manifest.mpd
  =======================================
 
-#EXTINF:-1 tvg-id="825.astro" tvg-logo="https://iili.io/JmozxBR.png" group-title="SPORTS",Eurosport Asia
+#EXTINF:-1 tvg-id="825.astro" tvg-logo="https://i.ibb.co.com/s92bSkk8/EURO.png" group-title="SPORTS",Eurosport Asia
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=47c03f29f04747d2a298c0ad63f3b2c1:8b48b2cb2743b91d5f20cf2622067f3a
@@ -2636,21 +2636,21 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/EUROSPORTHD/mpd/EUROSPORTHD.mpd
 
 =======================================
 
-#EXTINF:-1 tvg-id="Uaap Varsity.ph" tvg-logo="https://iili.io/2EyQCVp.png" group-title="SPORTS",UAAP Varsity
+#EXTINF:-1 tvg-id="Uaap Varsity.ph" tvg-logo="https://i.ibb.co.com/dwj2sw8L/VC.png" group-title="SPORTS",UAAP Varsity
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=95588338ee37423e99358a6d431324b9:6e0f50a12f36599a55073868f814e81e
 https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/cg_uaap_cplay_sd.mpd
 
 =======================================
 
-#EXTINF:-1 tvg-id="Pbarush Hd.ph" tvg-logo="https://iili.io/2EyUZgf.png" group-title="SPORTS",PBA Rush
+#EXTINF:-1 tvg-id="Pbarush Hd.ph" tvg-logo="https://i.ibb.co.com/pBpzrM1y/PR.png" group-title="SPORTS",PBA Rush
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=76dc29dd87a244aeab9e8b7c5da1e5f3:95b2f2ffd4e14073620506213b62ac82
 https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_pbarush_hd1.mpd
 
 =======================================
 
-#EXTINF:-1 tvg-logo="https://iili.io/2UfbOcg.png" group-title="SPORTS",Premier Football
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Xf8nQPSM/PF.png" group-title="SPORTS",Premier Football
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6910/001/2/ch00000090990000001127/manifest.mpd?virtualDomain=001.live_hls.zte.com
@@ -2658,7 +2658,7 @@ http://143.44.136.110:6910/001/2/ch00000090990000001127/manifest.mpd?virtualDoma
 =======================================
 
 #EXTINF:-1 tvg-id="Premiersports Hd.ph" tvg-logo="https://iili.io/2EyUQ0G.png" group-title="SPORTS",Premier Sports
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=fc19c98cb9504a0fb78b22fea0a4b814:ea683112a96d4ae6c32d4ea13923e8c7
 https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_premiersports_hd1.mpd
 
@@ -3749,7 +3749,7 @@ LIGA ARAB
 #KODIPROP:inputstream.adaptive.license_key=0c900a7eae0097e0977141b68c9bffc4:fa534e6d48eccf905a449051a5e280c8
 https://a122aivottlinear-a.akamaihd.net/OTTB/fra-nitro/live/clients/dash/enc/k2dcwnlpgr/out/v1/0502dc73a24b43a79c042bf2d14f6b84/cenc.mpd
 
-#EXTINF:-1 tvg-logo="https://iili.io/2UfbOcg.png" group-title="LIGA ARAB",Premier Football
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Xf8nQPSM/PF.png" group-title="LIGA ARAB",Premier Football
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6910/001/2/ch00000090990000001127/manifest.mpd?virtualDomain=001.live_hls.zte.com
