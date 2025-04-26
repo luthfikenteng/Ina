@@ -2097,6 +2097,7 @@ free
 
 
 
+
 ====================================================SPORTS INDO==============
 =======================================
 
@@ -4093,4 +4094,8 @@ http://xtv.ooo:8080/live/387546/200900/350997.ts
 
 
 
+#EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="" group-title="TEST", LIGA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://jlbfpc.jlbfyh.com/
+https://bf.jabflive.com/live/5004432_hd01.m3u8?txSecret=d6a20c52ce588f1b534cd598fb9bbfbb&txTime=680ca225|referrer=https://jlbfpc.jlbfyh.com/
 
