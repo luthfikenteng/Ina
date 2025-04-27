@@ -4114,11 +4114,13 @@ https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=9353&type=dash
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=205&type=drm
-https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=205&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=7464&type=drm
+https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=7464&type=dash
 
 
 
-
+#EXTINF:-1 xui-id="2544" tvg-id="" tvg-name="BIOSKOP ACTION" tvg-logo="https://cdn.streamplay.cyou:443/images/DS2Z0--hcvgKCGAJ9CN8_Sr215ile9sojWRJ5PmRuLw.png" group-title="TEST",BIOSKOP ACTION
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://cdn.streamplay.cyou:443/play/E-3cBNO1YGFKSqM40cD7GqK8YcNRvBA0kQfIkysB0dFd1HYh_K9-raIJpe-Bv7Li
 
 
