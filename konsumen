@@ -434,6 +434,13 @@ https://raw.githubusercontent.com/AFDigitalTV/AFD/refs/heads/main/PL/Btivi.m3u8
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
 https://raw.githubusercontent.com/AFDigitalTV/AFD/refs/heads/main/PL/Rtivi.m3u8
 
+#EXTINF:0 tvg-id="RTV" tvg-logo="https://i.ibb.co.com/MkkwN1Zd/RTV.png" group-title="INDONESIA HD", RTV HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=1561&type=drm
+https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=1561&type=dash
+
 =======================================
 
 #EXTINF:-1 group-title="INDONESIA HD" tvg-id="beritasatu" tvg-logo="https://i.ibb.co.com/v6SXYpr3/BERITASATU.png",BERITASATU HD
@@ -1111,6 +1118,22 @@ https://raw.githubusercontent.com/AFDigitalTV/AFD/refs/heads/main/PL/Rtivi.m3u8
 #KODIPROP:inputstream.adaptive.license_key=0a3aaee779e940db8ff24f9f3eb5c98a:440e1c1ce9ba337844409c8bcad5a268
 https://atemecdnbalancer-voe.sysln.id/live/eds/HoreeHD/mpd/HoreeHD.mpd
 
+#EXTINF:0 tvg-id="PL" tvg-logo="https://i.ibb.co.com/KcWqL2V6/HOREE.png" group-title="KIDS", HOREE!
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=6397&type=drm
+#https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=6397&type=dash
+
+=======================================
+
+#EXTINF:0 tvg-id="HHH" tvg-logo="https://i.ibb.co.com/ynrh0bLy/HHH.png" group-title="KIDS", HIPHIP HOREE!
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=7052&type=drm
+https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=7052&type=dash
+
 =======================================
 
 #EXTINF:-1 group-title="KIDS"  tvg-logo="https://i.ibb.co.com/604NFYcd/FUN.png",FUN PLANET
@@ -1720,7 +1743,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h243/02.m3u8
 
 
 
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-id="dunialain.id" tvg-logo="https://i.ibb.co.com/JR12Cfhf/DL.png",Dunia Lain (INDIHOME)
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-id="dunialain.id" tvg-logo="https://i.ibb.co.com/7dDPYpGS/DL.png",Dunia Lain (INDIHOME)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=64756e69616c61696e30303030303030:d742218958e10ca989be6a63f2db9b6d
 https://cdn08jtedge.indihometv.com/dassdvr/130/dunialain/manifest.mpd
@@ -1736,23 +1759,23 @@ https://streaming.indihometv.com/atm/DASH/warner/manifest.mpd|user-agent=Mozilla
 
 
 
-#EXTINF:-1 tvg-id="DENS Food Channel.id" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium2.xml" tvg-logo="https://picture.dens.tv/wp/img/whatson_v2/1280x720/Logo%20DFC.png" group-title="ENTERTAINMENT",Dens Food Channel
+#EXTINF:-1 tvg-id="DENS Food Channel.id" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium2.xml" tvg-logo="https://i.ibb.co.com/7JXnVJ38/IMG-20250429-002526.png" group-title="ENTERTAINMENT",Dens Food Channel
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://op-group1-swiftservehd-1.dens.tv/h/h221/01.m3u8
 
-#EXTINF:-1 tvg-id="DENS Showbizz Channel.id" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium2.xml" tvg-logo="https://e7.pngegg.com/pngimages/893/782/png-clipart-competitive-dance-competition-award-talent-show-award-love-television.png" group-title="ENTERTAINMENT",Dens ShowBiz
+#EXTINF:-1 tvg-id="DENS Showbizz Channel.id" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium2.xml" tvg-logo="https://i.ibb.co.com/LDM0pS0F/IMG-20250429-002701.png" group-title="ENTERTAINMENT",Dens ShowBiz
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://op-group1-swiftservehd-1.dens.tv/h/h244/01.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501284_tvchannels_v1.jpg" group-title="ENTERTAINMENT",Dens Life & Style
+#EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" tvg-logo="https://i.ibb.co.com/RpKZGfcY/IMG-20250429-002832.png" group-title="ENTERTAINMENT",Dens Life & Style
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://op-group1-swiftservehd-1.dens.tv/h/h222/02.m3u8
 
 
-#EXTINF:-1 tvg-id="Lifetime - [Channel 80].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://static.mncnow.id/images/channel/ff9ab40f/566e_r32.jpg" group-title="ENTERTAINMENT",Lifetime V+
+#EXTINF:-1 tvg-id="Lifetime - [Channel 80].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co.com/vvjYR24M/IMG-20250429-003022.png" group-title="ENTERTAINMENT",Lifetime V+
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux; Android 15) Media3/1.6.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/drmkv.php?id=80&type=drm
@@ -1760,14 +1783,14 @@ https://op-group1-swiftservehd-1.dens.tv/h/h222/02.m3u8
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/1880fc1b32d3449196e80345f6cd5918/index.mpd
 
 
-#EXTINF:-1 tvg-id="Lifetime - [Channel 167].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://static.mncnow.id/images/channel/ff9ab40f/566e_r32.jpg" group-title="ENTERTAINMENT",Lifetime
+#EXTINF:-1 tvg-id="Lifetime - [Channel 167].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co.com/vvjYR24M/IMG-20250429-003022.png" group-title="ENTERTAINMENT",Lifetime
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=2c8ff6307bf94b408b9759d7cdb6e95e:50fede3d058915c8ddaa43721d52ec69
 https://atemecdnbalancer-voe.sysln.id/live/eds/LifetimeHD/mpd/LifetimeHD.mpd
 
 
-#EXTINF:-1 tvg-id="Vision Prime HD - [Channel 87].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_94.png" group-title="ENTERTAINMENT",Vision Prime
+#EXTINF:-1 tvg-id="Vision Prime HD - [Channel 87].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co.com/rRgyfQcn/VP.png" group-title="ENTERTAINMENT",Vision Prime
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux; Android 15) Media3/1.6.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/drmkv.php?id=87&type=drm
@@ -2090,7 +2113,6 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:negara/manifest.mpd?id=8
 
 
 free
-
 
 
 ====================================================SPORTS INDO==============
@@ -4104,123 +4126,7 @@ https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=206&type=dash
 
 
 
-#EXTINF:0 tvg-id="PL" tvg-logo="https://i.ibb.co.com/rRZz7ftW/PL" group-title="TEST", TEST
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=665&type=drm
-https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=665&type=dash
 
 
-
-#EXTINF:0 tvg-id="PL" tvg-logo="https://i.ibb.co.com/rRZz7ftW/PL" group-title="TEST", TEST
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=1561&type=drm
-https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=1561&type=dash
-
-
-#EXTINF:0 tvg-id="PL" tvg-logo="https://i.ibb.co.com/rRZz7ftW/PL" group-title="TEST", TEST
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=204&type=drm
-https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=204&type=dash
-
-#EXTINF:0 tvg-id="PL" tvg-logo="https://i.ibb.co.com/rRZz7ftW/PL" group-title="TEST", TEST
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=733&type=drm
-https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=733&type=dash
-
-
-#EXTINF:0 tvg-id="PL" tvg-logo="https://i.ibb.co.com/rRZz7ftW/PL" group-title="TEST", TEST
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=6678&type=drm
-https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=6678&type=dash
-
-
-#EXTINF:0 tvg-id="PL" tvg-logo="https://i.ibb.co.com/rRZz7ftW/PL" group-title="TEST", TEST
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=6587&type=drm
-https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=6587&type=dash
-
-
-#EXTINF:0 tvg-id="PL" tvg-logo="https://i.ibb.co.com/rRZz7ftW/PL" group-title="TEST", TEST
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=6684&type=drm
-https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=6684&type=dash
-
-
-#EXTINF:0 tvg-id="PL" tvg-logo="https://i.ibb.co.com/rRZz7ftW/PL" group-title="TEST", TEST
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=6401&type=drm
-https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=6401&type=dash
-
-
-#EXTINF:0 tvg-id="PL" tvg-logo="https://i.ibb.co.com/rRZz7ftW/PL" group-title="TEST", TEST
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=6402&type=drm
-https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=6402&type=dash
-
-
-#EXTINF:0 tvg-id="PL" tvg-logo="https://i.ibb.co.com/rRZz7ftW/PL" group-title="TEST", TEST
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=6747&type=drm
-https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=6747&type=dash
-
-
-#EXTINF:0 tvg-id="PL" tvg-logo="https://i.ibb.co.com/rRZz7ftW/PL" group-title="TEST", TEST
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=7052&type=drm
-https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=7052&type=dash
-
-
-#EXTINF:0 tvg-id="PL" tvg-logo="https://i.ibb.co.com/rRZz7ftW/PL" group-title="TEST", TEST
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=6397&type=drm
-https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=6397&type=dash
-
-
-#EXTINF:0 tvg-id="PL" tvg-logo="https://i.ibb.co.com/rRZz7ftW/PL" group-title="TEST", TEST
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=6550&type=drm
-https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=6550&type=dash
-
-
-#EXTINF:0 tvg-id="PL" tvg-logo="https://i.ibb.co.com/rRZz7ftW/PL" group-title="TEST", TEST
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=6838&type=drm
-https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=6838&type=dash
-
-
-#EXTINF:0 tvg-id="PL" tvg-logo="https://i.ibb.co.com/rRZz7ftW/PL" group-title="TEST", TEST
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=7150&type=drm
-https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=7150&type=dash
 
 
