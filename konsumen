@@ -2287,7 +2287,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.2025stviptv.workers.dev/?id=121
+#KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/drmkv.php?id=121&type=drm
 https://terabit.web.id/media.mpd?id=121&type=dash|referrer=https://visionplus.id/
 
 =======================================
