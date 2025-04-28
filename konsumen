@@ -4095,3 +4095,132 @@ http://xtv.ooo:8080/live/387546/200900/350997.ts
 https://fhlsport121.fhs36f7.xyz/token-JxAok7XHIPaGv2YulvY6nG2KlJrXgi7jPiCrkKVJEjn34%2BadHUFdDo8krxdKVERJBCeIxTNhkA%3D%3Da/cfall/s2001/v3b/sr1p83npnUE0pQbiY3AaYKEmqwphZ3umqT0ho25y/super/3x_600073.m3u8
 
 
+#EXTINF:0 tvg-id="PL" tvg-logo="https://i.ibb.co.com/rRZz7ftW/PL" group-title="TEST", TEST
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=206&type=drm
+https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=206&type=dash
+
+
+
+#EXTINF:0 tvg-id="PL" tvg-logo="https://i.ibb.co.com/rRZz7ftW/PL" group-title="TEST", TEST
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=665&type=drm
+https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=665&type=dash
+
+
+
+#EXTINF:0 tvg-id="PL" tvg-logo="https://i.ibb.co.com/rRZz7ftW/PL" group-title="TEST", TEST
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=1561&type=drm
+https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=1561&type=dash
+
+
+#EXTINF:0 tvg-id="PL" tvg-logo="https://i.ibb.co.com/rRZz7ftW/PL" group-title="TEST", TEST
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=204&type=drm
+https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=204&type=dash
+
+#EXTINF:0 tvg-id="PL" tvg-logo="https://i.ibb.co.com/rRZz7ftW/PL" group-title="TEST", TEST
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=733&type=drm
+https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=733&type=dash
+
+
+#EXTINF:0 tvg-id="PL" tvg-logo="https://i.ibb.co.com/rRZz7ftW/PL" group-title="TEST", TEST
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=6678&type=drm
+https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=6678&type=dash
+
+
+#EXTINF:0 tvg-id="PL" tvg-logo="https://i.ibb.co.com/rRZz7ftW/PL" group-title="TEST", TEST
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=6587&type=drm
+https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=6587&type=dash
+
+
+#EXTINF:0 tvg-id="PL" tvg-logo="https://i.ibb.co.com/rRZz7ftW/PL" group-title="TEST", TEST
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=6684&type=drm
+https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=6684&type=dash
+
+
+#EXTINF:0 tvg-id="PL" tvg-logo="https://i.ibb.co.com/rRZz7ftW/PL" group-title="TEST", TEST
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=6401&type=drm
+https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=6401&type=dash
+
+
+#EXTINF:0 tvg-id="PL" tvg-logo="https://i.ibb.co.com/rRZz7ftW/PL" group-title="TEST", TEST
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=6402&type=drm
+https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=6402&type=dash
+
+
+#EXTINF:0 tvg-id="PL" tvg-logo="https://i.ibb.co.com/rRZz7ftW/PL" group-title="TEST", TEST
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=6747&type=drm
+https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=6747&type=dash
+
+
+#EXTINF:0 tvg-id="PL" tvg-logo="https://i.ibb.co.com/rRZz7ftW/PL" group-title="TEST", TEST
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=7052&type=drm
+https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=7052&type=dash
+
+
+#EXTINF:0 tvg-id="PL" tvg-logo="https://i.ibb.co.com/rRZz7ftW/PL" group-title="TEST", TEST
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=6397&type=drm
+https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=6397&type=dash
+
+
+#EXTINF:0 tvg-id="PL" tvg-logo="https://i.ibb.co.com/rRZz7ftW/PL" group-title="TEST", TEST
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=6550&type=drm
+https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=6550&type=dash
+
+
+#EXTINF:0 tvg-id="PL" tvg-logo="https://i.ibb.co.com/rRZz7ftW/PL" group-title="TEST", TEST
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=6838&type=drm
+https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=6838&type=dash
+
+
+#EXTINF:0 tvg-id="PL" tvg-logo="https://i.ibb.co.com/rRZz7ftW/PL" group-title="TEST", TEST
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=7150&type=drm
+https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=7150&type=dash
+
+
