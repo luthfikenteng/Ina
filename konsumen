@@ -789,9 +789,9 @@ https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/2156.m3u8
 =======================================
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co.com/Lhvj8ZTY/FLIK.png", FLIK (INDIHOME)
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/133/flik/manifest.mpd
 
@@ -956,7 +956,7 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/Cinemachi-HD/sa_dash/Cinemachi-HD.
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/drmkv.php?id=37&type=drm
-#https://d84q7nw4qf3j3.cloudfront.net/out/v1/c70975aaa68d47f2a38799e6730a7816/index.mpd
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/c70975aaa68d47f2a38799e6730a7816/index.mpd
 
 
 #EXTINF:0 tvg-logo="https://i.ibb.co.com/ch5pR3s2/CK.png" group-title="MOVIES",CINEMACHI KIDS
@@ -973,7 +973,7 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/Cinemachi-Kids-HD/sa_dash/Cinemach
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/drmkv.php?id=40&type=drm
-#https://d2xz2v5wuvgur6.cloudfront.net/out/v1/47c895ca72544fcfa4221c499b555a10/index.mpd
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/47c895ca72544fcfa4221c499b555a10/index.mpd
 
 
 #EXTINF:0 tvg-logo="https://i.ibb.co.com/7mD8ZyZ/CA.png" group-title="MOVIES",CINEMACHI ACTION
@@ -990,7 +990,7 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/Cinemachi-Action/sa_dash/Cinemachi
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/drmkv.php?id=39&type=drm
-#https://d2tjypxxy769fn.cloudfront.net/out/v1/782400332c96440598260730a864bc6f/index.mpd
+https://d2tjypxxy769fn.cloudfront.net/out/v1/782400332c96440598260730a864bc6f/index.mpd
 
 
 #EXTINF:0 tvg-logo="https://i.ibb.co.com/4w2YT9bK/CM.png" group-title="MOVIES",CINEMACHI MAX
@@ -3549,10 +3549,12 @@ https://arwen1.panaka.cfd/puk2/usergenrnd0clv03fyt.m3u8|referrer=https://saruman
 =======================================
 
 #EXTINF:0 tvg-logo="https://i.ibb.co.com/GXYxL0D/SCC.png" group-title="BUNDES LIGA",Soccer Channel
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/drmkv.php?id=115&type=drm
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd|referrer=https://visionplus.id/
+#KODIPROP:inputstream.adaptive.license_key=https://drm-vision2025.tvrusak1992.workers.dev/?no=115&type=drm
+https://terabit.web.id/media.mpd?id=115&type=dash|referrer=https://visionplus.id/
+#https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd|referrer=https://visionplus.id/
 
 =======================================
 
@@ -4161,9 +4163,6 @@ https://fhlsport121.fhs36f7.xyz/token-JxAok7XHIPaGv2YulvY6nG2KlJrXgi7jPiCrkKVJEj
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=206&type=drm
 https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=206&type=dash
-
-
-
 
 
 
