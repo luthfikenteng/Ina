@@ -480,6 +480,7 @@ https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=8237&type=dash
 
 #EXTINF:-1 tvg-id="MentariTV.id" group-title="INDONESIA HD" tvg-name="Mentari TV" tvg-logo="https://i.ibb.co.com/7Jnn95wt/MENTARI.png",MENTARI TV HD 2
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+https://gooo.blog/opix/genx.m3u8?id=mentaritv&cyev=mentaritv.1746038587.ef1fc4709efbcc9cdd3c811f17155dc037990cd73a4d91f8432ef18b39b848e4
 https://raw.githubusercontent.com/AFDigitalTV/AFD/refs/heads/main/PL/mentari.m3u8
 
 =======================================
