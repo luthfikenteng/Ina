@@ -78,35 +78,35 @@ https://cfrt.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)
 
 =======================================
 
-#EXTINF:-1 tvg-id="NBC SPORT PEACOCK" group-title="LIVE EVENT" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png", LIGA INGGRIS
+#EXTINF:-1 tvg-id="NBC SPORT PEACOCK" group-title="LIVE EVENT" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png", LIGA INGGRIS 7
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0045a118e231f1326bcdb45350b1ceaa:8c13afbfa54ea37a368b8b859021f6e3
 https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(knbc)/master.mpd
 
 =======================================
 
-#EXTINF:-1 tvg-id="PEACOCK" group-title="LIVE EVENT" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png", LIGA INGGRIS 7
+#EXTINF:-1 tvg-id="PEACOCK" group-title="LIVE EVENT" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png", LIGA INGGRIS 8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
 https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
 
 =======================================
 
-#EXTINF:-1 tvg-id="PRIMA SPORT 1" group-title="LIVE EVENT" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png", LIGA INGGRIS 8
+#EXTINF:-1 tvg-id="PRIMA SPORT 1" group-title="LIVE EVENT" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png", LIGA INGGRIS 9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://saruman1.tharen.cfd/000/
 https://saruman1.tharen.cfd/puk1/usergenrx0cir27aq.m3u8|referrer=https://saruman1.tharen.cfd/000/
 
 =======================================
 
-#EXTINF:-1 tvg-id="PRIMA SPORT 2" group-title="LIVE EVENT" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png", LIGA INGGRIS 9
+#EXTINF:-1 tvg-id="PRIMA SPORT 2" group-title="LIVE EVENT" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png", LIGA INGGRIS 10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://saruman1.tharen.cfd/000/
 https://arwen1.panaka.cfd/puk2/usergenrnd0clv03fyt.m3u8|referrer=https://saruman1.tharen.cfd/000/
 
 =======================================
 
-#EXTINF:-1 tvg-id="POKER TV" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png" group-title="LIVE EVENT",LIGA INGGRIS 10
+#EXTINF:-1 tvg-id="POKER TV" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png" group-title="LIVE EVENT",LIGA INGGRIS 11
 https://hls.pokertvfa.live/hls/stream.m3u8
 
 
@@ -114,7 +114,7 @@ https://hls.pokertvfa.live/hls/stream.m3u8
 =============LIGA SPANYOL=============
 =======================================
 
-#EXTINF:0 tvg-id="BEINSPORTS 3"tvg-logo="https://i.ibb.co.com/1JwYR5NV/LALIGA.png" group-title="LIVE EVENT",LIGA SPANYOL
+#EXTINF:0 tvg-id="BEINSPORTS 3"tvg-logo="https://i.ibb.co.com/1JwYR5NV/LALIGA.png" group-title="LIVE EVENT",LIGA SPANYOL 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -123,7 +123,7 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/ind
 
 =======================================
 
-#EXTINF:-1 tvg-id="DAZN LALIGA" tvg-logo="https://i.ibb.co.com/1JwYR5NV/LALIGA.png" group-title="LIVE EVENT" , LIGA SPANYOL
+#EXTINF:-1 tvg-id="DAZN LALIGA" tvg-logo="https://i.ibb.co.com/1JwYR5NV/LALIGA.png" group-title="LIVE EVENT" , LIGA SPANYOL 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -132,7 +132,7 @@ https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/wjgklbtvhh/
 
 =======================================
 
-#EXTINF:0 tvg-id="DAZN 1 DE" tvg-logo="https://i.ibb.co.com/1JwYR5NV/LALIGA.png" group-title="LIVE EVENT", LIGA SPANYOL
+#EXTINF:0 tvg-id="DAZN 1 DE" tvg-logo="https://i.ibb.co.com/1JwYR5NV/LALIGA.png" group-title="LIVE EVENT", LIGA SPANYOL 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -142,7 +142,7 @@ https://a122aivottlinear-a.akamaihd.net/OTTB/fra-nitro/live/clients/dash/enc/k2d
 
 =======================================
 
-#EXTINF:-1 tvg-id="SKY SPORTS LALIGA" tvg-logo="https://i.ibb.co.com/1JwYR5NV/LALIGA.png" group-title="LIVE EVENT" , LIGA SPANYOL
+#EXTINF:-1 tvg-id="SKY SPORTS LALIGA" tvg-logo="https://i.ibb.co.com/1JwYR5NV/LALIGA.png" group-title="LIVE EVENT" , LIGA SPANYOL 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -151,14 +151,14 @@ https://aka-live1-ott.izzigo.tv/2/out/u/dash/SKY-SPORTS-16-HD/default.mpd
 
 =======================================
 
-#EXTINF:-1 tvg-id="PRIMA SPORT 3" group-title="LIVE EVENT" tvg-logo="https://i.ibb.co.com/1JwYR5NV/LALIGA.png", LIGA SPANYOL
+#EXTINF:-1 tvg-id="PRIMA SPORT 3" group-title="LIVE EVENT" tvg-logo="https://i.ibb.co.com/1JwYR5NV/LALIGA.png", LIGA SPANYOL 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://saruman1.tharen.cfd/000/
 https://iron1.jarvisx.cfd/puk3/usergenrx4t0l8sybkr.m3u8|referrer=https://saruman1.tharen.cfd/000/
 
 =======================================
 
-#EXTINF:-1 tvg-id="POKER TV" tvg-logo="https://i.ibb.co.com/1JwYR5NV/LALIGA.png" group-title="LIVE EVENT",LIGA SPANYOL
+#EXTINF:-1 tvg-id="POKER TV" tvg-logo="https://i.ibb.co.com/1JwYR5NV/LALIGA.png" group-title="LIVE EVENT",LIGA SPANYOL 6
 https://hls.pokertvfa.live/hls/stream.m3u8
 
 
@@ -999,7 +999,7 @@ https://terabit.web.id/media.mpd?id=48&type=dash|referrer=https://visionplus.id/
 
 
 #EXTINF:0 tvg-logo="https://i.ibb.co.com/93HkxQz4/GALAXY-P.png" group-title="MOVIES",GALAXY PREMIUM 2
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
@@ -2312,7 +2312,6 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:negara/manifest.mpd?id=8
 
 
 free
-
 
 
 ====================================================SPORTS INDO==============
@@ -4399,3 +4398,4 @@ https://rikstv-live-scalstrm.telenorcdn.net/live/rikstv/644bb6e91dbc891fd422efef
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0c6212056d2f51fcbf569f9a1a8517d1:d07b404deb7c958347d742e6d1d2f3f9
 intent://rikstv-live-scalstrm.telenorcdn.net/live/rikstv/64393bf81dbc891fd41f53ac/manifest.mpd
+
