@@ -83,7 +83,7 @@ https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(knbc)/mas
 
 =======================================
 
-#EXTINF:-1 tvg-id="NBC SPORT PEACOCK" group-title="LIVE EVENT" group-logo="https://i.ibb.co.com/twxFhvBY/PLE.png" tvg-logo="https://i.ibb.co.com/hF6LwDXq/PC.png", LIGA INGGRIS
+#EXTINF:-1 tvg-id="PEACOCK" group-title="LIVE EVENT" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png", LIGA INGGRIS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
 https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
@@ -2258,7 +2258,6 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:negara/manifest.mpd?id=8
 free
 
 
-
 ====================================================SPORTS INDO==============
 =======================================
 
@@ -4327,3 +4326,4 @@ https://rikstv-live-scalstrm.telenorcdn.net/live/rikstv/644bb6e91dbc891fd422efef
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0c6212056d2f51fcbf569f9a1a8517d1:d07b404deb7c958347d742e6d1d2f3f9
 intent://rikstv-live-scalstrm.telenorcdn.net/live/rikstv/64393bf81dbc891fd41f53ac/manifest.mpd
+
