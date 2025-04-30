@@ -1,4 +1,5 @@
 #EXTM3U
+awal
 =======================================
 ================LIGA BRI================
 =======================================
@@ -217,7 +218,7 @@ https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=8237&type=dash
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/7Jnn95wt/MENTARI.png" group-title="Indonesia",Mentari TV (INDIHOME)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
-https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
+#https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
 
 
 #EXTINF:-1 tvg-id="MentariTV.id" group-title="Indonesia" tvg-name="Mentari TV" tvg-logo="https://i.ibb.co.com/7Jnn95wt/MENTARI.png",MENTARI TV HD
@@ -475,23 +476,22 @@ https://atemeshield1-voe.sysln.id/live/eds/MOJIOChannel/mpd/MOJIOChannel.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=8237&type=drm
-https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=8237&type=dash
+#https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=8237&type=dash
 
 
 #EXTINF:-1 tvg-id="MentariTV.id" group-title="INDONESIA HD" tvg-name="Mentari TV" tvg-logo="https://i.ibb.co.com/7Jnn95wt/MENTARI.png",MENTARI TV HD 2
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
-https://gooo.blog/opix/genx.m3u8?id=mentaritv&cyev=mentaritv.1746038587.ef1fc4709efbcc9cdd3c811f17155dc037990cd73a4d91f8432ef18b39b848e4
-https://raw.githubusercontent.com/AFDigitalTV/AFD/refs/heads/main/PL/mentari.m3u8
+#https://raw.githubusercontent.com/AFDigitalTV/AFD/refs/heads/main/PL/mentari.m3u8
 
 =======================================
 
 #EXTINF:0 tvg-logo="https://i.ibb.co.com/1GWCbMRs/ANTV.png" group-title="INDONESIA HD" tvg-id="ANTV",  ANTV HD
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
-#https://raw.githubusercontent.com/AFDigitalTV/AFD/refs/heads/main/PL/AN.m3u8
+https://raw.githubusercontent.com/AFDigitalTV/AFD/refs/heads/main/PL/AN.m3u8
 
 #EXTINF:0 tvg-logo="https://i.ibb.co.com/1GWCbMRs/ANTV.png" group-title="INDONESIA HD" tvg-id="ANTV",  ANTV
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-https://op-group1-swiftservehd-1.dens.tv/s/s07/01.m3u8
+#https://op-group1-swiftservehd-1.dens.tv/s/s07/01.m3u8
 
 =======================================
 
@@ -1314,7 +1314,7 @@ http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/298529
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=8237&type=drm
-https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=8237&type=dash
+#https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=8237&type=dash
 
 
 #EXTINF:-1 tvg-id="MentariTV.id" group-title="KIDS" tvg-name="Mentari TV" tvg-logo="https://i.ibb.co.com/7Jnn95wt/MENTARI.png",MENTARI TV HD 2
@@ -1748,7 +1748,7 @@ https://video1.earthcam.com/myearthcam/641f889a7774a38d5fc93dc76c4aeded.flv/play
 
 #EXTINF:-1 group-title="RELIGI"  tvg-logo="https://i.ibb.co.com/WNPNJkv2/DEIKIDS.png",DEI KIDS TV
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
-https://raw.githubusercontent.com/AFDigitalTV/AFD/refs/heads/main/PL/dekid.m3u8
+https://raw.githubusercontent.com/luthfikenteng/Ina/refs/heads/main/PL/dkids.m3u8
 #https://e.siar.us/live/deikidstv.m3u8|user-agent=Mozilla/5.0 (X11; Linux x86_64)
 
 =======================================
@@ -3166,7 +3166,7 @@ https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-#https://webtvstream.bhtelecom.ba/hls7/as_premium1.mpd?n=ayoyoy
+https://webtvstream.bhtelecom.ba/hls7/as_premium1.mpd?n=yK7Ppvy2j
 
 =======================================
 
