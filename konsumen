@@ -15,6 +15,8 @@ https://dokko1new.newkso.ru/dokko1/premium810/mono.m3u8
 
 #EXTINF:-1 group-title="LIVE EVENT" tvg-id="" tvg-logo="https://i.ibb.co.com/Xph8BGq/live.gif",livoly
 https://bf.jabflive.cc/live/5004366_hd01.m3u8?txSecret=1d577337943d841bb4ed1a6ddf5c9a7f&txTime=681492fc
+http://xtv.ooo:8080/live/Raza335/3355141450/350997.ts|license_type=com.widevine.alpha&license_key=https://tvkitastream.my.id/rctiplus/drm.php/widevine?id=113&user-agent=NSPlayer/12.00.9651.000
+
 
 =======================================
 ================LIGA BRI================
@@ -2638,6 +2640,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:negara/manifest.mpd?id=8
 free
 
 
+
 ====================================================SPORTS INDO==============
 =======================================
 
@@ -4830,4 +4833,3 @@ https://rikstv-live-scalstrm.telenorcdn.net/live/rikstv/644bb6e91dbc891fd422efef
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0c6212056d2f51fcbf569f9a1a8517d1:d07b404deb7c958347d742e6d1d2f3f9
 intent://rikstv-live-scalstrm.telenorcdn.net/live/rikstv/64393bf81dbc891fd41f53ac/manifest.mpd
-
