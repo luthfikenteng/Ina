@@ -4820,7 +4820,7 @@ https://rikstv-live-scalstrm.telenorcdn.net/live/rikstv/644bb6e91dbc891fd422efc9
 https://rikstv-live-scalstrm.telenorcdn.net/live/rikstv/644bb6e91dbc891fd422efef/manifest.mpd
 
 
-#EXTINF:0 tvg-id="PL" tvg-logo="https://i.ibb.co.com/rRZz7ftW/PL" group-title="TEST", vsport2v
+#EXTINF:0 tvg-id="PL" tvg-logo="https://i.ibb.co.com/Jw37K0Pr/XhyP.gif" group-title="TEST", vsport2v
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
