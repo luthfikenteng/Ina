@@ -6,10 +6,10 @@ awalan
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
-https://dokko1new.newkso.ru/dokko1/premium810/mono.m3u8
+#https://dokko1new.newkso.ru/dokko1/premium810/mono.m3u8
 
 #EXTINF:-1 group-title="LIVE EVENT" tvg-id="" tvg-logo="https://i.ibb.co.com/Xph8BGq/live.gif",livoly
-http://xtv.ooo:8080/live/Raza335/3355141450/350997.ts|license_type=com.widevine.alpha&license_key=https://tvkitastream.my.id/rctiplus/drm.php/widevine?id=113&user-agent=NSPlayer/12.00.9651.000
+#http://xtv.ooo:8080/live/Raza335/3355141450/350997.ts|license_type=com.widevine.alpha&license_key=https://tvkitastream.my.id/rctiplus/drm.php/widevine?id=113&user-agent=NSPlayer/12.00.9651.000
 
 
 =======================================
