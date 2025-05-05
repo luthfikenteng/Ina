@@ -546,8 +546,8 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/RCTI-DD/sa_dash/RCTI-DD.mpd|referr
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8LSDx2WG/RCTI.png" group-title="Indonesia",RCTI
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://rcti-cutv.rctiplus.id/rcti-sdi.m3u8
-#https://rcti-plus.triwied-77.workers.dev/play.m3u8?id=rcti
+#https://rcti-cutv.rctiplus.id/rcti-sdi.m3u8
+https://rcti-plus.triwied-77.workers.dev/play.m3u8?id=rcti
 
 =======================================
 
@@ -568,8 +568,8 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/MNCTV-HD/sa_dash/MNCTV-HD.mpd|refe
 #EXTINF:-1 tvg-id="MNCTV HD - [Channel 432].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co.com/F48M3H1r/MNC.png" group-title="Indonesia",MNC TV
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://mnctv-cutv.rctiplus.id/mnctv-sdi.m3u8
-#https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
+#https://mnctv-cutv.rctiplus.id/mnctv-sdi.m3u8
+https://rcti-plus.triwied-77.workers.dev/play.m3u8?id=mnctv
 
 =======================================
 
@@ -683,8 +683,8 @@ http://op-group1-swiftservehd-1.dens.tv/h/h40/index.m3u8?app_type=web&amp;userid
 #EXTINF:-1 group-title="Indonesia" tvg-id="iNews HD - [Channel 433].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co.com/Dfjt4MKN/INEWS.png",INEWS HD
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://inews-cutv.rctiplus.id/inews-sdi.m3u8
-#https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
+#https://inews-cutv.rctiplus.id/inews-sdi.m3u8
+https://rcti-plus.triwied-77.workers.dev/play.m3u8?id=inews
 
 
 #EXTINF:-1 group-title="Indonesia" tvg-id="iNews HD - [Channel 433].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co.com/Dfjt4MKN/INEWS.png",INEWS HD (INDIHOME)
@@ -2809,6 +2809,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:negara/manifest.mpd?id=8
 
 
 free
+
 
 
 ====================================================SPORTS INDO==============
@@ -4993,5 +4994,4 @@ https://rikstv-live-scalstrm.telenorcdn.net/live/rikstv/644bb6e91dbc891fd422efef
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0c6212056d2f51fcbf569f9a1a8517d1:d07b404deb7c958347d742e6d1d2f3f9
 https://rikstv-live-scalstrm.telenorcdn.net/live/rikstv/64393bf81dbc891fd41f53ac/manifest.mpd
-
 
