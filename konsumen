@@ -9,11 +9,11 @@ awalan
 
 
 
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCfERdOLcci58Ij_qjBqcALH5J553RxIIxYg&usqp=CAU" group-title="🇮🇩 Liga Bri",🔴LIGA BRI 1
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCfERdOLcci58Ij_qjBqcALH5J553RxIIxYg&usqp=CAU" group-title="ðŸ‡®ðŸ‡© Liga Bri",ðŸ”´LIGA BRI 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, 
 
 
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCfERdOLcci58Ij_qjBqcALH5J553RxIIxYg&usqp=CAU" group-title="🇮🇩 Liga Bri",LIGA BRI 3
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCfERdOLcci58Ij_qjBqcALH5J553RxIIxYg&usqp=CAU" group-title="ðŸ‡®ðŸ‡© Liga Bri",LIGA BRI 3
 #http://filex.tv:8080/live/aftab123/004090/302264.m3u8
 
 
@@ -47,7 +47,7 @@ awalan
 #https://bf.jabflive.cc/live/5004420_hd01.m3u8?txSecret=f31c7e39f3e1c64434e5bf7ac7e89e51&txTime=681877be
 
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/TDg5KV8d/XVo3.gif"" group-title="LIVE EVENT",LIGA BRI 1
-http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2706.ts
+#http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2706.ts
 
 
 =======================================
@@ -60,7 +60,7 @@ http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2706.ts
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_key=https://drm-vision2025.tvrusak1992.workers.dev/?no=114&type=drm
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd|referrer=https://visionplus.id/
+#https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd|referrer=https://visionplus.id/
 #https://terabit.web.id/media.mpd?id=114&type=dash|referrer=https://visionplus.id/
 
 =======================================
@@ -547,6 +547,7 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/RCTI-DD/sa_dash/RCTI-DD.mpd|referr
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://rcti-cutv.rctiplus.id/rcti-sdi.m3u8
+#https://rcti-plus.triwied-77.workers.dev/play.m3u8?id=rcti
 
 =======================================
 
