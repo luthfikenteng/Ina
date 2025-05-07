@@ -1,12 +1,5 @@
 #EXTM3U
 awalan
-#EXTINF:0 tvg-id="SOCCER CHANNEL [115]" tvg-logo="https://i.ibb.co.com/TDg5KV8d/XVo3.gif" group-title="LIVE EVENT",FUTSAL
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://drm-vision2025.tvrusak1992.workers.dev/?no=115&type=drm
-https://terabit.web.id/media.mpd?id=115&type=dash|referrer=https://visionplus.id/
-#https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd|referrer=https://visionplus.id/
 
 
 
@@ -1201,7 +1194,7 @@ https://stream.carubantv.id/hls/1/stream.m3u8?cachebust=9cd08107
 =======================================
 
 #EXTINF:0 tvg-country="ID" tvg-logo="https://i.ibb.co.com/RZvYTpr/AYU.png" group-title="DAERAH",AYU TV
-https://rtmp.tvcctube.com:8443/hls/4yuTVCC.m3u8
+#https://rtmp.tvcctube.com:8443/hls/4yuTVCC.m3u8
 
 =======================================
 
@@ -1499,10 +1492,10 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/Galaxy-HD/sa_dash/Galaxy-HD.mpd|re
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/drmkv.php?id=48&type=drm
-https://terabit.web.id/media.mpd?id=48&type=dash|referrer=https://visionplus.id/
+#https://terabit.web.id/media.mpd?id=48&type=dash|referrer=https://visionplus.id/
 
 
-#EXTINF:0 tvg-logo="https://i.ibb.co.com/93HkxQz4/GALAXY-P.png" group-title="MOVIES",GALAXY PREMIUM 2
+#EXTINF:0 tvg-logo="https://i.ibb.co.com/93HkxQz4/GALAXY-P.png" group-title="MOVIES",GALAXY PREMIUM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1518,12 +1511,12 @@ http://op-group1-swiftservehd-1.dens.tv/h/h219/index.m3u8
 
 =======================================
 
-#EXTINF:-1 tvg-id="tvN Movies HD - [Channel 46].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co.com/6cwkGPk2/TVNM.png" group-title="MOVIES",TvN movies HD
+#EXTINF:-1 tvg-id="tvN Movies HD - [Channel 46].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co.com/6cwkGPk2/TVNM.png" group-title="MOVIES",TvN movies HD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.2025stviptv.workers.dev/?id=46
-#https://terabit.web.id/media.mpd?id=46&type=dash|referrer=https://visionplus.id/
+https://terabit.web.id/media.mpd?id=46&type=dash|referrer=https://visionplus.id/
 
 #EXTINF:-1 tvg-id="tvN Movies HD - [Channel 46].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co.com/6cwkGPk2/TVNM.png" group-title="MOVIES",TvN movies HD
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
