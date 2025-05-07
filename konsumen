@@ -1515,10 +1515,11 @@ http://op-group1-swiftservehd-1.dens.tv/h/h219/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.2025stviptv.workers.dev/?id=46
-https://terabit.web.id/media.mpd?id=46&type=dash|referrer=https://visionplus.id/
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+https://dsgtq5sngxkde.cloudfront.net/live/eds/tvNMovies/sa_dash/tvNMovies.mpd|referrer=https://www.visionplus.id/
 
-#EXTINF:-1 tvg-id="tvN Movies HD - [Channel 46].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co.com/6cwkGPk2/TVNM.png" group-title="MOVIES",TvN movies HD
+
+#EXTINF:-1 tvg-id="tvN Movies HD - [Channel 46].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co.com/6cwkGPk2/TVNM.png" group-title="MOVIES",TvN movies HD 2
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=50c645a10d3e4e4b8a5d7df419dc7566:9c1844243886ee1edc648bcdfdf88b2a
@@ -2824,6 +2825,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:negara/manifest.mpd?id=8
 
 
 free
+
 
 
 ====================================================SPORTS INDO==============
@@ -5008,5 +5010,4 @@ https://rikstv-live-scalstrm.telenorcdn.net/live/rikstv/644bb6e91dbc891fd422efef
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0c6212056d2f51fcbf569f9a1a8517d1:d07b404deb7c958347d742e6d1d2f3f9
 https://rikstv-live-scalstrm.telenorcdn.net/live/rikstv/64393bf81dbc891fd41f53ac/manifest.mpd
-
 
