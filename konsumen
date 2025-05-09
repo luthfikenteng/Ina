@@ -46,8 +46,8 @@ awalan
 #EXTVLCOPT:http-referrer=https://bfpc.jalabf.cc/
 #https://bf.jabflive.cc/live/5004420_hd01.m3u8?txSecret=f31c7e39f3e1c64434e5bf7ac7e89e51&txTime=681877be
 
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/TDg5KV8d/XVo3.gif"" group-title="LIVE EVENT",LIGA BRI 1
-#http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2706.ts
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/tw2VhL0m/BRI.png" group-title="LIVE EVENT",DEWA VS PERSITA
+http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2706.ts
 
 
 =======================================
@@ -2341,6 +2341,8 @@ https://play.accolamedia.id/accola/maleo.stream/playlist.m3u8
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/c20d75deb06f401aa89681a9e5054de7/index.mpd|referrer=https://visionplus.id/
 
 
+
+
 #EXTINF:--1  tvg-logo="https://ia800407.us.archive.org/1/items/music-on-tv/Music%20On%21%20TV.png" group-title="MUSIC", Music ON TV!
 #https://stream01.willfonk.com/live_playlist.m3u8?cid=CS325&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
@@ -2430,6 +2432,9 @@ https://op-group1-swiftservehd-1.dens.tv/h/h16/01.m3u8|referrer=https://dens.tv/
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/8cf72e61626f4361a45c57ce6f2fdad8/index.mpd
 
 
+
+
+
 #EXTINF:-1 tvg-id="Entertainment - [Channel 72].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co.com/4w4R17MJ/ENT.png" group-title="ENTERTAINMENT",ENTERTAINMENT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -2437,6 +2442,13 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/8cf72e61626f4361a45c57ce6f2fdad8/in
 #EXTVLCOPT:http-referrer=https://visionplus.id/
 https://d2tjypxxy769fn.cloudfront.net/out/v1/a90cb773466446b08595007bab12b920/index.mpd
 
+
+#EXTINF:-1 tvg-id="food travel" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co.com/4w4R17MJ/ENT.png" group-title="ENTERTAINMENT",FOOD TRAVEL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+https://dsgtq5sngxkde.cloudfront.net/live/eds/OKTVnow/sa_dash/OKTVnow.mpd|referrer=https://visionplus.id
 
 
 
@@ -2520,6 +2532,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/873c24d3946048f68e459250f1d2fd98/in
 
 
 
+
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2591,8 +2604,12 @@ https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8|user-agent=ExoPlayer/2.19.1 
 #EXTVLCOPT:http-referrer=https://visionplus.id/
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/4e5b2a283adf462c8b6b55b2ef059fac/index.mpd|referer=https://www.visionplus.id/
 
-
-
+#EXTINF:-1 tvg-id="documentary" tvg-name="" tvg-logo="https://i.imgur" group-title="KNOWLEDGE", cgtn documentary
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+https://dsgtq5sngxkde.cloudfront.net/live/eds/CGTN_Doc/sa_dash/CGTN_Doc.mpd|referrer=https://visionplus.id
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/DMAX_-_Logo_2016.svg/1200px-DMAX_-_Logo_2016.svg.png" group-title="KNOWLEDGE",DMAX TV 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -2833,6 +2850,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:negara/manifest.mpd?id=8
 
 
 free
+
 
 
 ====================================================SPORTS INDO==============
@@ -5017,5 +5035,4 @@ https://rikstv-live-scalstrm.telenorcdn.net/live/rikstv/644bb6e91dbc891fd422efef
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0c6212056d2f51fcbf569f9a1a8517d1:d07b404deb7c958347d742e6d1d2f3f9
 https://rikstv-live-scalstrm.telenorcdn.net/live/rikstv/64393bf81dbc891fd41f53ac/manifest.mpd
-
 
