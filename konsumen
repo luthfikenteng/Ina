@@ -47,7 +47,7 @@ awalan
 #https://bf.jabflive.cc/live/5004420_hd01.m3u8?txSecret=f31c7e39f3e1c64434e5bf7ac7e89e51&txTime=681877be
 
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/tw2VhL0m/BRI.png" group-title="LIVE EVENT",PERSIB VS BARITO
-http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2706.ts
+#http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2706.ts
 
 
 =======================================
@@ -779,7 +779,7 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/IDX/sa_dash/IDX.mpd|referrer=https
 
 #EXTINF:-1 group-title="Indonesia" tvg-id="beritasatu" tvg-logo="https://i.ibb.co.com/v6SXYpr3/BERITASATU.png",BERITASATU
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
+#https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
 
 =======================================
 
@@ -790,7 +790,7 @@ https://tvstreamcast.com/indonesiana.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/rKjMcJw9/TVKESEHATAN.png" group-title="Indonesia",TV KESEHATAN
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://5bf7b725107e5.streamlock.net/tvkesehatan/tvkesehatan/playlist.m3u8?checkedby:iptvcat.com
+#https://5bf7b725107e5.streamlock.net/tvkesehatan/tvkesehatan/playlist.m3u8?checkedby:iptvcat.com
 
 =======================================
 
@@ -1079,7 +1079,7 @@ https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=1561&type=dash
 
 #EXTINF:-1 group-title="INDONESIA HD" tvg-id="beritasatu" tvg-logo="https://i.ibb.co.com/v6SXYpr3/BERITASATU.png",BERITASATU HD
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
-https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
+#https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
 
 =======================================
 
