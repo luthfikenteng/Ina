@@ -778,7 +778,7 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/IDX/sa_dash/IDX.mpd|referrer=https
 =======================================
 
 #EXTINF:-1 group-title="Indonesia" tvg-id="beritasatu" tvg-logo="https://i.ibb.co.com/v6SXYpr3/BERITASATU.png",BERITASATU
-#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
 https://raw.githubusercontent.com/AFDigitalTV/Channel/refs/heads/main/PL/berita1.m3u8
 
 =======================================
@@ -2997,7 +2997,7 @@ https://terabit.web.id/media.mpd?id=112&type=dash|referrer=https://visionplus.id
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=113
+#KODIPROP:inputstream.adaptive.license_key=https://colloriptvpro.my.id/vis/sc1.php?id=113
 #https://terabit.web.id/media.mpd?id=113&type=dash|referrer=https://visionplus.id/
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
 
