@@ -44,10 +44,10 @@ awalan
 #EXTINF:-1 group-title="LIVE EVENT" tvg-id="" tvg-logo="https://i.ibb.co.com/tw2VhL0m/BRI.png",PERSIJA VS BALI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bfpc.jalabf.cc/
-https://bf.jabflive.cc/live/5004429_hd01.m3u8?txSecret=54f9a21caeb36f1f866a0c1812224e1f&txTime=681f4fed
+#https://bf.jabflive.cc/live/5004429_hd01.m3u8?txSecret=54f9a21caeb36f1f866a0c1812224e1f&txTime=681f4fed
 
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/tw2VhL0m/BRI.png" group-title="LIVE EVENT",INDOSIAR
-http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2706.ts
+#http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2706.ts
 
 
 =======================================
@@ -2870,6 +2870,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:negara/manifest.mpd?id=8
 free
 
 
+
 ====================================================SPORTS INDO==============
 =======================================
 
@@ -5052,5 +5053,4 @@ https://rikstv-live-scalstrm.telenorcdn.net/live/rikstv/644bb6e91dbc891fd422efef
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0c6212056d2f51fcbf569f9a1a8517d1:d07b404deb7c958347d742e6d1d2f3f9
 https://rikstv-live-scalstrm.telenorcdn.net/live/rikstv/64393bf81dbc891fd41f53ac/manifest.mpd
-
 
