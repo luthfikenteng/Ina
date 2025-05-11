@@ -41,13 +41,17 @@ awalan
 #EXTVLCOPT:http-referrer=https://ben.quietlywheat23.shop/
 #https://fhlsport121.fhs36f7.xyz/token-cBR9n7PCKfGG5GN6wfY6mm6AlJqE0HjjaS34x6IdEmT14ubIHUFdDowuqhFJXEVJBCeIxTNhkA%3D%3Da/cfall/s2001/v3b/562o3sn0nUE0pQbiY3AaYKEmqwphZ3umqT0ho25y/super/3x_600779.m3u
 
-#EXTINF:-1 group-title="LIVE EVENT" tvg-id="" tvg-logo="https://i.ibb.co.com/tw2VhL0m/BRI.png",PERSIJA VS BALI
+#EXTINF:-1 group-title="LIVE EVENT" tvg-id="" tvg-logo="https://i.ibb.co.com/TDg5KV8d/XVo3.gif",VOLI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bfpc.jalabf.cc/
-#https://bf.jabflive.cc/live/5004429_hd01.m3u8?txSecret=54f9a21caeb36f1f866a0c1812224e1f&txTime=681f4fed
+https://bf.jabflive.cc/live/5004432_hd01.m3u8?txSecret=d7dc8a4f4ac56e1f33e3a467b34d7e02&txTime=6820749e
+
 
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/tw2VhL0m/BRI.png" group-title="LIVE EVENT",INDOSIAR
 http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2706.ts
+
+
+
 
 
 =======================================
