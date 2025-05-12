@@ -1771,20 +1771,25 @@ https://mifntechnology.github.io/siaranMy/channels/DuniaSinema/index.m3u8
 
 =======================================
 
-#EXTINF:-1 tvg-id="etv1" tvg-logo="" group-title="MOVIES",ETV BIOSKOP 01
-http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/298526
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ETV-Bioskop-1.png" group-title="MOVIES",eTvBioskop1
+https://WahyuIPTV.short.gy/ETVBioskop1.ts
 
 
-#EXTINF:-1 tvg-id="etv2" tvg-logo="" group-title="MOVIES",ETV BIOSKOP 02
-http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/298513
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ETV-Bioskop-2.png" group-title="MOVIES",eTvBioskop2
+https://WahyuIPTV.short.gy/ETVBioskop2.ts
 
 
-#EXTINF:-1 tvg-id="etv3" tvg-logo="" group-title="MOVIES",ETV BIOSKOP 03
-http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/298514
 
 
-#EXTINF:-1 tvg-id="etv4" tvg-logo="" group-title="MOVIES",ETV BIOSKOP 04
-http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/298529
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ETV-Bioskop-3.png" group-title="MOVIES", eTvBioskop3
+https://WahyuIPTV.short.gy/ETVBioskop3.ts
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ETV-Bioskop-4.png" group-title="MOVIES", eTvBioskop4
+https://WahyuIPTV.short.gy/ETVBioskop4.ts
+
 
 =======================================
 <======= Kids Channels ========>
@@ -3529,7 +3534,7 @@ https://uselector.cdn.intigral-ott.net/SPZ/SPZ.isml/manifest.mpd
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=47c03f29f04747d2a298c0ad63f3b2c1:8b48b2cb2743b91d5f20cf2622067f3a
-https://atemecdnbalancer-voe.sysln.id/live/eds/EUROSPORTHD/mpd/EUROSPORTHD.mpd
+#https://atemecdnbalancer-voe.sysln.id/live/eds/EUROSPORTHD/mpd/EUROSPORTHD.mpd
 
 =======================================
 
