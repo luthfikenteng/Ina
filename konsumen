@@ -51,7 +51,7 @@ https://hotlivezz179026907.akainu.xyz/Il-iluS0kiiUu-npPavkIw/Fv2lucGIbhPi2caWYvF
 #EXTINF:-1 group-title="LIVE EVENT" tvg-id="" tvg-logo="https://i.ibb.co.com/TDg5KV8d/XVo3.gif", LIGA BRI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bfpc.jalabf.cc/
-https://bf.jabflive.cc/live/322698_hd01.m3u8?txSecret=024d5f60eb0f221b0a438b56d0e0bbaa&txTime=68272902
+https://bf.jabflive.cc/live/5004420_hd01.m3u8?txSecret=b64455dad63417d4f074a0da8ee28901&txTime=6826fa64
 
 
 
@@ -1494,7 +1494,7 @@ https://terabit.web.id/media.mpd?id=49&type=dash|referrer=https://visionplus.id/
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#https://dsgtq5sngxkde.cloudfront.net/live/eds/Galaxy-HD/sa_dash/Galaxy-HD.mpd|referrer=https://www.visionplus.id/
+http://202.147.193.244/live/eds/Galaxy-HD/sa_dash/Galaxy-HD.mpd|referrer=https://visionplus.id
 
 =======================================
  
@@ -1511,7 +1511,7 @@ https://terabit.web.id/media.mpd?id=48&type=dash|referrer=https://visionplus.id/
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#https://dsgtq5sngxkde.cloudfront.net/live/eds/GalaxyPremium-HD/sa_dash/GalaxyPremium-HD.mpd|https://visionplus.id
+http://202.147.193.244/live/eds/GalaxyPremium-HD/sa_dash/GalaxyPremium-HD.mpd|https://visionplus.id
 
 =======================================
 
@@ -2923,6 +2923,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:negara/manifest.mpd?id=8
 
 
 free
+
 
 
 ====================================================SPORTS INDO==============
@@ -5107,5 +5108,4 @@ https://rikstv-live-scalstrm.telenorcdn.net/live/rikstv/644bb6e91dbc891fd422efef
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0c6212056d2f51fcbf569f9a1a8517d1:d07b404deb7c958347d742e6d1d2f3f9
 https://rikstv-live-scalstrm.telenorcdn.net/live/rikstv/64393bf81dbc891fd41f53ac/manifest.mpd
-
 
