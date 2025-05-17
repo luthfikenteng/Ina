@@ -51,12 +51,13 @@ awalan
 #EXTINF:-1 group-title="LIVE EVENT" tvg-id="" tvg-logo="https://i.ibb.co.com/TDg5KV8d/XVo3.gif", LIGA BRI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bfpc.jalabf.cc/
-https://bf.jabflive.cc/live/322715_hd01.m3u8?txSecret=e54454d90d24d9cfcf55c7971422704d&txTime=682847c2
+https://bf.jabflive.cc/live/5004240_hd01.m3u8?txSecret=336a7f22efd8cce530f37bff1340a515&txTime=68287416
 
 #EXTINF:-1 group-title="LIVE EVENT" tvg-id="" tvg-logo="https://i.ibb.co.com/TDg5KV8d/XVo3.gif", LIGA BRI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bfpc.jalabf.cc/
-https://bf.jabflive.cc/live/5004449_hd01.m3u8?txSecret=5675e5f30b345f29b4a36080d753574b&txTime=6828484a
+https://bf.jabflive.cc/live/322673_hd01.m3u8?txSecret=fe631bc71b56090d6a32526e4bcc3f63&txTime=6828745c
+
 
 
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/tw2VhL0m/BRI.png" group-title="LIVE EVENT",INDOSIAR
