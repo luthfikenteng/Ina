@@ -1,5 +1,82 @@
 #EXTM3U
 awalan
+
+#EXTINF:-1 group-title="LIVE EVENT"" tvg-id="" tvg-logo="https://i.ibb.co.com/Xph8BGq/live.gif",bwf
+#EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
+#https://hotlivezz179026907.akainu.xyz/qdwx6QCMpAVYDrrQaooj8g/Fv2lucGIbhPi2caWYvF5Lg/1745999403000/live/may24/chunklist.m3u8
+
+#EXTINF:-1 group-title="LIVE EVENT"" tvg-id="" tvg-logo="https://i.ibb.co.com/Xph8BGq/live.gif",bwf 2
+#EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
+#https://hotlivezz179026907.akainu.xyz/Il-iluS0kiiUu-npPavkIw/Fv2lucGIbhPi2caWYvF5Lg/1745999403001/live/may25/chunklist.m3u8
+
+
+
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/tw2VhL0m/BRI.png" group-title="LIVE EVENT",LIGA BRI 2
+#https://link.zozotv.xyz:443/live/vip_3klp0es8/wg3piwEs/2706.ts
+
+
+
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCfERdOLcci58Ij_qjBqcALH5J553RxIIxYg&usqp=CAU" group-title="ðŸ‡®ðŸ‡© Liga Bri",ðŸ”´LIGA BRI 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, 
+
+
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCfERdOLcci58Ij_qjBqcALH5J553RxIIxYg&usqp=CAU" group-title="ðŸ‡®ðŸ‡© Liga Bri",LIGA BRI 3
+#http://filex.tv:8080/live/aftab123/004090/302264.m3u8
+
+
+
+#EXTINF:-1 group-title="LIVE EVENT" tvg-id="" tvg-logo="https://i.ibb.co.com/TDg5KV8d/XVo3.gif",PIALA SUDIRMAN
+#EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
+#https://hotlivezz179026907.akainu.xyz/qdwx6QCMpAVYDrrQaooj8g/Fv2lucGIbhPi2caWYvF5Lg/1745999403000/live/may24/chunklist.m3u8
+
+
+
+#EXTINF:-1 group-title="LIVE EVENT" tvg-id="" tvg-logo="https://i.ibb.co.com/Xph8BGq/live.gif", TV2 Sport Denmark
+#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-origin=https://xextreamplay.xyz
+#https://dokko1new.newkso.ru/dokko1/premium810/mono.m3u8
+
+#EXTINF:-1 group-title="LIVE EVENT" tvg-id="" tvg-logo="https://i.ibb.co.com/TDg5KV8d/XVo3.gif",VOLI
+#EXTVLCOPT:http-referrer=https://morgan.h3eaulperhapsfuzkhurried.shop/
+#https://fhlsport121.fhs36f7.xyz/token-cEEqyLTCIf%2BG6md6kPY6nz6LlJuGgSjjaXT8x6YYGTn6t%2BTMHUFdDowuqBFIXU1JBCeIxTNhkA%3D%3Da/cfall/s2001/v3b/9spooqn8nUE0pQbiY3EmAmphZ3umqT0ho25y/super/3x_600648.m3u8
+#http://xtv.ooo:8080/live/Raza335/3355141450/350997.ts|license_type=com.widevine.alpha&license_key=https://tvkitastream.my.id/rctiplus/drm.php/widevine?id=113&user-agent=NSPlayer/12.00.9651.000
+
+
+#EXTINF:-1 group-title="LIVE EVENT" tvg-id="" tvg-logo="https://i.ibb.co.com/TDg5KV8d/XVo3.gif",voly
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://ben.quietlywheat23.shop/
+#https://fhlsport121.fhs36f7.xyz/token-cBR9n7PCKfGG5GN6wfY6mm6AlJqE0HjjaS34x6IdEmT14ubIHUFdDowuqhFJXEVJBCeIxTNhkA%3D%3Da/cfall/s2001/v3b/562o3sn0nUE0pQbiY3AaYKEmqwphZ3umqT0ho25y/super/3x_600779.m3u
+
+#EXTINF:-1 group-title="LIVE EVENT" tvg-id="" tvg-logo="https://i.ibb.co.com/TDg5KV8d/XVo3.gif", LIGA BRI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://bfpc.jalabf.cc/
+#https://bf.jabflive.cc/live/5004240_hd01.m3u8?txSecret=336a7f22efd8cce530f37bff1340a515&txTime=68287416
+
+#EXTINF:-1 group-title="LIVE EVENT" tvg-id="" tvg-logo="https://i.ibb.co.com/TDg5KV8d/XVo3.gif", LIGA BRI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://bfpc.jalabf.cc/
+https://bf.jabflive.cc/live/5004429_hd01.m3u8?txSecret=94022019c0079cf70eee878a772791b4&txTime=6829d0f1
+
+
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/tw2VhL0m/BRI.png" group-title="LIVE EVENT",INDOSIAR
+#http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2706.ts
+
+
+
+=======================================
+================LIGA BRI================
+=======================================
+
+#EXTINF:-1 tvg-id="SPORTSTARS 3" group-title="LIVE EVENT"  tvg-logo="https://i.ibb.co.com/tw2VhL0m/BRI.png", BRI LIGA 1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=114
+#https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd|referrer=https://visionplus.id/
+#https://terabit.web.id/media.mpd?id=114&type=dash|referrer=https://visionplus.id/
+
 =======================================
 ==============LIGA INGGRIS=============
 =======================================
