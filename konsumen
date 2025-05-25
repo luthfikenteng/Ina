@@ -2,6 +2,9 @@
 awalan
 
 
+
+
+
 ==================================================Indonesia=Channels==================================================
 
 #EXTINF:-1 tvg-id="GTV HD - [Channel 3].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co.com/39DJnjwt/GTV.png" group-title="Indonesia", GTV HD
@@ -2540,7 +2543,7 @@ https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=9353&type=dash
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://kingtvpremium.my.id/play/pision/drm.php?id=115
-https://terabit.web.id/media.mpd?id=115&type=dash|referrer=https://visionplus.id/
+#https://terabit.web.id/media.mpd?id=115&type=dash|referrer=https://visionplus.id/
 #https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd|referrer=https://visionplus.id/
 
 =======================================
@@ -2549,7 +2552,7 @@ https://terabit.web.id/media.mpd?id=115&type=dash|referrer=https://visionplus.id
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://kingtvpremium.my.id/play/pision/drm.php?id=112
-https://terabit.web.id/media.mpd?id=112&type=dash|referrer=https://visionplus.id/
+#https://terabit.web.id/media.mpd?id=112&type=dash|referrer=https://visionplus.id/
 #https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd|referrer=https://visionplus.id/
 
 =======================================
@@ -2559,7 +2562,7 @@ https://terabit.web.id/media.mpd?id=112&type=dash|referrer=https://visionplus.id
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://kingtvpremium.my.id/play/pision/drm.php?id=113
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
+#https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
 
 
 
@@ -2568,7 +2571,7 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/in
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://kingtvpremium.my.id/play/pision/drm.php?id=113
-https://terabit.web.id/media.mpd?id=113&type=dash|referrer=https://visionplus.id/
+#https://terabit.web.id/media.mpd?id=113&type=dash|referrer=https://visionplus.id/
 
 =======================================
 
@@ -2578,7 +2581,7 @@ https://terabit.web.id/media.mpd?id=113&type=dash|referrer=https://visionplus.id
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_key=https://kingtvpremium.my.id/play/pision/drm.php?id=114
-https://terabit.web.id/media.mpd?id=114&type=dash|referrer=https://visionplus.id/
+#https://terabit.web.id/media.mpd?id=114&type=dash|referrer=https://visionplus.id/
 
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -2587,7 +2590,7 @@ https://terabit.web.id/media.mpd?id=114&type=dash|referrer=https://visionplus.id
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_key=https://kingtvpremium.my.id/play/pision/drm.php?id=114
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd|referrer=https://visionplus.id/
+#https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd|referrer=https://visionplus.id/
 #https://terabit.web.id/media.mpd?id=114&type=dash|referrer=https://visionplus.id/
 
 =======================================
@@ -2616,7 +2619,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/in
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://kingtvpremium.my.id/play/pision/drm.php?id=120
-https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd|referrer=https://visionplus.id/
+#https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd|referrer=https://visionplus.id/
 
 =======================================
 
@@ -2641,7 +2644,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://kingtvpremium.my.id/play/pision/drm.php?id=121
-https://terabit.web.id/media.mpd?id=121&type=dash|referrer=https://visionplus.id/
+#https://terabit.web.id/media.mpd?id=121&type=dash|referrer=https://visionplus.id/
 
 =======================================
 
@@ -2694,6 +2697,46 @@ https://tataplay.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8
 #EXTINF:-1 tvg-id="Sony ten 5" tvg-logo="https://i.ibb.co.com/d0nnZW7n/SONY5.png" group-title="SPORTS", SONY TEN 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
+
+=======================================
+
+#EXTINF:0 tvg-id="TNT 1" tvg-logo="https://i.ibb.co.com/2382dG2H/TNT1.png" group-title="SPORTS",TNT SPORTS 1 FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d
+#https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
+
+=======================================
+
+#EXTINF:0 tvg-id="TNT 2" tvg-logo="https://i.ibb.co.com/2J5ns1Z/TNT2.png" group-title="SPORTS",TNT SPORTS 2 FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6d1708b185c6c4d7b37600520c7cc93c:1aace05f58d8edef9697fd52cb09f441
+#https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
+
+=======================================
+
+#EXTINF:0 tvg-id="TNT 3" tvg-logo="https://i.ibb.co.com/k6yYpgbQ/TNT3.png" group-title="SPORTS",TNT SPORTS 3 FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4e993aa8c1f295f8b94e8e9e6f6d0bfe:86a1ed6e96caab8eb1009fe530d2cf4f
+#https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
+ 
+=======================================
+
+#EXTINF:0 tvg-id="TNT 4" tvg-logo="https://i.ibb.co.com/rKVqGRhm/TNT4.png" group-title="SPORTS",TNT SPORTS 4 FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e31a5a81caff5d07ea2411a571fc2e59:96c5ef69479732ae734f962748c19729
+#https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
 
 =======================================
 
