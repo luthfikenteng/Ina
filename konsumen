@@ -5,7 +5,12 @@ awalan
 https://zozotv.xyz:443/live/Hadi9399/abc12345/475.ts
 
 
-
+#EXTINF:-1 tvg-id="GP" tvg-logo="https://i.ibb.co.com/TDg5KV8d/XVo3.gif" group-title="LIVE EVENT",MOTOGT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=17140&type=drm
+https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=17140&type=dash
 
 
 ==================================================Indonesia=Channels==================================================
