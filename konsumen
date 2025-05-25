@@ -13,6 +13,15 @@ https://zozotv.xyz:443/live/Hadi9399/abc12345/475.ts
 https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=17140&type=dash
 
 
+#EXTINF:0 tvg-id="TNT 2" tvg-logo="https://i.ibb.co.com/TDg5KV8d/XVo3.gif" group-title="LIVE EVENT",MOTOGP 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6d1708b185c6c4d7b37600520c7cc93c:1aace05f58d8edef9697fd52cb09f441
+https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
+
+
 ==================================================Indonesia=Channels==================================================
 
 #EXTINF:-1 tvg-id="GTV HD - [Channel 3].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co.com/39DJnjwt/GTV.png" group-title="Indonesia", GTV HD
