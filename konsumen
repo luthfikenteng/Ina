@@ -4,6 +4,10 @@ awalan
 #EXTINF:-1 group-title="LIVE EVENT" tvg-id="" tvg-logo="https://i.ibb.co.com/TDg5KV8d/XVo3.gif",VOLI
 https://zozotv.xyz:443/live/Hadi9399/abc12345/475.ts
 
+
+
+
+
 ==================================================Indonesia=Channels==================================================
 
 #EXTINF:-1 tvg-id="GTV HD - [Channel 3].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co.com/39DJnjwt/GTV.png" group-title="Indonesia", GTV HD
@@ -985,7 +989,6 @@ https://op-group1-swiftservesd-1.dens.tv/s/s31/01.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://kingtvpremium.my.id/play/pision/drm.php?id=49
 https://terabit.web.id/media.mpd?id=49&type=dash|referrer=https://visionplus.id/
 
-#https://d84q7nw4qf3j3.cloudfront.net/out/v1/c20d75deb06f401aa89681a9e5054de7/index.mpd|license_type=com.widevine.alpha&license_key=https://kingtvpremium.my.id/play/pision/drm.php?id=142&user-agent=ExoPlayer/2.19.1 (Linux; Android 15) Media3/1.6.0&referrer=https://visionplus.id/
 
 
 #EXTINF:0 tvg-logo="https://i.ibb.co.com/TBf1qfxj/GALAXY.png" group-title="MOVIES",GALAXY
@@ -2610,7 +2613,6 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/in
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://kingtvpremium.my.id/play/pision/drm.php?id=119
-https://terabit.web.id/media.mpd?id=119&type=dash|referrer=https://visionplus.id/
 #https://d3b0v7fggu5zwm.cloudfront.net/out/v1/b4814ae93ca84dd3bb5b0aff76ca263f/index.mpd|referrer=https://visionplus.id/
 
 =======================================
@@ -2620,8 +2622,7 @@ https://terabit.web.id/media.mpd?id=119&type=dash|referrer=https://visionplus.id
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://kingtvpremium.my.id/play/pision/drm.php?id=120
-https://terabit.web.id/media.mpd?id=120&type=dash|referrer=https://visionplus.id/
-#https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd|referrer=https://visionplus.id/
+https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd|referrer=https://visionplus.id/
 
 =======================================
 
