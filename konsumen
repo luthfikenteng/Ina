@@ -5,18 +5,6 @@ awalan
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8
 
 
-#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://i.ibb.co.com/Xph8BGq/live.gif",bwf court 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://ecfc3cde48e2bb818cde2ffa8262e58d.v.smtcdns.net/play.cbalive.weibisai.com/live/3910950559071061_AiHD.m3u8?txSecret=20363a53983e704a3b301d54857a9315&txTime=6837A380
-
-#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://i.ibb.co.com/Xph8BGq/live.gif",bwf court 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://ecfc3cde48e2bb818cde2ffa8262e58d.v.smtcdns.net/play.cbalive.weibisai.com/live/3910951060393061_AiHD.m3u8?txSecret=a13c91d394e5635f9940e26c52d292f6&txTime=6837A380
-
-
-#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://i.ibb.co.com/Xph8BGq/live.gif",bwf court 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://aae3e8111b7e62fa97499a11d53fc80a.v.smtcdns.net/play.cbalive.weibisai.com/live/3910951237486061_AiHD.m3u8?txSecret=5c48ba3ef5dc2405db3213c42056b3b8&txTime=6837A380
 
 
 
