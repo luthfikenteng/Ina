@@ -1,6 +1,10 @@
 #EXTM3U
 awalan
 
+#EXTINF:-1 tvg-id="MUTV.uk" tvg-logo="https://i.ibb.co.com/27H8r2d9/MUTV.png" group-title="LIVE EVENT",MU VS Hongkonh
+https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8
+
+
 
 #EXTINF:-1 group-title="🏆BADMINTON🏆" tvg-id="" tvg-logo="https://i.ibb.co.com/Xph8BGq/live.gif",bwf
 #EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
