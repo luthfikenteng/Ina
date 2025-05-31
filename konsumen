@@ -25,7 +25,7 @@ https://av-ch-cdn.mncnow.id/live/eds/GTV-HD/sa_dash/GTV-HD.mpd|referrer=https://
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/39DJnjwt/GTV.png" group-title="Indonesia", GTV
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://gtv-cutv.rctiplus.id/gtv-sdi.m3u8
+#https://gtv-cutv.rctiplus.id/gtv-sdi.m3u8
 #https://janda-tua.gr4tisan.workers.dev/index.m3u8?id=gtv
 
 =======================================
@@ -47,7 +47,7 @@ https://av-ch-cdn.mncnow.id/live/eds/rcti-2/sa_dash/rcti-2.mpd|referrer=https://
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8LSDx2WG/RCTI.png" group-title="Indonesia",RCTI
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://rcti-cutv.rctiplus.id/rcti-sdi.m3u8
+#https://rcti-cutv.rctiplus.id/rcti-sdi.m3u8
 #https://janda-tua.gr4tisan.workers.dev/index.m3u8?id=rcti
 
 =======================================
@@ -69,7 +69,7 @@ https://av-ch-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash/MNCTV-HD.mpd|referrer=http
 #EXTINF:-1 tvg-id="MNCTV HD - [Channel 432].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co.com/F48M3H1r/MNC.png" group-title="Indonesia",MNC TV
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://mnctv-cutv.rctiplus.id/mnctv-sdi.m3u8
+#https://mnctv-cutv.rctiplus.id/mnctv-sdi.m3u8
 #https://janda-tua.gr4tisan.workers.dev/index.m3u8?id=mnctv
 
 =======================================
