@@ -2,22 +2,6 @@
 awalan
 
 
-#EXTINF:0 tvg-logo="https://i.ibb.co.com/prRZnJBs/SS1.png" group-title="LIVE EVENT",Sportstars 1 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://kingtvpremium.my.id/play/pision/drm.php?id=112
-#https://terabit.web.id/media.mpd?id=112&type=dash|referrer=https://visionplus.id/
-#https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd|referrer=https://visionplus.id/
-https://wahyu1ptv.pages.dev/SportStars1-HD.m3u8
-
-=======================================
-
-#EXTINF:0 tvg-logo="https://i.ibb.co.com/DP40bmvB/SS2.png" group-title="LIVE EVENT",Sportstars 2 HD 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=911e72adf36946afbdbb4f80782a8394:08aec548a851ba64b7172ae7f05cb91c
-#EXTVLCOPT:http-referrer=https://visionplus.id/
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
 
 
 
