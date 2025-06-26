@@ -1,7 +1,9 @@
 #EXTM3U
 awalan
 
-
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://i.ibb.co.com/Xph8BGq/live.gif",VNL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://tfmx3gr3uomttgr31hcjtgezdnctwfisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.pro2cdnlive.com/live/channel9/playlist.m3u8?wsSecret=b25b67dae44a25c1d0cd8f3b38dd642e&wsABSTime=1750998182&wsSession=f00c2d0a354790c4f4bf2311-175095498309635&wsIPSercert=f808508e07fa5862e3d69b899b5f57a3&wsiphost=local&wsBindIP=1
 
 
 
