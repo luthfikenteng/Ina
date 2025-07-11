@@ -1425,7 +1425,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/HoreeHD/mpd/HoreeHD.mpd
 
 =======================================
 
-#EXTINF:-1 group-title="KIDS" tvg-logo="",LEO SI PENJAGA ALAM
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co.com/Y4qtdbgy/IMG-20250711-194009.png",LEO SI PENJAGA ALAM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://triwied.serv00.net/live/ytlive.m3u8?id=27QPKuIdr78
 
