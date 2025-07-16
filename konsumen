@@ -5,7 +5,13 @@ awalan
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://01a7debea34b410001e86f430d9634e2.v.smtcdns.net/play.cbalive.weibisai.com/live/3948836270763061_AiHD.m3u8?txSecret=b632306b0549e0423a7002a70afdf033&txTime=687820E0|referrer=https://vida.cleanknow4wniq.sbs/
 
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://i.ibb.co.com/Xph8BGq/live.gif",Japan Open 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://0713546501eefc1afcb0b54d64dcb5b8.v.smtcdns.net/play.cbalive.weibisai.com/live/3948836476342061_AiHD.m3u8?txSecret=609f0e94c65cafb2a41ec5da65e08a1c&txTime=687820E0|referrer=https://vida.cleanknow4wniq.sbs/
 
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://i.ibb.co.com/Xph8BGq/live.gif",Japan Open 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://b188f789c84dcab4371c6e06ad24ca1e.v.smtcdns.net/play.cbalive.weibisai.com/live/3948836660295061_AiHD.m3u8?txSecret=9438a654865f20f9879da329afdb02ea&txTime=687820E0|referrer=https://vida.cleanknow4wniq.sbs/
 
 ==================================================Indonesia=Channels==================================================
 
