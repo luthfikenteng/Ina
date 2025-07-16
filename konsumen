@@ -1,6 +1,9 @@
 #EXTM3U
 awalan
 
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://i.ibb.co.com/Xph8BGq/live.gif",Japan Open 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://01a7debea34b410001e86f430d9634e2.v.smtcdns.net/play.cbalive.weibisai.com/live/3948836270763061_AiHD.m3u8?txSecret=b632306b0549e0423a7002a70afdf033&txTime=687820E0|referrer=https://vida.cleanknow4wniq.sbs/
 
 
 
