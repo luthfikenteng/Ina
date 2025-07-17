@@ -1,6 +1,30 @@
 #EXTM3U
 awalan
 
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://i.ibb.co.com/Xph8BGq/live.gif",JAPAN OPEN 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://wahyu1ptv.pages.dev/AstroBadminton2-HD.m3u8|referrer=https://playerlive.xyz/
+
+
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://i.ibb.co.com/Xph8BGq/live.gif",JAPAN OPEN 2
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=18252
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=18252
+
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://i.ibb.co.com/Xph8BGq/live.gif",JAPAN OPEN 3
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=18249
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=18249
+
+
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://i.ibb.co.com/Xph8BGq/live.gif",JAPAN OPEN 4
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=18250
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=18250
+
 
 ==================================================Indonesia=Channels==================================================
 
