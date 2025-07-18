@@ -5,7 +5,6 @@ awalan
 
 
 
-
 ==================================================Indonesia=Channels==================================================
 
 
@@ -1105,7 +1104,7 @@ http://op-group1-swiftservesd-1.dens.tv/s/s34/index.m3u8
 =======================================
 
 #EXTINF:0 tvg-logo="https://i.ibb.co.com/0yMpwdM1/MYCINEMA.png" group-title="MOVIES",MY CINEMA
-http://op-group1-swiftservehd-1.dens.tv/h/h192/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=My_Cinema_HD|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
+#http://op-group1-swiftservehd-1.dens.tv/h/h192/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=My_Cinema_HD|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
  =======================================
  
 #EXTINF:0 tvg-logo="https://i.ibb.co.com/5Wr11XxS/MCA.png" group-title="MOVIES",MY CINEMA ASIA
@@ -1114,7 +1113,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h193/index.m3u8?app_type=web&amp;useri
 =======================================
  
 #EXTINF:0 tvg-logo="https://i.ibb.co.com/pBHPPRb5/MFC.png" group-title="MOVIES",MY FAMILY
-http://op-group1-swiftservesd-1.dens.tv/h/h194/index.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+#http://op-group1-swiftservesd-1.dens.tv/h/h194/index.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
  
 =======================================
 
@@ -1422,7 +1421,7 @@ https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=6397&type=das
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=7052&type=drm
-https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=7052&type=dash
+#https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=7052&type=dash
 
 =======================================
 
