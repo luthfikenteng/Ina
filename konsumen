@@ -34,6 +34,12 @@ https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=17938&type=da
 #KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=6686&type=drm
 https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=6686&type=dash 
 
+
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://i.ibb.co.com/Xph8BGq/live.gif",VLN 3
+EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
+https://hotlivezz179026907.akainu.xyz/7jPzfNQgFSaOvV-Ai-6-rA/Fv2lucGIbhPi2caWYvF5Lg/1752769382256/live/may10/chunklist.m3u8
+
+
 ==================================================Indonesia=Channels==================================================
 
 
