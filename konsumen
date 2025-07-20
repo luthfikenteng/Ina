@@ -18,6 +18,22 @@ https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/
 https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=17140&type=dash
 
 
+#EXTINF:-1 tvg-id="Champions TV 1.id" tvg-logo="https://i.ibb.co.com/vS9RDyS/CH1.png" group-title="LIVE EVENT",VNL 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=17938&type=drm
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=17938&type=dash
+
+=======================================
+
+#EXTINF:-1 tvg-id="Champions TV 2.id" tvg-logo="https://i.ibb.co.com/j9R3bHJW/CH2.png" group-title="LIVE EVENT",VNL 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=6686&type=drm
+https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=6686&type=dash 
+
 ==================================================Indonesia=Channels==================================================
 
 
