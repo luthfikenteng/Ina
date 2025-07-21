@@ -2,7 +2,7 @@
 awalan
 
 
-#EXTINF:-1 tvg-id="Event" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR-fMsjljHU8E_G3Rrpcgm3ihQmBhkTMmdsr4t-HpgxZeg2ujJb-8W-qQ&s=10" group-title="LIVE EVENT", Filipina vs Indonesia
+#EXTINF:-1 tvg-id="Event" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR-fMsjljHU8E_G3Rrpcgm3ihQmBhkTMmdsr4t-HpgxZeg2ujJb-8W-qQ&s=10" group-title="LIVE EVENT", Indonesia vs Malaysia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
