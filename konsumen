@@ -135,13 +135,9 @@ EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
 #EXTINF:0 tvg-id="BEINSPORTS 3 [122]" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png" group-title="LIVE EVENT",LIGA INGGRIS (FA CUP)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=124
-#https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd|referer=https://www.visionplus.id/
-
-=======================================
-
-
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd|referer=https://www.visionplus.id/
 
 =======================================
 
