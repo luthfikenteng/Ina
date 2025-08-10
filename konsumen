@@ -1,6 +1,13 @@
 #EXTM3U
 awalan
 
+#EXTINF:-1 tvg-id="Champions TV 5.id" tvg-logo="https://i.ibb.co.com/Xph8BGq/live.gif" group-title="LIVE EVENT",Crystal palace vs liverpool
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php?id=9182&type=drm 
+#https://fadhillah.serv00.net/scripts/putanginamo.php/stream.mpd?id=9182&type=dash
+
 #EXTINF:-1 tvg-id="Event" tvg-logo="https://i.ibb.co.com/Xph8BGq/live.gif" group-title="LIVE EVENT", VIETNAM VS INDONESIA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
