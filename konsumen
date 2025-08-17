@@ -180,11 +180,15 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/ind
 #EXTINF:-1 tvg-id="null" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png" group-title="LIVE EVENT",LIGA INGGRIS 1
 http://gjntpkk.leadcool.xyz:80/2731921600/1135460737/376274
 
-#EXTINF:-1 tvg-id="Astro SuperSport 2 HD" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png" group-title="LIVE EVENT",LIGA INGGRIS ASTRO 2
+#EXTINF:-1 tvg-id="Astro HD" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png" group-title="LIVE EVENT",LIGA INGGRIS ASTRO
 https://windnew.newkso.ru/wind/premium124/mono.m3u8|referer=https://pkpakiplay.xyz/&origin=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
-#EXTINF:-1 tvg-id="Astro Supersport 3 HD" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png" group-title="LIVE EVENT",LIGA INGGRIS ASTRO 3
+#EXTINF:-1 tvg-id="Astro PL" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png" group-title="LIVE EVENT",LIGA INGGRIS ASTRO 1
 https://zekonew.newkso.ru/zeko/premium125/mono.m3u8|referer=https://pkpakiplay.xyz/&origin=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+
+
+#EXTINF:-1 tvg-id="Astro PL 2" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png" group-title="LIVE EVENT",LIGA INGGRIS ASTRO 2
+https://zekonew.newkso.ru/zeko/premium126/mono.m3u8|referer=https://pkpakiplay.xyz/&origin=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
 =======================================
 
@@ -3351,12 +3355,14 @@ https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=17140&type=dash
 
 =======================================
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/TJbXzSK/FS.png" group-title="SPORTS INDO",FIGHT SPORTS HD V+
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://kingtvpremium.my.id/play/pision/drm.php?id=121
-#https://terabit.web.id/media.mpd?id=121&type=dash|referrer=https://visionplus.id/
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/TJbXzSK/FS.png" group-title="SPORTS INDO",FIGHT SPORTS V+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=aa00f320f06247dcaf8e3cea1fb07f44:6169dd042bb5e59d709272b614011bbb
+https://d2tjypxxy769fn.cloudfront.net/out/v1/73b7057c72da4615888a11b02a6cbb3c/index.mpd
 
 =======================================
 
