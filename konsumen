@@ -1,6 +1,40 @@
 #EXTM3U
 awalan
 
+#EXTINF:-1 group-title="EVENT 18/AGUSTUS/2025" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", 18:30 WIB Persijap vs Persib
+#EXTVLCOPT:http-origin=https://demo.zplayer.xyz
+#EXTVLCOPT:http-referrer=https://demo.zplayer.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+https://hotlivezz179602324.akainu.xyz/F6LXH75UqjSl8IFdeEYkag/Fv2lucGIbhPi2caWYvF5Lg/1755378612443/live/dungSD/chunklist.m3u8
+
+#EXTINF:-1 group-title="EVENT 18/AGUSTUS/2025" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", 18:30 WIB Persijap vs Persib
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=19354&type=drm
+https://spacetv.my.id/index.mpd?id=19354&type=dash
+
+#EXTINF:-1 group-title="EVENT 18/AGUSTUS/2025" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", 18:30 WIB Persijap vs Persib
+#EXTVLCOPT:http-referrer=https://ppdd02.dtfjinikdinbiframe.shop/
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ppdd02.dtfjinikdinbiframe.shop
+#https://twnx2-cf.boblcfwudz421.com/auth%3D7fdce9823850682a1792adf8263b5583cbfccb79567505a35423909d70657e9bbeefb36c06db30029bd75debd6a7cc432ab47b83a66d242186652f98127ec4738b7f7eb64a521d95bb0b3c4c0fd10d9eee370b2bac691f83e1c9e06453e9d587f55d006074cd0ccc55b65dfd58327323e9643efb61bbadaad6f11ac0ce649c1047051941a561d46edba49fce804c37ab3e344ed31534fcfbed9f906c7eb176230eaed1c103af0b6c4027dce5c0d44b509a62f62ab79539b1b02f993d26215bcaa462de0c646aaa2126817173d2236e348082a73164e047229c921e427370601b6baa5f9c69a3d7ceb8ea250fbb30d2c7c2a3ef5e2cd11aed2e1f1252df618020f0bc39a0317b5471712a6b7e5c0473ac378c79ff70e18010b15ab977b7f757bb%26cid%3D5HBjYeG5-hMGUMV2QnmGQ250808%26_v%3D2%26_r%3Djx3sof%26_vis%3Dcd632e260b061bc0195ea621f86e1dbfeeaab156cf86ec0df45c09016474d972%26_vvs%3D487e73b3a7dd52bfea9b5df67174c47fef262e1aa9e5d3674bf5551844e1034e/transcode/c365385_480p.m3u8
+https://twnx2-cf.boblcfwudz421.com/auth%3D7fdce9823850682a1792adf8263b5583cbfccb79567505a35423909d70657e9bbeefb36c06db30029bd75debd6a7cc432ab47b83a66d242186652f98127ec4738b7f7eb64a521d95bb0b3c4c0fd10d9eee370b2bac691f83e1c9e06453e9d587f55d006074cd0ccc55b65dfd58327323e9643efb61bbadaad6f11ac0ce649c1047051941a561d46edba49fce804c37ab3e344ed31534fcfbed9f906c7eb176230eaed1c103af0b6c4027dce5c0d44b509a62f62ab79539b1b02f993d26215bcaa462de0c646aaa2126817173d2236e348082a73164e047229c921e427370601b6baa5f9c69a3d7ceb8ea250fbb30d2c7c2a3ef5e2cd11aed2e1f1252df618020f0bc39a0317b5471712a6b7e5c0473ac378c79ff70e18010b15ab977b7f757bb%26cid%3D5HBjYeG5-hMGUMV2QnmGQ250808%26_v%3D2%26_r%3Djx3sof%26_vis%3Dcd632e260b061bc0195ea621f86e1dbfeeaab156cf86ec0df45c09016474d972%26_vvs%3D487e73b3a7dd52bfea9b5df67174c47fef262e1aa9e5d3674bf5551844e1034e/transcode/c365385_480p.m3u8
+
+
+#EXTINF:-1 group-title="EVENT 18/AGUSTUS/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVMLy_MRGHl4sdLzEYpmH9MCL81Febx-5PmA&s", 20:30 WIB Indonesia U17 vs Mali U17
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://seprai.jasoncreak8.workers.dev/play?id=19367&type=drm
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+https://seprai.jasoncreak8.workers.dev/play.mpd?id=19367&type=dash
+
+#EXTINF:-1 group-title="EVENT 18/AGUSTUS/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVMLy_MRGHl4sdLzEYpmH9MCL81Febx-5PmA&s", 20:30 WIB Indonesia U17 vs Mali U17
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=19367&type=drm
+https://spacetv.my.id/index.mpd?id=19367&type=dash
+
 #EXTINF:-1 tvg-id="Event" tvg-logo="https://i.ibb.co.com/Xph8BGq/live.gif" group-title="LIVE EVENT", VIETNAM VS INDONESIA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
