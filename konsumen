@@ -1,6 +1,7 @@
 #EXTM3U
 awalan
 
+
 #EXTINF:-1 tvg-id="Event" tvg-logo="https://i.ibb.co.com/Xph8BGq/live.gif" group-title="LIVE EVENT", VIETNAM VS INDONESIA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -553,7 +554,6 @@ https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/
 
 #EXTINF:-1 tvg-id="POKER TV" tvg-logo="https://i.ibb.co.com/39ysdc2K/IMG-20250501-231953.png" group-title="LIVE EVENT",UCL & UEL 8
 https://hls.pokertvfa.live/hls/stream.m3u8
-
 
 
 
@@ -2552,7 +2552,7 @@ https://8fd4e0b07d96480eb52382739cc8acce.mediatailor.us-east-1.amazonaws.com/v1/
 
 =======================================
 
-#EXTINF:-1 group-title="Music" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTe0apztKifh384hR-Rz4HGXC_7xi6cUqTPuA&s", DANCE TV
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTe0apztKifh384hR-Rz4HGXC_7xi6cUqTPuA&s", DANCE TV
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
 https://op-group1-swiftservehd-1.dens.tv/h/h250/02.m3u8
@@ -2665,10 +2665,12 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/TLCHD/mpd/TLCHD.mpd
 
 =======================================
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-#EXTVLCOPT:http-referrer=https://www.indihometv.com
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/b5Gd8FVt/AE.png" group-title="ENTERTAINMENT",ALLPLAY ENT (INDIHOME)
-https://streaming.indihometv.com/atm/DASH/useeprime/manifest.mpd
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn10jtedge.indihometv.com/atm/DASH/useeprime/manifest.mpd
 
 =======================================
 
@@ -2699,11 +2701,13 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/dunialain/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://api-mbed.my.id/wv/play.go/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cf0b533fe73e3/manifest.mpd
+#https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cf0b533fe73e3/manifest.mpd
 
 #EXTINF:-1 tvg-id="Warner TV HD.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://i.ibb.co.com/N631QT8M/WB.png" group-title="ENTERTAINMENT",Warner TV (INDIHOME)
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
-https://streaming.indihometv.com/atm/DASH/warner/manifest.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://cdn10jtedge.indihometv.com/atm/DASH/warner/manifest.mpd
 
 =======================================
 
@@ -2924,20 +2928,6 @@ https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/index_1080-30.m3u8
 
 
-#EXTINF:-1 tvg-id="516.astro" tvg-logo="https://iili.io/JhksIF2.png" group-title="WORLD NEWS",CNBC Asia
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a6de9ad0c51e2673f543b71ac5a54211:533886c95819317d48fd079d78c3d757
-#EXTVLCOPT:http-referrer=https://visionplus.id/
-https://d1abp075u76pbq.cloudfront.net/live/eds/CNBC/sa_dash_vmx/CNBC.mpd
-
-
-#EXTINF:-1 tvg-id="517.astro" tvg-logo="https://iili.io/Jhksfun.png" group-title="WORLD NEWS",Bloomberg
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=272401a5b200375e49a4712cf39f369c:39d7bc2faf1f13b8a2bb106b617e604a
-#EXTVLCOPT:http-referrer=https://visionplus.id/
-https://d1abp075u76pbq.cloudfront.net/live/eds/Bloomberg/sa_dash_vmx/Bloomberg.mpd
-
-
 #EXTINF:-1 tvg-id="EuronewsEnglish.fr" tvg-logo="https://iili.io/JhksR99.png" group-title="WORLD NEWS",Euronews English
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/euronews/euronews-en.m3u8
 #EXTINF:-1 tvg-id="515.astro" tvg-logo="https://iili.io/Jhksx6l.png" group-title="WORLD NEWS",CNA
@@ -2947,18 +2937,18 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m
 
 #EXTINF:-1 tvg-id="TRTWorld.tr" tvg-logo="https://iili.io/Jhks06Q.png" group-title="WORLD NEWS",TRT World
 https://tv-trtworld.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="643.unifi" tvg-logo="https://iili.io/Jhks7wu.png" group-title="WORLD NEWS",NHK World Japan
-https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_1M.m3u8
 
+
+#EXTINF:-1 tvg-id="643.unifi" tvg-logo="https://iili.io/Jhks7wu.png" group-title="WORLD NEWS",NHK World Japan
+#EXTVLCOPT:http-referrer=https://www.firstmedia.com
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a6c3379806174be790f50499c6bdab7c:63bd52ffb27c8bd7cf709747efe44e35
+https://atemeshield1-voe.sysln.id/live/eds/NHKWorldJapanHD/mpd/NHKWorldJapanHD.mpd
 
 #EXTINF:-1 tvg-id="WION" tvg-logo="https://iili.io/JhksEFV.png" group-title="WORLD NEWS",WION
 https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 
-
-
-
-#EXTINF:-1 tvg-id="CN8" tvg-logo="https://iili.io/JmKwNi7.png" group-title="WORLD NEWS",CNBC Africa
-https://5be2f59e715dd.streamlock.net/CNBC/smil:CNBCSandton.smil/playlist.m3u8
 
 
 
@@ -2969,10 +2959,6 @@ https://sabconetanw.cdn.mangomolo.com/news/smil:news.stream.smil/index.m3u8
 
 #EXTINF:-1 tvg-id="PressTV.ir" tvg-logo="https://iili.io/Jhkscnj.png" group-title="WORLD NEWS",Press TV
 https://live.presstv.ir/hls/presstv.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://iili.io/JmK1KwF.png" group-title="WORLD NEWS",teleSUR English
-https://cdnenmain.telesur.ultrabase.net/mblivev3/hd/playlist.m3u8
 
 
 
