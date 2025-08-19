@@ -1,7 +1,6 @@
 #EXTM3U
 awalan
 
-
 #EXTINF:-1 tvg-id="Event" tvg-logo="https://i.ibb.co.com/Xph8BGq/live.gif" group-title="LIVE EVENT", VIETNAM VS INDONESIA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -554,6 +553,7 @@ https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/
 
 #EXTINF:-1 tvg-id="POKER TV" tvg-logo="https://i.ibb.co.com/39ysdc2K/IMG-20250501-231953.png" group-title="LIVE EVENT",UCL & UEL 8
 https://hls.pokertvfa.live/hls/stream.m3u8
+
 
 
 
@@ -2189,7 +2189,7 @@ https://op-group1-swiftservesd-1.dens.tv/s/s28/index.m3u8?app_type=web&amp;useri
 
 #EXTINF:-1 group-title="RELIGI" tvg-id="AlQuranAlKareemTV.sa" tvg-logo="https://i.ibb.co.com/bjKp5VXr/Mekkah.png",Qur'an TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-https://triwied.serv00.net/live/ytlive.m3u8?id=ueIOUTyRS84
+https://triwied.serv00.net/live/ytlive.m3u8?id=7-Qf3g-0xEI
 
 =======================================
 
@@ -2291,13 +2291,13 @@ https://ams.juraganstreaming.com:5443/LiveApp/streams/ashiiltv2.m3u8
 
 =======================================
 
-#EXTINF:-1 group-title="RELIGI" tvg-id="meds" tvg-logo="https://i.ibb.co.com/M287VXV/medstv.png",MEDS TV
+#EXTINF:-1 group-title="RELIGI" tvg-id="meds" tvg-logo="https://i.ibb.co.com/8n5vc3Bb/IMG-20250819-015032.png",MEDS TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://triwied.serv00.net/live/ytlive.m3u8?id=nOzPwl1CTVs
 
 =======================================
 
-#EXTINF:-1 group-title="RELIGI" tvg-id="srb" tvg-logo="https://i.ibb.co.com/KxkB2ny/srb.png",SRB TV
+#EXTINF:-1 group-title="RELIGI" tvg-id="srb" tvg-logo="https://i.ibb.co.com/FbwxKzX0/IMG-20250819-015407.png",SRB TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://triwied.serv00.net/live/ytlive.m3u8?id=bEJFMrKmBb4
 
@@ -2308,25 +2308,25 @@ https://triwied.serv00.net/live/ytlive.m3u8?id=bEJFMrKmBb4
 
 =======================================
 
-#EXTINF:-1 group-title="RELIGI" tvg-id="ld" tvg-logo="https://i.ibb.co.com/SXBvHRcM/Ld.png",LAFADZ DO'A
+#EXTINF:-1 group-title="RELIGI" tvg-id="ld" tvg-logo="https://i.ibb.co.com/fd2536gQ/IMG-20250819-015538.png",LAFADZ DO'A
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-https://triwied.serv00.net/live/ytlive.m3u8?id=_V8k3X0kBJI
+https://triwied.serv00.net/live/ytlive.m3u8?id=lAwbOJVC0dg
 
 =======================================
 
-#EXTINF:-1 group-title="RELIGI" tvg-id="st" tvg-logo="",SEYEGAN TV
+#EXTINF:-1 group-title="RELIGI" tvg-id="st" tvg-logo="https://i.ibb.co.com/43hxX1h/IMG-20250819-015844.png",SEYEGAN TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://triwied.serv00.net/live/ytlive.m3u8?id=gCw9qUZ3Yc4
 
 =======================================
 
-#EXTINF:-1 group-title="RELIGI" tvg-id="niaga" tvg-logo="https://i.ibb.co.com/yBJ6G2L/NiagaTV.png",NIAGA TV
+#EXTINF:-1 group-title="RELIGI" tvg-id="niaga" tvg-logo="https://i.ibb.co.com/gbMpZDg6/IMG-20250819-020030.png",NIAGA TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-https://triwied.serv00.net/live/ytlive.m3u8?id=7X2KGOrivb0
+https://triwied.serv00.net/live/ytlive.m3u8?id=IX7NFvn8ypI
 
 =======================================
 
-#EXTINF:-1 group-title="RELIGI" tvg-id="sjp" tvg-logo="https://i.ibb.co.com/gDgfDLK/sjp.png",SJP
+#EXTINF:-1 group-title="RELIGI" tvg-id="sjp" tvg-logo="https://i.ibb.co.com/4nMKDvd5/IMG-20250819-020130.png",SJP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://triwied.serv00.net/live/ytlive.m3u8?id=TVFLUkY4BWw
 
@@ -2338,13 +2338,13 @@ https://video1.earthcam.com/myearthcam/641f889a7774a38d5fc93dc76c4aeded.flv/play
 
 =======================================
 
-#EXTINF:-1 group-title="RELIGI" tvg-id="marhabantv.id" tvg-logo="https://i.ibb.co.com/jR9mtkh/marhabantv.png",MARHABAN TV
+#EXTINF:-1 group-title="RELIGI" tvg-id="marhabantv.id" tvg-logo="https://i.ibb.co.com/Q3PJCq55/IMG-20250819-020245.png",MARHABAN TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://triwied.serv00.net/live/ytlive.m3u8?id=W-KIaSJbFD0
 
 =======================================
 
-#EXTINF:-1 group-title="RELIGI" tvg-id="khbtv.id" tvg-logo="https://i.ibb.co.com/SVpPHsb/khb.png",KHB TV
+#EXTINF:-1 group-title="RELIGI" tvg-id="khbtv.id" tvg-logo="https://i.ibb.co.com/QyfBh83/IMG-20250819-020511.png",KHB TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://triwied.serv00.net/live/ytlive.m3u8?id=Me04WYTpBOI
 
