@@ -1,7 +1,6 @@
 #EXTM3U
 awalan
 
-
 #EXTINF:-1 tvg-id="Event" tvg-logo="https://i.ibb.co.com/Xph8BGq/live.gif" group-title="LIVE EVENT", VIETNAM VS INDONESIA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -2479,7 +2478,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/MTVLiveHD/mpd/MTVLiveHD.mpd
 #EXTVLCOPT:http-referrer=https://visionplus.id/
 #https://d84q7nw4qf3j3.cloudfront.net/out/v1/dd9cfc9ae76a4f8abbaa89708a915e38/index.mpd|referrer=https://visionplus.id/
 
-#EXTINF:-1 tvg-id="MTV 90s - [Channel 144].id" tvg-logo="https://iili.io/JZIQ7Np.png" group-title="MUSIC",MTV 90s
+#EXTINF:-1 tvg-id="MTV 90s - [Channel 144].id" tvg-logo="https://i.ibb.co.com/ym60s41c/MTV90.png" group-title="MUSIC",MTV 90s
 #EXTVLCOPT:http-referrer=https://www.firstmedia.com
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #EXTVLCOPT:network-caching=1000
@@ -2495,7 +2494,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/MTV90sHD/mpd/MTV90sHD.mpd
 
 =======================================
 
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk3fL2sKk3QFw_aM4ZDLHbEetIr3xTNSwUHg&s", MTV ROCKS
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.ibb.co.com/FbfCWr12/IMG-20250820-083226.png", MTV ROCKS
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/624303598e45140007d765c1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 =======================================
@@ -3369,7 +3368,7 @@ https://play.accolamedia.id/accola/psj.stream/playlist.m3u8
 ================SPORTS================
 =======================================
 
-#EXTINF:-1 tvg-id="bein1uk" tvg-name="BeIN Sports 1 UK" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/BeIN-Sports-Logo.svg/2560px-BeIN-Sports-Logo.svg.png" group-title="SPORTS",BeIN Sports 1 AU
+#EXTINF:-1 tvg-id="bein1uk" tvg-name="BeIN Sports 1 UK" tvg-logo="https://i.ibb.co.com/TM78YHzf/BEIN1.png" group-title="SPORTS",BeIN Sports 1 AU
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
@@ -3379,7 +3378,7 @@ http://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/pwdvd9fm5u/o
 
 =======================================
 
-#EXTINF:-1 tvg-id="bein2uk" tvg-name="BeIN Sports 2 UK" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/BeIN-Sports-Logo.svg/2560px-BeIN-Sports-Logo.svg.png" group-title="SPORTS",BeIN Sports 2 AU
+#EXTINF:-1 tvg-id="bein2uk" tvg-name="BeIN Sports 2 UK" tvg-logo="https://i.ibb.co.com/VYZLb1bv/BEIN2.png" group-title="SPORTS",BeIN Sports 2 AU
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
@@ -3389,7 +3388,7 @@ http://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/6fbnr3ei4b/o
 
 =======================================
 
-#EXTINF:-1 tvg-id="bein3uk" tvg-name="BeIN Sports 3 UK" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/BeIN-Sports-Logo.svg/2560px-BeIN-Sports-Logo.svg.png" group-title="SPORTS",BeIN Sports 3 AU
+#EXTINF:-1 tvg-id="bein3uk" tvg-name="BeIN Sports 3 UK" tvg-logo="https://i.ibb.co.com/1fkSNsNm/BEIN3.png" group-title="SPORTS",BeIN Sports 3 AU
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
@@ -3399,7 +3398,7 @@ http://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/gigxsk0lya/o
 
 =======================================
 
-#EXTINF:-1 tvg-logo="https://images.fubo.tv/station_logos/fubo-sports23_m.png" group-title="SPORTS", FUBO SPORTS
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/B5Z1p7cq/IMG-20250820-082537.png" group-title="SPORTS", FUBO SPORTS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
@@ -3409,7 +3408,7 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uiffe4jhf0/
 
 =======================================
 
-#EXTINF:-1 tvg-id="fubosportsnetwork.us" tvg-name="Fubo Sports Network HD" tvg-logo="http://zamlb.co.uk:80/images/0MiIm5awJBS5Tm7uRVO4_5hOpzcFnqvnB0Gg8d_92qSIb0O6cGQJ1xU3vRDkudUuuKhwY4C8u4uebO302FbjdLIu4QCCVaRFSzqcqMBYKAiU6BZ4WjXpTMlHfPPlW59FFNw8quGSguYpWLW402ud7Q.png" group-title="SPORTS",FUBO SPORTS 2
+#EXTINF:-1 tvg-id="fubosportsnetwork.us" tvg-name="Fubo Sports Network HD" tvg-logo="https://i.ibb.co.com/B5Z1p7cq/IMG-20250820-082537.png" group-title="SPORTS",FUBO SPORTS 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
