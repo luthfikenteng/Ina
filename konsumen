@@ -899,7 +899,8 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #https://rcti-cutv.rctiplus.id/rcti-sdi.m3u8
-https://janda-tua.gr4tisan.workers.dev/index.m3u8?id=rcti
+#https://janda-tua.gr4tisan.workers.dev/index.m3u8?id=rcti
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
 
 =======================================
 
@@ -2313,7 +2314,7 @@ https://triwied.serv00.net/live/ytlive.m3u8?id=bEJFMrKmBb4
 
 #EXTINF:-1 group-title="RELIGI" tvg-id="ld" tvg-logo="https://i.ibb.co.com/fd2536gQ/IMG-20250819-015538.png",LAFADZ DO'A
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-https://triwied.serv00.net/live/ytlive.m3u8?id=lAwbOJVC0dg
+https://triwied.serv00.net/live/ytlive.m3u8?id=od3Z3HTixK8
 
 =======================================
 
@@ -2325,13 +2326,13 @@ https://triwied.serv00.net/live/ytlive.m3u8?id=gCw9qUZ3Yc4
 
 #EXTINF:-1 group-title="RELIGI" tvg-id="niaga" tvg-logo="https://i.ibb.co.com/gbMpZDg6/IMG-20250819-020030.png",NIAGA TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-https://triwied.serv00.net/live/ytlive.m3u8?id=IX7NFvn8ypI
+#https://triwied.serv00.net/live/ytlive.m3u8?id=IX7NFvn8ypI
 
 =======================================
 
 #EXTINF:-1 group-title="RELIGI" tvg-id="sjp" tvg-logo="https://i.ibb.co.com/4nMKDvd5/IMG-20250819-020130.png",SJP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-https://triwied.serv00.net/live/ytlive.m3u8?id=TVFLUkY4BWw
+#https://triwied.serv00.net/live/ytlive.m3u8?id=TVFLUkY4BWw
 
 =======================================
 
