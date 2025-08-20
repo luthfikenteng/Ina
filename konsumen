@@ -883,7 +883,8 @@ https://raw.githubusercontent.com/luthfikenteng/Ina/refs/heads/main/PL/ktv.m3u8
 #EXTINF:-1 tvg-id="GTV HD - [Channel 3].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co.com/39DJnjwt/GTV.png" group-title="INDONESIA HD", GTV HD
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://janda-tua.gr4tisan.workers.dev/index.m3u8?id=gtv
+#https://janda-tua.gr4tisan.workers.dev/index.m3u8?id=gtv
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
 
 =======================================
 
@@ -913,7 +914,8 @@ https://janda-tua.gr4tisan.workers.dev/index.m3u8?id=rcti
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #https://mnctv-cutv.rctiplus.id/mnctv-sdi.m3u8
-https://janda-tua.gr4tisan.workers.dev/index.m3u8?id=mnctv
+#https://janda-tua.gr4tisan.workers.dev/index.m3u8?id=mnctv
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
 
 =======================================
 
@@ -1064,7 +1066,8 @@ http://op-group1-swiftservehd-1.dens.tv/h/h40/index.m3u8?app_type=web&amp;userid
 #EXTINF:-1 group-title="INDONESIA HD" tvg-id="iNews HD - [Channel 433].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co.com/Dfjt4MKN/INEWS.png",INEWS HD
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://janda-tua.gr4tisan.workers.dev/index.m3u8?id=inews
+#https://janda-tua.gr4tisan.workers.dev/index.m3u8?id=inews
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
 
 =======================================
 
