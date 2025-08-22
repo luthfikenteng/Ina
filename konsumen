@@ -124,6 +124,19 @@ EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://i.ibb.co.com/tw2VhL0m/BRI.png", Arema vs Bhayangkara
 #
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ppdd02.dtfjinikdinbiframe.shop/
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-origin=https://ppdd02.dtfjinikdinbiframe.shop
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://i.ibb.co.com/tw2VhL0m/BRI.png", Dewa United vs Persik Kediri
+https://twnx2-cf.boblcfwudz421.com/auth%3D9b399c792a1f05629a41df2187e996d1081e6473cd256316f3e2ca8b8ba6b29378442ec9b3ade9a0484b6b327b39d79876fe39817ce3a5865cfa1d4dc40fa371f2d65c30d39d48e6377559b50532b657d40990737d957b1f33aa416483bf3004c56cb9097014f3d0a17e4dbfe37477def990cdc7c1417ecabb5435687c69f3f10a2308f01a4fb73199c8da2a45fbf1e516d044634a8544a6a5b9839337610af9%26cid%3D5HBjYeG5-hMGUMV2QnmGQ250808%26_v%3D2%26_r%3DrZyAd6%26_vis%3D664914c90afeece50434238b47f07cd2e7ae00b469e4b8299d85bfef2fcb0701%26_vvs%3D6cdecc4f95319d06aaa8dd0a4a7b2f234629e46defa626cdacf8671d3872a389/app/c366138.m3u8
+
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://i.ibb.co.com/tw2VhL0m/BRI.png", Dewa United vs Persik Kediri
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=19354&type=drm
+https://spacetv.my.id/index.mpd?id=19354&type=dash
 
 =======================================
 
