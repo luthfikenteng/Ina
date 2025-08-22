@@ -140,6 +140,34 @@ https://spacetv.my.id/index.mpd?id=19354&type=dash
 
 =======================================
 
+
+
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://storage.allsportdb.com/orig/event/e03b5bd0-7d5e-44aa-8941-3507588b510e", 19:30 WIB Brazil (w) vs Greece Women
+#EXTVLCOPT:http-origin=https://demo.zplayer.xyz
+#EXTVLCOPT:http-referrer=https://demo.zplayer.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+https://hotlivezz179602324.akainu.xyz/mhYgoqpIcZD-Lnh3JALLSw/Fv2lucGIbhPi2caWYvF5Lg/1755006981858/live/cunSD/chunklist.m3u8
+
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://storage.allsportdb.com/orig/event/e03b5bd0-7d5e-44aa-8941-3507588b510e", 19:30 WIB USA (w) vs Slovenia Women
+#EXTVLCOPT:http-origin=https://demo.zplayer.xyz
+#EXTVLCOPT:http-referrer=https://demo.zplayer.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+https://hotlivezz179602324.akainu.xyz/1Rfx3plS3j9twt9esDi3AQ/Fv2lucGIbhPi2caWYvF5Lg/1755706640837/live/daoSD/chunklist.m3u8
+
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://storage.allsportdb.com/orig/event/e03b5bd0-7d5e-44aa-8941-3507588b510e", 20:30 WIB Italy (w) vs Slovakia Women
+#EXTVLCOPT:http-origin=https://demo.zplayer.xyz
+#EXTVLCOPT:http-referrer=https://demo.zplayer.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+https://hotlivezz179602324.akainu.xyz/2ta7-MZCrTNMJiuJ4jUEQg/Fv2lucGIbhPi2caWYvF5Lg/1754674866302/live/oldSD/chunklist.m3u8
+
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://storage.allsportdb.com/orig/event/e03b5bd0-7d5e-44aa-8941-3507588b510e", 20:30 WIB Thailand (w) vs Egypt (w) 
+#EXTVLCOPT:http-origin=https://demo.zplayer.xyz
+#EXTVLCOPT:http-referrer=https://demo.zplayer.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+https://hotlivezz179602324.akainu.xyz/3gWeIx8aX0ENgn_0aObNDQ/Fv2lucGIbhPi2caWYvF5Lg/1755706504511/live/kienSD/chunklist.m3u8
+
+
+
 =======================================
 ==============LIGA INGGRIS=============
 =======================================
@@ -5228,6 +5256,4 @@ https://why.biz.id/Iptv/oxygen.php?id=ebskids
 #EXTINF:-1 tvg-logo="" group-title="TEST",TEST CHANNEL
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
 https://why.biz.id/Iptv/oxygen.php?id=jitv
-
-
 
