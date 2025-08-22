@@ -121,14 +121,18 @@ EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
 ================LIGA BRI================
 =======================================
 
-#EXTINF:-1 tvg-id="SPORTSTARS 3" group-title="LIVE EVENT"  tvg-logo="https://i.ibb.co.com/tw2VhL0m/BRI.png", BRI LIGA 1
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://i.ibb.co.com/tw2VhL0m/BRI.png", Arema vs Bhayangkara
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=114
-#https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd|referrer=https://visionplus.id/
-#https://terabit.web.id/media.mpd?id=114&type=dash|referrer=https://visionplus.id/
+#KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=19354&type=drm
+https://spacetv.my.id/index.mpd?id=19354&type=dash
+
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://i.ibb.co.com/tw2VhL0m/BRI.png", Semen Padang vs PSM
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=19385&type=drm
+https://spacetv.my.id/index.mpd?id=19385&type=dash
+
 
 =======================================
 
