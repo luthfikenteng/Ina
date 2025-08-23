@@ -14,6 +14,12 @@ awalan
 #KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=19354&type=drm
 https://spacetv.my.id/index.mpd?id=19354&type=dash
 
+
+#EXTINF:-1 tvg-id="LIGA INDO" group-title="LIVE EVENT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0TM6Wbes1mPSabldXbtHfUe-teHeFnldfNw&s", Ukraine vs Indonesia
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=19412&type=drm
+https://spacetv.my.id/index.mpd?id=19412&type=dash
 =======================================
 
 #EXTINF:-1 tvg-id="BUNDES LIGA" group-title="LIVE EVENT" tvg-logo="https://i.ibb.co.com/R4McZS45/IMG-20250430-173818.png", 01:30 Bayern MÃ¼nchen vs RB Leipzig
