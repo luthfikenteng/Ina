@@ -23,7 +23,6 @@ https://spacetv.my.id/index.mpd?id=19384&type=dash
 =======================================
 
 #EXTINF:-1 tvg-id="BUNDES LIGA" group-title="LIVE EVENT" tvg-logo="https://i.ibb.co.com/R4McZS45/IMG-20250430-173818.png", 01:30 Bayern MÃ¼nchen vs RB Leipzig
-https://tataplay.slivcdn.com/hls/live/2020434/TEN2HD/master.m3u8
 
 =======================================
 
@@ -31,7 +30,6 @@ https://tataplay.slivcdn.com/hls/live/2020434/TEN2HD/master.m3u8
 #EXTVLCOPT:http-origin=https://demo.zplayer.xyz
 #EXTVLCOPT:http-referrer=https://demo.zplayer.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-https://hotlivezz179602324.akainu.xyz/oehsMU2FjfA9l2p4g75k8Q/Fv2lucGIbhPi2caWYvF5Lg/1755712955646/live/meoSD/chunklist.m3u8
 
 =======================================
 
@@ -41,7 +39,7 @@ https://hotlivezz179602324.akainu.xyz/oehsMU2FjfA9l2p4g75k8Q/Fv2lucGIbhPi2caWYvF
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
+ind
 
 =======================================
 
