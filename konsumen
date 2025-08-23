@@ -10,7 +10,6 @@ awalan
 
 #EXTINF:-1 tvg-id="LIGA INDO" group-title="LIVE EVENT" tvg-logo="https://i.ibb.co.com/tw2VhL0m/BRI.png", Persija Jakarta vs Malut United
 
-#EXTINF:-1 tvg-id="LIGA INDO" group-title="LIVE EVENT" tvg-logo="https://i.ibb.co.com/tw2VhL0m/BRI.png", PSBS Biak vs Persis Solo
 
 =======================================
 
@@ -18,10 +17,16 @@ awalan
 
 =======================================
 
-#EXTINF:-1 tvg-id="LIGA INGGRIS" group-title="LIVE EVENT" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png", 02:00 WIB West Ham United vs Chelsea
-#EXTVLCOPT:http-origin=https://demo.zplayer.xyz
-#EXTVLCOPT:http-referrer=https://demo.zplayer.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="LIGA INGGRIS" group-title="LIVE EVENT" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png", 18:30 WIB Manchester City vs Tottenham Hotspur
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9872e439f21f4a299cab249c6554daa3:0cdfcfe0d0f1fbe100554ce3ef4c4665
+https://moblive.yuppcdn.net/drm1/smil:starsportsselect1drm.smil/manifest.mpd
+
+#EXTINF:-1 tvg-id="LIGA INGGRIS" group-title="LIVE EVENT" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png", 18:30 WIB Manchester City vs Tottenham Hotspur HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
 
 =======================================
 
@@ -31,7 +36,7 @@ awalan
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-ind
+
 
 =======================================
 
@@ -49,6 +54,7 @@ https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1539f043249e413d91906036f305831e:671e24fd8d234c7f38d85055815f902a
 https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
+
 
 =======================================
 ==============LIGA INGGRIS=============
@@ -3053,8 +3059,8 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/fe4d00f07e2f43b789102b84b4d243a9/ind
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=17938&type=drm
-https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=17938&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=6685&type=drm
+https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=6685&type=dash
 
 =======================================
 
