@@ -49,7 +49,7 @@ https://live-atv-cdn.izzigo.tv/1/out/u/dash/SKY-LIVE-EVENT-3-HD/manifest.mpd
 https://live-atv-cdn.izzigo.tv/1/out/u/dash/SKY-LIVE-EVENT-4-HD/manifest.mpd
 
 #EXTINF:-1 tvg-id="BUNDES LIGA" group-title="LIVE EVENT" tvg-logo="https://i.ibb.co.com/R4McZS45/IMG-20250430-173818.png", St. Pauli vs Borussia Dortmund
-https://tataplay.slivcdn.com/hls/live/2020434/TEN2HD/master.m3u8
+#https://tataplay.slivcdn.com/hls/live/2020434/TEN2HD/master.m3u8
 
 =======================================
 
@@ -81,13 +81,13 @@ https://live1.pro2cdnlive.com/live/channel5.flv?wsSecret=67d8abe5b90921f54604785
 #EXTINF:-1 tvg-id="LIGA INGGRIS" group-title="LIVE EVENT" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png" Arsenal vs Leeds United
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9872e439f21f4a299cab249c6554daa3:0cdfcfe0d0f1fbe100554ce3ef4c4665
-https://moblive.yuppcdn.net/drm1/smil:starsportsselect1drm.smil/manifest.mpd
+#https://moblive.yuppcdn.net/drm1/smil:starsportsselect1drm.smil/manifest.mpd
 
 #EXTINF:-1 tvg-id="LIGA INGGRIS" group-title="LIVE EVENT" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png" Arsenal vs Leeds United
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
+#https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
 
 =======================================
 
@@ -104,12 +104,12 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/ind
 #EXTINF:0 tvg-id="LIGA ITALI" tvg-logo="https://i.ibb.co.com/wZ40gYMj/IMG-20250430-174409.png" group-title="LIVE EVENT", Sassuolo vs Napoli
 #EXTVLCOPT:http-referrer=https://iron1.jarvisx.cfd/000/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://iron1.jarvisx.cfd/puk3/usergenrx4t0l8sybkr.m3u8
+#https://iron1.jarvisx.cfd/puk3/usergenrx4t0l8sybkr.m3u8
 
 #EXTINF:0 tvg-id="LIGA ITALI" tvg-logo="https://i.ibb.co.com/wZ40gYMj/IMG-20250430-174409.png" group-title="LIVE EVENT", Sassuolo vs Napoli
 #EXTVLCOPT:http-referrer=https://galandriel1.thobias.cfd/000/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://galandriel1.thobias.cfd/puk4/usergendx42x9qrnd.m3u8
+#https://galandriel1.thobias.cfd/puk4/usergendx42x9qrnd.m3u8
 
 =======================================
 
