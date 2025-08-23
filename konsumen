@@ -3499,36 +3499,36 @@ https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_onesportsplus_hd1.mpd
 
 #EXTINF:-1 tvg-id="ESPN 1.ar" tvg-logo="https://i.ibb.co.com/CtHSL6T/20241123-101150.png" group-title="SPORTS",ESPN
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=cb004fb100bd92f23793562891e3236b:b3e4e74ae2080b137e68bbd0ef8a7e05
-#https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(8757cb0a-3584-40cd-901e-8937c7deba83)/master.mpd
+#KODIPROP:inputstream.adaptive.license_key=0f85a4e1fc5937a827313597d04f8e27:cc1d8219be0130da85e4c4ce73a75abb
+http://garudamadridista.mooo.com:7285/espncol/Content/DASH_DASH_FK/Live/channel(ESPN_HD)/master.mpd
 
 =======================================
 
 #EXTINF:-1 tvg-id="ESPN 2.ar" tvg-logo="https://i.ibb.co.com/qRhgT1D/20241123-095655.png" group-title="SPORTS",ESPN 2
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=a81ee4a694fecd6aa8a682e5024b313c:6d15568e1dab59e7202ae12e71505185
-#https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(62567d5c-295c-4ffd-ac7e-c9749e874884)/master.mpd
+#KODIPROP:inputstream.adaptive.license_key=8d7cb8fbc81cf3eddf8ebb5db5e11282:b7a98812ab8d8974649a6ec420c013e1
+http://garudamadridista.mooo.com:7285/espncol/Content/DASH_DASH_FK/Live/channel(ESPN_2_HD)/master.mpd
 
 =======================================
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Bzhg2XW/20241123-095805.png" group-title="SPORTS" tvg-id="espn.id" ch-number="56" tvg-name="ESPN 3", ESPN 3
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Bzhg2XW/20241123-095805.png" group-title="SPORTS" tvg-id="espn.id" ch-number="56" tvg-name="ESPN", ESPN MX
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=8a60d7889ff126ee1895335e92254f8e:de1b0ce19fa804a1c473eb8ef2d5cf6d
-#https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(a38d1401-ee01-4802-812a-7cb460c9832c)/master.mpd
+#KODIPROP:inputstream.adaptive.license_key=bb43112b7b72e9c287da0ecdec8606a7:29e3d2678107f0ab0b35b6537c734f2a
+https://live-atv-cdn.izzigo.tv/1/out/u/dash/ESPN-HD/manifest.mpd
 
 =======================================
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/0srF95S/20241123-095930.png" group-title="SPORTS" tvg-id="espn.id" ch-number="57" tvg-name="ESPN 4", ESPN 4
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/0srF95S/20241123-095930.png" group-title="SPORTS" tvg-id="espn.id" ch-number="57" tvg-name="ESPN 2 MX", ESPN 2 MX
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=54a2c11085c315ed6ff85c340a86095d:5f0d10cf4a5c7e22e286b7e8cb4e79f4
-#https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(9500bf02-0001-4199-a150-58dc5d692cca)/master.mpd
+#KODIPROP:inputstream.adaptive.license_key=90e2e491c850a49a5ab21bb6fa6b4d24:4d7e33da19b971cef49e35eccdb9de0b
+https://live-atv-cdn.izzigo.tv/1/out/u/dash/ESPN-2-HD/manifest.mpd
 
 =======================================
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/NWVvpdv/20241123-095543.png" group-title="SPORTS" tvg-id="espn.id" ch-number="58" tvg-name="ESPN 5", ESPN 5
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/NWVvpdv/20241123-095543.png" group-title="SPORTS" tvg-id="espn.id" ch-number="58" tvg-name="ESPN 3 MX", ESPN 3 MX
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=4e126297fc7af35c736bdffe98eecaaa:fdb0091cf67d9c596dbfb07cf6f4c8f5
-#https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(80c74968-a2ef-4005-8661-045fe97408a8)/master.mpd
+#KODIPROP:inputstream.adaptive.license_key=0355f64277082b903022985035c498ca:7a8ed20a4958398677e2c9ccd5a53a00
+https://live-atv-cdn.izzigo.tv/1/out/u/dash/ESPN-3-HD/manifest.mpd
 
 =======================================
 
