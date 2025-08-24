@@ -8,37 +8,55 @@ awalan
 ==============LIVE SPORTS==============
 =======================================
 
-#EXTINF:-1 tvg-id="LIGA INDO" group-title="LIVE EVENT" tvg-logo="https://i.ibb.co.com/tw2VhL0m/BRI.png", Persebaya Surabaya vs Bali United
 
 
 =======================================
+===============LIGA INDO===============
+=======================================
 
-#EXTINF:-1 tvg-id="BUNDES LIGA" group-title="LIVE EVENT" tvg-logo="https://i.ibb.co.com/R4McZS45/IMG-20250430-173818.png", Bayer Leverkusen vs TSG Hoffenheim
+#EXTINF:-1 tvg-id="LIGA INDO" group-title="LIVE EVENT" tvg-logo="https://i.ibb.co.com/tw2VhL0m/BRI.png", Persebaya Surabaya vs Bali United
 
-
+=======================================
+=======================================
+==============LIGA INGGRIS=============
 =======================================
 
 #EXTINF:-1 tvg-id="LIGA INGGRIS" group-title="LIVE EVENT" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png", Bournemouth vs Wolverhampton Wanderers
 
 =======================================
+=======================================
+==============LIGA SPANYOL============
+=======================================
 
 #EXTINF:-1 tvg-id="LIGA SPANYOL" group-title="LIVE EVENT" tvg-logo="https://i.ibb.co.com/1JwYR5NV/LALIGA.png", Levante vs Barcelona HD
 
 =======================================
+=======================================
+==============LIGA ITALI================
+=======================================
 
 #EXTINF:0 tvg-id="LIGA ITALI" tvg-logo="https://i.ibb.co.com/wZ40gYMj/IMG-20250430-174409.png" group-title="LIVE EVENT", Milan vs Cremonese
 
+=======================================
+=======================================
+=============LIGA JERMAN==============
+=======================================
 
+#EXTINF:-1 tvg-id="BUNDES LIGA" group-title="LIVE EVENT" tvg-logo="https://i.ibb.co.com/R4McZS45/IMG-20250430-173818.png", Bayer Leverkusen vs TSG Hoffenheim
 
+=======================================
+=======================================
+=============LIGA PRANCIS==============
 =======================================
 
 #EXTINF:-1 tvg-id="LIGA PRANCIS" tvg-logo="https://i.ibb.co.com/wZqyXTQq/IMG-20250430-173924.png" group-title="LIVE EVENT", Nice vs Auxerre
 
-
+=======================================
+=======================================
+===============MOTOGP================
 =======================================
 
 #EXTINF:0 tvg-id="MOTO GP" tvg-logo="https://i.ibb.co.com/TqRf4Xk3/IMG-20250816-175900.png" group-title="LIVE EVENT", MOTOGP
-
 
 =======================================
 ==============LIGA ARAB===============
@@ -3209,6 +3227,15 @@ https://live-atv-cdn.izzigo.tv/5/out/u/dash/SKY-LIVE-EVENT-7-HD/manifest.mpd
 
 =======================================
 
+#EXTINF:-1 tvg-id="FOX SPORTS" tvg-logo="https://i.ibb.co.com/m5DT3Npq/IMG-20250824-104658.png" group-title="SPORTS", FOX SPORTS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2fbdaa3bea0d0323ae011b318d1db716:8726ef7eaf5b9dce15fb6aa9f80bd53f
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oboxe53wyo/out/v1/f7892a9d706d419a846d738fa22ea33e/cenc.mpd
+
+=======================================
+
 #EXTINF:-1 tvg-id="DAZN 1" tvg-logo="https://i.ibb.co.com/v6hpLVP2/DAZN1.png" group-title="SPORTS" , DAZN 1 ES
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -3230,14 +3257,14 @@ https://live-atv-cdn.izzigo.tv/5/out/u/dash/SKY-LIVE-EVENT-7-HD/manifest.mpd
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co.com/6ckcY7zr/USA.png", USA Network 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=333962e3e1383529867a9a0e28a5e5d1:5d3fcbed53749ee622ed0e64f31c1cbf
-https://cfrt.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mpd
+#https://cfrt.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mpd
 
 =======================================
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co.com/XfNRRqf6/NBC.png", NBC Sport Peacock
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0045a118e231f1326bcdb45350b1ceaa:8c13afbfa54ea37a368b8b859021f6e3
-https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(knbc)/master.mpd
+#https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(knbc)/master.mpd
 
 =======================================
 
@@ -3248,18 +3275,26 @@ https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/m
 
 =======================================
 
-#EXTINF:-1 tvg-id="Abu Dhabi Sports Premium 1.ua" tvg-logo="https://i.ibb.co.com/0pHDWZT6/AD.png" group-title="SPORTS",Abu Dhabi Sports Premium 1
+#EXTINF:-1 tvg-id="StarzPlay Sports.ua" tvg-logo="https://i.ibb.co.com/B5Mqn1vG/SP.png" group-title="SPORTS",Starzplay Sports 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=eb5a3a48f3e191a00e3ac1e2d470c491:2c8b7198563527e524d66628c092ef1f
 https://uselector.cdn.intigral-ott.net/ADSP1/ADSP1.isml/manifest.mpd
  =======================================
 
-#EXTINF:-1 tvg-id="Abu Dhabi Sports Premium 2.ua" tvg-logo="https://i.ibb.co.com/0pHDWZT6/AD.png" group-title="SPORTS",Abu Dhabi Sports Premium 2
+#EXTINF:-1 tvg-id="StarzPlay Sports.ua" tvg-logo="https://i.ibb.co.com/B5Mqn1vG/SP.png" group-title="SPORTS",Starzplay Sports 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=efca93272b9d34f5cf9d8598f43be5ea:55e5fe489e9c18f6c979c3126d4bcfed
 https://uselector.cdn.intigral-ott.net/ADSP2/ADSP2.isml/manifest.mpd
 
 =======================================
+
+#EXTINF:-1 tvg-id="StarzPlay Sports.ua" tvg-logo="https://i.ibb.co.com/B5Mqn1vG/SP.png" group-title="SPORTS",Starzplay Sports 3
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=42d7a462640c6748371d39f23e4a18c3:f4bef9f080f4a3a52dd55d5c3b8b81e2
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+https://uselector.cdn.intigral-ott.net/SPZ/SPZ.isml/manifest.mpd
+ =======================================
 
 #EXTINF:-1 group-title="SPORTS" tvg-id="SSC 1" tvg-logo="https://i.ibb.co.com/3YP3Dqhf/SSC1.png",SSC 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.62
@@ -3346,14 +3381,6 @@ http://212.102.60.231/TSN_5/index.m3u8
 
 =======================================
 
-#EXTINF:-1 tvg-id="StarzPlay Sports.ua" tvg-logo="https://i.ibb.co.com/B5Mqn1vG/SP.png" group-title="SPORTS",Starzplay Sports
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=42d7a462640c6748371d39f23e4a18c3:f4bef9f080f4a3a52dd55d5c3b8b81e2
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-https://uselector.cdn.intigral-ott.net/SPZ/SPZ.isml/manifest.mpd
- =======================================
-
 #EXTINF:-1 tvg-id="825.astro" tvg-logo="https://i.ibb.co.com/s92bSkk8/EURO.png" group-title="SPORTS",Eurosport Asia
 
 =======================================
@@ -3412,7 +3439,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/playlist.m3u8?id=4
 =======================================
 
 #EXTINF:-1 tvg-id="MUTV.uk" tvg-logo="https://i.ibb.co.com/27H8r2d9/MUTV.png" group-title="SPORTS",MUTV |🏴󠁧󠁢󠁥󠁮󠁧󠁿|
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/153729.m3u8
+http://cord-cutter.net:8080/hq3y4G/234247/53717
 
 =======================================
 
