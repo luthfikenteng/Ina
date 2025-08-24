@@ -48,19 +48,7 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/
 =======================================
 
 #EXTINF:-1 tvg-id="LIGA SPANYOL" group-title="LIVE EVENT" tvg-logo="https://i.ibb.co.com/1JwYR5NV/LALIGA.png", Osasuna vs Valencia
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
 
-#EXTINF:-1 tvg-id="LIGA SPANYOL" group-title="LIVE EVENT" tvg-logo="https://i.ibb.co.com/1JwYR5NV/LALIGA.png", Osasuna vs Valencia FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c88dc6c668cac3b468d4a4c7e176ff3d:1aeb739de2c14ed0ad658ca8043208d8
-https://live-atv-cdn.izzigo.tv/2/out/u/dash/SKY-SPORTS-16-HD/default.mpd
 
 #EXTINF:-1 tvg-id="LIGA SPANYOL" group-title="LIVE EVENT" tvg-logo="https://i.ibb.co.com/1JwYR5NV/LALIGA.png", 00:30 WIB Real Sociedad vs Espanyol
 #KODIPROP:inputstreamaddon=inputstream.adaptive
