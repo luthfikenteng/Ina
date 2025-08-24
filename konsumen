@@ -29,18 +29,7 @@ awalan
 
 #EXTINF:-1 tvg-id="LIGA INGGRIS" group-title="LIVE EVENT" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png", Fulham vs Manchester United
 
-#EXTINF:-1 tvg-id="LIGA INGGRIS" group-title="LIVE EVENT" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png", Fulham vs Manchester United
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9872e439f21f4a299cab249c6554daa3:0cdfcfe0d0f1fbe100554ce3ef4c4665
-https://moblive.yuppcdn.net/drm1/smil:starsportsselect1drm.smil/manifest.mpd
 
-#EXTINF:-1 tvg-id="LIGA INGGRIS" group-title="LIVE EVENT" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png", Fulham vs Manchester United HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
 
 =======================================
 =======================================
