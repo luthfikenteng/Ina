@@ -14,8 +14,17 @@ awalan
 ===============LIGA INDO===============
 =======================================
 
-#EXTINF:-1 tvg-id="LIGA INDO" group-title="LIVE EVENT" tvg-logo="https://i.ibb.co.com/tw2VhL0m/BRI.png", Persebaya Surabaya vs Bali United
+#EXTINF:-1 tvg-id="LIGA INDO" group-title="LIVE EVENT" tvg-logo="https://i.ibb.co.com/tw2VhL0m/BRI.png", Borneo vs Persijap
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=19385&type=drm
+https://spacetv.my.id/index.mpd?id=19385&type=dash
 
+#EXTINF:-1 tvg-id="LIGA INDO" group-title="LIVE EVENT" tvg-logo="https://i.ibb.co.com/tw2VhL0m/BRI.png", PSIM Yogyakarta vs Persib
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=19354&type=drm
+https://spacetv.my.id/index.mpd?id=19354&type=dash
 =======================================
 =======================================
 ==============LIGA INGGRIS=============
