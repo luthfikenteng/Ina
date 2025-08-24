@@ -10,30 +10,6 @@ awalan
 
 
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://storage.allsportdb.com/orig/event/e03b5bd0-7d5e-44aa-8941-3507588b510e", 19:30 WIB Brazil (w) vs France (w)
-#EXTVLCOPT:http-origin=https://demo.zplayer.xyz
-#EXTVLCOPT:http-referrer=https://demo.zplayer.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-https://hotlivezz179026907.akainu.xyz/ICBRQ6OcLI8HNCWu6lPmMw/Fv2lucGIbhPi2caWYvF5Lg/1756060231762/live/may171/chunklist.m3u8
-https://hotlivezz179602324.akainu.xyz/0Vh8hu_SvhlDO2HEERw0QA/Fv2lucGIbhPi2caWYvF5Lg/1755964194972/live/kienSD/chunklist.m3u8
-
-#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://storage.allsportdb.com/orig/event/e03b5bd0-7d5e-44aa-8941-3507588b510e", 19:30 WIB USA (w) vs Argentina (w)
-#EXTVLCOPT:http-origin=https://demo.zplayer.xyz
-#EXTVLCOPT:http-referrer=https://demo.zplayer.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-https://hotlivezz179026907.akainu.xyz/ahqCFFvA1olTAxhbASJsrQ/Fv2lucGIbhPi2caWYvF5Lg/1756060275775/live/may17/chunklist.m3u8
-https://hotlivezz179602324.akainu.xyz/cY3H9RPdjShxvKqaFiPJtQ/Fv2lucGIbhPi2caWYvF5Lg/1756048684662/live/cunSD/chunklist.m3u8
-
-#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://storage.allsportdb.com/orig/event/e03b5bd0-7d5e-44aa-8941-3507588b510e", 20:30 WIB Belgium (w) vs Slovakia (w) 
-#EXTVLCOPT:http-origin=https://demo.zplayer.xyz
-#EXTVLCOPT:http-referrer=https://demo.zplayer.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-https://hotlivezz179602324.akainu.xyz/t-cQ7rhjnViOBD6ENmFvxA/Fv2lucGIbhPi2caWYvF5Lg/1756048486552/live/Z3SD/chunklist.m3u8
-
-#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://storage.allsportdb.com/orig/event/e03b5bd0-7d5e-44aa-8941-3507588b510e", 20:30 WIB Thailand (w) vs Sweden (w)
-#EXTVLCOPT:http-origin=https://demo.zplayer.xyz
-#EXTVLCOPT:http-referrer=https://demo.zplayer.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-https://hotlivezz179602324.akainu.xyz/2ta7-MZCrTNMJiuJ4jUEQg/Fv2lucGIbhPi2caWYvF5Lg/1754674866302/live/oldSD/chunklist.m3u8
 
 
 <================>
@@ -52,18 +28,7 @@ https://hotlivezz179602324.akainu.xyz/2ta7-MZCrTNMJiuJ4jUEQg/Fv2lucGIbhPi2caWYvF
 =======================================
 
 #EXTINF:-1 tvg-id="LIGA INGGRIS" group-title="LIVE EVENT" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png", Crystal Palace vs Nottingham Forest
-#EXTVLCOPT:http-origin=https://demo.zplayer.xyz
-#EXTVLCOPT:http-referrer=https://demo.zplayer.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-https://hotlivezz179602324.akainu.xyz/isBERxJOf24lozzDVFB-bQ/Fv2lucGIbhPi2caWYvF5Lg/1755970800886/live/cuonSD/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="LIGA INGGRIS" group-title="LIVE EVENT" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png", Everton vs Brighton & Hove Albion
-#EXTVLCOPT:http-origin=https://demo.zplayer.xyz
-#EXTVLCOPT:http-referrer=https://demo.zplayer.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-https://hotlivezz179602324.akainu.xyz/_IgnpOdT9fG65UQ2GtcaHA/Fv2lucGIbhPi2caWYvF5Lg/1756057283381/live/may1SD/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="LIGA INGGRIS" group-title="LIVE EVENT" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png", Everton vs Brighton & Hove Albion
 
 =======================================
 =======================================
