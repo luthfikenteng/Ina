@@ -8,11 +8,6 @@ awalan
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 https://seprai.jasoncreak8.workers.dev/play.mpd?id=19331&type=dash
 
-#EXTINF:-1 group-title="EVENT 25/AGUSTUS/2025" tvg-logo="https://i.ibb.co.com/zhStskpR/IMG-20250825-165607.png", 16:00 WIB Thailand vs Morocco
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://seprai.jasoncreak8.workers.dev/play?id=19334&type=drm
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-https://seprai.jasoncreak8.workers.dev/play.mpd?id=19334&type=dash
 
 #EXTINF:-1 group-title="EVENT 25/AGUSTUS/2025" tvg-logo="https://i.ibb.co.com/zhStskpR/IMG-20250825-165607.png", 19:00 WIB Argentina vs Indonesia
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -43,11 +38,6 @@ https://hotlivezz179026907.akainu.xyz/MU8mBzWOOYbp59HyUMMb7g/Fv2lucGIbhPi2caWYvF
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 https://hotlivezz179602324.akainu.xyz/-zluT0oZgC29j8UPj8ZPcg/Fv2lucGIbhPi2caWYvF5Lg/1755971102537/live/dungSD/chunklist.m3u8
 
-#EXTINF:-1 group-title="EVENT 25/AGUSTUS/2025" tvg-logo="https://i.ibb.co.com/zhStskpR/IMG-20250825-165607.png", 16:00 WIB Dominican Republic (w) vs Mexico (w)
-#EXTVLCOPT:http-origin=https://demo.zplayer.xyz
-#EXTVLCOPT:http-referrer=https://demo.zplayer.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-https://hotlivezz179602324.akainu.xyz/t-cQ7rhjnViOBD6ENmFvxA/Fv2lucGIbhPi2caWYvF5Lg/1756048486552/live/Z3SD/chunklist.m3u8
 
 #EXTINF:-1 group-title="EVENT 25/AGUSTUS/2025" tvg-logo="https://i.ibb.co.com/zhStskpR/IMG-20250825-165607.png", 17:00 WIB Japan (w) vs Ukraine (w)
 #EXTVLCOPT:http-origin=https://demo.zplayer.xyz
