@@ -2,25 +2,25 @@
 awalan
 
 
-#EXTINF:-1 group-title="EVENT 25/AGUSTUS/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0TM6Wbes1mPSabldXbtHfUe-teHeFnldfNw&s", 19:00 WIB Italy vs Tunisia
+#EXTINF:-1 group-title="EVENT 25/AGUSTUS/2025" tvg-logo="https://i.ibb.co.com/zhStskpR/IMG-20250825-165607.png", 19:00 WIB Italy vs Tunisia
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://seprai.jasoncreak8.workers.dev/play?id=19331&type=drm
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 https://seprai.jasoncreak8.workers.dev/play.mpd?id=19331&type=dash
 
-#EXTINF:-1 group-title="EVENT 25/AGUSTUS/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0TM6Wbes1mPSabldXbtHfUe-teHeFnldfNw&s", 16:00 WIB Thailand vs Morocco
+#EXTINF:-1 group-title="EVENT 25/AGUSTUS/2025" tvg-logo="https://i.ibb.co.com/zhStskpR/IMG-20250825-165607.png", 16:00 WIB Thailand vs Morocco
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://seprai.jasoncreak8.workers.dev/play?id=19334&type=drm
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 https://seprai.jasoncreak8.workers.dev/play.mpd?id=19334&type=dash
 
-#EXTINF:-1 group-title="EVENT 25/AGUSTUS/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0TM6Wbes1mPSabldXbtHfUe-teHeFnldfNw&s", 19:00 WIB Argentina vs Indonesia
+#EXTINF:-1 group-title="EVENT 25/AGUSTUS/2025" tvg-logo="https://i.ibb.co.com/zhStskpR/IMG-20250825-165607.png", 19:00 WIB Argentina vs Indonesia
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://seprai.jasoncreak8.workers.dev/play?id=19412&type=drm
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 https://seprai.jasoncreak8.workers.dev/play.mpd?id=19412&type=dash
 
-#EXTINF:-1 group-title="EVENT 25/AGUSTUS/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0TM6Wbes1mPSabldXbtHfUe-teHeFnldfNw&s", 19:00 WIB Argentina vs Indonesia
+#EXTINF:-1 group-title="EVENT 25/AGUSTUS/2025" tvg-logo="https://i.ibb.co.com/zhStskpR/IMG-20250825-165607.png", 19:00 WIB Argentina vs Indonesia
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=19412&type=drm
@@ -28,7 +28,7 @@ https://spacetv.my.id/index.mpd?id=19412&type=dash
 
 
 <================>
-#EXTINF:-1 group-title="EVENT 25/AGUSTUS/2025" tvg-logo="https://storage.allsportdb.com/orig/event/e03b5bd0-7d5e-44aa-8941-3507588b510e", 002 Volleyball World Women's Championship 2025
+#EXTINF:-1 group-title="EVENT 25/AGUSTUS/2025" tvg-logo="https://i.ibb.co.com/zhStskpR/IMG-20250825-165607.png", 002 Volleyball World Women's Championship 2025
 #EXTVLCOPT:http-origin=https://demo.zplayer.xyz
 #EXTVLCOPT:http-referrer=https://demo.zplayer.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
@@ -37,38 +37,38 @@ https://hotlivezz179026907.akainu.xyz/euxnL4uO7CvXJsiQ3ki7Gg/Fv2lucGIbhPi2caWYvF
 https://hotlivezz179026907.akainu.xyz/aEbjESK8Gcfzc2Ifz2o_tg/Fv2lucGIbhPi2caWYvF5Lg/1756135973877/live/may6/chunklist.m3u8
 https://hotlivezz179026907.akainu.xyz/MU8mBzWOOYbp59HyUMMb7g/Fv2lucGIbhPi2caWYvF5Lg/1756136321133/live/may61/chunklist.m3u8
 
-#EXTINF:-1 group-title="EVENT 25/AGUSTUS/2025" tvg-logo="https://storage.allsportdb.com/orig/event/e03b5bd0-7d5e-44aa-8941-3507588b510e", 16:00 WIB Canada (w) vs Spain (w)
+#EXTINF:-1 group-title="EVENT 25/AGUSTUS/2025" tvg-logo="https://i.ibb.co.com/zhStskpR/IMG-20250825-165607.png", 16:00 WIB Canada (w) vs Spain (w)
 #EXTVLCOPT:http-origin=https://demo.zplayer.xyz
 #EXTVLCOPT:http-referrer=https://demo.zplayer.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 https://hotlivezz179602324.akainu.xyz/-zluT0oZgC29j8UPj8ZPcg/Fv2lucGIbhPi2caWYvF5Lg/1755971102537/live/dungSD/chunklist.m3u8
 
-#EXTINF:-1 group-title="EVENT 25/AGUSTUS/2025" tvg-logo="https://storage.allsportdb.com/orig/event/e03b5bd0-7d5e-44aa-8941-3507588b510e", 16:00 WIB Dominican Republic (w) vs Mexico (w)
+#EXTINF:-1 group-title="EVENT 25/AGUSTUS/2025" tvg-logo="https://i.ibb.co.com/zhStskpR/IMG-20250825-165607.png", 16:00 WIB Dominican Republic (w) vs Mexico (w)
 #EXTVLCOPT:http-origin=https://demo.zplayer.xyz
 #EXTVLCOPT:http-referrer=https://demo.zplayer.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 https://hotlivezz179602324.akainu.xyz/t-cQ7rhjnViOBD6ENmFvxA/Fv2lucGIbhPi2caWYvF5Lg/1756048486552/live/Z3SD/chunklist.m3u8
 
-#EXTINF:-1 group-title="EVENT 25/AGUSTUS/2025" tvg-logo="https://storage.allsportdb.com/orig/event/e03b5bd0-7d5e-44aa-8941-3507588b510e", 17:00 WIB Japan (w) vs Ukraine (w)
+#EXTINF:-1 group-title="EVENT 25/AGUSTUS/2025" tvg-logo="https://i.ibb.co.com/zhStskpR/IMG-20250825-165607.png", 17:00 WIB Japan (w) vs Ukraine (w)
 #EXTVLCOPT:http-origin=https://demo.zplayer.xyz
 #EXTVLCOPT:http-referrer=https://demo.zplayer.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 https://hotlivezz179602324.akainu.xyz/0Vh8hu_SvhlDO2HEERw0QA/Fv2lucGIbhPi2caWYvF5Lg/1755964194972/live/kienSD/chunklist.m3u8
 
-#EXTINF:-1 group-title="EVENT 25/AGUSTUS/2025" tvg-logo="https://storage.allsportdb.com/orig/event/e03b5bd0-7d5e-44aa-8941-3507588b510e", 17:00 WIB Germany (w) vs Vietnam (w)
+#EXTINF:-1 group-title="EVENT 25/AGUSTUS/2025" tvg-logo="https://i.ibb.co.com/zhStskpR/IMG-20250825-165607.png", 17:00 WIB Germany (w) vs Vietnam (w)
 #EXTVLCOPT:http-origin=https://demo.zplayer.xyz
 #EXTVLCOPT:http-referrer=https://demo.zplayer.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 https://hotlivezz179602324.akainu.xyz/cY3H9RPdjShxvKqaFiPJtQ/Fv2lucGIbhPi2caWYvF5Lg/1756048684662/live/cunSD/chunklist.m3u8
 
-#EXTINF:-1 group-title="EVENT 25/AGUSTUS/2025" tvg-logo="https://storage.allsportdb.com/orig/event/e03b5bd0-7d5e-44aa-8941-3507588b510e", 19:30 WIB China (w) vs Colombia (w)
+#EXTINF:-1 group-title="EVENT 25/AGUSTUS/2025" tvg-logo="https://i.ibb.co.com/zhStskpR/IMG-20250825-165607.png", 19:30 WIB China (w) vs Colombia (w)
 #EXTINF:-1 group-title="EVENT 25/AGUSTUS/2025" tvg-logo="https://storage.allsportdb.com/orig/event/e03b5bd0-7d5e-44aa-8941-3507588b510e", 19:30 WIB Turkey (w) vs Bulgaria (w)
 #EXTINF:-1 group-title="EVENT 25/AGUSTUS/2025" tvg-logo="https://storage.allsportdb.com/orig/event/e03b5bd0-7d5e-44aa-8941-3507588b510e", 20:30 WIB Poland (w) vs Kenya (w)
 #EXTINF:-1 group-title="EVENT 25/AGUSTUS/2025" tvg-logo="https://storage.allsportdb.com/orig/event/e03b5bd0-7d5e-44aa-8941-3507588b510e", 20:30 WIB Serbia (w) vs Cameroon (w)
 
 <================>
 
-#EXTINF:-1  group-title="EVENT 25/AGUSTUS/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRowxECIU_LSYyEX2RVCBQxUe25K9NCSTQsKg&s", 14:00 WIB BWF World Championships
+#EXTINF:-1  group-title="EVENT 25/AGUSTUS/2025" tvg-logo="https://i.ibb.co.com/MxBt8tCs/IMG-20250825-164825.png", 14:00 WIB BWF World Championships
 #EXTVLCOPT:http-origin=https://demo.zplayer.xyz
 #EXTVLCOPT:http-referrer=https://demo.zplayer.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
@@ -79,7 +79,7 @@ https://hotlivezz179026907.akainu.xyz/XV29fePd_OlVLB6nMlx-5A/Fv2lucGIbhPi2caWYvF
 
 <================>
 
-#EXTINF:-1 group-title="EVENT 25/AGUSTUS/2025" tvg-logo="https://g-sports.id/wp-content/uploads/2025/08/Liga-Italia.jpg", 23:30 WIB Udinese vs Hellas Verona
+#EXTINF:-1 group-title="EVENT 25/AGUSTUS/2025" tvg-logo="https://i.ibb.co.com/wZ40gYMj/IMG-20250430-174409.png", 23:30 WIB Udinese vs Hellas Verona
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4b203316c47c370a1eb9097c070d7226:676e6783f23789cdf4ff0486386145ed
 http://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/gigxsk0lya/out/v1/df75d887bce4437b8fdf345ae455113b/cenc.mpd?token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
@@ -3535,7 +3535,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/playlist.m3u8?id=4
 
 =======================================
 
-#EXTINF:-1 tvg-id="MUTV.uk" tvg-logo="https://i.ibb.co.com/27H8r2d9/MUTV.png" group-title="SPORTS",MUTV |🏴󠁧󠁢󠁥󠁮󠁧󠁿|
+#EXTINF:-1 tvg-id="MUTV.uk" tvg-logo="https://i.ibb.co.com/27H8r2d9/MUTV.png" group-title="SPORTS",MUTV |🏴󠁧󠁢??󠁮󠁧󠁿|
 http://cord-cutter.net:8080/hq3y4G/234247/53717
 
 =======================================
