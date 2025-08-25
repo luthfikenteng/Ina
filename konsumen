@@ -24,19 +24,6 @@ https://spacetv.my.id/index.mpd?id=19412&type=dash
 
 <================>
 #EXTINF:-1 group-title="EVENT 25/AGUSTUS/2025" tvg-logo="https://i.ibb.co.com/zhStskpR/IMG-20250825-165607.png", 002 Volleyball World Women's Championship 2025
-#EXTVLCOPT:http-origin=https://demo.zplayer.xyz
-#EXTVLCOPT:http-referrer=https://demo.zplayer.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-https://hotlivezz179026907.akainu.xyz/0izRVARteznvgXo6IVjoWg/Fv2lucGIbhPi2caWYvF5Lg/1756133301398/live/may20/chunklist.m3u8
-https://hotlivezz179026907.akainu.xyz/euxnL4uO7CvXJsiQ3ki7Gg/Fv2lucGIbhPi2caWYvF5Lg/1756133391321/live/may201/chunklist.m3u8
-https://hotlivezz179026907.akainu.xyz/aEbjESK8Gcfzc2Ifz2o_tg/Fv2lucGIbhPi2caWYvF5Lg/1756135973877/live/may6/chunklist.m3u8
-https://hotlivezz179026907.akainu.xyz/MU8mBzWOOYbp59HyUMMb7g/Fv2lucGIbhPi2caWYvF5Lg/1756136321133/live/may61/chunklist.m3u8
-
-#EXTINF:-1 group-title="EVENT 25/AGUSTUS/2025" tvg-logo="https://i.ibb.co.com/zhStskpR/IMG-20250825-165607.png", 16:00 WIB Canada (w) vs Spain (w)
-#EXTVLCOPT:http-origin=https://demo.zplayer.xyz
-#EXTVLCOPT:http-referrer=https://demo.zplayer.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-https://hotlivezz179602324.akainu.xyz/-zluT0oZgC29j8UPj8ZPcg/Fv2lucGIbhPi2caWYvF5Lg/1755971102537/live/dungSD/chunklist.m3u8
 
 
 #EXTINF:-1 group-title="EVENT 25/AGUSTUS/2025" tvg-logo="https://i.ibb.co.com/zhStskpR/IMG-20250825-165607.png", 17:00 WIB Japan (w) vs Ukraine (w)
@@ -45,11 +32,6 @@ https://hotlivezz179602324.akainu.xyz/-zluT0oZgC29j8UPj8ZPcg/Fv2lucGIbhPi2caWYvF
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 https://hotlivezz179602324.akainu.xyz/0Vh8hu_SvhlDO2HEERw0QA/Fv2lucGIbhPi2caWYvF5Lg/1755964194972/live/kienSD/chunklist.m3u8
 
-#EXTINF:-1 group-title="EVENT 25/AGUSTUS/2025" tvg-logo="https://i.ibb.co.com/zhStskpR/IMG-20250825-165607.png", 17:00 WIB Germany (w) vs Vietnam (w)
-#EXTVLCOPT:http-origin=https://demo.zplayer.xyz
-#EXTVLCOPT:http-referrer=https://demo.zplayer.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-https://hotlivezz179602324.akainu.xyz/cY3H9RPdjShxvKqaFiPJtQ/Fv2lucGIbhPi2caWYvF5Lg/1756048684662/live/cunSD/chunklist.m3u8
 
 #EXTINF:-1 group-title="EVENT 25/AGUSTUS/2025" tvg-logo="https://i.ibb.co.com/zhStskpR/IMG-20250825-165607.png", 19:30 WIB China (w) vs Colombia (w)
 #EXTINF:-1 group-title="EVENT 25/AGUSTUS/2025" tvg-logo="https://storage.allsportdb.com/orig/event/e03b5bd0-7d5e-44aa-8941-3507588b510e", 19:30 WIB Turkey (w) vs Bulgaria (w)
@@ -1498,9 +1480,15 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/HoreeHD/mpd/HoreeHD.mpd
 
 =======================================
 
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co.com/Y4qtdbgy/IMG-20250711-194009.png",LEO SI PENJAGA ALAM
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co.com/Y4qtdbgy/IMG-20250711-194009.png",LEO SI PENJAGA ALAM YT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://triwied.serv00.net/live/ytlive.m3u8?id=OM2tH_y6OFI
+
+=======================================
+
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co.com/7tFTBdN3/IMG-20250825-183704.png", MINIA TURA YT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://triwied.serv00.net/live/ytlive.m3u8?id=lk1d930_dSc
 
 =======================================
 
