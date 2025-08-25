@@ -3,10 +3,6 @@ awalan
 
 
 #EXTINF:-1 group-title="EVENT 25/AGUSTUS/2025" tvg-logo="https://i.ibb.co.com/zhStskpR/IMG-20250825-165607.png", 19:00 WIB Italy vs Tunisia
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://seprai.jasoncreak8.workers.dev/play?id=19331&type=drm
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-https://seprai.jasoncreak8.workers.dev/play.mpd?id=19331&type=dash
 
 
 #EXTINF:-1 group-title="EVENT 25/AGUSTUS/2025" tvg-logo="https://i.ibb.co.com/zhStskpR/IMG-20250825-165607.png", 19:00 WIB Argentina vs Indonesia
@@ -27,27 +23,10 @@ https://spacetv.my.id/index.mpd?id=19412&type=dash
 
 
 #EXTINF:-1 group-title="EVENT 25/AGUSTUS/2025" tvg-logo="https://i.ibb.co.com/zhStskpR/IMG-20250825-165607.png", 17:00 WIB Japan (w) vs Ukraine (w)
-#EXTVLCOPT:http-origin=https://demo.zplayer.xyz
-#EXTVLCOPT:http-referrer=https://demo.zplayer.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-https://hotlivezz179602324.akainu.xyz/0Vh8hu_SvhlDO2HEERw0QA/Fv2lucGIbhPi2caWYvF5Lg/1755964194972/live/kienSD/chunklist.m3u8
-
-
-#EXTINF:-1 group-title="EVENT 25/AGUSTUS/2025" tvg-logo="https://i.ibb.co.com/zhStskpR/IMG-20250825-165607.png", 19:30 WIB China (w) vs Colombia (w)
-#EXTINF:-1 group-title="EVENT 25/AGUSTUS/2025" tvg-logo="https://storage.allsportdb.com/orig/event/e03b5bd0-7d5e-44aa-8941-3507588b510e", 19:30 WIB Turkey (w) vs Bulgaria (w)
-#EXTINF:-1 group-title="EVENT 25/AGUSTUS/2025" tvg-logo="https://storage.allsportdb.com/orig/event/e03b5bd0-7d5e-44aa-8941-3507588b510e", 20:30 WIB Poland (w) vs Kenya (w)
-#EXTINF:-1 group-title="EVENT 25/AGUSTUS/2025" tvg-logo="https://storage.allsportdb.com/orig/event/e03b5bd0-7d5e-44aa-8941-3507588b510e", 20:30 WIB Serbia (w) vs Cameroon (w)
 
 <================>
 
 #EXTINF:-1  group-title="EVENT 25/AGUSTUS/2025" tvg-logo="https://i.ibb.co.com/MxBt8tCs/IMG-20250825-164825.png", 14:00 WIB BWF World Championships
-#EXTVLCOPT:http-origin=https://demo.zplayer.xyz
-#EXTVLCOPT:http-referrer=https://demo.zplayer.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-https://hotlivezz179026907.akainu.xyz/Vqx2ygrtMkjt_Y_xDDX8sA/Fv2lucGIbhPi2caWYvF5Lg/1756126621799/live/may17/chunklist.m3u8
-https://hotlivezz179026907.akainu.xyz/ICBRQ6OcLI8HNCWu6lPmMw/Fv2lucGIbhPi2caWYvF5Lg/1756060231762/live/may171/chunklist.m3u8
-https://hotlivezz179026907.akainu.xyz/fIw6JnbnXylR0j2jBfN26Q/Fv2lucGIbhPi2caWYvF5Lg/1754042242871/live/may24/chunklist.m3u8
-https://hotlivezz179026907.akainu.xyz/XV29fePd_OlVLB6nMlx-5A/Fv2lucGIbhPi2caWYvF5Lg/1754042242871/live/may241/chunklist.m3u8
 
 <================>
 
