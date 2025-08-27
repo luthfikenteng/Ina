@@ -3,29 +3,21 @@ awalan
 
 
 
+=======================================
+=================VOLI==================
+=======================================
 
-
-#EXTINF:-1 group-title="EVENT 27/AGUSTUS/2025" tvg-logo="https://i.ibb.co.com/zhStskpR/IMG-20250825-165607.png", 19:00 WIB Indonesia vs Puerto Rico
-
-
-
-<================>
-
-#EXTINF:-1  group-title="EVENT 27/AGUSTUS/2025" tvg-logo="https://i.ibb.co.com/MxBt8tCs/IMG-20250825-164825.png", 14:00 WIB BWF World Championships
-
-
-<================>
-
-#EXTINF:-1 group-title="EVENT 25/AGUSTUS/2025" tvg-logo="https://i.ibb.co.com/wZ40gYMj/IMG-20250430-174409.png", 23:30 WIB Udinese vs Hellas Verona
-
-
+#EXTINF:-1 group-title="EVENT 27/AGUSTUS/2025" tvg-logo="https://i.ibb.co.com/zhStskpR/IMG-20250825-165607.png", 19:00 WIB Indonesia vs Puerto Ric
 
 =======================================
+==============BADMINTON==============
+=======================================
+
+#EXTINF:-1  group-title="EVENT 27/AGUSTUS/2025" tvg-logo="https://i.ibb.co.com/MxBt8tCs/IMG-20250825-164825.png", 14:00 WIB BWF World Championships
 
 =======================================
 ==============LIVE SPORTS==============
 =======================================
-
 
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://storage.allsportdb.com/orig/event/e03b5bd0-7d5e-44aa-8941-3507588b510e", 19:30 WIB Brazil (w) vs France (w)
 
@@ -87,18 +79,13 @@ https://live1.pro2cdnlive.com/live/channel11.flv?wsSecret=47c4e1e2584218e80ab6fc
 ==============LIGA SPANYOL============
 =======================================
 
-#EXTINF:-1 tvg-id="LIGA SPANYOL" group-title="LIVE EVENT" tvg-logo="https://i.ibb.co.com/1JwYR5NV/LALIGA.png", 02:00 WIB Celta Vigo vs Real Betis
+#EXTINF:-1 group-title="EVENT 28/AGUSTUS/2025" tvg-logo="https://i.ibb.co.com/1JwYR5NV/LALIGA.png", 02:00 WIB Celta Vigo vs Real Betis
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
-
-
-
-
-
 
 =======================================
 =======================================
@@ -139,14 +126,6 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/ind
 =======================================
 ===============UCL & UEL===============
 =======================================
-
-#EXTINF:-1 group-title="EVENT 28/AGUSTUS/2025" tvg-logo="https://i.ibb.co.com/39ysdc2K/IMG-20250501-231953.png", 23:45 WIB Qarabag vs Ferencvaros
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
 
 #EXTINF:-1 group-title="EVENT 28/AGUSTUS/2025" tvg-logo="https://i.ibb.co.com/39ysdc2K/IMG-20250501-231953.png", 02:00 WIB Club Brugge vs Rangers
 #KODIPROP:inputstreamaddon=inputstream.adaptive
