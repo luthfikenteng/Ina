@@ -1,6 +1,17 @@
 #EXTM3U
 awalan
 
+#EXTINF:-1 group-title="EVENT 27/AGUSTUS/2025" tvg-logo="https://i.ibb.co.com/zhStskpR/IMG-20250825-165607.png", 19:00 WIB Indonesia vs Puerto Rico
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://seprai.jasoncreak8.workers.dev/play?id=19412&type=drm
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+https://seprai.jasoncreak8.workers.dev/play.mpd?id=19412&type=dash
+
+#EXTINF:-1 group-title="EVENT 27/AGUSTUS/2025" tvg-logo="https://i.ibb.co.com/zhStskpR/IMG-20250825-165607.png", 19:00 WIB Indonesia vs Puerto Rico
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=19412&type=drm
+https://spacetv.my.id/index.mpd?id=19412&type=dash
 
 #EXTINF:-1 group-title="EVENT 27/AGUSTUS/2025" tvg-logo="https://i.ibb.co.com/zhStskpR/IMG-20250825-165607.png", Volleyball World Women's Championship 2025
 #EXTVLCOPT:http-origin=https://demo.zplayer.xyz
