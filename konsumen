@@ -1477,13 +1477,13 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/HoreeHD/mpd/HoreeHD.mpd
 
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co.com/Y4qtdbgy/IMG-20250711-194009.png",LEO SI PENJAGA ALAM YT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-https://triwied.serv00.net/live/ytlive.m3u8?id=OM2tH_y6OFI
+#https://triwied.serv00.net/live/ytlive.m3u8?id=OM2tH_y6OFI
 
 =======================================
 
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co.com/7tFTBdN3/IMG-20250825-183704.png", MINIA TURA YT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-https://triwied.serv00.net/live/ytlive.m3u8?id=lk1d930_dSc
+#https://triwied.serv00.net/live/ytlive.m3u8?id=lk1d930_dSc
 
 =======================================
 
@@ -1779,7 +1779,7 @@ https://op-group1-swiftservesd-1.dens.tv/s/s28/index.m3u8?app_type=web&amp;useri
 
 #EXTINF:-1 group-title="RELIGI" tvg-id="AlQuranAlKareemTV.sa" tvg-logo="https://i.ibb.co.com/bjKp5VXr/Mekkah.png",Qur'an TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-https://triwied.serv00.net/live/ytlive.m3u8?id=sPCL4-6cpnk
+#https://triwied.serv00.net/live/ytlive.m3u8?id=sPCL4-6cpnk
 
 =======================================
 
@@ -1790,7 +1790,7 @@ https://op-group1-swiftservesd-1.dens.tv/s/s27/index.m3u8?app_type=web&amp;useri
 
 #EXTINF:-1 group-title="RELIGI" tvg-id="sunnahtv.sa" tvg-logo="https://i.ibb.co.com/ks9FnVD9/Madinah.png",Sunnah TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-https://triwied.serv00.net/live/ytlive.m3u8?id=TpT8b8JFZ6E
+#https://triwied.serv00.net/live/ytlive.m3u8?id=TpT8b8JFZ6E
 
 =======================================
 
@@ -1883,13 +1883,13 @@ https://ams.juraganstreaming.com:5443/LiveApp/streams/ashiiltv2.m3u8
 
 #EXTINF:-1 group-title="RELIGI" tvg-id="meds" tvg-logo="https://i.ibb.co.com/8n5vc3Bb/IMG-20250819-015032.png",MEDS TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-https://triwied.serv00.net/live/ytlive.m3u8?id=nOzPwl1CTVs
+#https://triwied.serv00.net/live/ytlive.m3u8?id=nOzPwl1CTVs
 
 =======================================
 
 #EXTINF:-1 group-title="RELIGI" tvg-id="srb" tvg-logo="https://i.ibb.co.com/FbwxKzX0/IMG-20250819-015407.png",SRB TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-https://triwied.serv00.net/live/ytlive.m3u8?id=bEJFMrKmBb4
+#https://triwied.serv00.net/live/ytlive.m3u8?id=bEJFMrKmBb4
 
 =======================================
 
@@ -1906,7 +1906,7 @@ https://triwied.serv00.net/live/ytlive.m3u8?id=bEJFMrKmBb4
 
 #EXTINF:-1 group-title="RELIGI" tvg-id="st" tvg-logo="https://i.ibb.co.com/43hxX1h/IMG-20250819-015844.png",SEYEGAN TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-https://triwied.serv00.net/live/ytlive.m3u8?id=gCw9qUZ3Yc4
+#https://triwied.serv00.net/live/ytlive.m3u8?id=gCw9qUZ3Yc4
 
 =======================================
 
@@ -1936,7 +1936,7 @@ https://video1.earthcam.com/myearthcam/641f889a7774a38d5fc93dc76c4aeded.flv/play
 
 #EXTINF:-1 group-title="RELIGI" tvg-id="khbtv.id" tvg-logo="https://i.ibb.co.com/QyfBh83/IMG-20250819-020511.png",KHB TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-https://triwied.serv00.net/live/ytlive.m3u8?id=Me04WYTpBOI
+#https://triwied.serv00.net/live/ytlive.m3u8?id=Me04WYTpBOI
 
 =======================================
 
@@ -1955,7 +1955,7 @@ https://flv.intechmedia.net/live/ch30.m3u8
 
 #EXTINF:-1 group-title="RELIGI" tvg-id="MTATV.id" tvg-logo="https://i.ibb.co.com/35yr19J2/MTA.png",MTA TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-https://triwied.serv00.net/live/ytlive.m3u8?id=v1SKISoJ--U
+#https://triwied.serv00.net/live/ytlive.#m3u8?id=v1SKISoJ--U
 
 =======================================
 
