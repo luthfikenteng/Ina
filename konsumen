@@ -7,8 +7,23 @@ awalan
 =================VOLI==================
 =======================================
 
-#EXTINF:-1 group-title="EVENT 27/AGUSTUS/2025" tvg-logo="https://i.ibb.co.com/zhStskpR/IMG-20250825-165607.png", 19:00 WIB Indonesia vs Puerto Ric
+#EXTINF:-1 group-title="EVENT 29/AGUSTUS/2025" tvg-logo="https://i.ibb.co.com/zhStskpR/IMG-20250825-165607.png", 19:00 WIB Brazil vs Indonesia 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://seprai.jasoncreak8.workers.dev/play?id=19412&type=drm
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+https://seprai.jasoncreak8.workers.dev/play.mpd?id=19412&type=dash
 
+#EXTINF:-1 group-title="EVENT 29/AGUSTUS/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0TM6Wbes1mPSabldXbtHfUe-teHeFnldfNw&s", 19:00 WIB Brazil vs Indonesia 
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=19412&type=drm
+#https://spacetv.my.id/index.mpd?id=19412&type=dash
+
+#EXTINF:-1 group-title="EVENT 29/AGUSTUS/2025" tvg-logo="https://i.ibb.co.com/zhStskpR/IMG-20250825-165607.png", 19:00 WIB Cuba vs Italy
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://seprai.jasoncreak8.workers.dev/play?id=19332&type=drm
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+https://seprai.jasoncreak8.workers.dev/play.mpd?id=19332&type=dash
 =======================================
 ==============BADMINTON==============
 =======================================
@@ -48,8 +63,8 @@ https://tglmp02.akamaized.net/out/v1/cc0fc82e76cb4e0093e81695284af443/manifest.m
 #EXTINF:-1 tvg-id="LIGA INDO" group-title="EVENT 29/AGUSTUS/2025" tvg-logo="https://i.ibb.co.com/tw2VhL0m/BRI.png", 19:00 WIB Dewa United Banten vs Persija Jakarta
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=19354&type=drm
-https://spacetv.my.id/index.mpd?id=19354&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://seprai.jasoncreak8.workers.dev/play?id=19354&type=drm
+https://seprai.jasoncreak8.workers.dev/play.mpd?id=19354&type=dash
 
 
 
