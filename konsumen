@@ -57,7 +57,14 @@ https://tglmp02.akamaized.net/out/v1/cc0fc82e76cb4e0093e81695284af443/manifest.m
 ===============LIGA INDO===============
 =======================================
 
+
 #EXTINF:-1 tvg-id="LIGA INDO" group-title="EVENT 29/AGUSTUS/2025" tvg-logo="https://i.ibb.co.com/tw2VhL0m/BRI.png", 15:30 WIB Bhayangkara Presisi Lampung FC vs Persis Solo
+
+#EXTINF:-1 tvg-id="LIGA INDO" group-title="EVENT 29/AGUSTUS/2025" tvg-logo="https://i.ibb.co.com/tw2VhL0m/BRI.png", 19:00 WIB Dewa United Banten vs Persija Jakarta
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=19354&type=drm
+https://spacetv.my.id/index.mpd?id=19354&type=dash
 
 
 #EXTINF:-1 tvg-id="LIGA INDO" group-title="EVENT 29/AGUSTUS/2025" tvg-logo="https://i.ibb.co.com/tw2VhL0m/BRI.png", 19:00 WIB Dewa United Banten vs Persija Jakarta
