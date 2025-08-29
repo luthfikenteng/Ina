@@ -70,9 +70,7 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/ind
 =======================================
 
 #EXTINF:0 tvg-id="LIGA ITALI" tvg-logo="https://i.ibb.co.com/wZ40gYMj/IMG-20250430-174409.png" group-title="EVENT 30/AGUSTUS/2025", 23:30 WIB Cremonese vs Sassuolo
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4b203316c47c370a1eb9097c070d7226:676e6783f23789cdf4ff0486386145ed
-http://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/gigxsk0lya/out/v1/df75d887bce4437b8fdf345ae455113b/cenc.mpd?token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
+
 
 #EXTINF:0 tvg-id="LIGA ITALI" tvg-logo="https://i.ibb.co.com/wZ40gYMj/IMG-20250430-174409.png" group-title="EVENT 30/AGUSTUS/2025", 01:45 WIB Lecce vs Milan
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -3387,13 +3385,13 @@ https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/m
 #EXTINF:-1 tvg-id="StarzPlay Sports.ua" tvg-logo="https://i.ibb.co.com/B5Mqn1vG/SP.png" group-title="SPORTS",Starzplay Sports 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=eb5a3a48f3e191a00e3ac1e2d470c491:2c8b7198563527e524d66628c092ef1f
-https://uselector.cdn.intigral-ott.net/ADSP1/ADSP1.isml/manifest.mpd
+#https://uselector.cdn.intigral-ott.net/ADSP1/ADSP1.isml/manifest.mpd
  =======================================
 
 #EXTINF:-1 tvg-id="StarzPlay Sports.ua" tvg-logo="https://i.ibb.co.com/B5Mqn1vG/SP.png" group-title="SPORTS",Starzplay Sports 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=efca93272b9d34f5cf9d8598f43be5ea:55e5fe489e9c18f6c979c3126d4bcfed
-https://uselector.cdn.intigral-ott.net/ADSP2/ADSP2.isml/manifest.mpd
+#https://uselector.cdn.intigral-ott.net/ADSP2/ADSP2.isml/manifest.mpd
 
 =======================================
 
@@ -3402,7 +3400,7 @@ https://uselector.cdn.intigral-ott.net/ADSP2/ADSP2.isml/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=42d7a462640c6748371d39f23e4a18c3:f4bef9f080f4a3a52dd55d5c3b8b81e2
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-https://uselector.cdn.intigral-ott.net/SPZ/SPZ.isml/manifest.mpd
+#https://uselector.cdn.intigral-ott.net/SPZ/SPZ.isml/manifest.mpd
  =======================================
 
 #EXTINF:-1 group-title="SPORTS" tvg-id="SSC 1" tvg-logo="https://i.ibb.co.com/3YP3Dqhf/SSC1.png",SSC 1
@@ -3468,25 +3466,42 @@ https://ssc-extra3-enc.edgenextcdn.net/out/v1/8f1c6c3f05ef4284a64b342891bd85ae/i
 =======================================
 
 #EXTINF:-1 tvg-id="TSN1 HD.ca" tvg-logo="https://i.ibb.co.com/4wwmDzTb/TSN1.png" group-title="SPORTS",TSN 1
-#http://212.102.60.231/TSN_1/index.m3u8
- 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7e99f734748d098cbfa2f7bde968dd44:98ea6088c3222e9abaf61e537804d6cc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.62
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/u142pfptsm/out/v1/1caa3b2dfa9e448d8f61209bdfc1acdc/cenc.mpd
+
 =======================================
 
 #EXTINF:-1 tvg-id="TSN2 HD.ca" tvg-logo="https://i.ibb.co.com/q3YdjgrN/TSN2.png" group-title="SPORTS",TSN 2
-#http://212.102.60.231/TSN_2/index.m3u8
- 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=362202eefc5d9e42eec6450998cce9e8:978dfdd53186ec587d940e0bd1e2ec42
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.62
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/v5v9yfn62i/out/v1/0991e33d09da46b2857fcc845db95c40/cenc.mpd
+
 =======================================
 
 #EXTINF:-1 tvg-id="TSN3 HD.ca" tvg-logo="https://i.ibb.co.com/XZDZc3cJ/TSN3.png" group-title="SPORTS",TSN 3
-#http://212.102.60.231/TSN_3/index.m3u8
- =======================================
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d9097a1b7d04b7786b29f2b0e155316d:279695ebe0fb1bc5787422b6b59ce8a8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.62
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/mrskysvotx/out/v1/ad58961bd8fd48d2944e461c034b8914/cenc.mpd
+
+=======================================
 
 #EXTINF:-1 tvg-id="TSN4 HD.ca" tvg-logo="https://i.ibb.co.com/2DnNfr3/TSN4.png" group-title="SPORTS",TSN 4
-#http://212.102.60.231/TSN_4/index.m3u8
- =======================================
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e1aa4c4daf6222a04f7ae80130495ea1:31bb1ee9a8d088f62b0103550c301449
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.62
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/irtfdsri14/out/v1/165128c314e944faa3d79e107974b323/cenc.mpd
+
+=======================================
 
 #EXTINF:-1 tvg-id="TSN5 HD.ca" tvg-logo="https://i.ibb.co.com/0VjJmW0f/TSN5.png" group-title="SPORTS",TSN 5
-#http://212.102.60.231/TSN_5/index.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ce20e2a4b3dd04e0a6e5469b7cb47be:163c323b65d0597b13f037641fd67b1e
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.62
+https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/mttgh1c4ei/out/v1/9cc664b146744e2ba23066aa048efbc5/cenc.mpd
 
 =======================================
 
@@ -3634,21 +3649,21 @@ https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd5/smil:dubaisportshd5.smil/maste
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co.com/Rfr9xrZ/PS1.png", PRIMA SPORT 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://saruman1.tharen.cfd/000/
-https://saruman1.tharen.cfd/puk1/usergenrx0cir27aq.m3u8|referrer=https://saruman1.tharen.cfd/000/
+#https://saruman1.tharen.cfd/puk1/usergenrx0cir27aq.m3u8|referrer=https://saruman1.tharen.cfd/000/
 
 =======================================
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co.com/n8MjmWkV/PS2.png", PRIMA SPORT 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://saruman1.tharen.cfd/000/
-https://arwen1.panaka.cfd/puk2/usergenrnd0clv03fyt.m3u8|referrer=https://saruman1.tharen.cfd/000/
+#https://arwen1.panaka.cfd/puk2/usergenrnd0clv03fyt.m3u8|referrer=https://saruman1.tharen.cfd/000/
 
 =======================================
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co.com/Z65KGMBy/IMG-20250501-215053.png", PRIMA SPORT 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://saruman1.tharen.cfd/000/
-https://iron1.jarvisx.cfd/puk3/usergenrx4t0l8sybkr.m3u8|referrer=https://saruman1.tharen.cfd/000/
+#https://iron1.jarvisx.cfd/puk3/usergenrx4t0l8sybkr.m3u8|referrer=https://saruman1.tharen.cfd/000/
 
 =======================================
 
