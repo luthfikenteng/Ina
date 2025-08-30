@@ -7,7 +7,7 @@ awalan
 =================VOLI==================
 =======================================
 
-#EXTINF:-1 group-title="EVENT 30/AGUSTUS/2025" tvg-logo="https://i.ibb.co.com/zhStskpR/IMG-20250825-165607.png", 19:00 16:00 WIB Thailand vs Indonesia
+#EXTINF:-1 group-title="EVENT 30/AGUSTUS/2025" tvg-logo="https://i.ibb.co.com/zhStskpR/IMG-20250825-165607.png", 16:00 WIB Thailand vs Indonesia
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=19412&type=drm
@@ -23,25 +23,15 @@ https://spacetv.my.id/index.mpd?id=19412&type=dash
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
 https://tglmp04.akamaized.net/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd
 
-#EXTINF:-1  group-title="EVENT 30/AGUSTUS/2025" tvg-logo="https://i.ibb.co.com/MxBt8tCs/IMG-20250825-164825.png", 14:30 WIB BWF World Championships
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d418f733ed224f9bb9c2b1589db22a20:6ed6fe26daa4b926810869ff60254ebb
-https://tglmp02.akamaized.net/out/v1/cc0fc82e76cb4e0093e81695284af443/manifest.mpd
-
-
-
-
 =======================================
 ==============LIVE SPORTS==============
 =======================================
 
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://storage.allsportdb.com/orig/event/e03b5bd0-7d5e-44aa-8941-3507588b510e", 19:30 WIB Brazil (w) vs France (w)
 
-
 =======================================
 ===============LIGA INDO===============
 =======================================
-
 
 #EXTINF:-1 tvg-id="LIGA INDO" group-title="EVENT 30/AGUSTUS/2025" tvg-logo="https://i.ibb.co.com/tw2VhL0m/BRI.png", 15:30 WIB PERSIJAP vs Arema FC
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
