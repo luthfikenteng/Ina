@@ -69,7 +69,13 @@ https://seprai.jasoncreak8.workers.dev/play.mpd?id=9182&type=dash
 ==============LIGA SPANYOL============
 =======================================
 
-#EXTINF:-1 group-title="EVENT 30/AGUSTUS/2025" tvg-logo="https://i.ibb.co.com/1JwYR5NV/LALIGA.png", 02:30 WIB Valencia vs Getafe
+#EXTINF:-1 group-title="EVENT 30/AGUSTUS/2025" tvg-logo="https://i.ibb.co.com/1JwYR5NV/LALIGA.png", 22:00 WIB Deportivo Alaves vs Atletico Madrid
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
 
 
 =======================================
@@ -116,7 +122,14 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/in
 =============LIGA PRANCIS==============
 =======================================
 
-#EXTINF:-1 tvg-id="LIGA PRANCIS" group-title="EVENT 30/AGUSTUS/2025" tvg-logo="https://i.ibb.co.com/wZqyXTQq/IMG-20250430-173924.png", 01:45 WIB Lens vs Brest
+#EXTINF:-1 tvg-id="LIGA PRANCIS" group-title="EVENT 30/AGUSTUS/2025" tvg-logo="https://i.ibb.co.com/wZqyXTQq/IMG-20250430-173924.png", 22:00 WIB Lorient vs Lille
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/tv/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd
 
 =======================================
 =======================================
