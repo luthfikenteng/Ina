@@ -40,14 +40,14 @@ awalan
 ==============LIGA SPANYOL============
 =======================================
 
-#EXTINF:-1 group-title="EVENT 31/AGUSTUS/2025" tvg-logo="https://i.ibb.co.com/1JwYR5NV/LALIGA.png", 00:00 WIB Real Oviedo vs Real Sociedad
+#EXTINF:-1 group-title="EVENT 31/AGUSTUS/2025" tvg-logo="https://i.ibb.co.com/1JwYR5NV/LALIGA.png", 02:30 WIB Real Madrid vs Mallorca
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c88dc6c668cac3b468d4a4c7e176ff3d:1aeb739de2c14ed0ad658ca8043208d8
 https://live-atv-cdn.izzigo.tv/2/out/u/dash/SKY-SPORTS-16-HD/default.mpd
 
-#EXTINF:-1 group-title="EVENT 31/AGUSTUS/2025" tvg-logo="https://i.ibb.co.com/1JwYR5NV/LALIGA.png", 00:30 WIB Girona vs Sevilla
+#EXTINF:-1 group-title="EVENT 31/AGUSTUS/2025" tvg-logo="https://i.ibb.co.com/1JwYR5NV/LALIGA.png", 02:30 WIB Real Madrid vs Mallorca
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -95,12 +95,6 @@ http://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/pwdvd9fm5u/o
 =======================================
 
 #EXTINF:-1 tvg-id="LIGA PRANCIS" group-title="EVENT 31/AGUSTUS/2025" tvg-logo="https://i.ibb.co.com/wZqyXTQq/IMG-20250430-173924.png", 00:00 WIB Nantes vs Auxerre
-#EXTVLCOPT:http-referer=https://webtv.sk/tv/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd
 
 #EXTINF:-1 tvg-id="LIGA PRANCIS" group-title="EVENT 31/AGUSTUS/2025" tvg-logo="https://i.ibb.co.com/wZqyXTQq/IMG-20250430-173924.png", 02:05 WIB Toulouse vs PSG
 #EXTVLCOPT:http-origin=https://demo.zplayer.xyz
@@ -229,7 +223,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
 
 #EXTINF:-1 tvg-id="MentariTV.id" group-title="Indonesia" tvg-name="Mentari TV" tvg-logo="https://i.ibb.co.com/7Jnn95wt/MENTARI.png",MENTARI TV
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
-https://raw.githubusercontent.com/luthfikenteng/Ina/refs/heads/main/PL/mentari.m3u8
+#https://raw.githubusercontent.com/luthfikenteng/Ina/refs/heads/main/PL/mentari.m3u8
 
 =======================================
 
@@ -244,7 +238,7 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/0a6c6b1534444ab4bd903af8761e6747/ind
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/1tSZ3sWz/VTV.png" group-title="Indonesia",VTV
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
-https://raw.githubusercontent.com/luthfikenteng/Ina/refs/heads/main/PL/vtv.m3u8
+#https://raw.githubusercontent.com/luthfikenteng/Ina/refs/heads/main/PL/vtv.m3u8
 
 =======================================
 
@@ -438,7 +432,7 @@ https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8
 
 #EXTINF:-1 tvg-name="ktv" tvg-logo="https://i.ibb.co.com/HDvBTm58/KTV.png" group-title="Indonesia", KTV
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
-https://raw.githubusercontent.com/luthfikenteng/Ina/refs/heads/main/PL/ktv.m3u8
+#https://raw.githubusercontent.com/luthfikenteng/Ina/refs/heads/main/PL/ktv.m3u8
 
 =======================================
 =================================================Indonesia=Channels=HD================================================
@@ -553,19 +547,19 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
 
 #EXTINF:-1 tvg-id="MentariTV.id" group-title="INDONESIA HD" tvg-name="Mentari TV" tvg-logo="https://i.ibb.co.com/7Jnn95wt/MENTARI.png",MENTARI TV HD
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
-https://raw.githubusercontent.com/luthfikenteng/Ina/refs/heads/main/PL/mentari.m3u8
+#https://raw.githubusercontent.com/luthfikenteng/Ina/refs/heads/main/PL/mentari.m3u8
 
 =======================================
 
 #EXTINF:0 tvg-logo="https://i.ibb.co.com/1GWCbMRs/ANTV.png" group-title="INDONESIA HD" tvg-id="ANTV",  ANTV HD
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
-https://raw.githubusercontent.com/luthfikenteng/Ina/refs/heads/main/PL/antv.m3u8
+#https://raw.githubusercontent.com/luthfikenteng/Ina/refs/heads/main/PL/antv.m3u8
 
 =======================================
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/1tSZ3sWz/VTV.png" group-title="INDONESIA HD",VTV
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
-https://raw.githubusercontent.com/luthfikenteng/Ina/refs/heads/main/PL/vtv.m3u8
+#https://raw.githubusercontent.com/luthfikenteng/Ina/refs/heads/main/PL/vtv.m3u8
 
 =======================================
 
@@ -698,7 +692,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h210/02.m3u8|user-agent=ExoPlayer/2.19
 
 #EXTINF:-1 tvg-id="Rajawali TV" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://i.ibb.co.com/MkkwN1Zd/RTV.png" group-title="INDONESIA HD", RTV HD
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
-https://raw.githubusercontent.com/luthfikenteng/Ina/refs/heads/main/PL/rtv.m3u8
+#https://raw.githubusercontent.com/luthfikenteng/Ina/refs/heads/main/PL/rtv.m3u8
 
 #EXTINF:0 tvg-id="RTV" tvg-logo="https://i.ibb.co.com/MkkwN1Zd/RTV.png" group-title="INDONESIA HD", RTV HD 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -729,7 +723,7 @@ https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
 
 #EXTINF:-1 tvg-name="ktv" tvg-logo="https://i.ibb.co.com/HDvBTm58/KTV.png" group-title="INDONESIA HD", KTV HD
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
-https://raw.githubusercontent.com/luthfikenteng/Ina/refs/heads/main/PL/ktv.m3u8
+#https://raw.githubusercontent.com/luthfikenteng/Ina/refs/heads/main/PL/ktv.m3u8
 
 =======================================
 =======================================================DAERAH======================================================
@@ -911,7 +905,7 @@ https://e.siar.us/live/sampit-tv.m3u8
 
 #EXTINF:-1  tvg-id="JAKTV.id" group-title="DAERAH" tvg-logo="https://i.ibb.co.com/TMgC0djr/JAKTV.png",JakTV
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
-https://raw.githubusercontent.com/luthfikenteng/Ina/refs/heads/main/PL/jaktv.m3u8
+#https://raw.githubusercontent.com/luthfikenteng/Ina/refs/heads/main/PL/jaktv.m3u8
 
 =======================================
 
@@ -1427,7 +1421,7 @@ https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=8237&type=dash
 
 #EXTINF:-1 tvg-id="MentariTV.id" group-title="KIDS" tvg-name="Mentari TV" tvg-logo="https://i.ibb.co.com/7Jnn95wt/MENTARI.png",MENTARI TV HD 2
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
-https://raw.githubusercontent.com/luthfikenteng/Ina/refs/heads/main/PL/mentari.m3u8
+#https://raw.githubusercontent.com/luthfikenteng/Ina/refs/heads/main/PL/mentari.m3u8
 
 #EXTINF:-1 tvg-id="MentariTV.id" group-title="KIDS" tvg-name="Mentari TV" tvg-logo="https://i.ibb.co.com/7Jnn95wt/MENTARI.png",MENTARI TV HD 3
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -1441,7 +1435,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/1tSZ3sWz/VTV.png" group-title="KIDS",VTV
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
-https://raw.githubusercontent.com/luthfikenteng/Ina/refs/heads/main/PL/vtv.m3u8
+#https://raw.githubusercontent.com/luthfikenteng/Ina/refs/heads/main/PL/vtv.m3u8
 
 =======================================
 
@@ -1454,7 +1448,7 @@ https://raw.githubusercontent.com/luthfikenteng/Ina/refs/heads/main/PL/vtv.m3u8
 
 #EXTINF:-1 tvg-id="Rajawali TV" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://i.ibb.co.com/MkkwN1Zd/RTV.png" group-title="KIDS", RTV HD
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
-https://raw.githubusercontent.com/luthfikenteng/Ina/refs/heads/main/PL/rtv.m3u8
+#https://raw.githubusercontent.com/luthfikenteng/Ina/refs/heads/main/PL/rtv.m3u8
 
 =======================================
 
@@ -1496,7 +1490,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/HoreeHD/mpd/HoreeHD.mpd
 
 #EXTINF:-1 group-title="KIDS"  tvg-logo="https://i.ibb.co.com/604NFYcd/FUN.png",FUN PLANET
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
-https://raw.githubusercontent.com/luthfikenteng/Ina/refs/heads/main/PL/planetfun.m3u8
+#https://raw.githubusercontent.com/luthfikenteng/Ina/refs/heads/main/PL/planetfun.m3u8
 
 =======================================
 
@@ -1949,7 +1943,7 @@ https://video1.earthcam.com/myearthcam/641f889a7774a38d5fc93dc76c4aeded.flv/play
 
 #EXTINF:-1 group-title="RELIGI"  tvg-logo="https://i.ibb.co.com/WNPNJkv2/DEIKIDS.png",DEI KIDS TV
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
-https://raw.githubusercontent.com/luthfikenteng/Ina/refs/heads/main/PL/dkids.m3u8
+#https://raw.githubusercontent.com/luthfikenteng/Ina/refs/heads/main/PL/dkids.m3u8
 https://e.siar.us/live/deikidstv.m3u8|user-agent=Mozilla/5.0 (X11; Linux x86_64)
 
 =======================================
