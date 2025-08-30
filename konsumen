@@ -29,11 +29,7 @@ https://tglmp04.akamaized.net/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.m
 ===============LIGA INDO===============
 =======================================
 
-#EXTINF:-1 tvg-id="LIGA INDO" group-title="EVENT 30/AGUSTUS/2025" tvg-logo="https://i.ibb.co.com/tw2VhL0m/BRI.png", 15:30 WIB PERSIJAP vs Arema FC
-
-
-
-#EXTINF:-1 tvg-id="LIGA INDO" group-title="EVENT 29/AGUSTUS/2025" tvg-logo="https://i.ibb.co.com/tw2VhL0m/BRI.png", 19:00 WIB Bali United vs Madura United
+#EXTINF:-1 tvg-id="LIGA INDO" group-title="EVENT 30/AGUSTUS/2025" tvg-logo="https://i.ibb.co.com/tw2VhL0m/BRI.png", 19:00 WIB Bali United vs Madura United
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=19354&type=drm
