@@ -32,12 +32,10 @@ awalan
 ==============LIGA INGGRIS=============
 =======================================
 
-#EXTINF:-1 tvg-id="LIGA INGGRIS" group-title="EVENT 30/AGUSTUS/2025" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png", 
-23:30 WIB Leeds United vs Newcastle United
+#EXTINF:-1 tvg-id="LIGA INGGRIS" group-title="EVENT 30/AGUSTUS/2025" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png", 23:30 WIB Leeds United vs Newcastle United
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9872e439f21f4a299cab249c6554daa3:0cdfcfe0d0f1fbe100554ce3ef4c4665
 https://moblive.yuppcdn.net/drm1/smil:starsportsselect1drm.smil/manifest.mpd
-
 
 =======================================
 =======================================
