@@ -7,7 +7,11 @@ awalan
 =================VOLI==================
 =======================================
 
-#EXTINF:-1 group-title="EVENT 29/AGUSTUS/2025" tvg-logo="https://i.ibb.co.com/zhStskpR/IMG-20250825-165607.png", 19:00 WIB Brazil vs Indonesia 
+#EXTINF:-1 group-title="EVENT 29/AGUSTUS/2025" tvg-logo="https://i.ibb.co.com/zhStskpR/IMG-20250825-165607.png", 19:00 16:00 WIB Thailand vs Indonesia
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=19412&type=drm
+https://spacetv.my.id/index.mpd?id=19412&type=dash
 
 =======================================
 ==============BADMINTON==============
