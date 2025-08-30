@@ -14,10 +14,6 @@ awalan
 =======================================
 
 #EXTINF:-1  group-title="EVENT 30/AGUSTUS/2025" tvg-logo="https://i.ibb.co.com/MxBt8tCs/IMG-20250825-164825.png", 14:30 WIB BWF World Championships
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
-https://tglmp04.akamaized.net/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd
 
 =======================================
 ==============LIVE SPORTS==============
@@ -30,16 +26,6 @@ https://tglmp04.akamaized.net/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.m
 =======================================
 
 #EXTINF:-1 tvg-id="LIGA INDO" group-title="EVENT 30/AGUSTUS/2025" tvg-logo="https://i.ibb.co.com/tw2VhL0m/BRI.png", 19:00 WIB Bali United vs Madura United
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=19354&type=drm
-https://spacetv.my.id/index.mpd?id=19354&type=dash
-
-#EXTINF:-1 group-title="EVENT 30/AGUSTUS/2025" tvg-logo="https://i.ibb.co.com/tw2VhL0m/BRI.png", 19:00 WIB Malut United vs PSIM Yogyakarta
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=19385&type=drm
-https://spacetv.my.id/index.mpd?id=19385&type=dash
 
 =======================================
 =======================================
@@ -48,6 +34,35 @@ https://spacetv.my.id/index.mpd?id=19385&type=dash
 
 #EXTINF:-1 tvg-id="LIGA INGGRIS" group-title="EVENT 30/AGUSTUS/2025" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png", 18:30 WIB Chelsea vs Fulham
 
+#EXTINF:-1 tvg-id="LIGA INGGRIS" group-title="EVENT 30/AGUSTUS/2025" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png", 21:00 WIB Wolverhampton Wanderers vs Everton
+#EXTVLCOPT:http-origin=https://demo.zplayer.xyz
+#EXTVLCOPT:http-referrer=https://demo.zplayer.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+https://hotlivezz179602324.akainu.xyz/XnjqL4J3ZzzsRYkhF6w8mQ/Fv2lucGIbhPi2caWYvF5Lg/1755706691863/live/satSD/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="LIGA INGGRIS" group-title="EVENT 30/AGUSTUS/2025" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png", 21:00 WIB Sunderland vs Brentford
+#EXTVLCOPT:http-origin=https://demo.zplayer.xyz
+#EXTVLCOPT:http-referrer=https://demo.zplayer.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+https://hotlivezz179602324.akainu.xyz/v1nj66YohcF8H3vetv8xgg/Fv2lucGIbhPi2caWYvF5Lg/1755971105176/live/soiSD/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="LIGA INGGRIS" group-title="EVENT 30/AGUSTUS/2025" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png", 21:00 WIB Tottenham Hotspur vs AFC Bournemouth
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://seprai.jasoncreak8.workers.dev/play?id=9183&type=drm
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+https://seprai.jasoncreak8.workers.dev/play.mpd?id=9183&type=dash
+
+#EXTINF:-1 tvg-id="LIGA INGGRIS" group-title="EVENT 30/AGUSTUS/2025" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png", 21:00 WIB Tottenham Hotspur vs AFC Bournemouth
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://seprai.jasoncreak8.workers.dev/play?id=9183&type=drm
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+https://seprai.jasoncreak8.workers.dev/play.mpd?id=9183&type=dash
+
+#EXTINF:-1 tvg-id="LIGA INGGRIS" group-title="EVENT 30/AGUSTUS/2025" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png", 21:00 WIB Manchester United vs Burnley
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://seprai.jasoncreak8.workers.dev/play?id=9182&type=drm
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+https://seprai.jasoncreak8.workers.dev/play.mpd?id=9182&type=dash
 
 =======================================
 =======================================
@@ -96,7 +111,6 @@ https://fta4-cdn-flr.visionplus.id/out/v1/63c0da12bb4d48afbaf053f51dff2353/index
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd
 
-
 =======================================
 =======================================
 =============LIGA PRANCIS==============
@@ -104,14 +118,12 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/in
 
 #EXTINF:-1 tvg-id="LIGA PRANCIS" group-title="EVENT 30/AGUSTUS/2025" tvg-logo="https://i.ibb.co.com/wZqyXTQq/IMG-20250430-173924.png", 01:45 WIB Lens vs Brest
 
-
 =======================================
 =======================================
 ===============MOTOGP================
 =======================================
 
 #EXTINF:0 tvg-id="MOTO GP" tvg-logo="https://i.ibb.co.com/TqRf4Xk3/IMG-20250816-175900.png" group-title="LIVE EVENT", MOTOGP
-
 
 =======================================
 ==============LIGA ARAB===============
@@ -125,9 +137,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/in
 
 #EXTINF:-1 group-title="EVENT 28/AGUSTUS/2025" tvg-logo="https://i.ibb.co.com/39ysdc2K/IMG-20250501-231953.png", 02:00 WIB Club Brugge vs Rangers
 
-
 ==================================================Indonesia=Channels==================================================
-
 
 #EXTINF:-1 tvg-id="GTV HD - [Channel 3].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co.com/39DJnjwt/GTV.png" group-title="Indonesia", GTV
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
