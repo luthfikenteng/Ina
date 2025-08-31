@@ -7,18 +7,7 @@ awalan
 =================VOLI==================
 =======================================
 
-#EXTINF:-1 group-title="EVENT 31/AGUSTUS/2025" tvg-logo="https://i.ibb.co.com/zhStskpR/IMG-20250825-165607.png", 19:00 WIB  Iran vs Italy [FINAL]
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://seprai.jasoncreak8.workers.dev/play?id=19334&type=drm
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-https://seprai.jasoncreak8.workers.dev/play.mpd?id=19334&type=dash
-
-#EXTINF:-1 group-title="EVENT 31/AGUSTUS/2025" tvg-logo="https://i.ibb.co.com/zhStskpR/IMG-20250825-165607.png", 19:00 WIB  Iran vs Italy [FINAL]
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=19334&type=drm
-https://spacetv.my.id/index.mpd?id=19334&type=dash
-
+#EXTINF:-1 group-title="EVENT 31/AGUSTUS/2025" tvg-logo="https://i.ibb.co.com/zhStskpR/IMG-20250825-165607.png", 19:00 
 =======================================
 ==============BADMINTON==============
 =======================================
@@ -47,24 +36,27 @@ https://tglmp04.akamaized.net/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.m
 ==============LIGA INGGRIS=============
 =======================================
 
-#EXTINF:-1 tvg-id="LIGA INGGRIS" group-title="EVENT 31/AGUSTUS/2025" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png", 20:00 WIB Brighton & Hove Albion vs Manchester City
+#EXTINF:-1 tvg-id="LIGA INGGRIS" group-title="EVENT 31/AGUSTUS/2025" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png", 22:30 WIB Liverpool vs Arsenal
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://seprai.jasoncreak8.workers.dev/play?id=9182&type=drm
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 https://seprai.jasoncreak8.workers.dev/play.mpd?id=9182&type=dash
 
-#EXTINF:-1 tvg-id="LIGA INGGRIS" group-title="EVENT 31/AGUSTUS/2025" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png", 20:00 WIB Nottingham Forest vs West Ham
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://seprai.jasoncreak8.workers.dev/play?id=9183&type=drm
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-https://seprai.jasoncreak8.workers.dev/play.mpd?id=9183&type=dash
 
 =======================================
 =======================================
 ==============LIGA SPANYOL============
 =======================================
 
-#EXTINF:-1 group-title="EVENT 31/AGUSTUS/2025" tvg-logo="https://i.ibb.co.com/1JwYR5NV/LALIGA.png", 02:30 WIB Real Madrid vs Mallorca
+#EXTINF:-1 group-title="EVENT 31/AGUSTUS/2025" tvg-logo="https://i.ibb.co.com/1JwYR5NV/LALIGA.png", 22:00 WIB Celta de Vigo vs Villarreal
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
+
+<================>
 
 
 =======================================
@@ -80,14 +72,18 @@ https://seprai.jasoncreak8.workers.dev/play.mpd?id=9183&type=dash
 =============LIGA JERMAN==============
 =======================================
 
-#EXTINF:-1 tvg-id="BUNDES LIGA" group-title="EVENT 31/AGUSTUS/2025" tvg-logo="https://i.ibb.co.com/R4McZS45/IMG-20250430-173818.png", 23:30 WIB Augsburg vs Bayern Munchen
+#EXTINF:-1 tvg-id="BUNDES LIGA" group-title="EVENT 31/AGUSTUS/2025" tvg-logo="https://i.ibb.co.com/R4McZS45/IMG-20250430-173818.png", 22:30 WIB Borussia Dortmund vs Union Berlin
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f959dcdd1ca8c89658cd651ed36e2851:aa4cf56ce7c522a9e6582c42537be381
+http://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/pwdvd9fm5u/out/v1/5e22845dab3648b8a7033fd5923d62d1/cenc.mpd?token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
+
 
 =======================================
 =======================================
 =============LIGA PRANCIS==============
 =======================================
 
-#EXTINF:-1 tvg-id="LIGA PRANCIS" group-title="EVENT 31/AGUSTUS/2025" tvg-logo="https://i.ibb.co.com/wZqyXTQq/IMG-20250430-173924.png", 20:00 WIB Angers SCO vs Rennes
+#EXTINF:-1 tvg-id="LIGA PRANCIS" group-title="EVENT 31/AGUSTUS/2025" tvg-logo="https://i.ibb.co.com/wZqyXTQq/IMG-20250430-173924.png", 22:15 WIB Monaco vs Strasbourg
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referer=https://webtv.sk/tv/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -95,7 +91,7 @@ https://seprai.jasoncreak8.workers.dev/play.mpd?id=9183&type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd
-05 WIB Toulouse vs PSG
+
 
 =======================================
 =======================================
