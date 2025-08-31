@@ -7,7 +7,17 @@ awalan
 =================VOLI==================
 =======================================
 
-#EXTINF:-1 group-title="EVENT 30/AGUSTUS/2025" tvg-logo="https://i.ibb.co.com/zhStskpR/IMG-20250825-165607.png", 16:00 WIB Thailand vs Indonesia
+#EXTINF:-1 group-title="EVENT 31/AGUSTUS/2025" tvg-logo="https://i.ibb.co.com/zhStskpR/IMG-20250825-165607.png", 19:00 WIB  Iran vs Italy [FINAL]
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://seprai.jasoncreak8.workers.dev/play?id=19334&type=drm
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+https://seprai.jasoncreak8.workers.dev/play.mpd?id=19334&type=dash
+
+#EXTINF:-1 group-title="EVENT 31/AGUSTUS/2025" tvg-logo="https://i.ibb.co.com/zhStskpR/IMG-20250825-165607.png", 19:00 WIB  Iran vs Italy [FINAL]
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=19334&type=drm
+https://spacetv.my.id/index.mpd?id=19334&type=dash
 
 =======================================
 ==============BADMINTON==============
