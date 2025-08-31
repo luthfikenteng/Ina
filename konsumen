@@ -47,8 +47,17 @@ https://tglmp04.akamaized.net/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.m
 ==============LIGA INGGRIS=============
 =======================================
 
-#EXTINF:-1 tvg-id="LIGA INGGRIS" group-title="EVENT 31/AGUSTUS/2025" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png", 23:30 WIB Leeds United vs Newcastle United
+#EXTINF:-1 tvg-id="LIGA INGGRIS" group-title="EVENT 31/AGUSTUS/2025" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png", 20:00 WIB Brighton & Hove Albion vs Manchester City
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://seprai.jasoncreak8.workers.dev/play?id=9182&type=drm
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+https://seprai.jasoncreak8.workers.dev/play.mpd?id=9182&type=dash
 
+#EXTINF:-1 tvg-id="LIGA INGGRIS" group-title="EVENT 31/AGUSTUS/2025" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png", 20:00 WIB Nottingham Forest vs West Ham
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://seprai.jasoncreak8.workers.dev/play?id=9183&type=drm
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+https://seprai.jasoncreak8.workers.dev/play.mpd?id=9183&type=dash
 
 =======================================
 =======================================
@@ -78,10 +87,15 @@ https://tglmp04.akamaized.net/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.m
 =============LIGA PRANCIS==============
 =======================================
 
-#EXTINF:-1 tvg-id="LIGA PRANCIS" group-title="EVENT 31/AGUSTUS/2025" tvg-logo="https://i.ibb.co.com/wZqyXTQq/IMG-20250430-173924.png", 00:00 WIB Nantes vs Auxerre
-
-#EXTINF:-1 tvg-id="LIGA PRANCIS" group-title="EVENT 31/AGUSTUS/2025" tvg-logo="https://i.ibb.co.com/wZqyXTQq/IMG-20250430-173924.png", 02:05 WIB Toulouse vs PSG
-
+#EXTINF:-1 tvg-id="LIGA PRANCIS" group-title="EVENT 31/AGUSTUS/2025" tvg-logo="https://i.ibb.co.com/wZqyXTQq/IMG-20250430-173924.png", 20:00 WIB Angers SCO vs Rennes
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/tv/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd
+05 WIB Toulouse vs PSG
 
 =======================================
 =======================================
