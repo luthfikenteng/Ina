@@ -22,6 +22,11 @@ awalan
 
 #EXTINF:-1 group-title="EVENT 3/SEPTEMBER/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbiGPAhBpu1BLVYDgB-3YV4fxc9bCRCPrq4A&s", 15:30 WIB South Korea U23 vs Macau U23
 
+#EXTINF:-1 group-title="EVENT 3/SEPTEMBER/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbiGPAhBpu1BLVYDgB-3YV4fxc9bCRCPrq4A&s", 19:30 WIB Indonesia vs Laos 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+https://tfou4gr5dgmttgha1hcto8yzdgptpptwzc3jtf3a8r531cp1gh5djq31o.100ycdn.com/live1.pro2cdnlive.com/live/channel13/playlist.m3u8?wsSecret=4ca5e8f330e2548e52cbe14284435e79&wsABSTime=1756950067&wsSession=e619094cf825c00d5abf52d1-175690686876543&wsIPSercert=7d424ba9d03f84b389ccd2b250985562&wsiphost=local&wsBindIP=1
+
+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ppdd02.dtfjinikdinbiframe.shop/
 #EXTVLCOPT:network-caching=1000
