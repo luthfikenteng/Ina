@@ -1042,7 +1042,7 @@ https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_cinemax.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bewe.biz.id/khap.drm?jangan=709586d00d0933a9dc901644c4a4fad9c856375f0361a21dfd86d1e8dbd7f929&dimaling=1756897878
+#KODIPROP:inputstream.adaptive.license_key=https://bewe.biz.id/khap.drm?jangan=aaf534cd11f2f867e6dbc8b68459f658decfa9d9fd88fb52d11dcd523d0080a7&dimaling=1756912709
 https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
 
 =======================================
