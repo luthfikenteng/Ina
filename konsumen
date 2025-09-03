@@ -20,7 +20,11 @@ awalan
 ==============LIVE SPORTS==============
 =======================================
 
-#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://storage.allsportdb.com/orig/event/e03b5bd0-7d5e-44aa-8941-3507588b510e", 19:30 WIB Brazil (w) vs France (w)
+#EXTINF:-1 group-title="EVENT 3/SEPTEMBER/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbiGPAhBpu1BLVYDgB-3YV4fxc9bCRCPrq4A&s", 15:30 WIB South Korea U23 vs Macau U23
+#EXTVLCOPT:http-origin=https://demo.zplayer.xyz
+#EXTVLCOPT:http-referrer=https://demo.zplayer.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+https://hotlivezz179602324.akainu.xyz/v1nj66YohcF8H3vetv8xgg/Fv2lucGIbhPi2caWYvF5Lg/1755971105176/live/soiSD/chunklist.m3u8
 
 =======================================
 ===============LIGA INDO===============
