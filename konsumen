@@ -11,7 +11,7 @@ awalan
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=19488&type=drm
-https://spacetv.my.id/index.mpd?id=19488&type=dash
+#https://spacetv.my.id/index.mpd?id=19488&type=dash
 
 =======================================
 ==============BADMINTON==============
