@@ -41,6 +41,21 @@ https://seprai.jasoncreak8.workers.dev/play.mpd?id=19497&type=dash
 https://spacetv.my.id/index.mpd?id=19497&type=dash
 
 
+#EXTINF:-1 group-title="EVENT 5/SEPTEMBER/2025" tvg-logo="https://www.srilankasports.com/wp-content/uploads/2024/02/friendly.png", 20:30 WIB Indonesia vs Chinese Taipei
+#EXTVLCOPT:http-origin=https://demo.crunchyrolll.xyz
+#EXTVLCOPT:http-referrer=https://demo.crunchyrolll.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+https://hotlivezz179602324.akainu.xyz/0l-zbavOG-tDeHH0JS5xSQ/Fv2lucGIbhPi2caWYvF5Lg/1757099394395/live/thuSD/chunklist.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ppdd02.dtfjinikdinbiframe.shop/
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-origin=https://ppdd02.dtfjinikdinbiframe.shop
+#EXTINF:-1 group-title="EVENT 5/SEPTEMBER/2025" tvg-logo="https://www.srilankasports.com/wp-content/uploads/2024/02/friendly.png", 20:30 WIB Indonesia vs Chinese Taipei
+https://twnx3-cf.boblcfwudz421.com/auth%3Dd08e9d65fbd0c649f53bc8436cabf1ad7af766f181670d2a18a8b649896a6267b1bd21bde1030efa19d35237cda451fc5c4750cbad8abb29a6ab8edddcaad1e0629404716e8822bbebbb5396dbe810be1ae2aa0345430fdfe6c7e754eb3b0c67d88fc576e466e9c1c500bad862035e2404e6092e1704758f977508e77724929d483b5e236d0c834f2434927ecb6a88f0d14f56979778c7cbdb3bd79dd192d09e%26cid%3DYvoz9_UXqTEZam7X2zhhz250903%26_v%3D2%26_r%3Dt22Beq%26_vis%3D6c2d24113ff392ddd0a73c231aa6e347e9dc6dea8653262e328d767d76207154%26_vvs%3Dd9e7e6a2c4f01ba24b197ac7e9615bb6ddd14c250a25df820dcbf06581ba843e/transcode/c368840_480p.m3u8
+
+
 
 #EXTINF:-1 group-title="EVENT 5/SEPTEMBER/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsCdeZSPOI7JqrzKowZoppjXkBxRlBEMh9eQ&s", 19:00 WIB Sudan Selatan vs Republik Demokratik Kongo
 #EXTVLCOPT:http-origin=https://demo.crunchyrolll.xyz
