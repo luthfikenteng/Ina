@@ -27,6 +27,12 @@ https://spacetv.my.id/index.mpd?id=19488&type=dash
 ==============LIVE SPORTS==============
 =======================================
 
+#EXTINF:-1 group-title="EVENT 5/SEPTEMBER/2025" tvg-logo="https://www.srilankasports.com/wp-content/uploads/2024/02/friendly.png", 20:30 WIB Indonesia vs Chinese Taipei
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cbdeef219aff3d45955873788eca403e:2fa691b352b107152083ca3cf8244b0b
+https://d7pd9oqdl4d44.cloudfront.net/2025_09_04_14_42_58_1621ba90-af7f-49d6-be13-efa07d52c2cf/PROD_CMAF_CENC/index-dash.mpd
 
 #EXTINF:-1 group-title="EVENT 5/SEPTEMBER/2025" tvg-logo="https://www.srilankasports.com/wp-content/uploads/2024/02/friendly.png", 20:30 WIB Indonesia vs Chinese Taipei
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
