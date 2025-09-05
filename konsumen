@@ -342,7 +342,6 @@ https://cdn10jtedge.indihometv.com/atm/DASH/mncnews/manifest.mpd
 =======================================
 
 #EXTINF:-1 tvg-id="Kompas TV - [Channel 106].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co.com/yn67Cj9y/KOMPAS.png" group-title="Indonesia",KOMPAS TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h234/01.m3u8
 
 =======================================
