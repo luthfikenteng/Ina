@@ -10,17 +10,6 @@ awalan
 #EXTINF:-1 group-title="EVENT 4/SEPTEMBER/2025" tvg-logo="https://i.ibb.co.com/zhStskpR/IMG-20250825-165607.png", 16:00 WIB Livoli Divisi Utama 
 
 #EXTINF:-1 group-title="EVENT 8/SEPTEMBER/2025" tvg-logo="https://i.ibb.co.com/zhStskpR/IMG-20250825-165607.png", 16:00 WIB Livoli Divisi Utama 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://ppdd02.playerktidfintkd.shop/
-https://twnx3-cf.boblcfwudz421.com/auth%3D8f5653745d692d21cbd1220cb1158d47d8bce860cf998946d4793baa0e479ff30447c3394fc5bf0c3274115ae3cd0a5caa162b721b07033a57041b798f534c90ee51af105df9e20475a409ace15ae3536ef795bf9819f757f1dcf6a6e589775d474042fc2d839d4fe2145f8300d5aace8840a027f9acf0a82ba342b257a6c03eeab9903ba0255e7f742d77d95296253049b7dcad9f3cadfc2028497a0dccb2fda3a8edccaca560015ca42715ce2ddfa259a7a8effe72f65c884155740dbc038c%26cid%3DYvoz9_UXqTEZam7X2zhhz250903%26_v%3D2%26_r%3DEt3or6%26_vis%3D700f620d861ca781b32c42ad7f8f8229f2dc3616fe6ad88a4caf66e6cfebbc97%26_vvs%3Daaacc65dea44d9c2857ee2e16c6b4b7f57d97d886bb5d39f6e4a7749f6f42805/app/c369248.m3u8
-
-#EXTINF:-1 group-title="EVENT 8/SEPTEMBER/2025" tvg-logo="https://i.ibb.co.com/zhStskpR/IMG-20250825-165607.png", 16:00 WIB Livoli Divisi Utama 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://seprai.jasoncreak8.workers.dev/play?id=19488&type=drm
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-https://seprai.jasoncreak8.workers.dev/play.mpd?id=19488&type=dash
-
-#EXTINF:-1 group-title="EVENT 8/SEPTEMBER/2025" tvg-logo="https://i.ibb.co.com/zhStskpR/IMG-20250825-165607.png", 16:00 WIB Livoli Divisi Utama 
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=19488&type=drm
@@ -32,8 +21,6 @@ https://spacetv.my.id/index.mpd?id=19488&type=dash
 =======================================
 
 #EXTINF:-1  group-title="EVENT 1/SEPTEMBER/2025" tvg-logo="https://i.ibb.co.com/MxBt8tCs/IMG-20250825-164825.png", 18:00 WIB BWF World Championships
-
-
 
 =======================================
 ==============LIVE SPORTS==============
@@ -1441,6 +1428,12 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/HoreeHD/mpd/HoreeHD.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=7052&type=drm
 #https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=7052&type=dash
+
+=======================================
+
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co.com/TBnrn9VK/IMG-20250908-195331.png",TELETUBBIES
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://rocket-tv.online/redtube/randomyt.m3u8?id=UCpKXcNQAoM_j4hlt4dDvDdQ
 
 =======================================
 
