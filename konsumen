@@ -30,24 +30,6 @@ awalan
 
 
 
-#EXTINF:-1 group-title="EVENT 8/SEPTEMBER/2025" tvg-logo="https://www.srilankasports.com/wp-content/uploads/2024/02/friendly.png", 20:30 WIB Indonesia vs Lebanon
-#EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
-#EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
-https://live-xlvb.nsnd.live/WaxP_YLrfKeHr0XYuk1utg/e106295966a1a26dfddb5b60b193571b/1757358895/live/_definst_/stream_1_1bda7@coHD/playlist.m3u8
-
-#EXTINF:-1 group-title="EVENT 8/SEPTEMBER/2025" tvg-logo="https://www.srilankasports.com/wp-content/uploads/2024/02/friendly.png", 20:30 WIB Indonesia vs Lebanon
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=19497&type=drm
-https://spacetv.my.id/index.mpd?id=19497&type=dash
-
-#EXTINF:-1 group-title="EVENT 8/SEPTEMBER/2025" tvg-logo="https://www.srilankasports.com/wp-content/uploads/2024/02/friendly.png", 20:30 WIB Indonesia vs Lebanon
-#EXTVLCOPT:http-origin=https://demo.crunchyrolll.xyz
-#EXTVLCOPT:http-referrer=https://demo.crunchyrolll.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-https://hotlivezz179602324.akainu.xyz/eSCipoeGBrgpDjRypUT3Hg/Fv2lucGIbhPi2caWYvF5Lg/1757181358701/live/dungSD/chunklist.m3u8
-
 <================>
 #EXTINF:-1 group-title="EVENT 8/SEPTEMBER/2025" tvg-logo="https://www.srilankasports.com/wp-content/uploads/2024/02/friendly.png", 23:30 WIB Uni Emirat Arab vs Bahrain
 #EXTVLCOPT:http-origin=https://demo.crunchyrolll.xyz
@@ -56,12 +38,6 @@ https://hotlivezz179602324.akainu.xyz/eSCipoeGBrgpDjRypUT3Hg/Fv2lucGIbhPi2caWYvF
 https://hotlivezz179602324.akainu.xyz/fqjNeZXQkQapKieYUZM7nQ/Fv2lucGIbhPi2caWYvF5Lg/1756657572442/live/meoSD/chunklist.m3u8
 
 <================>
-
-#EXTINF:-1 group-title="EVENT 8/SEPTEMBER/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsCdeZSPOI7JqrzKowZoppjXkBxRlBEMh9eQ&s", 20:00 WIB Guinea Ekuatorial vs Tunisia
-#EXTVLCOPT:http-origin=https://demo.crunchyrolll.xyz
-#EXTVLCOPT:http-referrer=https://demo.crunchyrolll.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-https://hotlivezz179602324.akainu.xyz/2TKOkWEs0vGdaFob2j3VVw/Fv2lucGIbhPi2caWYvF5Lg/1757181358700/live/phoSD/chunklist.m3u8
 
 #EXTINF:-1 group-title="EVENT 8/SEPTEMBER/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsCdeZSPOI7JqrzKowZoppjXkBxRlBEMh9eQ&s", 23:00 WIB Guinea vs Aljazair
 #EXTVLCOPT:http-origin=https://demo.crunchyrolll.xyz
