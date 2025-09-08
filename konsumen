@@ -31,10 +31,10 @@ awalan
 
 
 #EXTINF:-1 group-title="EVENT 8/SEPTEMBER/2025" tvg-logo="https://www.srilankasports.com/wp-content/uploads/2024/02/friendly.png", 20:30 WIB Indonesia vs Lebanon
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://seprai.jasoncreak8.workers.dev/play?id=19497&type=drm
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-https://seprai.jasoncreak8.workers.dev/play.mpd?id=19497&type=dash
+#EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
+#EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+https://live-xlvb.nsnd.live/WaxP_YLrfKeHr0XYuk1utg/e106295966a1a26dfddb5b60b193571b/1757358895/live/_definst_/stream_1_1bda7@coHD/playlist.m3u8
 
 #EXTINF:-1 group-title="EVENT 8/SEPTEMBER/2025" tvg-logo="https://www.srilankasports.com/wp-content/uploads/2024/02/friendly.png", 20:30 WIB Indonesia vs Lebanon
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
