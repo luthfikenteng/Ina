@@ -32,17 +32,6 @@ awalan
 
 
 
-#EXTINF:-1 group-title="EVENT 9/SEPTEMBER/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbiGPAhBpu1BLVYDgB-3YV4fxc9bCRCPrq4A&s", 16:00 WIB Singapura U-23 vs Bangladesh U-23
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
-https://tglmp04.akamaized.net/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd
-
-#EXTINF:-1 group-title="EVENT 9/SEPTEMBER/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbiGPAhBpu1BLVYDgB-3YV4fxc9bCRCPrq4A&s", 17:00 WIB Uzbekistan U-23 vs Palestina U-23
-#EXTVLCOPT:http-origin=https://demo.crunchyrolll.xyz
-#EXTVLCOPT:http-referrer=https://demo.crunchyrolll.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-https://hotlivezz179602324.akainu.xyz/XnjqL4J3ZzzsRYkhF6w8mQ/Fv2lucGIbhPi2caWYvF5Lg/1755706691863/live/satSD/chunklist.m3u8
 
 #EXTINF:-1 group-title="EVENT 9/SEPTEMBER/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbiGPAhBpu1BLVYDgB-3YV4fxc9bCRCPrq4A&s", 18:35 WIB Australia U-23 vs China PR U-23
 #EXTVLCOPT:http-origin=https://demo.crunchyrolll.xyz
@@ -50,11 +39,19 @@ https://hotlivezz179602324.akainu.xyz/XnjqL4J3ZzzsRYkhF6w8mQ/Fv2lucGIbhPi2caWYvF
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 https://hotlivezz179602324.akainu.xyz/MK0FwGItjaioghotZCqz5g/Fv2lucGIbhPi2caWYvF5Lg/1757168189877/live/cunSD/chunklist.m3u8
 
+<================>
+
 #EXTINF:-1 group-title="EVENT 9/SEPTEMBER/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbiGPAhBpu1BLVYDgB-3YV4fxc9bCRCPrq4A&s", 19:30 WIB Korea Selatan vs Indonesia
 #EXTVLCOPT:http-origin=https://demo.crunchyrolll.xyz
 #EXTVLCOPT:http-referrer=https://demo.crunchyrolll.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-https://hotlivezz179602324.akainu.xyz/XnjqL4J3ZzzsRYkhF6w8mQ/Fv2lucGIbhPi2caWYvF5Lg/1755706691863/live/satSD/chunklist.m3u8
+https://hotlivezz179602324.akainu.xyz/rQjESxnjuiQBTGe7N1omgQ/Fv2lucGIbhPi2caWYvF5Lg/1755972600047/live/Z1SD/chunklist.m3u8
+
+#EXTINF:-1 group-title="EVENT 9/SEPTEMBER/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbiGPAhBpu1BLVYDgB-3YV4fxc9bCRCPrq4A&s", 19:30 WIB Korea Selatan vs Indonesia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ppdd02.playerktidfintkd.shop/
+
+<================>
 
 #EXTINF:-1 group-title="EVENT 9/SEPTEMBER/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbiGPAhBpu1BLVYDgB-3YV4fxc9bCRCPrq4A&s", 19:30 WIB Thailand U-23 vs Malaysia U-23
 #EXTVLCOPT:http-origin=https://demo.crunchyrolll.xyz
@@ -70,6 +67,55 @@ https://hotlivezz179602324.akainu.xyz/icD5-b7OxmdGu2Bjc2G01g/Fv2lucGIbhPi2caWYvF
 
 #EXTINF:-1 group-title="EVENT 9/SEPTEMBER/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbiGPAhBpu1BLVYDgB-3YV4fxc9bCRCPrq4A&s", 21:30 WIB Hong Kong U-23 vs Guam U-23
 https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/master.m3u8
+
+#EXTINF:-1 group-title="EVENT 10/SEPTEMBER/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbiGPAhBpu1BLVYDgB-3YV4fxc9bCRCPrq4A&s", 00:30 WIB United Arab Emirates U23 vs Iran U23
+#EXTVLCOPT:http-origin=https://demo.crunchyrolll.xyz
+#EXTVLCOPT:http-referrer=https://demo.crunchyrolll.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+https://hotlivezz179602324.akainu.xyz/0l-zbavOG-tDeHH0JS5xSQ/Fv2lucGIbhPi2caWYvF5Lg/1757099394395/live/thuSD/chunklist.m3u8
+
+<================>
+
+#EXTINF:-1 group-title="EVENT 9/SEPTEMBER/2025" tvg-logo="https://www.srilankasports.com/wp-content/uploads/2024/02/friendly.png", 23:00 WIB Estonia vs Andorra
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=911e72adf36946afbdbb4f80782a8394:08aec548a851ba64b7172ae7f05cb91c
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
+
+<================>
+
+#EXTINF:-1 group-title="EVENT 9/SEPTEMBER/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsCdeZSPOI7JqrzKowZoppjXkBxRlBEMh9eQ&s", 20:00 WIB Tanzania vs Niger
+#EXTVLCOPT:http-origin=https://demo.crunchyrolll.xyz
+#EXTVLCOPT:http-referrer=https://demo.crunchyrolll.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+https://hotlivezz179602324.akainu.xyz/zwGFVt8U-YqIlZlc8m2hgw/Fv2lucGIbhPi2caWYvF5Lg/1755706578906/live/heSD/chunklist.m3u8
+
+#EXTINF:-1 group-title="EVENT 9/SEPTEMBER/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsCdeZSPOI7JqrzKowZoppjXkBxRlBEMh9eQ&s", 23:00 WIB Azerbaijan vs Ukraina
+https://tataplay.slivcdn.com/hls/live/2020434/TEN2HD/master.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
+#EXTINF:-1 group-title="EVENT 9/SEPTEMBER/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsCdeZSPOI7JqrzKowZoppjXkBxRlBEMh9eQ&s", 23:00 WIB Armenia vs Republik Irlandia
+https://fta4-cdn-flr.visionplus.id/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd|Referer=https://www.visionplus.id/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+
+#EXTINF:-1 group-title="EVENT 9/SEPTEMBER/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsCdeZSPOI7JqrzKowZoppjXkBxRlBEMh9eQ&s", 23:00 WIB Republik Demokratik Kongo vs Senegal
+#EXTVLCOPT:http-origin=https://demo.crunchyrolll.xyz
+#EXTVLCOPT:http-referrer=https://demo.crunchyrolll.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+https://hotlivezz179602324.akainu.xyz/fqjNeZXQkQapKieYUZM7nQ/Fv2lucGIbhPi2caWYvF5Lg/1756657572442/live/meoSD/chunklist.m3u8
+
+#EXTINF:-1 group-title="EVENT 9/SEPTEMBER/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsCdeZSPOI7JqrzKowZoppjXkBxRlBEMh9eQ&s", 23:00 WIB Afrika Selatan vs Nigeria
+#EXTVLCOPT:http-origin=https://demo.crunchyrolll.xyz
+#EXTVLCOPT:http-referrer=https://demo.crunchyrolll.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+https://hotlivezz179602324.akainu.xyz/fqjNeZXQkQapKieYUZM7nQ/Fv2lucGIbhPi2caWYvF5Lg/1756657572442/live/meoSD/chunklist.m3u8
+
+#EXTINF:-1 group-title="EVENT 9/SEPTEMBER/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsCdeZSPOI7JqrzKowZoppjXkBxRlBEMh9eQ&s", 23:00 WIB Kepulauan Cape Verde vs Kamerun
+#EXTVLCOPT:http-origin=https://demo.crunchyrolll.xyz
+#EXTVLCOPT:http-referrer=https://demo.crunchyrolll.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+https://hotlivezz179602324.akainu.xyz/7fP5ANky5AhXplhqY0Ao3A/Fv2lucGIbhPi2caWYvF5Lg/1757182943391/live/oldSD/chunklist.m3u8
 
 =======================================
 ===============LIGA INDO===============
