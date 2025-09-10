@@ -2328,19 +2328,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/15500e8f0dc44058ba0431d39a8fed57/in
 
 =======================================
 
-#EXTINF:-1 tvg-id="love nature" tvg-logo="https://i.ibb.co.com/d0MtwSDs/IMG-20250510-105650.png" group-title="KNOWLEDGE",LOVE NATURE
-https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8|user-agent=ExoPlayer/2.19.1 (Linux; Android 15) Media3/1.6.0
-
-=======================================
-
-#EXTINF:-1 tvg-id="bbc earth [102]" tvg-name="" tvg-logo="https://i.ibb.co.com/Z1zg0wy2/IMG-20250510-110052.png" group-title="KNOWLEDGE",BBC Earth
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://colloriptvpro.my.id/vis/scc01.php?id=102
-#EXTVLCOPT:http-referrer=https://visionplus.id/
-#https://d84q7nw4qf3j3.cloudfront.net/out/v1/4e5b2a283adf462c8b6b55b2ef059fac/index.mpd|referer=https://www.visionplus.id/
-
-#EXTINF:-1 tvg-id="bbc 102" tvg-name="" tvg-logo="https://i.imgur.com/9QJ9chZ.png" group-title="KNOWLEDGE",BBC Earth
+#EXTINF:-1 tvg-id="bbc 102" tvg-name="" tvg-logo="https://i.ibb.co.com/Z1zg0wy2/IMG-20250510-110052.png" group-title="KNOWLEDGE",BBC Earth
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -2349,7 +2337,7 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/4e5b2a283adf462c8b6b55b2ef059fac/ind
 
 =======================================
 
-#EXTINF:-1 tvg-id="OUTDOOR CHANNEL" tvg-name="" tvg-logo="https://ig" group-title="KNOWLEDGE", OUTDOOR CHANNEL
+#EXTINF:-1 tvg-id="OUTDOOR CHANNEL" tvg-name="" tvg-logo="https://i.ibb.co.com/992d7vpy/IMG-20250911-005643.png" group-title="KNOWLEDGE", OUTDOOR CHANNEL
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -2358,7 +2346,7 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/c169ca1dcbe249c5bf233aabc3db4a4f/in
 
 =======================================
 
-#EXTINF:-1 tvg-id="GLOBAL TREKKER" tvg-name="" tvg-logo="https://ig" group-title="KNOWLEDGE", GLOBAL TREKKER
+#EXTINF:-1 tvg-id="GLOBAL TREKKER" tvg-name="" tvg-logo="https://i.ibb.co.com/fdFqMhQx/IMG-20250911-005528.png" group-title="KNOWLEDGE", GLOBAL TREKKER
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://colloriptvpro.my.id/vis/scc01.php?id=103
