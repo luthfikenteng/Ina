@@ -15,14 +15,7 @@ awalan
 ==============BADMINTON==============
 =======================================
 
-#EXTINF:-1  group-title="EVENT 11/SEPTEMBER/2025" tvg-logo="https://i.ibb.co.com/MxBt8tCs/IMG-20250825-164825.png", Hongkong Open Court 1
-https://ecfc3cde48e2bb818cde2ffa8262e58d.v.smtcdns.net/play.cbalive.weibisai.com/live/4000630330586061_AiHD.m3u8?txSecret=41b9d1e5266b3b165302e72978628e8c&txTime=68C35470
-
-#EXTINF:-1  group-title="EVENT 11/SEPTEMBER/2025" tvg-logo="https://i.ibb.co.com/MxBt8tCs/IMG-20250825-164825.png", Hongkong Open Court 2
-https://7e86d2bafe2218ebd6fabec2d6fe49d0.v.smtcdns.net/play.cbalive.weibisai.com/live/4000630499241061_AiHD.m3u8?txSecret=7a9b3387b3ba816c4c1b52e14f87afa5&txTime=68C35470
-
-#EXTINF:-1  group-title="EVENT 11/SEPTEMBER/2025" tvg-logo="https://i.ibb.co.com/MxBt8tCs/IMG-20250825-164825.png", Hongkong Open Court 3
-https://7e86d2bafe2218ebd6fabec2d6fe49d0.v.smtcdns.net/play.cbalive.weibisai.com/live/4000630753953061_AiHD.m3u8?txSecret=a2b36031149c906f37349210d147dd6c&txTime=68C35470
+#EXTINF:-1  group-title="EVENT 1/SEPTEMBER/2025" tvg-logo="https://i.ibb.co.com/MxBt8tCs/IMG-20250825-164825.png", 18:00 WIB BWF World Championships
 
 =======================================
 ==============LIVE SPORTS==============
@@ -35,6 +28,27 @@ https://7e86d2bafe2218ebd6fabec2d6fe49d0.v.smtcdns.net/play.cbalive.weibisai.com
 =======================================
 
 #EXTINF:-1 tvg-id="LIGA INDO" group-title="EVENT 30/AGUSTUS/2025" tvg-logo="https://i.ibb.co.com/tw2VhL0m/BRI.png", 19:00 WIB Bali United vs Madura United
+
+#EXTINF:-1 group-title="EVENT 11/SEPTEMBER/2025" tvg-logo="https://i.ibb.co.com/tw2VhL0m/BRI.png", 15:30 WIB Semen Padang vs PSBS Biak Numfor
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://hlsplayer.net/
+https://stream.titanlivescore.com/live/LXSCORE-4879781.m3u8
+
+#EXTINF:-1 group-title="EVENT 11/SEPTEMBER/2025" tvg-logo="https://i.ibb.co.com/tw2VhL0m/BRI.png", 15:30 WIB Semen Padang vs PSBS Biak Numfor
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ppdd02.playerktidfintkd.shop/
+https://twnx3-cf.boblcfwudz421.com/auth%3Dfa92bd601ab40a90da2b669e837e5c39202624b5e02855b89b85a67b8a3c86673316fbd87b060989453f345f1b44872286574ddc3d5561b80da0d2f7c7684ce595a2477e63953e6aee122b1ff17acbcc01c346bf98a2210424f330ce6db2017006e34bf16e3f890d66cc8fe8371e15ef584cf751eea23f8c5e6c66c68f863b5c53241e41a2a89b53f5ae883c5e436de983463010ba53bba692c2c0d07fc288498d7cea42f56912a31e1ca84684893bb7e014f94c87720f06d9215a443d07f9df7364168ad8173a5b4cf5e489ebd8f48dab2e4171042099c9455178450cde34732c44c75b64f0255714a9218a219df65b00bcac821e51a3ebeb0bfd9389ab521d9ac7f858b182ad05a427e98c4b5d818d7967a0abc4087236187133f57ed1a0f6%26cid%3DYvoz9_UXqTEZam7X2zhhz250903%26_v%3D2%26_r%3DkB3i6k%26_vis%3D83b0bca8fff2e2d4c9ae6b6977825d08ae7fc3973ca5846a5e2248e63d3889b9%26_vvs%3D1747a15370171c38ca0f03ffcab9993301a17edea916f2d662bf0bd4acaaa516/transcode/c369590_480p.m3u8
+
+#EXTINF:-1 group-title="EVENT 11/SEPTEMBER/2025" tvg-logo="https://i.ibb.co.com/tw2VhL0m/BRI.png", 15:30 WIB Semen Padang vs PSBS Biak Numfor
+#EXTVLCOPT:http-origin=https://demo.crunchyrolll.xyz
+#EXTVLCOPT:http-referrer=https://demo.crunchyrolll.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+https://apisportzz179528093.nsnd.live/yRI5BJRlt0gFhiZtGS4IGg/Fv2lucGIbhPi2caWYvF5Lg/1757601464788/live/sd-6MuTNFj5vhq1hSfcq1/chunklist.m3u8
+
+#EXTINF:-1 group-title="EVENT 11/SEPTEMBER/2025" tvg-logo="https://i.ibb.co.com/tw2VhL0m/BRI.png", 19:00 WIB Persita vs PSM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xl365.plcdn.xyz/
+https://live1.pro2cdnlive.com/live/channel5.flv?wsSecret=b78b6c91295d4a15888a27433e645ce0&wsABSTime=1756918060
 
 =======================================
 =======================================
