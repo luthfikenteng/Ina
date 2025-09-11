@@ -17,6 +17,15 @@ awalan
 
 #EXTINF:-1  group-title="EVENT 1/SEPTEMBER/2025" tvg-logo="https://i.ibb.co.com/MxBt8tCs/IMG-20250825-164825.png", 18:00 WIB BWF World Championships
 
+#EXTINF:-1  group-title="EVENT 11/SEPTEMBER/2025" tvg-logo="https://i.ibb.co.com/MxBt8tCs/IMG-20250825-164825.png", Hongkong Open Court 1
+https://ecfc3cde48e2bb818cde2ffa8262e58d.v.smtcdns.net/play.cbalive.weibisai.com/live/4000630330586061_AiHD.m3u8?txSecret=41b9d1e5266b3b165302e72978628e8c&txTime=68C35470
+
+#EXTINF:-1  group-title="EVENT 11/SEPTEMBER/2025" tvg-logo="https://i.ibb.co.com/MxBt8tCs/IMG-20250825-164825.png", Hongkong Open Court 2
+https://7e86d2bafe2218ebd6fabec2d6fe49d0.v.smtcdns.net/play.cbalive.weibisai.com/live/4000630499241061_AiHD.m3u8?txSecret=7a9b3387b3ba816c4c1b52e14f87afa5&txTime=68C35470
+
+#EXTINF:-1  group-title="EVENT 11/SEPTEMBER/2025" tvg-logo="https://i.ibb.co.com/MxBt8tCs/IMG-20250825-164825.png", Hongkong Open Court 3
+https://7e86d2bafe2218ebd6fabec2d6fe49d0.v.smtcdns.net/play.cbalive.weibisai.com/live/4000630753953061_AiHD.m3u8?txSecret=a2b36031149c906f37349210d147dd6c&txTime=68C35470
+
 =======================================
 ==============LIVE SPORTS==============
 =======================================
