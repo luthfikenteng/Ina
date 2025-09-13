@@ -31,21 +31,6 @@ awalan
 
 #EXTINF:-1 tvg-id="LIGA INDO" group-title="EVENT 30/AGUSTUS/2025" tvg-logo="https://i.ibb.co.com/tw2VhL0m/BRI.png", 19:00 WIB Bali United vs Madura United
 
-#EXTINF:-1 group-title="EVENT 13/SEPTEMBER/2025" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", 15:30 WIB Arema vs Dewa United
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://hlsplayer.net/
-https://stream.titanlivescore.com/live/LXSCORE-4879785.m3u8
-
-#EXTINF:-1 group-title="EVENT 13/SEPTEMBER/2025" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", 15:30 WIB Arema vs Dewa United
-#EXTVLCOPT:http-origin=https://demo.crunchyrolll.xyz
-#EXTVLCOPT:http-referrer=https://demo.crunchyrolll.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-https://apisportzz179528093.nsnd.live/Hzr9yXqCi7ZCmvgcXEogFw/Fv2lucGIbhPi2caWYvF5Lg/1757774204015/live/sd-6MuTNFj76aLdUhHxYj/chunklist.m3u8
-
-#EXTINF:-1 group-title="EVENT 13/SEPTEMBER/2025" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", 15:30 WIB Arema vs Dewa United
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://ppdd02.playerktidfintkd.shop/
-https://twnx1-cf.boblcfwudz421.com/auth%3Dea952ffd7625a1117c422bc164ba272852184a748fba8417f30b4602651d3e461ef92c3594f4ce5723930af341cfb068e4bcc659133e157838591c83d77fee406ef14fded0a305c712d10b69f22b96b949a0fa3059fbeb3b8b92ae34e81d4621512a3776cb668adb80206ab7051e8fe36ed0ca71d922de8f6bb1c4387b4aa099da65a6e5a537bf7e966338dcf41cb1a1e219b377a5358e80a1c8c714600652f0%26cid%3Dlx3BndubspSsbh4I0XB_9250912%26_v%3D2%26_r%3DzC9SM0%26_vis%3Da0e38408dde9123193e05ca262f2e2bfa924aa696d867bd821951543ba6bffc6%26_vvs%3D890104eca10cecff6578b77566c333c81e6d7fd127f9c8ef243822d8ceb6724a/transcode/c370180_480p.m3u8
 
 =======================================
 =======================================
@@ -54,6 +39,13 @@ https://twnx1-cf.boblcfwudz421.com/auth%3Dea952ffd7625a1117c422bc164ba272852184a
 
 #EXTINF:-1 tvg-id="LIGA INGGRIS" group-title="EVENT 1/SEPTEMBER/2025" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png", 01:00 WIB Aston Villa vs Crystal Palace
 
+#EXTINF:-1 group-title="EVENT 13/SEPTEMBER/2025" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png", 18:30 WIB Arsenal vs Nottingham Forest
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d
+https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
 
 =======================================
 =======================================
