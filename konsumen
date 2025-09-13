@@ -49,13 +49,31 @@ https://apisportzz179528093.nsnd.live/iufN2uWCo_Ou32IWyIK5Uw/Fv2lucGIbhPi2caWYvF
 
 #EXTINF:-1 tvg-id="LIGA INGGRIS" group-title="EVENT 1/SEPTEMBER/2025" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png", 01:00 WIB Aston Villa vs Crystal Palace
 
-#EXTINF:-1 group-title="EVENT 13/SEPTEMBER/2025" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png", 18:30 WIB Arsenal vs Nottingham Forest
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d
-https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
+#EXTINF:-1 group-title="EVENT 13/SEPTEMBER/2025" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png", 21:00 WIB Crystal Palace vs Sunderland
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xl365.plcdn.xyz/
+https://live1.pro2cdnlive.com/live/channel30.flv?wsSecret=ea40c25d48e8e70b54314457f6e2f832&wsABSTime=1756917411
+
+#EXTINF:-1 group-title="EVENT 13/SEPTEMBER/2025" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png", 21:00 WIB Fulham vs Leeds United
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xl365.plcdn.xyz/
+https://live1.pro2cdnlive.com/live/channel14.flv?wsSecret=5a4f883a6d7892e472d06332b2bb0399&wsABSTime=1755275780
+
+#EXTINF:-1 group-title="EVENT 13/SEPTEMBER/2025" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png", 21:00 WIB Everton vs Aston Villa
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xl365.plcdn.xyz/
+https://live1.pro2cdnlive.com/live/channel19.flv?wsSecret=5ca268c9cb2e01e69f349053bcaeb168&wsABSTime=1757446645
+
+#EXTINF:-1 group-title="EVENT 13/SEPTEMBER/2025" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png", 21:00 WIB AFC Bournemouth vs Brighton & Hove Albion
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xl365.plcdn.xyz/
+https://live1.pro2cdnlive.com/live/channel15.flv?wsSecret=31b2834a33b15c0d748eaf5f9e5d42ba&wsABSTime=1757445056
+
+#EXTINF:-1 group-title="EVENT 13/SEPTEMBER/2025" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png", 21:00 WIB Newcastle United vs Wolverhampton Wanderers
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xl365.plcdn.xyz/
+https://live1.pro2cdnlive.com/live/channel2.flv?wsSecret=ed2a76f71645bfc17d15d7f84e38398a&wsABSTime=1757796940
+
 
 =======================================
 =======================================
@@ -77,9 +95,12 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/ind
 ==============LIGA ITALI================
 =======================================
 
-
-
 #EXTINF:0 tvg-id="LIGA ITALI" tvg-logo="https://i.ibb.co.com/wZ40gYMj/IMG-20250430-174409.png" group-title="EVENT 1/SEPTEMBER/2025", 01:45 WIB Lazio vs Hellas Verona
+
+#EXTINF:-1 group-title="EVENT 13/SEPTEMBER/2025" tvg-logo="https://i.ibb.co.com/wZ40gYMj/IMG-20250430-174409.png", 20:00 WIB Cagliari vs Parma
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://cool-tv.net/
+https://galandriel1.thobias.cfd/puk5/usergen0grnd3y8.m3u8
 
 =======================================
 =======================================
@@ -87,6 +108,26 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/ind
 =======================================
 
 #EXTINF:-1 tvg-id="BUNDES LIGA" group-title="EVENT 1/SEPTEMBER/2025" tvg-logo="https://i.ibb.co.com/R4McZS45/IMG-20250430-173818.png", 00:30 WIB KÃ¶ln vs Freiburg
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
+#EXTINF:-1 group-title="EVENT 13/SEPTEMBER/2025" tvg-logo="https://i.ibb.co.com/R4McZS45/IMG-20250430-173818.png", 20:30 WIB Heidenheim vs Borussia Dortmund
+https://fta4-cdn-flr.visionplus.id/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd|Referer=https://www.visionplus.id/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+
+#EXTINF:-1 group-title="EVENT 13/SEPTEMBER/2025" tvg-logo="https://i.ibb.co.com/R4McZS45/IMG-20250430-173818.png", 20:30 WIB Wolfsburg vs Köln
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b576e5f5f1bc4cbaa866e5b0face5a30:3377be6c3b5f688ebed687312c9b9d95
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd
+
+#EXTINF:-1 group-title="EVENT 13/SEPTEMBER/2025" tvg-logo="https://i.ibb.co.com/R4McZS45/IMG-20250430-173818.png", 20:30 WIB Mainz 05 vs RB Leipzig
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=911e72adf36946afbdbb4f80782a8394:08aec548a851ba64b7172ae7f05cb91c
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
 
 
 =======================================
