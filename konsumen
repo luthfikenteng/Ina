@@ -1,15 +1,15 @@
 #EXTM3U
 awalan
 
-#EXTINF:-1 group-title="EVENT 13/SEPTEMBER/2025" tvg-logo="g",  LIVE GUS ALDI DESA PAMIJAHAN
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-https://rocket-tv.online/redtube/randomyt.m3u8?id=UC3qo4LWEORIsAMRPNHDGK7A
 
 =======================================
 =================VOLI==================
 =======================================
 #https://i.ibb.co.com/zhStskpR/IMG-20250825-165607.png
 
+#EXTINF:-1 group-title="EVENT 13/SEPTEMBER/2025" tvg-logo="g",  LIVE GUS ALDI DESA PAMIJAHAN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://rocket-tv.online/redtube/randomyt.m3u8?id=UC3qo4LWEORIsAMRPNHDGK7A
 
 =======================================
 ==============BADMINTON==============
