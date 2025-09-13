@@ -1,22 +1,20 @@
 #EXTM3U
 awalan
 
-
+#EXTINF:-1 group-title="EVENT 13/SEPTEMBER/2025" tvg-logo="g",  LIVE GUS ALDI DESA PAMIJAHAN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://rocket-tv.online/redtube/randomyt.m3u8?id=UC3qo4LWEORIsAMRPNHDGK7A
 
 =======================================
 =================VOLI==================
 =======================================
-
-#EXTINF:-1 group-title="EVENT 4/SEPTEMBER/2025" tvg-logo="https://i.ibb.co.com/zhStskpR/IMG-20250825-165607.png", 16:00 WIB Livoli Divisi Utama 
-
+https://i.ibb.co.com/zhStskpR/IMG-20250825-165607.png
 
 
 =======================================
 ==============BADMINTON==============
 =======================================
-
-#EXTINF:-1  group-title="EVENT 1/SEPTEMBER/2025" tvg-logo="https://i.ibb.co.com/MxBt8tCs/IMG-20250825-164825.png", 18:00 WIB BWF World Championships
-
+https://i.ibb.co.com/MxBt8tCs/IMG-20250825-164825.png
 
 
 =======================================
@@ -28,8 +26,8 @@ awalan
 =======================================
 ===============LIGA INDO===============
 =======================================
+https://i.ibb.co.com/tw2VhL0m/BRI.png
 
-#EXTINF:-1 tvg-id="LIGA INDO" group-title="EVENT 30/AGUSTUS/2025" tvg-logo="https://i.ibb.co.com/tw2VhL0m/BRI.png", 19:00 WIB Bali United vs Madura United
 
 #EXTINF:-1 group-title="EVENT 13/SEPTEMBER/2025" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png", 19:00 WIB Persis Solo vs Persijap
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
@@ -46,8 +44,7 @@ https://apisportzz179528093.nsnd.live/iufN2uWCo_Ou32IWyIK5Uw/Fv2lucGIbhPi2caWYvF
 =======================================
 ==============LIGA INGGRIS=============
 =======================================
-
-#EXTINF:-1 tvg-id="LIGA INGGRIS" group-title="EVENT 1/SEPTEMBER/2025" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png", 01:00 WIB Aston Villa vs Crystal Palace
+https://i.ibb.co.com/twxFhvBY/PLE.png
 
 #EXTINF:-1 group-title="EVENT 13/SEPTEMBER/2025" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png", 21:00 WIB Crystal Palace vs Sunderland
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
@@ -79,8 +76,7 @@ https://live1.pro2cdnlive.com/live/channel2.flv?wsSecret=ed2a76f71645bfc17d15d7f
 =======================================
 ==============LIGA SPANYOL============
 =======================================
-
-#EXTINF:-1 group-title="EVENT 1/SEPTEMBER/2025" tvg-logo="https://i.ibb.co.com/1JwYR5NV/LALIGA.png", 00:00 WIB Real Betis vs Athletic Club
+https://i.ibb.co.com/1JwYR5NV/LALIGA.png
 
 #EXTINF:-1 group-title="EVENT 13/SEPTEMBER/2025" tvg-logo="https://i.ibb.co.com/1JwYR5NV/LALIGA.png", 19:00 WIB Getafe vs Real Oviedo
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -94,8 +90,7 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/ind
 =======================================
 ==============LIGA ITALI================
 =======================================
-
-#EXTINF:0 tvg-id="LIGA ITALI" tvg-logo="https://i.ibb.co.com/wZ40gYMj/IMG-20250430-174409.png" group-title="EVENT 1/SEPTEMBER/2025", 01:45 WIB Lazio vs Hellas Verona
+https://i.ibb.co.com/wZ40gYMj/IMG-20250430-174409.png
 
 #EXTINF:-1 group-title="EVENT 13/SEPTEMBER/2025" tvg-logo="https://i.ibb.co.com/wZ40gYMj/IMG-20250430-174409.png", 20:00 WIB Cagliari vs Parma
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
@@ -106,8 +101,7 @@ https://galandriel1.thobias.cfd/puk5/usergen0grnd3y8.m3u8
 =======================================
 =============LIGA JERMAN==============
 =======================================
-
-#EXTINF:-1 tvg-id="BUNDES LIGA" group-title="EVENT 1/SEPTEMBER/2025" tvg-logo="https://i.ibb.co.com/R4McZS45/IMG-20250430-173818.png", 00:30 WIB KÃ¶ln vs Freiburg
+https://i.ibb.co.com/R4McZS45/IMG-20250430-173818.png
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
@@ -134,21 +128,19 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/in
 =======================================
 =============LIGA PRANCIS==============
 =======================================
-
-#EXTINF:-1 tvg-id="LIGA PRANCIS" group-title="EVENT 1/SEPTEMBER/2025" tvg-logo="https://i.ibb.co.com/wZqyXTQq/IMG-20250430-173924.png", 01:45 WIB Lyon vs Marseille
-
-
+https://i.ibb.co.com/wZqyXTQq/IMG-20250430-173924.png
 =======================================
 =======================================
 ===============MOTOGP================
 =======================================
+https://i.ibb.co.com/TqRf4Xk3/IMG-20250816-175900.png
 
 #EXTINF:0 tvg-id="MOTO GP" tvg-logo="https://i.ibb.co.com/TqRf4Xk3/IMG-20250816-175900.png" group-title="EVENT 13/SEPTEMBER/2025", MOTOGP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1539f043249e413d91906036f305831e:671e24fd8d234c7f38d85055815f902a
-https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
+#https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
 
 
 #EXTINF:0 tvg-id="MOTO GP" tvg-logo="https://i.ibb.co.com/TqRf4Xk3/IMG-20250816-175900.png" group-title="EVENT 13/SEPTEMBER/2025", MOTOGP FHD
@@ -157,7 +149,7 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/in
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6d1708b185c6c4d7b37600520c7cc93c:1aace05f58d8edef9697fd52cb09f441
-https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
+#https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
 
 
 =======================================
