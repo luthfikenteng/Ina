@@ -2691,7 +2691,7 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/fe4d00f07e2f43b789102b84b4d243a9/ind
 #EXT-X-MEDIA-SEQUENCE:1
 #EXTVLCOPT:network-caching=10000
 #EXTVLCOPT:http-reconnect=true
-http://103.179.182.117:6768/hls/2/2.m3u8
+#http://103.179.182.117:6768/hls/2/2.m3u8
 
 =======================================
 
@@ -2747,7 +2747,7 @@ https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=9183&type=dash
 #EXT-X-MEDIA-SEQUENCE:1
 #EXTVLCOPT:network-caching=10000
 #EXTVLCOPT:http-reconnect=true
-http://103.179.182.117:6768/hls/66/66.m3u8
+#http://103.179.182.117:6768/hls/66/66.m3u8
 
 =======================================
 
@@ -2757,7 +2757,7 @@ http://103.179.182.117:6768/hls/66/66.m3u8
 #EXT-X-MEDIA-SEQUENCE:1
 #EXTVLCOPT:network-caching=10000
 #EXTVLCOPT:http-reconnect=true
-http://103.179.182.117:6768/hls/88/88.m3u8
+#http://103.179.182.117:6768/hls/88/88.m3u8
 
 =======================================
 
@@ -2776,7 +2776,7 @@ http://103.179.182.117:6768/hls/88/88.m3u8
 #EXT-X-MEDIA-SEQUENCE:1
 #EXTVLCOPT:network-caching=10000
 #EXTVLCOPT:http-reconnect=true
-http://103.179.182.117:6768/hls/21/21.m3u8
+#http://103.179.182.117:6768/hls/21/21.m3u8
 
 =======================================
 
@@ -2786,7 +2786,7 @@ http://103.179.182.117:6768/hls/21/21.m3u8
 #EXT-X-MEDIA-SEQUENCE:1
 #EXTVLCOPT:network-caching=10000
 #EXTVLCOPT:http-reconnect=true
-http://103.179.182.117:6768/hls/94/94.m3u8
+#http://103.179.182.117:6768/hls/94/94.m3u8
 
 =======================================
 
@@ -2970,31 +2970,31 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/
 
 #EXTINF:-1 tvg-id="Sony ten 1" tvg-logo="https://i.ibb.co.com/ZR7x7rkQ/SONY1.png" group-title="SPORTS", SONY TEN 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tataplay.slivcdn.com//hls/live/2011747/TEN1HD/master.m3u8
+#https://tataplay.slivcdn.com//hls/live/2011747/TEN1HD/master.m3u8
 
 =======================================
 
 #EXTINF:-1 tvg-id="Sony ten 2" tvg-logo="https://i.ibb.co.com/MkjypmK2/SONY2.png" group-title="SPORTS", SONY TEN 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tataplay.slivcdn.com/hls/live/2020434/TEN2HD/master.m3u8
+#https://tataplay.slivcdn.com/hls/live/2020434/TEN2HD/master.m3u8
 
 =======================================
 
 #EXTINF:-1 tvg-id="Sony ten 3" tvg-logo="https://i.ibb.co.com/ZRdXSGhx/SONY3.png" group-title="SPORTS", SONY TEN 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tataplay.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8
+#https://tataplay.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8
 
 =======================================
 
 #EXTINF:-1 tvg-id="Sony ten 4" tvg-logo="https://i.ibb.co.com/4RyKnbWM/SONY4.png" group-title="SPORTS", SONY TEN 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tataplay.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8
+#https://tataplay.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8
 
 =======================================
 
 #EXTINF:-1 tvg-id="Sony ten 5" tvg-logo="https://i.ibb.co.com/d0nnZW7n/SONY5.png" group-title="SPORTS", SONY TEN 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
+#https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
 
 =======================================
 
