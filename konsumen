@@ -103,7 +103,7 @@ awalan
 =======================================
 #https://i.ibb.co.com/39ysdc2K/IMG-20250501-231953.png
 
-#EXTINF:-1 group-title="EVENT 17/SEPTEMBER/2025" tvg-logo="https://i.ibb.co.com/39ysdc2K/IMG-20250501-231953.png", 23:45 WIB Olympiakos Piraeus vs Paphos
+#EXTINF:-1 group-title="EVENT 18/SEPTEMBER/2025" tvg-logo="https://i.ibb.co.com/39ysdc2K/IMG-20250501-231953.png", 23:45 WIB Olympiakos Piraeus vs Paphos
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -111,7 +111,7 @@ awalan
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
 
-#EXTINF:-1 group-title="EVENT 17/SEPTEMBER/2025" tvg-logo="https://i.ibb.co.com/39ysdc2K/IMG-20250501-231953.png", 23:45 WIB Olympiakos Piraeus vs Paphos FHD
+#EXTINF:-1 group-title="EVENT 18/SEPTEMBER/2025" tvg-logo="https://i.ibb.co.com/39ysdc2K/IMG-20250501-231953.png", 23:45 WIB Olympiakos Piraeus vs Paphos FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -121,7 +121,7 @@ https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/lsdasbvglv/
  
 
 
-#EXTINF:-1 group-title="EVENT 17/SEPTEMBER/2025" tvg-logo="https://i.ibb.co.com/39ysdc2K/IMG-20250501-231953.png", 23:45 WIB Slavia Praha vs BodÃ¸ / Glimt
+#EXTINF:-1 group-title="EVENT 18/SEPTEMBER/2025" tvg-logo="https://i.ibb.co.com/39ysdc2K/IMG-20250501-231953.png", 23:45 WIB Slavia Praha vs BodÃ¸ / Glimt
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -129,7 +129,7 @@ https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/lsdasbvglv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
 
-#EXTINF:-1 group-title="EVENT 17/SEPTEMBER/2025" tvg-logo="https://i.ibb.co.com/39ysdc2K/IMG-20250501-231953.png", 23:45 WIB Slavia Praha vs BodÃ¸ / Glimt FHD
+#EXTINF:-1 group-title="EVENT 18/SEPTEMBER/2025" tvg-logo="https://i.ibb.co.com/39ysdc2K/IMG-20250501-231953.png", 23:45 WIB Slavia Praha vs BodÃ¸ / Glimt FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=dca8597f12f8d6928b55c1291c7bb300:36c8b3f51d474b95f0adad70899343e1
 https://live-atv-cdn.izzigo.tv/2/out/u/dash/TNT-HD/default.mpd
