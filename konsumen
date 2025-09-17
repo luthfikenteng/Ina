@@ -3167,6 +3167,27 @@ http://live-edge-th136.myjktv.com/watch/live.m3u8?video=kbs_n_sports_540&sid=dCk
 
 =======================================
 
+#EXTINF:-1 tvg-id="ESPN 1" tvg-logo="https://i.ibb.co.com/kV1w5PZN/IMG-20250823-225244.png" group-title="SPORTS", ESPN
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bb43112b7b72e9c287da0ecdec8606a7:29e3d2678107f0ab0b35b6537c734f2a
+https://live-atv-cdn.izzigo.tv/1/out/u/dash/ESPN-HD/default.mpd
+
+=======================================
+
+#EXTINF:-1 tvg-id="ESPN 2" tvg-logo="https://i.ibb.co.com/DgYWsYfQ/IMG-20250823-225655.png" group-title="SPORTS", ESPN 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=90e2e491c850a49a5ab21bb6fa6b4d24:4d7e33da19b971cef49e35eccdb9de0b
+https://live-atv-cdn.izzigo.tv/1/out/u/dash/ESPN-2-HD/default.mpd
+
+=======================================
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/39FTJQP7/IMG-20250917-215458.png" group-title="SPORTS" tvg-id="espn.id" ch-number="58" tvg-name="ESPN 3", ESPN 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0355f64277082b903022985035c498ca:7a8ed20a4958398677e2c9ccd5a53a00
+https://live-atv-cdn.izzigo.tv/1/out/u/dash/ESPN-3-HD/default.mpd
+
+=======================================
+
 #EXTINF:-1 tvg-id="ESPN 1.ar" tvg-logo="https://i.ibb.co.com/kV1w5PZN/IMG-20250823-225244.png" group-title="SPORTS",ESPN AR
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -3183,6 +3204,14 @@ https://csc-axs-edge01.sensa.com.ar/live/eds/ESPN2/live_dash_cld/ESPN2.mpd
 
 =======================================
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/39FTJQP7/IMG-20250917-215458.png" group-title="SPORTS" tvg-id="espn.id" ch-number="58" tvg-name="ESPN 3", ESPN 3 AR
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8836252059b793a79173838dc1186ff1:aa16f90e51ce5652dab93834e434caa8
+https://csc-axs-edge01.sensa.com.ar/live/eds/ESPN3/live_dash_cld/ESPN3.mpd
+
+=======================================
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/1GjXf871/IMG-20250823-224502.png" group-title="SPORTS" tvg-id="espn.id" ch-number="56" tvg-name="ESPN MX", ESPN MX
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=bb43112b7b72e9c287da0ecdec8606a7:29e3d2678107f0ab0b35b6537c734f2a
@@ -3194,14 +3223,6 @@ https://csc-axs-edge01.sensa.com.ar/live/eds/ESPN2/live_dash_cld/ESPN2.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=90e2e491c850a49a5ab21bb6fa6b4d24:4d7e33da19b971cef49e35eccdb9de0b
 #https://live-atv-cdn.izzigo.tv/1/out/u/dash/ESPN-2-HD/manifest.mpd
-
-=======================================
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/kgpXrthM/IMG-20250823-224904.png" group-title="SPORTS" tvg-id="espn.id" ch-number="58" tvg-name="ESPN 3 MX", ESPN 3 AR
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8836252059b793a79173838dc1186ff1:aa16f90e51ce5652dab93834e434caa8
-https://csc-axs-edge01.sensa.com.ar/live/eds/ESPN3/live_dash_cld/ESPN3.mpd
 
 =======================================
 
@@ -3425,6 +3446,30 @@ https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/m
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #https://uselector.cdn.intigral-ott.net/SPZ/SPZ.isml/manifest.mpd
  =======================================
+
+#EXTINF:-1 cuid="819" tvg-name="tdp 🇪🇸" tvg-id="ESBC410000577" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Tve_teledeporte.png" group-title="SPORTS", TDP 🇪🇸
+https://d1cctoeg0n48w5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-mnixw9wn5ugmv/TeledeporteES.m3u8
+
+=======================================
+
+#EXTINF:-1 cuid="793" tvg-name="TUDN" tvg-id="Canal.TUDN.(México).sv" tvg-logo="https://logo.m3uassets.com/tudn.png" group-title="SPORTS",TUDN
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2722647f77b44824c432a3c4555830a2:1734befb82f4b438bd84195f6c212e7b
+https://live-atv-cdn.izzigo.tv/1/out/u/dash/TUDN-HD/default.mpd
+
+=======================================
+
+#EXTINF:-1 cuid="793" tvg-name="TUDN" tvg-id="TUDN.us" tvg-logo="https://logo.m3uassets.com/tudn.png" group-title="SPORTS",TUDN IP
+http://212.102.60.231/TUDN/tracks-v1a1/mono.m3u8
+
+=======================================
+
+#EXTINF:-1 cuid="819" tvg-name="PX.Sports" tvg-id="Canal.PX.Sports.mx" tvg-logo="https://logo.m3uassets.com/pxsports.png" group-title="SPORTS", PX SPORTS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8c53466401bf1c02903470cf41d01b6e:90898b3079182c414ecc104ff53dc9b7
+https://live-atv-cdn.izzigo.tv/4/out/u/dash/PX-SPORTS-HD/default.mpd
+
+=======================================
 
 #EXTINF:-1 group-title="SPORTS" tvg-id="SSC 1" tvg-logo="https://i.ibb.co.com/3YP3Dqhf/SSC1.png",SSC 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.62
