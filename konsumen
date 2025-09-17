@@ -186,7 +186,7 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/0a6c6b1534444ab4bd903af8761e6747/ind
 #EXT-X-MEDIA-SEQUENCE:1
 #EXTVLCOPT:network-caching=10000
 #EXTVLCOPT:http-reconnect=true
-http://103.179.182.117:6768/hls/47/47.m3u8
+#http://103.179.182.117:6768/hls/47/47.m3u8
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
 #https://raw.githubusercontent.com/luthfikenteng/Ina/refs/heads/main/PL/vtv.m3u8
 
@@ -495,7 +495,7 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/0a6c6b1534444ab4bd903af8761e6747/ind
 #EXT-X-MEDIA-SEQUENCE:1
 #EXTVLCOPT:network-caching=10000
 #EXTVLCOPT:http-reconnect=true
-http://103.179.182.117:6768/hls/47/47.m3u8
+#http://103.179.182.117:6768/hls/47/47.m3u8
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
 #https://raw.githubusercontent.com/luthfikenteng/Ina/refs/heads/main/PL/vtv.m3u8
 
@@ -1351,7 +1351,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
 #EXT-X-MEDIA-SEQUENCE:1
 #EXTVLCOPT:network-caching=10000
 #EXTVLCOPT:http-reconnect=true
-http://103.179.182.117:6768/hls/47/47.m3u8
+#http://103.179.182.117:6768/hls/47/47.m3u8
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
 #https://raw.githubusercontent.com/luthfikenteng/Ina/refs/heads/main/PL/vtv.m3u8
 
