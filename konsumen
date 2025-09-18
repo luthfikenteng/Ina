@@ -895,7 +895,7 @@ https://e.siar.us/live/dtvi.m3u8
 #EXT-X-MEDIA-SEQUENCE:1
 #EXTVLCOPT:network-caching=10000
 #EXTVLCOPT:http-reconnect=true
-https://raw.githubusercontent.com/luthfikenteng/Ina/refs/heads/main/PL/h_beo.m3u8
+#https://raw.githubusercontent.com/luthfikenteng/Ina/refs/heads/main/PL/h_beo.m3u8
 
 
 #EXTINF:-1 tvg-id="HBO" tvg-logo="https://i.ibb.co.com/qMWw8Tph/HBO.png" group-title="MOVIES" , HBO (OS7+)
@@ -1369,7 +1369,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
 #EXTVLCOPT:http-reconnect=true
 #http://103.179.182.117:6768/hls/47/47.m3u8
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
-https://raw.githubusercontent.com/luthfikenteng/Ina/refs/heads/main/PL/vtv.m3u8
+#https://raw.githubusercontent.com/luthfikenteng/Ina/refs/heads/main/PL/vtv.m3u8
 
 =======================================
 
