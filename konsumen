@@ -372,6 +372,13 @@ http://op-group1-swiftservehd-1.dens.tv/h/h209/02.m3u8|user-agent=DENSGO/3.00.04
 
 =======================================
 
+#EXTINF:-1 tvg-country="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Sin_Po_TV.svg/500px-Sin_Po_TV.svg.png" group-title="Indonesia" ,SINPO TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://siasia-berjuang-hls.bintangstream513.workers.dev/stream.m3u8?id=19046&type=hls
+
+=======================================
+
 #EXTINF:-1 tvg-id="Indonesiana TV" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://i.ibb.co.com/yFCPhMkq/INDONESIANA.png" group-title="Indonesia",INDONESIANA TV
 https://tvstreamcast.com/indonesiana.m3u8
 
@@ -497,11 +504,9 @@ https://siasia-berjuang-hls.bintangstream513.workers.dev/stream.m3u8?id=8237&typ
 #https://raw.githubusercontent.com/luthfikenteng/Ina/refs/heads/main/PL/antv.m3u8
 
 #EXTINF:0 tvg-logo="https://i.ibb.co.com/1GWCbMRs/ANTV.png" group-title="INDONESIA HD" tvg-id="ANTV",  ANTV HD
-#KODIPROP:inputstream.adaptive.license_type=rg.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=251c384e846841abafa1f7c723d57e66:e45b06a38cd261b74c5160f0912c042f
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
-https://d84q7nw4qf3j3.cloudfront.net/out/v1/0a6c6b1534444ab4bd903af8761e6747/index.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://siasia-berjuang-hls.bintangstream513.workers.dev/stream.m3u8?id=782&type=hls
 
 =======================================
 
@@ -632,6 +637,12 @@ http://op-group1-swiftservehd-1.dens.tv/h/h10/index.m3u8?app_type=web&amp;userid
 
 #EXTINF:-1 group-title="INDONESIA HD" tvg-id="beritasatu" tvg-logo="https://i.ibb.co.com/v6SXYpr3/BERITASATU.png",BERITASATU HD
 http://op-group1-swiftservehd-1.dens.tv/h/h209/02.m3u8|user-agent=DENSGO/3.00.04 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1&referrer=http://dens.tv
+=======================================
+
+#EXTINF:-1 tvg-country="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Sin_Po_TV.svg/500px-Sin_Po_TV.svg.png" group-title="INDONESIA HD" ,SINPO TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://siasia-berjuang-hls.bintangstream513.workers.dev/stream.m3u8?id=19046&type=hls
 
 =======================================
 
