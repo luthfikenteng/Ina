@@ -42,33 +42,21 @@ https://aae3e8111b7e62fa97499a11d53fc80a.v.smtcdns.net/play.cbalive.weibisai.com
 =======================================
 #https://i.ibb.co.com/twxFhvBY/PLE.png
 
-#EXTINF:-1 group-title="EVENT 21/SEPTEMBER/2025" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png", 02:00 WIB Fulham vs Brentford
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.plcdn.xyz/
-https://live1.pro2cdnlive.com/live/channel5.flv?wsSecret=b1b437e822ff6863edad54ed7b3442d4&wsABSTime=1758299528
+
 =======================================
 =======================================
 ==============LIGA SPANYOL============
 =======================================
 #https://i.ibb.co.com/1JwYR5NV/LALIGA.png
 
-#EXTINF:-1 group-title="EVENT 21/SEPTEMBER/2025" tvg-logo="https://i.ibb.co.com/1JwYR5NV/LALIGA.png", 02:00 WIB Valencia vs Athletic Club
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
+
 =======================================
 =======================================
 ==============LIGA ITALI================
 =======================================
 #https://i.ibb.co.com/wZ40gYMj/IMG-20250430-174409.png
 
-#EXTINF:-1 group-title="EVENT 21/SEPTEMBER/2025" tvg-logo="https://i.ibb.co.com/wZ40gYMj/IMG-20250430-174409.png", 01:45 WIB Udinese vs Milan
-#EXTVLCOPT:http-referrer=https://arwen1.panaka.cfd/000/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://arwen1.panaka.cfd/puk2/usergenrnd0clv03fyt.m3u8
+
 =======================================
 =======================================
 =============LIGA JERMAN==============
