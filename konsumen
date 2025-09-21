@@ -14,12 +14,6 @@ awalan
 =======================================
 #https://i.ibb.co.com/MxBt8tCs/IMG-20250825-164825.png
 
-#EXTINF:-1 group-title="EVENT 21/SEPTEMBER/2025" tvg-logo="https://i.ibb.co.com/MxBt8tCs/IMG-20250825-164825.png", 002 LI-NING China Masters 2025
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://rakettvcom.blogspot.com/
-https://aae3e8111b7e62fa97499a11d53fc80a.v.smtcdns.net/play.cbalive.weibisai.com/live/21Ap1998/4006859609599061_AiSD.m3u8?txSecret=49b8988a0f12b29ecde8a360826dadd5&txTime=68D0C9C0&
-
-
 =======================================
 ==============LIVE SPORTS==============
 =======================================
@@ -50,12 +44,39 @@ https://aae3e8111b7e62fa97499a11d53fc80a.v.smtcdns.net/play.cbalive.weibisai.com
 #https://i.ibb.co.com/1JwYR5NV/LALIGA.png
 
 
+#EXTINF:-1 group-title="EVENT 21/SEPTEMBER/2025" tvg-logo="https://i.ibb.co.com/1JwYR5NV/LALIGA.png", 19:00 WIB Rayo Vallecano vs Celta de Vigo
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
+
 =======================================
 =======================================
 ==============LIGA ITALI================
 =======================================
 #https://i.ibb.co.com/wZ40gYMj/IMG-20250430-174409.png
 
+#EXTINF:-1 group-title="EVENT 21/SEPTEMBER/2025" tvg-logo="https://i.ibb.co.com/wZ40gYMj/IMG-20250430-174409.png", 17:30 WIB Lazio vs Roma
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://cool-tv.net/
+https://pulse1.zalmora.cfd/kuk1/usergendx472snx93kdgwqrnd.m3u8
+
+#EXTINF:-1 group-title="EVENT 21/SEPTEMBER/2025" tvg-logo="https://i.ibb.co.com/wZ40gYMj/IMG-20250430-174409.png", 20:00 WIB Torino vs Atalanta
+#EXTVLCOPT:http-referrer=https://iron1.jarvisx.cfd/000/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+https://iron1.jarvisx.cfd/puk3/usergenrx4t0l8sybkr.m3u8
+
+#EXTINF:-1 group-title="EVENT 21/SEPTEMBER/2025" tvg-logo="https://i.ibb.co.com/wZ40gYMj/IMG-20250430-174409.png", 20:00 WIB Cremonese vs Parma
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.plcdn.xyz/
+https://live.golivenow71.com/bc4feab4ef55a2f589dee7f1440eb1bf/1758478144095/r8ztat6/index.m3u8
+
+#EXTINF:-1 group-title="EVENT 21/SEPTEMBER/2025" tvg-logo="https://i.ibb.co.com/wZ40gYMj/IMG-20250430-174409.png", 23:00 WIB Fiorentina vs Como
+#EXTVLCOPT:http-referrer=https://iron1.jarvisx.cfd/000/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+https://iron1.jarvisx.cfd/puk3/usergenrx4t0l8sybkr.m3u8
 
 =======================================
 =======================================
