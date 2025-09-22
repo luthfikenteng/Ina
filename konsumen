@@ -7,11 +7,11 @@ awalan
 =======================================
 #https://i.ibb.co.com/zhStskpR/IMG-20250825-165607.png
 
-#EXTINF:-1 group-title="EVENT 22/SEPTEMBER/2025" tvg-logo="https://i.ibb.co.com/zhStskpR/IMG-20250825-165607.png", 14:30 WIB Bulgaria vs Portugal
+#EXTINF:-1 group-title="EVENT 22/SEPTEMBER/2025" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8e/2025_FIVB_Men%27s_Volleyball_World_Championship_logo.png", 19:00 WIB USA vs Slovenia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8272bf6ba46f23f9da5270057b6e028a:74ae70dd10b4bb38ed6ffe843f3e2ccd
-#https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/lgk8kppclc/out/v1/f51173b6b0624a4386358ab8dfee257f/cenc.mpd
+https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/lgk8kppclc/out/v1/f51173b6b0624a4386358ab8dfee257f/cenc.mpd
 
 #EXTINF:-1 group-title="EVENT 22/SEPTEMBER/2025" tvg-logo="https://i.ibb.co.com/zhStskpR/IMG-20250825-165607.png", 14:30 WIB Bulgaria vs Portugal
 #EXTVLCOPT:http-origin=https://demo.crunchyrolll.xyz
@@ -35,6 +35,11 @@ awalan
 ===============LIGA INDO===============
 =======================================
 #https://i.ibb.co.com/spvCP0My/IMG-20250919-155828.png
+#EXTINF:-1 group-title="EVENT 22/SEPTEMBER/2025" tvg-logo="https://i.ibb.co.com/spvCP0My/IMG-20250919-155828.png", 19:00 WIB Borneo vs Persis Solo
+#EXTVLCOPT:http-origin=https://demo.crunchyrolll.xyz
+#EXTVLCOPT:http-referrer=https://demo.crunchyrolll.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+https://hotlivezz179602324.akainu.xyz/oqOtltdUOoVriveAbOHg-g/Fv2lucGIbhPi2caWYvF5Lg/1756657438207/live/nuiSD/chunklist.m3u8
 
 =======================================
 =======================================
