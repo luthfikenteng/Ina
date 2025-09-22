@@ -11,7 +11,7 @@ awalan
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8272bf6ba46f23f9da5270057b6e028a:74ae70dd10b4bb38ed6ffe843f3e2ccd
-https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/lgk8kppclc/out/v1/f51173b6b0624a4386358ab8dfee257f/cenc.mpd
+#https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/lgk8kppclc/out/v1/f51173b6b0624a4386358ab8dfee257f/cenc.mpd
 
 #EXTINF:-1 group-title="EVENT 22/SEPTEMBER/2025" tvg-logo="https://i.ibb.co.com/zhStskpR/IMG-20250825-165607.png", 14:30 WIB Bulgaria vs Portugal
 #EXTVLCOPT:http-origin=https://demo.crunchyrolll.xyz
@@ -35,32 +35,7 @@ https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/lgk8kppclc/
 ===============LIGA INDO===============
 =======================================
 #https://i.ibb.co.com/spvCP0My/IMG-20250919-155828.png
-#EXTINF:-1 group-title="EVENT 22/SEPTEMBER/2025" tvg-logo="https://i.ibb.co.com/spvCP0My/IMG-20250919-155828.png", 19:00 WIB Borneo vs Persis Solo
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://hlsplayer.net/
-https://v4-81285a097b2cd341b7871fa3aafac269.livehwc4.com/stream.titanlivescore.com/live/LXSCORE-4879798.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=fdaa95c59e9edc0f3b7ba975d7065c9b
-
-#EXTINF:-1 group-title="EVENT 22/SEPTEMBER/2025" tvg-logo="https://i.ibb.co.com/spvCP0My/IMG-20250919-155828.png", 19:00 WIB Borneo vs Persis Solo
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://www.instreamtv.xyz
-#EXTVLCOPT:http-referrer=https://www.instreamtv.xyz/
-https://play-cdn.sportsbal.com/sport/202_3937760_1.m3u8?hls_ctx=9ts46679&sign=mO75FYqnn6xxlYc7-eGpves-Czco15dQxkwpNVSy_GRduL-khlfNx68sOWjXpkNObf0Xvl-VUtSaa9NzzkTw7-TesLHeek2pG5chgw5JS8Y0gi5OOf6W0CScCac4qc4grXxEtvrjTYGYstFVAEYPMx3udQQf0jAEwiV6h1XMKYAVahyJvWW89rSqNE74rNBtZP8gBA_xjMdy24x40scM1pYD2RkhiNxS4lKDfsJRMYlKPVGx46V36ihofQII3Fvkv_iIpXbvsJSJpYzuiAecqp38O8XJ6OX2qHbDa-YPQs-9CBq-Nqz71MkisArzV_i3D_z6s8kxdlqje2KfNs8XoA&timestamp=1758542566092
-
-#EXTINF:-1 group-title="EVENT 22/SEPTEMBER/2025" tvg-logo="https://i.ibb.co.com/spvCP0My/IMG-20250919-155828.png", 19:00 WIB Borneo vs Persis Solo
-#EXTVLCOPT:http-origin=https://demo.crunchyrolll.xyz
-#EXTVLCOPT:http-referrer=https://demo.crunchyrolll.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-https://hotlivezz179602324.akainu.xyz/oqOtltdUOoVriveAbOHg-g/Fv2lucGIbhPi2caWYvF5Lg/1756657438207/live/nuiSD/chunklist.m3u8
-
-
-
-#EXTINF:-1 group-title="EVENT 22/SEPTEMBER/2025" tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/99/Logo_Terbaru_Liga_2_Indonesia.png", 19:00 WIB Sumsel United vs Persiraja Banda Aceh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://www.instreamtv.xyz
-#EXTVLCOPT:http-referrer=https://www.instreamtv.xyz/
-https://play-cdn.sportsbal.com/sport/202_4294554_1.m3u8?hls_ctx=539qc871&sign=PJI-3e3azIg2GQjHC4XecJQ87zRpGSFRjD7NTrapLtWMBsOXSwAWE7XjSzaBsfToeTct9s0lZFILaPVHxWi1GTiKdDVRqWab2GI-uGB5VvAjB864Z6w4BcSJkjmAv4j4_a4zfbDq-v3IfIKrFMqXKzzX1f7ZHEFQ3SlaUhpx5twOpbJ7wTzS6pUzDuIssP0ogIbE-UQ2zZHqiNt_hn30CH8DV8mbX8tOxhWCNJIfJsAx7be5NJ-dpYMZ06YIWtpYj-BqXqU0jxlwByi_QbMSyNB6rDS1gDA8uYAqgylFpYmTTdwWfUkIXw4t4ifondItLNUXw86RfKE501fXA5hiaw&timestamp=1758542782208
-
-
+#
 =======================================
 =======================================
 ==============LIGA INGGRIS=============
