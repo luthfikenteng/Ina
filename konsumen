@@ -19,6 +19,20 @@ awalan
 =======================================
 #https://i.ibb.co.com/MxBt8tCs/IMG-20250825-164825.png
 
+#EXTINF:-1 tvg-id="C 1" group-title="LIVE EVENT" tvg-logo="https://i.ibb.co.com/MxBt8tCs/IMG-20250825-164825.png", COURT 1
+https://01a7debea34b410001e86f430d9634e2.v.smtcdns.net/mobilelive-test.ysp.cctv.cn/2028488801.m3u8
+
+#EXTINF:-1 tvg-id="C 1" group-title="LIVE EVENT" tvg-logo="https://i.ibb.co.com/MxBt8tCs/IMG-20250825-164825.png", COURT 2
+https://01a7debea34b410001e86f430d9634e2.v.smtcdns.net/mobilelive-test.ysp.cctv.cn/2028489401.m3u8
+
+#EXTINF:-1 tvg-id="C 1" group-title="LIVE EVENT" tvg-logo="https://i.ibb.co.com/MxBt8tCs/IMG-20250825-164825.png", COURT 3
+https://01a7debea34b410001e86f430d9634e2.v.smtcdns.net/mobilelive-test.ysp.cctv.cn/2028489501.m3u8
+
+#EXTINF:-1 tvg-id="C 1" group-title="LIVE EVENT" tvg-logo="https://i.ibb.co.com/MxBt8tCs/IMG-20250825-164825.png", COURT 4
+https://01a7debea34b410001e86f430d9634e2.v.smtcdns.net/mobilelive-test.ysp.cctv.cn/2028489601.m3u8
+
+
+
 =======================================
 ==============LIVE SPORTS==============
 =======================================
