@@ -13,11 +13,6 @@ awalan
 #KODIPROP:inputstream.adaptive.license_key=8272bf6ba46f23f9da5270057b6e028a:74ae70dd10b4bb38ed6ffe843f3e2ccd
 #https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/lgk8kppclc/out/v1/f51173b6b0624a4386358ab8dfee257f/cenc.mpd
 
-#EXTINF:-1 group-title="EVENT 24/SEPTEMBER/2025" tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/08/Logo_Livoli_Divisi_Utama.png", 13:00 WIB Putra: Ganevo Yogya vs Pasundan
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://ppdd02.playerktidfintkd.shop
-#EXTVLCOPT:http-referrer=https://ppdd02.playerktidfintkd.shop/
-https://twn2-cf.boblcfwudz421.com/auth%3D564d58106e39f234380604169f9842fede7e9b59bf5f2495106f13c1a156d349f8815f1ba7d31d81d6404c7ab82ff3bcd14b1bac6a7b9c3d2602caf081b0f497750366c8ceb507b466a2f813f41224b9412718031bb1a9ffcee848e7bd28df9b30b440af5e2a44b6c8fba1c2b82fb2752f861aec6d57d6274593a91e3772af0cd54b2be045e77081fdb62e1ddbe48a8b775838c7b198f0b07f2eb4fa2bbdec28fe353143c5c90cefbcb039f125d1a07ced23ca12d61de5cc31f03173e0743909224db57769cec6006382777e71cabb979b3a62b78497cd3772f2f0043221973dc929d3b904f986e7299a9da8f7629a0e58fda10d6f045b2e637dd389331a3a0341b0849d033b3072b9dc95f8edc48114405e6a36e2992b4216f1ca0efd46293b%26cid%3DaW4--kBpsAdKTsUqeDOIb250914%26_v%3D2%26_r%3D5E1HMZ%26_vis%3D3248dd8923d6e98a194da71db9da93bd44aad712db72de5988f344319b4822d9%26_vvs%3D8cb391464fe5f2c60cc942f9a655104381530fe84d6fe7f440854670f017222c/app/c372411.m3u8
 
 #EXTINF:-1 group-title="EVENT 24/SEPTEMBER/2025" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8e/2025_FIVB_Men%27s_Volleyball_World_Championship_logo.png", 14:30 WIB Italy vs Belgium
 #EXTVLCOPT:http-origin=https://demo.crunchyrolll.xyz
@@ -31,16 +26,16 @@ https://hotlivezz179602324.akainu.xyz/Go4kZPUzQxYV6K-ZDSl4ng/Fv2lucGIbhPi2caWYvF
 =======================================
 #https://i.ibb.co.com/MxBt8tCs/IMG-20250825-164825.png
 
-#EXTINF:-1 tvg-id="C 1" group-title="LIVE EVENT" tvg-logo="https://i.ibb.co.com/MxBt8tCs/IMG-20250825-164825.png", COURT 1
+#EXTINF:-1 tvg-id="C 1" group-title="EVENT 22/SEPTEMBER/2025" tvg-logo="https://i.ibb.co.com/MxBt8tCs/IMG-20250825-164825.png", COURT 1
 https://01a7debea34b410001e86f430d9634e2.v.smtcdns.net/mobilelive-test.ysp.cctv.cn/2028488801.m3u8
 
-#EXTINF:-1 tvg-id="C 1" group-title="LIVE EVENT" tvg-logo="https://i.ibb.co.com/MxBt8tCs/IMG-20250825-164825.png", COURT 2
+#EXTINF:-1 tvg-id="C 1" group-title="EVENT 22/SEPTEMBER/2025" tvg-logo="https://i.ibb.co.com/MxBt8tCs/IMG-20250825-164825.png", COURT 2
 https://01a7debea34b410001e86f430d9634e2.v.smtcdns.net/mobilelive-test.ysp.cctv.cn/2028489401.m3u8
 
-#EXTINF:-1 tvg-id="C 1" group-title="LIVE EVENT" tvg-logo="https://i.ibb.co.com/MxBt8tCs/IMG-20250825-164825.png", COURT 3
+#EXTINF:-1 tvg-id="C 1" group-title="EVENT 22/SEPTEMBER/2025" tvg-logo="https://i.ibb.co.com/MxBt8tCs/IMG-20250825-164825.png", COURT 3
 https://01a7debea34b410001e86f430d9634e2.v.smtcdns.net/mobilelive-test.ysp.cctv.cn/2028489501.m3u8
 
-#EXTINF:-1 tvg-id="C 1" group-title="LIVE EVENT" tvg-logo="https://i.ibb.co.com/MxBt8tCs/IMG-20250825-164825.png", COURT 4
+#EXTINF:-1 tvg-id="C 1" group-title="EVENT 22/SEPTEMBER/2025" tvg-logo="https://i.ibb.co.com/MxBt8tCs/IMG-20250825-164825.png", COURT 4
 https://01a7debea34b410001e86f430d9634e2.v.smtcdns.net/mobilelive-test.ysp.cctv.cn/2028489601.m3u8
 
 
