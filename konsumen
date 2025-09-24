@@ -13,11 +13,6 @@ awalan
 #KODIPROP:inputstream.adaptive.license_key=8272bf6ba46f23f9da5270057b6e028a:74ae70dd10b4bb38ed6ffe843f3e2ccd
 #https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/lgk8kppclc/out/v1/f51173b6b0624a4386358ab8dfee257f/cenc.mpd
 
-#EXTINF:-1 group-title="EVENT 22/SEPTEMBER/2025" tvg-logo="https://i.ibb.co.com/zhStskpR/IMG-20250825-165607.png", 14:30 WIB Bulgaria vs Portugal
-#EXTVLCOPT:http-origin=https://demo.crunchyrolll.xyz
-#EXTVLCOPT:http-referrer=https://demo.crunchyrolll.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#https://hotlivezz179602324.akainu.xyz/rDL8f8tcfp4ZeFIWWnmHrA/Fv2lucGIbhPi2caWYvF5Lg/1758547622691/live/cunSD/chunklist.m3u8
 
 =======================================
 ==============BADMINTON==============
@@ -27,42 +22,6 @@ awalan
 =======================================
 ==============LIVE SPORTS==============
 =======================================
-
-#EXTINF:-1 group-title="EVENT 24/SEPTEMBER/2025" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/0/0c/EFL_%28Carabao%29_Cup_Logo.svg/800px-EFL_%28Carabao%29_Cup_Logo.svg.png", 01:45 WIB Lincoln City vs Chelsea
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.plcdn.xyz/
-https://live1.pro2cdnlive.com/live/channel6.flv?wsSecret=8aa11a7e9d79dac71b41b5bbbfceab05&wsABSTime=1758654749
-
-#EXTINF:-1 group-title="EVENT 24/SEPTEMBER/2025" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/0/0c/EFL_%28Carabao%29_Cup_Logo.svg/800px-EFL_%28Carabao%29_Cup_Logo.svg.png", 01:45 WIB Wolverhampton Wanderers vs Everton
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.plcdn.xyz/
-https://live1.pro2cdnlive.com/live/channel30.flv?wsSecret=255b5f70addd99d45e64fb80bfed205f&wsABSTime=1758655063
-
-#EXTINF:-1 group-title="EVENT 24/SEPTEMBER/2025" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/0/0c/EFL_%28Carabao%29_Cup_Logo.svg/800px-EFL_%28Carabao%29_Cup_Logo.svg.png", 01:45 WIB Fulham vs Cambridge United
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.plcdn.xyz/
-https://live1.pro2cdnlive.com/live/channel10.flv?wsSecret=934881183d75e3d58fefb1d1996c36cb&wsABSTime=1758655171
-
-#EXTINF:-1 group-title="EVENT 24/SEPTEMBER/2025" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/0/0c/EFL_%28Carabao%29_Cup_Logo.svg/800px-EFL_%28Carabao%29_Cup_Logo.svg.png", 02:00 WIB Liverpool vs Southampton
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.plcdn.xyz/
-https://live1.pro2cdnlive.com/live/channel9.flv?wsSecret=95a322aefb5bbf2d03f6eafe66fe78da&wsABSTime=1758654898
-
-
-
-#EXTINF:-1 group-title="EVENT 24/SEPTEMBER/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRx5GLwa6CelP7F7ZJXAk-5J_nCPgWNH8bOww&s", 02:00 WIB Milan vs Lecce
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referer=https://webtv.sk/tv/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd
-
-#EXTINF:-1 group-title="EVENT 24/SEPTEMBER/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRx5GLwa6CelP7F7ZJXAk-5J_nCPgWNH8bOww&s", 02:00 WIB Milan vs Lecce
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.plcdn.xyz/
-https://live1.pro2cdnlive.com/live/channel2.flv?wsSecret=72d708314c479928658f276cd47a7974&wsABSTime=1758651109
 
 
 =======================================
@@ -85,24 +44,6 @@ https://live1.pro2cdnlive.com/live/channel2.flv?wsSecret=72d708314c479928658f276
 ==============LIGA SPANYOL============
 =======================================
 #https://i.ibb.co.com/1JwYR5NV/LALIGA.png
-
-
-#EXTINF:-1 group-title="EVENT 24/SEPTEMBER/2025" tvg-logo="https://i.ibb.co.com/1JwYR5NV/LALIGA.png", 02:30 WIB Levante vs Real Madrid
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
-
-#EXTINF:-1 group-title="EVENT 24/SEPTEMBER/2025" tvg-logo="https://i.ibb.co.com/1JwYR5NV/LALIGA.png", 02:30 WIB Sevilla vs Villarreal
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
-
 
 
 
