@@ -197,7 +197,8 @@ http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
 #EXTINF:-1 tvg-id="MentariTV.id" group-title="Indonesia" tvg-name="Mentari TV" tvg-logo="https://i.ibb.co.com/7Jnn95wt/MENTARI.png",MENTARI TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://fadhillah.serv00.net/scripts/vidiohls.php/stream.m3u8?id=8237
+#https://fadhillah.serv00.net/scripts/vidiohls.php/stream.m3u8?id=8237
+https://seprai.jasoncreak8.workers.dev/play.mpd?id=82&type=dash
 
 =======================================
 
@@ -385,7 +386,8 @@ http://op-group1-swiftservehd-1.dens.tv/h/h209/02.m3u8|user-agent=DENSGO/3.00.04
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #https://siasia-berjuang-hls.bintangstream513.workers.dev/stream.m3u8?id=19046&type=hls
-https://fadhillah.serv00.net/scripts/vidiohls.php/stream.m3u8?id=19046
+#https://fadhillah.serv00.net/scripts/vidiohls.php/stream.m3u8?id=19046
+https://seprai.jasoncreak8.workers.dev/play.mpd?id=19046&type=dash
 
 =======================================
 
@@ -497,7 +499,8 @@ https://atemeshield1-voe.sysln.id/live/eds/MOJIOChannel/mpd/MOJIOChannel.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #https://siasia-berjuang-hls.bintangstream513.workers.dev/stream.m3u8?id=8237&type=hls
-https://fadhillah.serv00.net/scripts/vidiohls.php/stream.m3u8?id=8237
+#https://fadhillah.serv00.net/scripts/vidiohls.php/stream.m3u8?id=8237
+https://seprai.jasoncreak8.workers.dev/play.mpd?id=8237&type=dash
 
 =======================================
 
@@ -514,6 +517,7 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/0a6c6b1534444ab4bd903af8761e6747/ind
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #https://siasia-berjuang-hls.bintangstream513.workers.dev/stream.m3u8?id=782&type=hls
 #https://fadhillah.serv00.net/scripts/vidiohls.php/stream.m3u8?id=782
+https://seprai.jasoncreak8.workers.dev/play.mpd?id=782&type=dash
 
 =======================================
 
@@ -658,7 +662,8 @@ http://op-group1-swiftservehd-1.dens.tv/h/h209/02.m3u8|user-agent=DENSGO/3.00.04
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #https://siasia-berjuang-hls.bintangstream513.workers.dev/stream.m3u8?id=19046&type=hls
-https://fadhillah.serv00.net/scripts/vidiohls.php/stream.m3u8?id=19046
+#https://fadhillah.serv00.net/scripts/vidiohls.php/stream.m3u8?id=19046
+https://seprai.jasoncreak8.workers.dev/play.mpd?id=19046&type=dash
 
 =======================================
 
@@ -1441,7 +1446,8 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/HoreeHD/mpd/HoreeHD.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #https://siasia-berjuang-hls.bintangstream513.workers.dev/stream.m3u8?id=7052&type=hls
-https://fadhillah.serv00.net/scripts/vidiohls.php/stream.m3u8?id=7052
+#https://fadhillah.serv00.net/scripts/vidiohls.php/stream.m3u8?id=7052
+https://seprai.jasoncreak8.workers.dev/play.mpd?id=7052&type=dash
 
 =======================================
 
@@ -1797,7 +1803,8 @@ https://d2gr3zenqo3tg4.cloudfront.net/out/v1/a8f14e34c687494fb1454b88742db085/in
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #https://siasia-berjuang-hls.bintangstream513.workers.dev/stream.m3u8?id=7464&type=hls
-https://fadhillah.serv00.net/scripts/vidiohls.php/stream.m3u8?id=7464
+#https://fadhillah.serv00.net/scripts/vidiohls.php/stream.m3u8?id=7464
+https://seprai.jasoncreak8.workers.dev/play.mpd?id=7464&type=dash
 
 =======================================
 
