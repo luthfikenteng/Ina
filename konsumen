@@ -20,27 +20,11 @@ awalan
 =======================================
 ==============LIVE SPORTS==============
 =======================================
-
-#EXTINF:-1 group-title="EVENT 25/SEPTEMBER/2025" tvg-logo="https://img.bwfbadminton.com/image/upload/v1752128442/assets/tournaments/logo/1F8E0D31-72A8-4E20-B0FB-9F304DEF0EAD.png", 002 SUWON VICTOR Korea Open 2025 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://rakettvcom.blogspot.com
-#EXTVLCOPT:http-referrer=https://rakettvcom.blogspot.com/
-https://01a7debea34b410001e86f430d9634e2.v.smtcdns.net/mobilelive-partner.ysp.cctv.cn/ikotv/2028486601_shd.m3u8
-https://01a7debea34b410001e86f430d9634e2.v.smtcdns.net/mobilelive-partner.ysp.cctv.cn/ikotv/2028487701_shd.m3u8
-https://01a7debea34b410001e86f430d9634e2.v.smtcdns.net/mobilelive-partner.ysp.cctv.cn/ikotv/2028490101_shd.m3u8
-
-#EXTINF:-1 group-title="EVENT 25/SEPTEMBER/2025" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8e/2025_FIVB_Men%27s_Volleyball_World_Championship_logo.png", 19:00 WIB USA vs Bulgaria
-#EXTVLCOPT:http-origin=https://demo.crunchyrolll.xyz
-#EXTVLCOPT:http-referrer=https://demo.crunchyrolll.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-https://hotlivezz179026907.akainu.xyz/xDtpiE6Ux5ockXDBCTOaWA/Fv2lucGIbhPi2caWYvF5Lg/1757442979312/live/may101/chunklist.m3u8
-https://hotlivezz179602324.akainu.xyz/rDL8f8tcfp4ZeFIWWnmHrA/Fv2lucGIbhPi2caWYvF5Lg/1758547622691/live/cunSD/chunklist.m3u8
-
-
+#EXTINF:-1 group-title="EVENT 25/SEPTEMBER/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRx5GLwa6CelP7F7ZJXAk-5J_nCPgWNH8bOww&s", 23:30 WIB Genoa vs Empoli
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
-#EXTINF:-1 group-title="EVENT 25/SEPTEMBER/2025" tvg-logo="https://upload.wikimedia.org/wikipedia/id/8/89/ASEAN_Club_Championship_SP_logo.png", 19:30 WIB Nam Dinh vs Svay Rieng
-https://fta4-cdn-flr.visionplus.id/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd|Referer=https://www.visionplus.id/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_key=dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
 
 
 
@@ -49,10 +33,6 @@ https://fta4-cdn-flr.visionplus.id/out/v1/63c0da12bb4d48afbaf053f51dff2353/index
 =======================================
 #https://i.ibb.co.com/spvCP0My/IMG-20250919-155828.png
 
-#EXTINF:-1 group-title="EVENT 25/SEPTEMBER/2025" tvg-logo="https://i.ibb.co.com/spvCP0My/IMG-20250919-155828.png", 19:00 WIB PSBS Biak Numfor vs Madura United
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.plcdn.xyz/
-https://live1.pro2cdnlive.com/live/channel4.m3u8?wsSecret=ce6c08ac15b2a0bcbc1b702891a1c217&wsABSTime=1758820872
 
 
 =======================================
@@ -131,7 +111,21 @@ https://live1.pro2cdnlive.com/live/channel4.m3u8?wsSecret=ce6c08ac15b2a0bcbc1b70
 =======================================
 #https://i.ibb.co.com/39ysdc2K/IMG-20250501-231953.png
 
+#EXTINF:-1 group-title="EVENT 25/SEPTEMBER/2025" tvg-logo="https://i.ibb.co.com/39ysdc2K/IMG-20250501-231953.png", 23:45 WIB Lille vs Brann
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
 
+#EXTINF:-1 group-title="EVENT 25/SEPTEMBER/2025" tvg-logo="https://i.ibb.co.com/39ysdc2K/IMG-20250501-231953.png", 23:45 WIB Go Ahead Eagles vs FCSB
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
 
 ==================================================Indonesia=Channels==================================================
 
