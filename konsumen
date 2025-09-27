@@ -49,6 +49,35 @@ https://live1.pro2cdnlive.com/live/channel27.m3u8?wsSecret=40003322eee9c5ba02e24
 =======================================
 #https://i.ibb.co.com/twxFhvBY/PLE.png
 
+#EXTINF:-1 group-title="EVENT 27/SEPTEMBER/2025" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png", 21:00 WIB Crystal Palace vs Liverpool
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.plcdn.xyz/
+https://live1.pro2cdnlive.com/live/channel2.m3u8?wsSecret=b397e8676816b5253ae5fc520628394c&wsABSTime=1758736536
+
+#EXTINF:-1 group-title="EVENT 27/SEPTEMBER/2025" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png", 21:00 WIB Manchester City vs Burnley
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.plcdn.xyz/
+https://live1.pro2cdnlive.com/live/channel6.m3u8?wsSecret=56a11cac5b764e283f5cac2c475d275e&wsABSTime=1758736636
+
+#EXTINF:-1 group-title="EVENT 27/SEPTEMBER/2025" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png", 21:00 WIB Leeds United vs AFC Bournemouth
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.plcdn.xyz/
+https://live1.pro2cdnlive.com/live/channel15.m3u8?wsSecret=ca629953e1d2a55edd69683b3f2f72bf&wsABSTime=1758650961
+
+#EXTINF:-1 group-title="EVENT 27/SEPTEMBER/2025" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png", 21:00 WIB Chelsea vs Brighton & Hove Albion
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.plcdn.xyz/
+https://live.golivenow71.com/7bc224dc9ad823413ce29b2533658674/1758990053437/vbyuizw/index.m3u8
+
+#EXTINF:-1 group-title="EVENT 27/SEPTEMBER/2025" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png", 23:30 WIB Nottingham Forest vs Sunderland
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.plcdn.xyz/
+https://live1.pro2cdnlive.com/live/channel21.m3u8?wsSecret=2de32cd512cd1e8429ebd6fbac45f587&wsABSTime=1755032356
+
+#EXTINF:-1 group-title="EVENT 28/SEPTEMBER/2025" tvg-logo="https://iili.io/FtSr5Mb.jpg", 02:00 WIB Tottenham vs Wolverhampton
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.plcdn.xyz/
+#https://live1.pro2cdnlive.com/live/channel17.m3u8?wsSecret=ea03d343f80f68bd1663974f0b3a4e2f&wsABSTime=1755400593
 
 
 
@@ -67,6 +96,29 @@ https://live1.pro2cdnlive.com/live/channel27.m3u8?wsSecret=40003322eee9c5ba02e24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
 
+#EXTINF:-1 group-title="EVENT 27/SEPTEMBER/2025" tvg-logo="https://i.ibb.co.com/1JwYR5NV/LALIGA.png", 21:15 WIB Atlético Madrid vs Real Madrid
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
+
+#EXTINF:-1 group-title="EVENT 27/SEPTEMBER/2025" tvg-logo="https://i.ibb.co.com/1JwYR5NV/LALIGA.png", 23:30 WIB Mallorca vs Deportivo Alavés
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
+
+#EXTINF:-1 group-title="EVENT 28/SEPTEMBER/2025" tvg-logo="https://i.ibb.co.com/1JwYR5NV/LALIGA.png", 02:00 WIB Villarreal vs Athletic Club
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
 
 =======================================
 =======================================
