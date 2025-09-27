@@ -22,6 +22,10 @@ awalan
 ==============LIVE SPORTS==============
 =======================================
 
+#EXTINF:-1 group-title="EVENT 27/SEPTEMBER/2025" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8e/2025_FIVB_Men%27s_Volleyball_World_Championship_logo.png", 17:30 WIB Poland vs Italy
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9009b7189e3e68cc09d17811f2beb55a:dd3f96a94c909da48ff40c92aabf8cf3
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/4yiko4it8k/out/v1/b77dd424c745443aba2f3f88d418f797/cenc-sd.mpd
 
 
 =======================================
@@ -30,6 +34,15 @@ awalan
 #https://i.ibb.co.com/spvCP0My/IMG-20250919-155828.png
 
 
+#EXTINF:-1 group-title="EVENT 27/SEPTEMBER/2025" tvg-logo="https://i.ibb.co.com/spvCP0My/IMG-20250919-155828.png", 19:00 WIB Persijap vs Persik Kediri
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.plcdn.xyz/
+https://live1.pro2cdnlive.com/live/channel31.m3u8?wsSecret=7712f30630f07162f08d5a8d3b57ccb1&wsABSTime=1758989350
+
+#EXTINF:-1 group-title="EVENT 27/SEPTEMBER/2025" tvg-logo="https://i.ibb.co.com/spvCP0My/IMG-20250919-155828.png", 19:00 WIB Persita vs Persib
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.plcdn.xyz/
+https://live1.pro2cdnlive.com/live/channel27.m3u8?wsSecret=40003322eee9c5ba02e243ba3d64c9eb&wsABSTime=1758989473
 =======================================
 =======================================
 ==============LIGA INGGRIS=============
