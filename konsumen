@@ -50,12 +50,6 @@ https://live1.pro2cdnlive.com/live/channel27.m3u8?wsSecret=40003322eee9c5ba02e24
 #https://i.ibb.co.com/twxFhvBY/PLE.png
 
 
-#EXTINF:-1 group-title="EVENT 27/SEPTEMBER/2025" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png", 18:30 WIB Brentford vs Manchester United
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
-#https://live1.pro2cdnlive.com/live/channel5.m3u8?wsSecret=b1b437e822ff6863edad54ed7b3442d4&wsABSTime=1758299528
 
 
 =======================================
@@ -103,6 +97,38 @@ https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd
 =======================================
 #https://i.ibb.co.com/R4McZS45/IMG-20250430-173818.png
 
+
+#EXTINF:-1 group-title="EVENT 27/SEPTEMBER/2025" tvg-logo="https://i.ibb.co.com/R4McZS45/IMG-20250430-173818.png", 20:30 WIB St. Pauli vs Bayer Leverkusen
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=39c4dc6704cf4ceea2fd4863b88d8a7d:4e9d7954c2ff46759289da4fc9f018ea
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
+
+#EXTINF:-1 group-title="EVENT 27/SEPTEMBER/2025" tvg-logo="https://i.ibb.co.com/R4McZS45/IMG-20250430-173818.png", 20:30 WIB Heidenheim vs Augsburg
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b576e5f5f1bc4cbaa866e5b0face5a30:3377be6c3b5f688ebed687312c9b9d95
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd
+
+#EXTINF:-1 group-title="EVENT 27/SEPTEMBER/2025" tvg-logo="https://i.ibb.co.com/R4McZS45/IMG-20250430-173818.png", 20:30 WIB Wolfsburg vs RB Leipzig
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=911e72adf36946afbdbb4f80782a8394:08aec548a851ba64b7172ae7f05cb91c
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
+
+#EXTINF:-1 group-title="EVENT 27/SEPTEMBER/2025" tvg-logo="https://i.ibb.co.com/R4McZS45/IMG-20250430-173818.png", 20:30 WIB Mainz 05 vs Borussia Dortmund
+#EXTVLCOPT:http-referrer=https://arwen1.panaka1.cfd/000/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+https://arwen1.panaka1.cfd/puk2/usergenrnd0clv03fyt.m3u8
+
+#EXTINF:-1 group-title="EVENT 27/SEPTEMBER/2025" tvg-logo="https://i.ibb.co.com/R4McZS45/IMG-20250430-173818.png", 23:30 WIB Borussia M'gladbach vs Eintracht Frankfurt
+#EXTVLCOPT:http-referrer=https://galandriel1.thobias.cfd/000/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+https://galandriel1.thobias.cfd/puk4/usergendx42x9qrnd.m3u8
 
 =======================================
 =======================================
