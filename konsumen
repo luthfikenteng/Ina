@@ -2842,13 +2842,6 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/fe4d00f07e2f43b789102b84b4d243a9/ind
 
 =======================================
 
-#EXTINF:-1 tvg-id="VOLITV.ID" tvg-name="VOLI TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB2muorAZqV8eDfs-SmH4zzWX06kZxgoBzIg&s" group-title="SPORTS INDO",VOLI TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXT-X-TARGETDURATION:2
-#EXT-X-MEDIA-SEQUENCE:1
-#EXTVLCOPT:network-caching=10000
-#EXTVLCOPT:http-reconnect=true
-http://103.179.182.117:6768/hls/2/2.m3u8
 
 =======================================
 
@@ -3196,6 +3189,21 @@ https://dl.dropboxusercontent.com/scl/fi/fvm8nivmh4pn0mh6ne4q9/tnt-sports-4.m3u8
 
 =======================================
 
+#EXTINF:0 tvg-id="BEINSPORT 1" tvg-logo="https://i.ibb.co.com/TM78YHzg" group-title="SPORTS",BEIN SPORT 1 EN
+https://dl.dropboxusercontent.com/scl/fi/37lqtsssue49pb14sp4mh/beinen1.m3u8?rlkey=swgwfegm8tauxhlon0pa0mpy5&st=abo64kir|user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
+
+=======================================
+
+#EXTINF:0 tvg-logo="https://i.ibb.co.com/VYZLb1bpg" group-title="SPORTS INDO",BEIN SPORT 2 EN
+https://dl.dropboxusercontent.com/scl/fi/y2zr885lsq1xy0sg122y4/beinen2.m3u8?rlkey=mek9f8j7hoky31qr14ije7kxo&st=8mjzdmnl|user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
+
+=======================================
+
+#EXTINF:0 tvg-logo="https://i.ibb.co.com/VYZLb1bv/Bmg" group-title="SPORTS",SUPERSPORT PREMIER LEAGUE
+https://dl.dropboxusercontent.com/scl/fi/51vk0ol0f0zo1falb559o/supersport-premier-league.m3u8?rlkey=m5fxkwayzm3a1vtdc0vc9p913&st=gc1udhg6
+
+=======================================
+
 #EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co.com/23VzJr3F/BEINEX.png" group-title="SPORTS",BeinSport Xtra
 https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -3405,6 +3413,10 @@ https://live-atv-cdn.izzigo.tv/3/out/u/dash/SKY-SPORTS-HD/default.mpd
 https://live-atv-cdn.izzigo.tv/3/out/u/dash/SKY-SPORTS-21-HD/default.mpd
 
 =======================================
+
+#EXTINF:-1 tvg-id="SKY SPORTS LALIGA" tvg-logo="https://i.ibb.co.com/9mNLN1g" group-title="SPORTS" , SKY SPORTS PREMIER LEAGUE
+https://dl.dropboxusercontent.com/scl/fi/woin0d6w6272or9nwc5o0/skysportspl.m3u8?rlkey=vavvm0zlt5vs7mwqf4rezdefj&st=3p1ekhha
+
 
 #EXTINF:-1 tvg-id="SKY SPORTS LALIGA" tvg-logo="https://i.ibb.co.com/9mNLN1DG/SKYLL.png" group-title="SPORTS" , SKY SPORTS LALIGA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
