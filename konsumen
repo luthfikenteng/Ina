@@ -7,11 +7,7 @@ awalan
 =======================================
 #https://i.ibb.co.com/zhStskpR/IMG-20250825-165607.png
 
-#EXTINF:-1 group-title="EVENT 28/SEPTEMBER/2025" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8e/2025_FIVB_Men%27s_Volleyball_World_Championship_logo.png", 13:30 WIB Czech Republic vs Poland
-#EXTVLCOPT:http-origin=https://demo.crunchyrolll.xyz
-#EXTVLCOPT:http-referrer=https://demo.crunchyrolll.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-https://hotlivezz179026907.akainu.xyz/7ZUnmJvxlnMcAlvs4phoog/Fv2lucGIbhPi2caWYvF5Lg/1757588377344/live/may171/chunklist.m3u8
+
 
 
 =======================================
@@ -19,11 +15,7 @@ https://hotlivezz179026907.akainu.xyz/7ZUnmJvxlnMcAlvs4phoog/Fv2lucGIbhPi2caWYvF
 =======================================
 #https://i.ibb.co.com/MxBt8tCs/IMG-20250825-164825.png
 
-#EXTINF:-1 group-title="EVENT 28/SEPTEMBER/2025" tvg-logo="https://img.bwfbadminton.com/image/upload/v1752128442/assets/tournaments/logo/1F8E0D31-72A8-4E20-B0FB-9F304DEF0EAD.png", 002 SUWON VICTOR Korea Open 2025 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://rakettvcom.blogspot.com
-#EXTVLCOPT:http-referrer=https://rakettvcom.blogspot.com/
-https://b188f789c84dcab4371c6e06ad24ca1e.v.smtcdns.net/play.cbalive.weibisai.com/live/21Ap1998/4011020155581061_AiHD.m3u8?txSecret=3478b47726ff48efac323387d6a52344&txTime=68D9CC00&
+
 
 
 =======================================
@@ -92,13 +84,12 @@ https://b188f789c84dcab4371c6e06ad24ca1e.v.smtcdns.net/play.cbalive.weibisai.com
 ===============MOTOGP================
 =======================================
 #https://i.ibb.co.com/TqRf4Xk3/IMG-20250816-175900.png
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/TqRf4Xk3/IMG-20250816-175900.png" group-title="EVENT 28/SEPTEMBER/2025",MOTOGP
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/TqRf4Xk3/IMG-20250816-175900.png" group-title="EVENT 27/SEPTEMBER/2025",MOTOGP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1539f043249e413d91906036f305831e:671e24fd8d234c7f38d85055815f902a
-https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
-
+#https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
 
 =======================================
 ==============LIGA ARAB===============
@@ -357,7 +348,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h209/02.m3u8|user-agent=DENSGO/3.00.04
 
 =======================================
 
-#EXTINF:-1 tvg-country="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Sin_Po_TV.svg/500px-Sin_Po_TV.svg.png" group-title="Indonesia" ,SINPO TV
+#EXTINF:-1 tvg-country="" tvg-logo="https://i.ibb.co.com/7xb2sP7G/IMG-20250928-143516.png" group-title="Indonesia" ,SINPO TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #https://siasia-berjuang-hls.bintangstream513.workers.dev/stream.m3u8?id=19046&type=hls
@@ -635,7 +626,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h209/02.m3u8|user-agent=DENSGO/3.00.04
 
 =======================================
 
-#EXTINF:-1 tvg-country="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Sin_Po_TV.svg/500px-Sin_Po_TV.svg.png" group-title="INDONESIA HD" ,SINPO TV
+#EXTINF:-1 tvg-country="" tvg-logo="https://i.ibb.co.com/7xb2sP7G/IMG-20250928-143516.png" group-title="INDONESIA HD" ,SINPO TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #https://siasia-berjuang-hls.bintangstream513.workers.dev/stream.m3u8?id=19046&type=hls
