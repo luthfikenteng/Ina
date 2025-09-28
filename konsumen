@@ -46,11 +46,6 @@ awalan
 
 
 
-#EXTINF:-1 group-title="EVENT 28/SEPTEMBER/2025" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png", 22:30 WIB Newcastle United vs Arsenal
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
 
 
 =======================================
@@ -62,13 +57,6 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/
 
 
 
-#EXTINF:-1 group-title="EVENT 28/SEPTEMBER/2025" tvg-logo="https://i.ibb.co.com/1JwYR5NV/LALIGA.png", 21:15 WIB Elche vs Celta de Vigo
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
 
 #EXTINF:-1 group-title="EVENT 28/SEPTEMBER/2025" tvg-logo="https://i.ibb.co.com/1JwYR5NV/LALIGA.png", 23:30 WIB Barcelona vs Real Sociedad
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -127,10 +115,7 @@ https://dash2.antik.sk/stream/nvidia_sport2/playlist_cenc.mpd
 
 
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
-#EXTINF:-1 group-title="EVENT 28/SEPTEMBER/2025" tvg-logo="https://i.ibb.co.com/R4McZS45/IMG-20250430-173818.png", 22:30 WIB KÃ¶ln vs Stuttgart
-https://fta4-cdn-flr.visionplus.id/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd|Referer=https://www.visionplus.id/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
@@ -145,20 +130,6 @@ https://fta4-cdn-flr.visionplus.id/out/v1/63c0da12bb4d48afbaf053f51dff2353/index
 #https://i.ibb.co.com/wZqyXTQq/IMG-20250430-173924.png
 
 
-#EXTINF:-1 group-title="EVENT 28/SEPTEMBER/2025" tvg-logo="https://i.ibb.co.com/wZqyXTQq/IMG-20250430-173924.png", 22:15 WIB Metz vs Le Havre
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.plcdn.xyz/
-https://live1.pro2cdnlive.com/live/channel24.m3u8?wsSecret=ad9e2389f256e6a2b32ab7c6e91828d8&wsABSTime=1756918387
-
-#EXTINF:-1 group-title="EVENT 28/SEPTEMBER/2025" tvg-logo="https://i.ibb.co.com/wZqyXTQq/IMG-20250430-173924.png", 22:15 WIB Lille vs Olympique Lyonnais
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.plcdn.xyz/
-https://live1.pro2cdnlive.com/live/channel2.m3u8?wsSecret=b397e8676816b5253ae5fc520628394c&wsABSTime=1758736536
-
-#EXTINF:-1 group-title="EVENT 28/SEPTEMBER/2025" tvg-logo="https://i.ibb.co.com/wZqyXTQq/IMG-20250430-173924.png", 22:15 WIB Angers SCO vs Brest
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.plcdn.xyz/
-https://live1.pro2cdnlive.com/live/channel18.m3u8?wsSecret=e211b92725925ef99a8ad56c7b4f01b5&wsABSTime=1757446757
 
 #EXTINF:-1 group-title="EVENT 29/SEPTEMBER/2025" tvg-logo="https://i.ibb.co.com/wZqyXTQq/IMG-20250430-173924.png", 01:45 WIB Rennes vs Lens
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
