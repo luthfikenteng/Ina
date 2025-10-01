@@ -191,7 +191,7 @@ https://live1.pro2cdnlive.com/live/channel19.m3u8?wsSecret=73fab521e5a3a37967558
 #EXTINF:-1 group-title="EVENT 2/OKTOBER/2025" tvg-logo="https://i.ibb.co.com/39ysdc2K/IMG-20250501-231953.png", 02:00 WIB Napoli vs Sporting CP FHD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
-https://dck-ac-live.cdn.indazn.com/dash/dazn-linear-583/stream.mpd
+#https://dck-ac-live.cdn.indazn.com/dash/dazn-linear-583/stream.mpd
 
 ==================================================Indonesia=Channels==================================================
 
