@@ -25,19 +25,7 @@ awalan
 =======================================
 
 
-#EXTINF:-1 group-title="EVENT 1/OKTOBER/2025" tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/a0/AFC_Champions_League_Two.svg.png", 20:45 WIB Istiqlol vs Goa
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=911e72adf36946afbdbb4f80782a8394:08aec548a851ba64b7172ae7f05cb91c
-#EXTVLCOPT:http-referrer=https://visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
 
-#EXTINF:-1 group-title="EVENT 1/OKTOBER/2025" tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/a0/AFC_Champions_League_Two.svg.png", 20:45 WIB Andijan vs Al Ahli
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=39c4dc6704cf4ceea2fd4863b88d8a7d:4e9d7954c2ff46759289da4fc9f018ea
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
 
 #EXTINF:-1 group-title="EVENT 1/OKTOBER/2025" tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/a0/AFC_Champions_League_Two.svg.png", 23:00 WIB Esteghlal vs Muharraq
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
