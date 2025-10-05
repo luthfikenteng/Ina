@@ -1,6 +1,12 @@
 #EXTM3U
 awalan
 
+
+#EXTINF:-1 group-title="TABLIGH AKBAR" tvg-logo="https://i.ibb.co.com/Hf8nHrYJ/IMG-20251005-192206.png",BODELOR PLUMBON CIREBON
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://rocket-tv.online/redtube/randomyt.m3u8?id=UC3C-PCSjch5hLx-GE8idPKQ
+
+
 #EXTINF:-1 group-title="EVENT 5/OKTOBER/2025" tvg-logo="https://iili.io/FtSr5Mb.jpg", 20:00 WIB Everton vs Crystal Palace
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.plcdn.xyz/
