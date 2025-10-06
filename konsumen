@@ -283,7 +283,7 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/7b0404cd6a8a4a908123f10774854e46/in
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://cdn10jtedge.indihometv.com/atm/DASH/mncnews/manifest.mpd
 https://playlist.x10.mx/youtube/play.m3u8?id=UCGfXjFgIUUTUUlzdG6BenXA
-https://rocket-tv.online/redtube/randomyt.m3u8?id=UCGfXjFgIUUTUUlzdG6BenXA
+#https://rocket-tv.online/redtube/randomyt.m3u8?id=UCGfXjFgIUUTUUlzdG6BenXA
 
 =======================================
 
@@ -551,7 +551,6 @@ http://op-group1-swiftservehd-1.dens.tv/h/h24/index.m3u8?app_type=web&amp;userid
 #EXTINF:-1 tvg-id="tvOne - [Channel 97].id" group-title="INDONESIA HD" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co.com/7t2mbspy/TVONE.png",TV ONE HD
 http://op-group1-swiftservehd-1.dens.tv/h/h40/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=tvOne|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
 https://rocket-tv.online/redtube/randomyt.m3u8?id=UCER4rvDnRBPr_ncYW4UCZjg
-#https://playlist.x10.mx/youtube/play.m3u8?id=UCER4rvDnRBPr_ncYW4UCZjg
 
 =======================================
 
@@ -576,7 +575,7 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/7b0404cd6a8a4a908123f10774854e46/in
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #https://cdn10jtedge.indihometv.com/atm/DASH/mncnews/manifest.mpd
 https://playlist.x10.mx/youtube/play.m3u8?id=UCGfXjFgIUUTUUlzdG6BenXA
-https://rocket-tv.online/redtube/randomyt.m3u8?id=UCGfXjFgIUUTUUlzdG6BenXA
+#https://rocket-tv.online/redtube/randomyt.m3u8?id=UCGfXjFgIUUTUUlzdG6BenXA
 
 =======================================
 
@@ -1435,7 +1434,7 @@ https://memek12.gasruktv.workers.dev/play.mpd?id=7052&type=dash
 
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co.com/TBnrn9VK/IMG-20250908-195331.png",TELETUBBIES
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-https://rocket-tv.online/redtube/randomyt.m3u8?id=UCpKXcNQAoM_j4hlt4dDvDdQ
+#https://rocket-tv.online/redtube/randomyt.m3u8?id=UCpKXcNQAoM_j4hlt4dDvDdQ
 #https://playlist.x10.mx/youtube/play.m3u8?id=UCpKXcNQAoM_j4hlt4dDvDdQ
 
 =======================================
@@ -1443,7 +1442,7 @@ https://rocket-tv.online/redtube/randomyt.m3u8?id=UCpKXcNQAoM_j4hlt4dDvDdQ
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co.com/Y4qtdbgy/IMG-20250711-194009.png",LEO SI PENJAGA ALAM YT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 #https://triwied.serv00.net/live/ytlive.m3u8?id=OM2tH_y6OFI
-https://rocket-tv.online/redtube/randomyt.m3u8?id=UCiuu1WKCPw8VPasHoRE3NZA
+#https://rocket-tv.online/redtube/randomyt.m3u8?id=UCiuu1WKCPw8VPasHoRE3NZA
 #https://playlist.x10.mx/youtube/play.m3u8?id=UCiuu1WKCPw8VPasHoRE3NZA
 
 =======================================
@@ -1451,7 +1450,7 @@ https://rocket-tv.online/redtube/randomyt.m3u8?id=UCiuu1WKCPw8VPasHoRE3NZA
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co.com/7tFTBdN3/IMG-20250825-183704.png", MINIA TURA YT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 #https://triwied.serv00.net/live/ytlive.m3u8?id=lk1d930_dSc
-https://rocket-tv.online/redtube/randomyt.m3u8?id=UCgN4BNfZn6foloZTSii77iA
+#https://rocket-tv.online/redtube/randomyt.m3u8?id=UCgN4BNfZn6foloZTSii77iA
 #https://playlist.x10.mx/youtube/play.m3u8?id=UCgN4BNfZn6foloZTSii77iA
 
 =======================================
@@ -1749,7 +1748,7 @@ https://op-group1-swiftservesd-1.dens.tv/s/s28/index.m3u8?app_type=web&amp;useri
 #EXTINF:-1 group-title="RELIGI" tvg-id="AlQuranAlKareemTV.sa" tvg-logo="https://i.ibb.co.com/bjKp5VXr/Mekkah.png",Qur'an TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 #https://triwied.serv00.net/live/ytlive.m3u8?id=sPCL4-6cpnk
-https://rocket-tv.online/redtube/randomyt.m3u8?id=UCfBw_uwZb_oFLyVsjWk6owQ
+#https://rocket-tv.online/redtube/randomyt.m3u8?id=UCfBw_uwZb_oFLyVsjWk6owQ
 #https://playlist.x10.mx/youtube/play.m3u8?id=UCfBw_uwZb_oFLyVsjWk6owQ
 
 =======================================
@@ -1762,7 +1761,7 @@ https://op-group1-swiftservesd-1.dens.tv/s/s27/index.m3u8?app_type=web&amp;useri
 #EXTINF:-1 group-title="RELIGI" tvg-id="sunnahtv.sa" tvg-logo="https://i.ibb.co.com/ks9FnVD9/Madinah.png",Sunnah TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 #https://triwied.serv00.net/live/ytlive.m3u8?id=TpT8b8JFZ6E
-https://rocket-tv.online/redtube/randomyt.m3u8?id=UCROKYPep-UuODNwyipe6JMw
+#https://rocket-tv.online/redtube/randomyt.m3u8?id=UCROKYPep-UuODNwyipe6JMw
 #https://playlist.x10.mx/youtube/play.m3u8?id=UCROKYPep-UuODNwyipe6JMw
 
 =======================================
@@ -1855,7 +1854,7 @@ https://ams.juraganstreaming.com:5443/LiveApp/streams/ashiiltv2.m3u8
 #EXTINF:-1 group-title="RELIGI" tvg-id="meds" tvg-logo="https://i.ibb.co.com/8n5vc3Bb/IMG-20250819-015032.png",MEDS TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 #https://triwied.serv00.net/live/ytlive.m3u8?id=nOzPwl1CTVs
-https://rocket-tv.online/redtube/randomyt.m3u8?id=UCem4zrffr93cp-o8cOPDhdQ
+#https://rocket-tv.online/redtube/randomyt.m3u8?id=UCem4zrffr93cp-o8cOPDhdQ
 #https://playlist.x10.mx/youtube/play.m3u8?id=UCem4zrffr93cp-o8cOPDhdQ
 
 =======================================
@@ -1863,7 +1862,7 @@ https://rocket-tv.online/redtube/randomyt.m3u8?id=UCem4zrffr93cp-o8cOPDhdQ
 #EXTINF:-1 group-title="RELIGI" tvg-id="srb" tvg-logo="https://i.ibb.co.com/FbwxKzX0/IMG-20250819-015407.png",SRB TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 #https://triwied.serv00.net/live/ytlive.m3u8?id=bEJFMrKmBb4
-https://rocket-tv.online/redtube/randomyt.m3u8?id=UC3_QdDQnRVRDJzq56JTO_Zw
+#https://rocket-tv.online/redtube/randomyt.m3u8?id=UC3_QdDQnRVRDJzq56JTO_Zw
 #https://playlist.x10.mx/youtube/play.m3u8?id=UC3_QdDQnRVRDJzq56JTO_Zw
 
 =======================================
@@ -1876,7 +1875,7 @@ https://rocket-tv.online/redtube/randomyt.m3u8?id=UC3_QdDQnRVRDJzq56JTO_Zw
 #EXTINF:-1 group-title="RELIGI" tvg-id="ld" tvg-logo="https://i.ibb.co.com/fd2536gQ/IMG-20250819-015538.png",LAFADZ DO'A
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 #https://triwied.serv00.net/live/ytlive.m3u8?id=od3Z3HTixK8
-https://rocket-tv.online/redtube/randomyt.m3u8?id=UCN2ySyRgxARVmENnOZ70rbg
+#https://rocket-tv.online/redtube/randomyt.m3u8?id=UCN2ySyRgxARVmENnOZ70rbg
 #https://playlist.x10.mx/youtube/play.m3u8?id=UCN2ySyRgxARVmENnOZ70rbg
 
 =======================================
@@ -1884,7 +1883,7 @@ https://rocket-tv.online/redtube/randomyt.m3u8?id=UCN2ySyRgxARVmENnOZ70rbg
 #EXTINF:-1 group-title="RELIGI" tvg-id="st" tvg-logo="https://i.ibb.co.com/43hxX1h/IMG-20250819-015844.png",SEYEGAN TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 #https://triwied.serv00.net/live/ytlive.m3u8?id=gCw9qUZ3Yc4
-https://rocket-tv.online/redtube/randomyt.m3u8?id=UC3TZXKcQ64uCtFWksEfIw0w
+#https://rocket-tv.online/redtube/randomyt.m3u8?id=UC3TZXKcQ64uCtFWksEfIw0w
 #https://playlist.x10.mx/youtube/play.m3u8?id=UC3TZXKcQ64uCtFWksEfIw0w
 
 =======================================
@@ -1892,7 +1891,7 @@ https://rocket-tv.online/redtube/randomyt.m3u8?id=UC3TZXKcQ64uCtFWksEfIw0w
 #EXTINF:-1 group-title="RELIGI" tvg-id="niaga" tvg-logo="https://i.ibb.co.com/gbMpZDg6/IMG-20250819-020030.png",NIAGA TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 #https://triwied.serv00.net/live/ytlive.m3u8?id=IX7NFvn8ypI
-https://rocket-tv.online/redtube/randomyt.m3u8?id=UCNtZkmYBRQCr-J-4n7IqShg
+#https://rocket-tv.online/redtube/randomyt.m3u8?id=UCNtZkmYBRQCr-J-4n7IqShg
 #https://playlist.x10.mx/youtube/play.m3u8?id=UCNtZkmYBRQCr-J-4n7IqShg
 
 =======================================
@@ -1900,7 +1899,7 @@ https://rocket-tv.online/redtube/randomyt.m3u8?id=UCNtZkmYBRQCr-J-4n7IqShg
 #EXTINF:-1 group-title="RELIGI" tvg-id="sjp" tvg-logo="https://i.ibb.co.com/4nMKDvd5/IMG-20250819-020130.png",SJP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 #https://triwied.serv00.net/live/ytlive.m3u8?id=TVFLUkY4BWw
-https://rocket-tv.online/redtube/randomyt.m3u8?id=UCoPO7QD-HlBn7B02OMOsJJQ
+#https://rocket-tv.online/redtube/randomyt.m3u8?id=UCoPO7QD-HlBn7B02OMOsJJQ
 #https://playlist.x10.mx/youtube/play.m3u8?id=UCoPO7QD-HlBn7B02OMOsJJQ
 
 =======================================
@@ -1914,7 +1913,7 @@ https://video1.earthcam.com/myearthcam/641f889a7774a38d5fc93dc76c4aeded.flv/play
 #EXTINF:-1 group-title="RELIGI" tvg-id="marhabantv.id" tvg-logo="https://i.ibb.co.com/Q3PJCq55/IMG-20250819-020245.png",MARHABAN TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 #https://triwied.serv00.net/live/ytlive.m3u8?id=W-KIaSJbFD0
-https://rocket-tv.online/redtube/randomyt.m3u8?id=UC7ijSJ_SyRqg_MqoGedoZTA
+#https://rocket-tv.online/redtube/randomyt.m3u8?id=UC7ijSJ_SyRqg_MqoGedoZTA
 #https://playlist.x10.mx/youtube/play.m3u8?id=UC7ijSJ_SyRqg_MqoGedoZTA
 
 =======================================
@@ -1922,7 +1921,7 @@ https://rocket-tv.online/redtube/randomyt.m3u8?id=UC7ijSJ_SyRqg_MqoGedoZTA
 #EXTINF:-1 group-title="RELIGI" tvg-id="khbtv.id" tvg-logo="https://i.ibb.co.com/QyfBh83/IMG-20250819-020511.png",KHB TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 #https://triwied.serv00.net/live/ytlive.m3u8?id=Me04WYTpBOI
-https://rocket-tv.online/redtube/randomyt.m3u8?id=UCJHC3VbFsp7kJ2NxPGltwiw
+#https://rocket-tv.online/redtube/randomyt.m3u8?id=UCJHC3VbFsp7kJ2NxPGltwiw
 #https://playlist.x10.mx/youtube/play.m3u8?id=UCJHC3VbFsp7kJ2NxPGltwiw
 
 =======================================
@@ -1943,7 +1942,7 @@ https://flv.intechmedia.net/live/ch30.m3u8
 #EXTINF:-1 group-title="RELIGI" tvg-id="MTATV.id" tvg-logo="https://i.ibb.co.com/35yr19J2/MTA.png",MTA TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 #https://triwied.serv00.net/live/ytlive.#m3u8?id=v1SKISoJ--U
-https://rocket-tv.online/redtube/randomyt.m3u8?id=UCIrj7gqiu8uUfgMitYFzkNg
+#https://rocket-tv.online/redtube/randomyt.m3u8?id=UCIrj7gqiu8uUfgMitYFzkNg
 #https://playlist.x10.mx/youtube/play.m3u8?id=UCIrj7gqiu8uUfgMitYFzkNg
 
 =======================================
@@ -2730,7 +2729,18 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/fe4d00f07e2f43b789102b84b4d243a9/ind
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=6685&type=drm
-https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=6685&type=dash
+#https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=6685&type=dash
+
+#EXTINF:-1 tvg-id="Champions TV 1.id" tvg-logo="https://i.ibb.co.com/vS9RDyS/CH1.png" group-title="SPORTS INDO",Champions TV 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.vidio.com&referer=https://www.vidio.com/&user-agent=Vidio/6.43.9-8ec34856ef (Linux;Android 11) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://seprai.jasoncreak8.workers.dev/play.mpd?id=6685&type=drm
+https://seprai.jasoncreak8.workers.dev/play.mpd?id=6685&type=dash
 
 =======================================
 
@@ -2739,7 +2749,18 @@ https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=6685&type=dash
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=6686&type=drm
-https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=6686&type=dash 
+#https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=6686&type=dash 
+
+#EXTINF:-1 tvg-id="Champions TV 2.id" tvg-logo="https://i.ibb.co.com/j9R3bHJW/CH2.png" group-title="SPORTS INDO",Champions TV 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.vidio.com&referer=https://www.vidio.com/&user-agent=Vidio/6.43.9-8ec34856ef (Linux;Android 11) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://seprai.jasoncreak8.workers.dev/play.mpd?id=6686&type=drm 
+https://seprai.jasoncreak8.workers.dev/play.mpd?id=6686&type=dash
 
 =======================================
 
@@ -2749,7 +2770,18 @@ https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=6686&type=dash
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=6786&type=drm 
-https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=6786&type=dash
+#https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=6786&type=dash
+
+#EXTINF:-1 tvg-id="Champions TV 3.id" tvg-logo="https://i.ibb.co.com/ksZkb96Q/CH3.png" group-title="SPORTS INDO",Champions TV 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.vidio.com&referer=https://www.vidio.com/&user-agent=Vidio/6.43.9-8ec34856ef (Linux;Android 11) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://seprai.jasoncreak8.workers.dev/play.mpd?id=6786&type=drm 
+https://seprai.jasoncreak8.workers.dev/play.mpd?id=6786&type=dash
 
 =======================================
 
@@ -2758,7 +2790,18 @@ https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=6786&type=dash
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=9182&type=drm 
-https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=9182&type=dash
+#https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=9182&type=dash
+
+#EXTINF:-1 tvg-id="Champions TV 5.id" tvg-logo="https://i.ibb.co.com/7NKQcgc2/CH5.png" group-title="SPORTS INDO",Champions TV 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.vidio.com&referer=https://www.vidio.com/&user-agent=Vidio/6.43.9-8ec34856ef (Linux;Android 11) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://seprai.jasoncreak8.workers.dev/play.mpd?id=9182&type=drm 
+https://seprai.jasoncreak8.workers.dev/play.mpd?id=9182&type=dash
 
 =======================================
 
@@ -2767,56 +2810,18 @@ https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=9182&type=dash
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=9183&type=drm 
-https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=9183&type=dash
+#https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=9183&type=dash
 
-=======================================
-
-#EXTINF:-1 tvg-id="Champions TV 1.id" tvg-logo="https://i.ibb.co.com/vS9RDyS/CH1.png" group-title="SPORTS INDO",CHAMPIONS TV 1 B
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXT-X-TARGETDURATION:2
-#EXT-X-MEDIA-SEQUENCE:1
-#EXTVLCOPT:network-caching=10000
-#EXTVLCOPT:http-reconnect=true
-#http://103.179.182.117:6768/hls/66/66.m3u8
-
-=======================================
-
-#EXTINF:-1 tvg-id="Champions TV 2.id" tvg-logo="https://i.ibb.co.com/j9R3bHJW/CH2.png" group-title="SPORTS INDO",CHAMPIONS TV 2 B
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXT-X-TARGETDURATION:2
-#EXT-X-MEDIA-SEQUENCE:1
-#EXTVLCOPT:network-caching=10000
-#EXTVLCOPT:http-reconnect=true
-#http://103.179.182.117:6768/hls/88/88.m3u8
-
-=======================================
-
-#EXTINF:-1 tvg-id="Champions TV 3.id" tvg-logo="https://i.ibb.co.com/ksZkb96Q/CH3.png" group-title="SPORTS INDO",CHAMPIONS TV 3 B
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXT-X-TARGETDURATION:2
-#EXT-X-MEDIA-SEQUENCE:1
-#EXTVLCOPT:network-caching=10000
-#EXTVLCOPT:http-reconnect=true
-##
-=======================================
-
-#EXTINF:-1 tvg-id="Champions TV 5.id" tvg-logo="https://i.ibb.co.com/7NKQcgc2/CH5.png" group-title="SPORTS INDO",CHAMPIONS TV 5 B
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXT-X-TARGETDURATION:2
-#EXT-X-MEDIA-SEQUENCE:1
-#EXTVLCOPT:network-caching=10000
-#EXTVLCOPT:http-reconnect=true
-#http://103.179.182.117:6768/hls/21/21.m3u8
-
-=======================================
-
-#EXTINF:-1 tvg-id="Champions TV 6.id" tvg-logo="https://i.ibb.co.com/tp7JbgxQ/CH6.png" group-title="SPORTS INDO",CHAMPIONS TV 6 B
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXT-X-TARGETDURATION:2
-#EXT-X-MEDIA-SEQUENCE:1
-#EXTVLCOPT:network-caching=10000
-#EXTVLCOPT:http-reconnect=true
-#http://103.179.182.117:6768/hls/94/94.m3u8
+#EXTINF:-1 tvg-id="Champions TV 6.id" tvg-logo="https://i.ibb.co.com/tp7JbgxQ/CH6.png" group-title="SPORTS INDO",Champions TV 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.vidio.com&referer=https://www.vidio.com/&user-agent=Vidio/6.43.9-8ec34856ef (Linux;Android 11) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://seprai.jasoncreak8.workers.dev/play.mpd?id=9183&type=drm 
+https://seprai.jasoncreak8.workers.dev/play.mpd?id=9183&type=dash
 
 =======================================
 
