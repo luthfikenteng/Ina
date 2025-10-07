@@ -113,8 +113,12 @@ awalan
 =======================================
 #https://i.ibb.co.com/39ysdc2K/IMG-20250501-231953.png
 
-
-
+#EXTINF:0 tvg-logo="https://i.ibb.co.com/39ysdc2K/IMG-20250501-231953.png" group-title="EVENT 7/OKTOBER/2025",23:45 WIB JUVENTUS VS BENFICA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd|referer=https://www.visionplus.id/
 
 ==================================================Indonesia=Channels==================================================
 
@@ -1787,8 +1791,8 @@ https://memek12.gasruktv.workers.dev/play.mpd?id=7464&type=dash
 =======================================
 
 #EXTINF:-1 tvg-id="SALINGSAPA TV" tvg-logo="https://i.ibb.co.com/DD16bb7q/SS.png" group-title="RELIGI" , SALINGSAPA TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
-#https://play.accolamedia.id/accola/salingsapatv-rtmp.stream_360p/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
+https://play.accolamedia.id/accola/salingsapatv-rtmp.stream_360p/playlist.m3u8
 
 =======================================
 
@@ -3852,7 +3856,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-https://raw.githubusercontent.com/MIFNtechnology/siaranMy/refs/heads/main/channels/Tv3/index.m3u8
+http://bestp55.xyz:80/A7FC77529786/519C32219872/1052628|referrer=https://rtmklik.rtm.gov.my/
 
 =======================================
 
