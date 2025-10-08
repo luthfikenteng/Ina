@@ -8,6 +8,7 @@ awalan
 #EXTVLCOPT:http-referrer=https://visionplus.id/
 #https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
 
+
 #EXTINF:0 tvg-logo="https://img.favpng.com/6/1/5/world-cup-2026-logo-fifa-2026-logo-featuring-trophy-design-By6wambc.jpg" group-title="TIMNAS DAY", 00:15 WIB INDONESIA VS ARAB SAUDI
 #EXTM3U
 #EXT-X-VERSION:3
@@ -19,6 +20,7 @@ awalan
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://liveplus.rctiplus.id/RTMP-IN.m3u8
+https://liveplus.rctiplus.id/RTMP-IN-avc1_3500000=8-mp4a_128000=2.m3u8
 
 =======================================
 =================VOLI==================
