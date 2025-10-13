@@ -31,12 +31,27 @@ awalan
 https://live1.pro2cdnlive.com/live/channel19.m3u8?wsSecret=ac7f11b1b73594b1539e9a3608b2310f&wsABSTime=1760377178
 
 
-#EXTINF:-1 group-title="EVENT 12/OKTOBER/2025" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/776px-2026_FIFA_World_Cup_emblem.svg.png", 00:15 WIB UEA VS OMAN
+#EXTINF:-1 group-title="EVENT 14/OKTOBER/2025" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/776px-2026_FIFA_World_Cup_emblem.svg.png", 01:45 WIB Wales vs Belgia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b576e5f5f1bc4cbaa866e5b0face5a30:3377be6c3b5f688ebed687312c9b9d95
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd|referrer=https://visionplus.id/
 
+#EXTINF:-1 group-title="EVENT 14/OKTOBER/2025" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/776px-2026_FIFA_World_Cup_emblem.svg.png", 01:45 WIB Irlandia Utara vs Jerman
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
 
-
-
-
+#EXTINF:-1 group-title="EVENT 14/OKTOBER/2025" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/776px-2026_FIFA_World_Cup_emblem.svg.png", 01:45 WIB Islandia vs Perancis
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=39c4dc6704cf4ceea2fd4863b88d8a7d:4e9d7954c2ff46759289da4fc9f018ea
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
 
 =======================================
 ===============LIGA INDO===============
@@ -4126,13 +4141,3 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Mediacorp_flat_logo_%282015%29.svg/640px-Mediacorp_flat_logo_%282015%29.svg.png" group-title="SINGAPURA",Mediacorp Entertainment China
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mediacorp-entertainment-chinese/manifest.m3u8
-
-
-
-TEST
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/RNwxw23/tv2sportpremium.png" group-title="TEST", TV2 Sport Premium 1 🇳🇴
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=009c35875ff000418c39f05622cf6b20:88d5b1a639ebad6112c6447290169599,009c35875ff000418c39f05622cf6b10:fb5e26e27925056e76885711cbf3ac1c
-#https://cors-proxy.cooks.fyi/https://cd-stream-live.telenorcdn.net/cdgo/sm_tv2sportpremium1_live/sm_tv2sportpremium1_live.isml/playlist.mpd
