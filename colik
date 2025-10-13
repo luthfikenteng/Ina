@@ -25,9 +25,17 @@ awalan
 ==============LIVE SPORTS==============
 =======================================
 
+#EXTINF:-1 group-title="EVENT 13/OKTOBER/2025" tvg-logo="https://thumbor.prod.vidiocdn.com/xc-YUf6lhNDDYgSfVoM0ivYV-ro=/960x576/filters:quality(75)/vidio-web-prod-headline/uploads/headline/mobile_image/33402/india-vs-indonesia-908cff.jpg", 20:00 WIB Indonesia U23 vs India U23
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.plcdn.xyz/
+https://live1.pro2cdnlive.com/live/channel19.m3u8?wsSecret=ac7f11b1b73594b1539e9a3608b2310f&wsABSTime=1760377178
 
 
 #EXTINF:-1 group-title="EVENT 12/OKTOBER/2025" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/776px-2026_FIFA_World_Cup_emblem.svg.png", 00:15 WIB UEA VS OMAN
+
+
+
+
 
 
 =======================================
@@ -576,7 +584,7 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/7b0404cd6a8a4a908123f10774854e46/in
 #EXTINF:-1 group-title="INDONESIA HD" tvg-id="Sindo News TV HD - [Channel 5].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co.com/7Jv7DPNY/SINDONEWS.png",SINDONEWS HD
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#https://cdn10jtedge.indihometv.com/atm/DASH/mncnews/manifest.mpd
+https://cdn10jtedge.indihometv.com/atm/DASH/mncnews/manifest.mpd
 https://playlist.x10.mx/youtube/play.m3u8?id=UCGfXjFgIUUTUUlzdG6BenXA
 #https://rocket-tv.online/redtube/randomyt.m3u8?id=UCGfXjFgIUUTUUlzdG6BenXA
 
