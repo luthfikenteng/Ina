@@ -18,17 +18,6 @@ awalan
 =======================================
 #https://i.ibb.co.com/MxBt8tCs/IMG-20250825-164825.png
 
-#https://i.ibb.co.com/TqRf4Xk3/IMG-20250816-175900.png
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/MxBt8tCs/IMG-20250825-164825.png" group-title="EVENT 16/OKTOBER/2025",DENMARK OPEN C 1
-https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4030022851862061_AiHD.m3u8?txSecret=8fc8cd986f5076069e719afe1bbaad94&txTime=68F1CD50
-
-#https://i.ibb.co.com/TqRf4Xk3/IMG-20250816-175900.png
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/MxBt8tCs/IMG-20250825-164825.png" group-title="EVENT 16/OKTOBER/2025",DENMARK OPEN C 2
-https://b414242ef41ad30e8c2963221cbfa0c3.v.smtcdns.net/play.cbalive.weibisai.com/live/4030023098159061_AiHD.m3u8?txSecret=5e08c38eba899a5ddf5abd7dae85a320&txTime=68F1CD50
-
-#https://i.ibb.co.com/TqRf4Xk3/IMG-20250816-175900.png
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/MxBt8tCs/IMG-20250825-164825.png" group-title="EVENT 16/OKTOBER/2025",DENMARK OPEN C 3
-https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4030023280570061_AiHD.m3u8?txSecret=bc388932eb2011635bfd70ed2d347e4a&txTime=68F1CD50
 
 =======================================
 ==============LIVE SPORTS==============
@@ -938,7 +927,7 @@ https://e.siar.us/live/dtvi.m3u8
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=21ffca10810542af9734b82f4000c274:e3d2e4843ffadf510f6c91668a03e183
-https://atemecdnbalancer-voe.sysln.id/live/eds/HBOHD/mpd/HBOHD.mpd
+#https://atemecdnbalancer-voe.sysln.id/live/eds/HBOHD/mpd/HBOHD.mpd
 
 #EXTINF:-1 tvg-id="HBO" tvg-logo="https://i.ibb.co.com/qMWw8Tph/HBO.png" group-title="MOVIES" , HBO
 http://ktpremium.online:2095/live/Halim8781/Halim8781/73858.ts
