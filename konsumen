@@ -33,7 +33,7 @@ awalan
 #EXTINF:-1 group-title="EVENT 18/OKTOBER/2025" tvg-logo="https://i.ibb.co.com/spvCP0My/IMG-20250919-155828.png" , 15:30 WIB Borneo vs Persik Kediri
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.plcdn.xyz/
-https://live1.pro2cdnlive.com/live/channel24.m3u8?wsSecret=ad9e2389f256e6a2b32ab7c6e91828d8&wsABSTime=1756918387
+#https://live1.pro2cdnlive.com/live/channel24.m3u8?wsSecret=ad9e2389f256e6a2b32ab7c6e91828d8&wsABSTime=1756918387
 
 =======================================
 =======================================
@@ -45,6 +45,12 @@ https://live1.pro2cdnlive.com/live/channel24.m3u8?wsSecret=ad9e2389f256e6a2b32ab
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7f1648ec1c8836baa028e319d92e0841:93ba967ec39964d9a6359044ec5c3500
 https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mpd
+
+#EXTINF:-1 group-title="EVENT 18/OKTOBER/2025" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png", 18:30 WIB Nottingham Forest vs Chelsea
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.instreamtv.xyz/
+https://play-cdn.sportsbal.com/sport/202_4298178_1.m3u8?hls_ctx=3sa61a44&sign=c1HNkgXnZmWuWPVJE9ZVX7UIzu4-VbtClmuIabC-KCtCamtILSyOz7sf0DnvxxHl6rWX3Xs6LvDOgS0_E0-mBFm7ABvdoNsiSJhYyTeM1YaqofFX557MyyrlCVpEWew1f76A9gosXbaahG1pLMBqOrnLS_6rFMVKrf9pB7a7LCSrExKfruvbTFD6trwnx2cqqlffqY0GbU2EaTOi_kJdZENzg1CTTdiPT1Fa5pbCyk8ojsSHRyPPm9yAkx_s3R-obSzf-CEGQwrVN_SM3FdckxatENRhkGysd7HOMI7TJCSKyWfDXe9sGEU3JUPbzj1dV12QAmC-ASWweUty7mC0Rw&timestamp=1760786196871
+
 
 #EXTINF:-1 group-title="EVENT 18/OKTOBER/2025" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png", 21:00 WIB Manchester City vs Everton
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
