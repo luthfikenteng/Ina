@@ -56,7 +56,7 @@ https://t3nt1-cf.wooblzlhl524.com/auth%3Dada96d5be181db07de329d2809b14da90bbe9dd
 #EXTINF:-1 group-title="EVENT 18/OKTOBER/2025" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png", 21:00 WIB Brighton vs Newcastle United
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7f1648ec1c8836baa028e319d92e0841:93ba967ec39964d9a6359044ec5c3500
-#https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mpd
+https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mpd
 
 #EXTINF:-1 group-title="EVENT 18/OKTOBER/2025" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png", 21:00 WIB Burnley vs Leeds United 21:00 WIB Crystal Palace vs AFC Bournemouth 21:00 WIB Sunderland vs Wolves
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
@@ -68,6 +68,23 @@ https://t3nt1-cf.wooblzlhl524.com/auth%3Dada96d5be181db07de329d2809b14da90bbe9dd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.plcdn.xyz/
 https://live1.pro2cdnlive.com/live/channel11.m3u8?wsSecret=fbf529ebac4a52d45798d3c0e647b4e0&wsABSTime=1759168363
+
+#EXTINF:-1 group-title="EVENT 18/OKTOBER/2025" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png", 21:00 WIB Manchester City vs Everton
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.instreamtv.xyz/
+https://play-cdn.sportsbal.com/sport/202_4298458_1.m3u8?hls_ctx=c9g9ute6&sign=e-Vqd76tQ8naOaBJKSulRgB3lIsVnw8IhldNxNwq9lz-YTKJBISbO-Iy7eZr7gJ013mUe91v-mBojWGK4CXb6-hxosCXCqCrX-pV672fixG-9BybYcw9baij1tj0GjQ8POcVD7UiE_ytDH8LAnEJNjb_h9lfN9hRLZQ8B9yibybQUSMdulpBdbSAv7cKEdwtW3eQRXdVrU4biXh_gCts-J2e4waibdxDvOd3dNBsj7-fAbq_z6-EhWTqTR8AJh13gnkyeprWweu1im2vBuGn-8yoNYjGVBd1N9sBb1yLo8AivhER9FFn_2FzadB1WjOje7PEaY1rTwyO4Fake5zvJw&timestamp=1760795144403
+
+#EXTINF:-1 group-title="EVENT 18/OKTOBER/2025" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png", 21:00 WIB Sunderland vs Wolves
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.instreamtv.xyz/
+https://play-cdn.sportsbal.com/sport/202_4298456_1.m3u8?hls_ctx=78o2gh76&sign=FKqiLitiR_73apF2lRWWEY7ly1XqSb2Kxzxb13hPSmzyanT6NgjAenKZkk8PrzMhgKzdn_zVbbbLoAqBgGyeVbVHBElif8ALl3_Fh7LWtn0oVh-Hv7KZKgNRcLumCbNjKyLsXL4oBbaGDWKqQ5HMRBgDyDeSeKwGOped9afzHzug9SjxL4xBCSwj9g4EI2-S-tnuglcdeDxpU7dZReC24Tirh4tDFtfW5pUPYP0Sd4ohEeShMdlt03pPILwy0W8uktQEhmpJ1GH5AT8F_MrwuGRrdFo96kg0-a0xftqwetRz7h2GwFZ9mLa1gQMozxgzLW92jJMYpMep3Oc-yoAOLQ&timestamp=1760795582904
+
+#EXTINF:-1 group-title="EVENT 18/OKTOBER/2025" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png", 21:00 WIB Burnley vs Leeds United
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.instreamtv.xyz/
+https://play-cdn.sportsbal.com/sport/202_4298459_1.m3u8?hls_ctx=01o49ak9&sign=bdmYSmlu0LcWFWArFcgWtgR3qQpqfBK3vKOp1EJxxTqJi4_3SOsSKpxJFvxLC1VVib9YaJzku41UfC4XxLRvCxPkRLcFPCbbatB6tW4-aYpru0K8Y0fnyVzN2__23WteHqD-VTrtrMt50ZijVf3hB9bj3DAGBg3IJ485W8O-pqGRSbDtjSbxo5uNu2NcTWseYngs5qTte2sSMcSJHTfJlMlDhiLOB3frreXr4gbBiyuXSNRqBfkjtxzTkaYUwyFTss5YpI1pQw-_S6yqbo7Cbloxz1dxBfmcqTOQoHFJicdJqiLztfJF6l5lKYtcYlmNGtHptfGeXpvFTcMQwOFqDA&timestamp=1760795914623
+
+
 
 #EXTINF:-1 group-title="EVENT 18/OKTOBER/2025" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png", 23:30 WIB Fulham vs Arsenal
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
