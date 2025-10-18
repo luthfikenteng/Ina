@@ -41,18 +41,17 @@ https://live1.pro2cdnlive.com/live/channel24.m3u8?wsSecret=ad9e2389f256e6a2b32ab
 =======================================
 #https://i.ibb.co.com/twxFhvBY/PLE.png
 
-#EXTINF:-1 group-title="EVENT 18/OKTOBER/2025" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png", 18:39 WIB Nottingham Forest vs Chelsea
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co.com/6ckcY7zr/USA.png", USA Network 
+#EXTINF:-1 group-title="EVENT 18/OKTOBER/2025" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png", 18:30 WIB Nottingham Forest vs Chelsea
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7f1648ec1c8836baa028e319d92e0841:93ba967ec39964d9a6359044ec5c3500
 https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mpd
 
-#EXTINF:-1 group-title="EVENT 18/OKTOBER/2025" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png" , 21:00 WIB Manchester City vs Everton
+#EXTINF:-1 group-title="EVENT 18/OKTOBER/2025" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png", 21:00 WIB Manchester City vs Everton
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.plcdn.xyz/
 https://live1.pro2cdnlive.com/live/channel11.m3u8?wsSecret=fbf529ebac4a52d45798d3c0e647b4e0&wsABSTime=1759168363
 
-#EXTINF:-1 group-title="EVENT 18/OKTOBER/2025" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png" , 23:30 WIB Fulham vs Arsenal
+#EXTINF:-1 group-title="EVENT 18/OKTOBER/2025" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png", 23:30 WIB Fulham vs Arsenal
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
