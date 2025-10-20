@@ -48,8 +48,10 @@ awalan
 =======================================
 #https://i.ibb.co.com/twxFhvBY/PLE.png
 
-#EXTINF:-1 group-title="EVENT 19/OKTOBER/2025" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png", 20:00 WIB Tottenham Hotspur vs Aston Villa
-
+#EXTINF:-1 group-title="EVENT 21/OKTOBER/2025" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png", 02:00 WIB West Ham United vs Brentford
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7f1648ec1c8836baa028e319d92e0841:93ba967ec39964d9a6359044ec5c3500
+https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mpd
 
 #EXTINF:-1 group-title="EVENT 19/OKTOBER/2025" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png", 22:30 WIB Liverpool vs Manchester United
 
@@ -63,8 +65,10 @@ awalan
 =======================================
 #https://i.ibb.co.com/1JwYR5NV/LALIGA.png
 
-#EXTINF:-1 tvg-id="digisport 1" tvg-logo="https://i.ibb.co.com/1JwYR5NV/LALIGA.png" group-title="EVENT 19/OKTOBER/2025", 21:15 WIB 
-
+#EXTINF:-1 tvg-id="digisport 1" tvg-logo="https://i.ibb.co.com/1JwYR5NV/LALIGA.png" group-title="EVENT 21/OKTOBER/2025", 02:00 WIB Deportivo Alaves vs Valencia
+#EXTVLCOPT:http-referrer=https://arwen1.panaka1.cfd/000/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+https://arwen1.panaka1.cfd/puk2/usergenrnd0clv03fyt.m3u8
 
 =======================================
 =======================================
@@ -73,7 +77,11 @@ awalan
 #https://i.ibb.co.com/wZ40gYMj/IMG-20250430-174409.png
 
 
-#EXTINF:-1 tvg-id="digisport 1" tvg-logo="https://i.ibb.co.com/wZ40gYMj/IMG-20250430-174409.png" group-title="EVENT 19/OKTOBER/2025" , 20:00 WIB Genoa vs Parma
+#EXTINF:-1 tvg-id="digisport 1" tvg-logo="https://i.ibb.co.com/wZ40gYMj/IMG-20250430-174409.png" group-title="EVENT 21/OKTOBER/2025", 01:45 WIB Cremenose vs Udinese
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd|referer=https://webtv.sk/tv/
 
 
 #EXTINF:-1 tvg-id="digisport 1" tvg-logo="https://i.ibb.co.com/wZ40gYMj/IMG-20250430-174409.png" group-title="EVENT 19/OKTOBER/2025" , 20:00 WIB Cagliari vs Bologna
