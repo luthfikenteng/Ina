@@ -138,7 +138,8 @@ awalan
 
 #EXTINF:0 tvg-logo="https://i.ibb.co.com/39ysdc2K/IMG-20250501-231953.png" group-title="EVENT 21/OKTOBER/2025",23:45 WIB Barcelona vs Olympiakos Piraeus
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-https://pulse1.zalmora.cfd/kuk1/usergendx472snx93kdgwqrnd.m3u8|referrer=https://pulse1.zalmora.cfd/000/
+#EXTVLCOPT:http-referrer=https://pulse1.zalmora.cfd/000/
+https://pulse1.zalmora.cfd/kuk1/usergendx472snx93kdgwqrnd.m3u8
 
 #EXTINF:0 tvg-logo="https://i.ibb.co.com/39ysdc2K/IMG-20250501-231953.png" group-title="EVENT 21/OKTOBER/2025",23:45 WIB Kairat vs Paphos
 #EXTVLCOPT:http-referrer=https://arwen1.panaka1.cfd/000/
