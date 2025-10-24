@@ -19,10 +19,6 @@ awalan
 #https://i.ibb.co.com/MxBt8tCs/IMG-20250825-164825.png
 
 #EXTINF:-1 group-title="EVENT 24/OKTOBER/2025" tvg-logo="https://i.ibb.co.com/MxBt8tCs/IMG-20250825-164825.png",France Open Court 1
-https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4033509919829061_AiHD.m3u8?txSecret=215683aa6ec0c665eec875ba4f469dd6&txTime=68FC6760
-
-#EXTINF:-1 group-title="EVENT 24/OKTOBER/2025" tvg-logo="https://i.ibb.co.com/MxBt8tCs/IMG-20250825-164825.png",France Open Court 2
-https://b188f789c84dcab4371c6e06ad24ca1e.v.smtcdns.net/play.cbalive.weibisai.com/live/4033510136694061_AiHD.m3u8?txSecret=542e66db164678c72e3dde3467a3308c&txTime=68FC6760
 
 =======================================
 ==============LIVE SPORTS==============
@@ -43,7 +39,7 @@ https://b188f789c84dcab4371c6e06ad24ca1e.v.smtcdns.net/play.cbalive.weibisai.com
 #EXTINF:-1 group-title="EVENT 24/OKTOBER/2025" tvg-logo="https://i.ibb.co.com/spvCP0My/IMG-20250919-155828.png", 19:00 WIB Madura United vs Persija
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.plcdn.xyz/
-https://live.golivenow71.com/a21672325789bfb3cd54d482899e2b93/1761320386585/trd02w8/index.m3u8
+#https://live.golivenow71.com/a21672325789bfb3cd54d482899e2b93/1761320386585/trd02w8/index.m3u8
 #https://live.golivenow71.com/1ef28ecaa4616415fa74157c225e5141/1760983710013/as9xexm/index.m3u8
 
 
@@ -116,7 +112,7 @@ https://live.golivenow71.com/a21672325789bfb3cd54d482899e2b93/1761320386585/trd0
 ===============MOTOGP================
 =======================================
 #https://i.ibb.co.com/TqRf4Xk3/IMG-20250816-175900.png
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/TqRf4Xk3/IMG-20250816-175900.png" group-title="EVENT 24/OKTOBER/2025", MOTOGP SEPANG
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/TqRf4Xk3/IMG-20250816-175900.png" group-title="EVENT 25/OKTOBER/2025", MOTOGP SEPANG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
