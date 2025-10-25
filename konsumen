@@ -201,8 +201,8 @@ http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.vidio.com&referer=https://www.vidio.com/&user-agent=Vidio/6.43.9-8ec34856ef (Linux;Android 11) ExoPlayerLib/2.19.1
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://vidd.semar.my.id/vidreq.php?id=8237&type=drm
-https://vidd.semar.my.id/vidreq.php?id=8237&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://bitter-boa-67.deno.dev/play.mpd?id=8237&type=drm
+https://bitter-boa-67.deno.dev/play.mpd?id=8237&type=dash
 
 =======================================
 
@@ -395,8 +395,8 @@ http://op-group1-swiftservehd-1.dens.tv/h/h209/02.m3u8|user-agent=DENSGO/3.00.04
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.vidio.com&referer=https://www.vidio.com/&user-agent=Vidio/6.43.9-8ec34856ef (Linux;Android 11) ExoPlayerLib/2.19.1
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://vidd.semar.my.id/vidreq.php?id=19046&type=drm
-https://vidd.semar.my.id/vidreq.php?id=19046&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://bitter-boa-67.deno.dev/play.mpd?id=19046&type=drm
+https://bitter-boa-67.deno.dev/play.mpd?id=19046&type=dash
 
 =======================================
 
@@ -509,8 +509,8 @@ https://atemeshield1-voe.sysln.id/live/eds/MOJIOChannel/mpd/MOJIOChannel.mpd
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.vidio.com&referer=https://www.vidio.com/&user-agent=Vidio/6.43.9-8ec34856ef (Linux;Android 11) ExoPlayerLib/2.19.1
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://vidd.semar.my.id/vidreq.php?id=8237&type=drm
-https://vidd.semar.my.id/vidreq.php?id=8237&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://bitter-boa-67.deno.dev/play.mpd?id=8237&type=drm
+https://bitter-boa-67.deno.dev/play.mpd?id=8237&type=dash
 
 =======================================
 
@@ -530,8 +530,8 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/0a6c6b1534444ab4bd903af8761e6747/ind
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.vidio.com&referer=https://www.vidio.com/&user-agent=Vidio/6.43.9-8ec34856ef (Linux;Android 11) ExoPlayerLib/2.19.1
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://vidd.semar.my.id/vidreq.php?id=782&type=drm
-https://vidd.semar.my.id/vidreq.php?id=782&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://bitter-boa-67.deno.dev/play.mpd?id=728&type=drm
+https://bitter-boa-67.deno.dev/play.mpd?id=728&type=dash
 
 =======================================
 
@@ -681,8 +681,8 @@ http://op-group1-swiftservehd-1.dens.tv/h/h209/02.m3u8|user-agent=DENSGO/3.00.04
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.vidio.com&referer=https://www.vidio.com/&user-agent=Vidio/6.43.9-8ec34856ef (Linux;Android 11) ExoPlayerLib/2.19.1
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://vidd.semar.my.id/vidreq.php?id=19046&type=drm
-https://vidd.semar.my.id/vidreq.php?id=19046&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://bitter-boa-67.deno.dev/play.mpd?id=19046&type=drm
+https://bitter-boa-67.deno.dev/play.mpd?id=19046&type=dash
 
 =======================================
 
@@ -1430,8 +1430,8 @@ https://mifntechnology.github.io/siaranMy/channels/DuniaSinema/index.m3u8
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.vidio.com&referer=https://www.vidio.com/&user-agent=Vidio/6.43.9-8ec34856ef (Linux;Android 11) ExoPlayerLib/2.19.1
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://vidd.semar.my.id/vidreq.php?id=8237&type=drm
-https://vidd.semar.my.id/vidreq.php?id=8237&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://bitter-boa-67.deno.dev/play.mpd?id=8237&type=drm
+https://bitter-boa-67.deno.dev/play.mpd?id=8237&type=dash
 
 #EXTINF:-1 tvg-id="MentariTV.id" group-title="KIDS" tvg-name="Mentari TV" tvg-logo="https://i.ibb.co.com/7Jnn95wt/MENTARI.png",MENTARI TV HD 2
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -1489,8 +1489,8 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/HoreeHD/mpd/HoreeHD.mpd
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.vidio.com&referer=https://www.vidio.com/&user-agent=Vidio/6.43.9-8ec34856ef (Linux;Android 11) ExoPlayerLib/2.19.1
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://vidd.semar.my.id/vidreq.php?id=7052&type=drm
-https://vidd.semar.my.id/vidreq.php?id=7052&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://bitter-boa-67.deno.dev/play.mpd?id=7052&type=drm
+https://bitter-boa-67.deno.dev/play.mpd?id=7052&type=dash
 
 =======================================
 
@@ -1850,8 +1850,8 @@ https://d2gr3zenqo3tg4.cloudfront.net/out/v1/a8f14e34c687494fb1454b88742db085/in
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.vidio.com&referer=https://www.vidio.com/&user-agent=Vidio/6.43.9-8ec34856ef (Linux;Android 11) ExoPlayerLib/2.19.1
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://vidd.semar.my.id/vidreq.php?id=7464&type=drm
-https://vidd.semar.my.id/vidreq.php?id=7464&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://bitter-boa-67.deno.dev/play.mpd?id=7464&type=drm
+https://bitter-boa-67.deno.dev/play.mpd?id=7464&type=dash
 
 =======================================
 
@@ -2807,8 +2807,8 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/fe4d00f07e2f43b789102b84b4d243a9/ind
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.vidio.com&referer=https://www.vidio.com/&user-agent=Vidio/6.43.9-8ec34856ef (Linux;Android 11) ExoPlayerLib/2.19.1
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://vidd.semar.my.id/vidreq.php?id=6685&type=drm
-https://vidd.semar.my.id/vidreq.php?id=6685&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://bitter-boa-67.deno.dev/play.mpd?id=6685&type=drm
+https://bitter-boa-67.deno.dev/play.mpd?id=6685&type=dash
 
 =======================================
 
@@ -2827,8 +2827,8 @@ https://vidd.semar.my.id/vidreq.php?id=6685&type=dash
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.vidio.com&referer=https://www.vidio.com/&user-agent=Vidio/6.43.9-8ec34856ef (Linux;Android 11) ExoPlayerLib/2.19.1
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://vidd.semar.my.id/vidreq.php?id=6686&type=drm
-https://vidd.semar.my.id/vidreq.php?id=6686&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://bitter-boa-67.deno.dev/play.mpd?id=6686&type=drm
+https://bitter-boa-67.deno.dev/play.mpd?id=6686&type=dash
 
 =======================================
 
@@ -2848,8 +2848,8 @@ https://vidd.semar.my.id/vidreq.php?id=6686&type=dash
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.vidio.com&referer=https://www.vidio.com/&user-agent=Vidio/6.43.9-8ec34856ef (Linux;Android 11) ExoPlayerLib/2.19.1
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://vidd.semar.my.id/vidreq.php?id=6786&type=drm
-https://vidd.semar.my.id/vidreq.php?id=6786&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://bitter-boa-67.deno.dev/play.mpd?id=6786&type=drm
+https://bitter-boa-67.deno.dev/play.mpd?id=6786&type=dash
 
 =======================================
 
@@ -2868,8 +2868,8 @@ https://vidd.semar.my.id/vidreq.php?id=6786&type=dash
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.vidio.com&referer=https://www.vidio.com/&user-agent=Vidio/6.43.9-8ec34856ef (Linux;Android 11) ExoPlayerLib/2.19.1
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://vidd.semar.my.id/vidreq.php?id=9182&type=drm
-https://vidd.semar.my.id/vidreq.php?id=9182&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://bitter-boa-67.deno.dev/play.mpd?id=9182&type=drm
+https://bitter-boa-67.deno.dev/play.mpd?id=9182&type=dash
 
 =======================================
 
@@ -2888,8 +2888,8 @@ https://vidd.semar.my.id/vidreq.php?id=9182&type=dash
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.vidio.com&referer=https://www.vidio.com/&user-agent=Vidio/6.43.9-8ec34856ef (Linux;Android 11) ExoPlayerLib/2.19.1
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://vidd.semar.my.id/vidreq.php?id=9183&type=drm
-https://vidd.semar.my.id/vidreq.php?id=9183&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://bitter-boa-67.deno.dev/play.mpd?id=9183&type=drm
+https://bitter-boa-67.deno.dev/play.mpd?id=9183&type=dash
 
 =======================================
 
