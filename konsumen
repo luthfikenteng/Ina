@@ -39,7 +39,7 @@ https://0713546501eefc1afcb0b54d64dcb5b8.v.smtcdns.net/mobilelive-test.ysp.cctv.
 #EXTINF:-1 group-title="EVENT 25/OKTOBER/2025" tvg-logo="https://i.ibb.co.com/spvCP0My/IMG-20250919-155828.png", 15:30 Persik Kediri vs PSM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.plcdn.xyz/
-https://live1.pro2cdnlive.com/live/channel8.flv?wsSecret=f1c8225c81616337cd19b3e254333554&wsABSTime=1761424409
+#https://live1.pro2cdnlive.com/live/channel8.flv?wsSecret=f1c8225c81616337cd19b3e254333554&wsABSTime=1761424409
 
 #EXTINF:-1 group-title="EVENT 25/OKTOBER/2025" tvg-logo="https://i.ibb.co.com/spvCP0My/IMG-20250919-155828.png", 19:00 WIB Bali United vs Persita
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
