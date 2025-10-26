@@ -39,7 +39,7 @@ awalan
 #EXTINF:-1 group-title="EVENT 26/OKTOBER/2025" tvg-logo="https://i.ibb.co.com/spvCP0My/IMG-20250919-155828.png", 15:30 Arema vs Borneo
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.plcdn.xyz/
-https://live1.pro2cdnlive.com/live/channel28.flv?wsSecret=7b9d5eb97c259cdd9f47493542bc5246&wsABSTime=1761495561
+#https://live1.pro2cdnlive.com/live/channel28.flv?wsSecret=7b9d5eb97c259cdd9f47493542bc5246&wsABSTime=1761495561
 
 #EXTINF:-1 group-title="EVENT 25/OKTOBER/2025" tvg-logo="https://i.ibb.co.com/spvCP0My/IMG-20250919-155828.png", 19:00 WIB Bali United vs Persita
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
@@ -117,7 +117,7 @@ https://live1.pro2cdnlive.com/live/channel28.flv?wsSecret=7b9d5eb97c259cdd9f4749
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1539f043249e413d91906036f305831e:671e24fd8d234c7f38d85055815f902a
-https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
+#https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
 
 =======================================
 ==============LIGA ARAB===============
