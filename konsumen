@@ -347,6 +347,7 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/7b0404cd6a8a4a908123f10774854e46/in
 https://cdn10jtedge.indihometv.com/atm/DASH/mncnews/manifest.mpd
 #https://playlist.x10.mx/youtube/play.m3u8?id=UCGfXjFgIUUTUUlzdG6BenXA
 #https://rocket-tv.online/redtube/randomyt.m3u8?id=UCGfXjFgIUUTUUlzdG6BenXA
+http://filex.tv:8080//live/Home329/Sohailhome/302274.ts
 
 =======================================
 
@@ -407,7 +408,8 @@ https://op-group1-swiftservehd-1.dens.tv/h/h37/01.m3u8
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 14) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1f12a0fe110248a6811faf8a0ddf19c6:af565f760064594c755515cb6b4b6f1a
-https://atemecdnbalancer-voe.sysln.id/live/eds/IDXChannelHD/mpd/IDXChannelHD.mpd
+#https://atemecdnbalancer-voe.sysln.id/live/eds/IDXChannelHD/mpd/IDXChannelHD.mpd
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000019/1024.m3u8
 
 =======================================
 
@@ -669,6 +671,7 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/7b0404cd6a8a4a908123f10774854e46/in
 https://cdn10jtedge.indihometv.com/atm/DASH/mncnews/manifest.mpd
 https://playlist.x10.mx/youtube/play.m3u8?id=UCGfXjFgIUUTUUlzdG6BenXA
 #https://rocket-tv.online/redtube/randomyt.m3u8?id=UCGfXjFgIUUTUUlzdG6BenXA
+http://filex.tv:8080//live/Home329/Sohailhome/302274.ts
 
 =======================================
 
