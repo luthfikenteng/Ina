@@ -62,6 +62,7 @@ awalan
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7f1648ec1c8836baa028e319d92e0841:93ba967ec39964d9a6359044ec5c3500
 #https://fsly.stream.peacocktv.com/Content/CMAF_OL2-CTR-4s/Live/channel(usa-west)/master.mpd
+https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Astpl.m3u8
 https://play-cdn.kapsports.com/sport/202_4302996_1.m3u8?hls_ctx=9qx93u8m&sign=J2xJS8dzMob9oYYWTjf5ESr8DdD9yf4ur1GtMoMVkERBJK1sRhbPGc_SgW49-JEnjh0aC_FsAdbW_DwmJ7bIcjyZApn1RK9bb7VVLAW0zzb2ntkhQsEwnAmnRHYRwJ7oFzGS5yUo6IIzUjxKMMbYQqE1Gqkx9xm2-aRLPB1Op3UBneXHvnas_V4tsBOruqqh3E-f1GluTPE-PMRBtcweHihIUCxkOMx7Dhhv8JM2beY0PobnoXwo_VCUJRUTuTRJIApt5nFooaKiMp2-4b2VlOqRa0c6RiL4F61xhSN26wZudX0Jb7UYA2f2XAd8I6IiutuIXkK20tlzBo3pJstEfw&timestamp=1762017831450|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36&referrer=https://www.instreamtv.xyz/
 
 
@@ -2950,7 +2951,7 @@ https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd
 #EXTINF:0 tvg-id="TNT" tvg-logo="https://i.ibb.co.com/hRcrpXF1/IMG-20250917-230509.png" group-title="SPORTS",TNT SPORTS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=dca8597f12f8d6928b55c1291c7bb300:36c8b3f51d474b95f0adad70899343e1
-https://live-atv-cdn.izzigo.tv/2/out/u/dash/TNT-HD/default.mpd
+#https://live-atv-cdn.izzigo.tv/2/out/u/dash/TNT-HD/default.mpd
 
 =======================================
 
