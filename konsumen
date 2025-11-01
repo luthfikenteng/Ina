@@ -256,14 +256,6 @@ http://op-group1-swiftservehd-1.dens.tv/h/h235/index.m3u8
 #EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co.com/hFhj9FL9/MOJI.png" group-title="NASIONAL", MOJI TV 2
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 14) ExoPlayerLib/2.15.1
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=052861ebedab473089d0e7480d0c5b63:4d51aa0304af98c449fdec1548a199f9
-https://atemeshield1-voe.sysln.id/live/eds/MOJIOChannel/mpd/MOJIOChannel.mpd
-
 =======================================
 
 #EXTINF:-1 tvg-id="MentariTV.id" group-title="NASIONAL" tvg-name="Mentari TV" tvg-logo="https://i.ibb.co.com/7Jnn95wt/MENTARI.png",MENTARI TV
@@ -369,12 +361,6 @@ http://op-group1-swiftservesd-1.dens.tv/h/h06/01.m3u8|referrer=http://dens.tv
 #EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservehd-1.dens.tv/h/h12/01.m3u8|referrer=https://dens.tv/
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/qSMBW0D/METROTV.png" group-title="NASIONAL",METRO TV HD
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=66744f2f3e774c339c4f812dc37737d8:814398c6cb279eed14f1134d0ea31266
-https://atemecdnbalancer-voe.sysln.id/live/eds/MetroTVHD/mpd/MetroTVHD.mpd
-
 =======================================
 
 #EXTINF:-1 tvg-id="122" tvg-logo="https://i.ibb.co.com/1tJQ0Mzp/MAGNA.png" group-title="NASIONAL", Magna Channel
@@ -395,18 +381,6 @@ http://op-group1-swiftservehd-1.dens.tv/h/h40/index.m3u8?app_type=web&amp;userid
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=8ee7df15ff584967a3eb7b885bafc71e:9a297bf2200eee7dee21b9ace9f57c77
 https://d2tjypxxy769fn.cloudfront.net/out/v1/7b0404cd6a8a4a908123f10774854e46/index.mpd
-
-
-
-#EXTINF:-1 group-title="NASIONAL" tvg-id="iNews HD - [Channel 433].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co.com/Dfjt4MKN/INEWS.png",INEWS HD
-#EXTVLCOPT:http-user-agent=android-R+
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-#https://inews-cutv.rctiplus.id/inews-sdi.m3u8
-#https://janda-tua.gr4tisan.workers.dev/index.m3u8?id=inews
-
-
-#EXTINF:-1 group-title="NASIONAL" tvg-id="iNews HD - [Channel 433].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co.com/Dfjt4MKN/INEWS.png",INEWS HD (INDIHOME)
-#https://streaming.indihometv.com/atm/DASH/inews/manifest.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0&referrer=https://www.indihometv.com
 
 =======================================
 
