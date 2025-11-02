@@ -62,7 +62,7 @@ awalan
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7f1648ec1c8836baa028e319d92e0841:93ba967ec39964d9a6359044ec5c3500
 #https://fsly.stream.peacocktv.com/Content/CMAF_OL2-CTR-4s/Live/channel(usa-west)/master.mpd
-https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Astpl.m3u8
+#https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Astpl.m3u8
 https://play-cdn.kapsports.com/sport/202_4302996_1.m3u8?hls_ctx=9qx93u8m&sign=J2xJS8dzMob9oYYWTjf5ESr8DdD9yf4ur1GtMoMVkERBJK1sRhbPGc_SgW49-JEnjh0aC_FsAdbW_DwmJ7bIcjyZApn1RK9bb7VVLAW0zzb2ntkhQsEwnAmnRHYRwJ7oFzGS5yUo6IIzUjxKMMbYQqE1Gqkx9xm2-aRLPB1Op3UBneXHvnas_V4tsBOruqqh3E-f1GluTPE-PMRBtcweHihIUCxkOMx7Dhhv8JM2beY0PobnoXwo_VCUJRUTuTRJIApt5nFooaKiMp2-4b2VlOqRa0c6RiL4F61xhSN26wZudX0Jb7UYA2f2XAd8I6IiutuIXkK20tlzBo3pJstEfw&timestamp=1762017831450|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36&referrer=https://www.instreamtv.xyz/
 
 
@@ -70,7 +70,7 @@ https://play-cdn.kapsports.com/sport/202_4302996_1.m3u8?hls_ctx=9qx93u8m&sign=J2
 #EXTINF:-1 group-title="EVENT 2/NOVEMBER/2025" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png", 03:00 WIB Liverpool vs Aston Villa
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7f1648ec1c8836baa028e319d92e0841:93ba967ec39964d9a6359044ec5c3500
-https://fsly.stream.peacocktv.com/Content/CMAF_OL2-CTR-4s/Live/channel(usa-west)/master.mpd
+#https://fsly.stream.peacocktv.com/Content/CMAF_OL2-CTR-4s/Live/channel(usa-west)/master.mpd
 
 
 #EXTINF:-1 tvg-id="fubosportsnetwork.us" tvg-name="Fubo Sports Network HD" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png" group-title="EVENT 1/NOVEMBER/2025",22:00 WIB Nottingham Forest vs Manchester United
@@ -101,7 +101,7 @@ https://fsly.stream.peacocktv.com/Content/CMAF_OL2-CTR-4s/Live/channel(usa-west)
 #EXTINF:-1 tvg-id="digisport 1" tvg-logo="https://i.ibb.co.com/1JwYR5NV/LALIGA.png" group-title="EVENT 2/NOVEMBER/2025", 03:00 WIB Real Madrid vs Valencia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://ultra2.falconx1.cfd/000/
-https://ultra2.falconx1.cfd/kuk2/usergendx0ul2J8tsDx9lgcddwqrnd.m3u8
+#https://ultra2.falconx1.cfd/kuk2/usergendx0ul2J8tsDx9lgcddwqrnd.m3u8
 
 
 
@@ -145,7 +145,7 @@ https://ultra2.falconx1.cfd/kuk2/usergendx0ul2J8tsDx9lgcddwqrnd.m3u8
 #KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
 #EXTVLCOPT:http-referrer=https://visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
+#https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
 
 =======================================
 =======================================
