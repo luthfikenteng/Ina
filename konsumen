@@ -39,7 +39,7 @@ awalan
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://www.plus.fifa.com/flux-capacitor/api/v1/licensing/widevine/modular?sessionId=424EKsfJFusVFCDE4idBjd5Tr8ejzlnUdGaSSfOyqfBefcGBrLxpVm-bCq2zNouG173jIzQSPxXa6N5MHjX_k5LP1tA-9kTaU37mXP84yJo=
 #https://fsly.stream.peacocktv.com/Content/CMAF_OL2-CTR-4s/Live/channel(usa-west)/master.mpd
-https://d7pd9oqdl4d44.cloudfront.net/2025_10_31_10_04_31_60bab816-d8f1-4cf7-83fc-81b77938059a/PROD_CMAF_CENC/index-dash.mpd
+#https://d7pd9oqdl4d44.cloudfront.net/2025_10_31_10_04_31_60bab816-d8f1-4cf7-83fc-81b77938059a/PROD_CMAF_CENC/index-dash.mpd
 
 =======================================
 ===============LIGA INDO===============
