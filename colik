@@ -27,9 +27,9 @@ awalan
 #EXTVLCOPT:http-origin=https://demo.zplayer.xyz
 #EXTVLCOPT:http-referrer=https://demo.zplayer.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-https://hotlivezz179026907.akainu.xyz/Lxpb30konzwqAqq6B9WbXg/Fv2lucGIbhPi2caWYvF5Lg/1762274796803/live/may24/chunklist.m3u8
-https://hotlivezz179026907.akainu.xyz/4PsARBRmTw9LUn3EaWcm9g/Fv2lucGIbhPi2caWYvF5Lg/1756299649898/live/may26/chunklist.m3u8
-https://hotlivezz179026907.akainu.xyz/_vL6TZlh4uqQqQPS_rrakA/Fv2lucGIbhPi2caWYvF5Lg/1758036936957/live/may241/chunklist.m3u8
+#https://hotlivezz179026907.akainu.xyz/Lxpb30konzwqAqq6B9WbXg/Fv2lucGIbhPi2caWYvF5Lg/1762274796803/live/may24/chunklist.m3u8
+#https://hotlivezz179026907.akainu.xyz/4PsARBRmTw9LUn3EaWcm9g/Fv2lucGIbhPi2caWYvF5Lg/1756299649898/live/may26/chunklist.m3u8
+#https://hotlivezz179026907.akainu.xyz/_vL6TZlh4uqQqQPS_rrakA/Fv2lucGIbhPi2caWYvF5Lg/1758036936957/live/may241/chunklist.m3u8
 =======================================
 ==============LIVE SPORTS==============
 =======================================
@@ -53,10 +53,10 @@ https://hotlivezz179026907.akainu.xyz/_vL6TZlh4uqQqQPS_rrakA/Fv2lucGIbhPi2caWYvF
 #EXTINF:-1 group-title="EVENT 2/NOVEMBER/2025" tvg-logo="https://i.ibb.co.com/spvCP0My/IMG-20250919-155828.png", 19:00 WIB Persebaya Surabaya vs Persis Solo
 #http://aromatv.co:80/Enjy3637/4JFEBAs359/444139
 
-#EXTINF:-1 group-title="EVENT 1/NOVEMBER/2025" tvg-logo="https://i.ibb.co.com/spvCP0My/IMG-20250919-155828.png", 19:00 WIB Bali United vs Persib Bandung
+#EXTINF:-1 group-title="EVENT 5/NOVEMBER/2025" tvg-logo="https://i.ibb.co.com/spvCP0My/IMG-20250919-155828.png", 19:00 WIB Borneo vs Dewa United
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.plcdn.xyz/
-#https://live1.pro2cdnlive.com/live/channel19.flv?wsSecret=f56bef7bf4aa7288d3fe39aac3ca7d85&wsABSTime=1761932703
+https://live1.pro2cdnlive.com/live/channel18.flv?wsSecret=c02150b13b4029cc7749f5690c01fbd9&wsABSTime=1762364734
 
 =======================================
 =======================================
