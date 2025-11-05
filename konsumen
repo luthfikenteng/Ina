@@ -211,52 +211,6 @@ KOMPETISI TAMBAHAN
 
 
 #EXTINF:0 tvg-logo="https://i.ibb.co.com/39ysdc2K/IMG-20250501-231953.png" group-title="EVENT 5/NOVEMBER/2025",00:45 WIB Slavia Praha vs Arsenal
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd|referer=https://www.visionplus.id/
-
-#EXTINF:0 tvg-logo="https://i.ibb.co.com/39ysdc2K/IMG-20250501-231953.png" group-title="EVENT 5/NOVEMBER/2025",00:45 WIB Napoli vs Entracht Frankfrut
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd|referer=https://www.visionplus.id/
-
-#EXTINF:0 tvg-logo="https://i.ibb.co.com/39ysdc2K/IMG-20250501-231953.png" group-title="EVENT 5/NOVEMBER/2025",03:00 WIB Liverpool vs Real Madrid
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd|referer=https://www.visionplus.id/
-
-#EXTINF:0 tvg-logo="https://i.ibb.co.com/39ysdc2K/IMG-20250501-231953.png" group-title="EVENT 5/NOVEMBER/2025",03:00 WIB PSG vs Bayern Munchen 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd|referer=https://www.visionplus.id/
-
-#EXTINF:0 tvg-logo="https://i.ibb.co.com/39ysdc2K/IMG-20250501-231953.png" group-title="EVENT 5/NOVEMBER/2025",03:00 WIB Tottenham Hotspur vs Kobenhavn
-#EXTVLCOPT:http-referrer=https://galandriel1.thobias.cfd/000/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://galandriel1.thobias.cfd/puk4/usergendx42x9qrnd.m3u8
-
-#EXTINF:0 tvg-logo="https://i.ibb.co.com/39ysdc2K/IMG-20250501-231953.png" group-title="EVENT 5/NOVEMBER/2025",03:00 WIB Olympiakos Piraeus vs PSV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://kudos111.terranovax1.cfd/000/
-https://kudos111.terranovax1.cfd/kuk4/usergendx0thc60skrdnnd.m3u8
-
-#EXTINF:0 tvg-logo="https://i.ibb.co.com/39ysdc2K/IMG-20250501-231953.png" group-title="EVENT 5/NOVEMBER/2025",03:00 WIB Athletico Madrid vs Union Saint-Gilloise
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://cool-tv.net/
-https://galandriel1.thobias.cfd/puk5/usergen0grnd3y8.m3u8
-
-#EXTINF:0 tvg-logo="https://i.ibb.co.com/39ysdc2K/IMG-20250501-231953.png" group-title="EVENT 5/NOVEMBER/2025",03:00 WIB Juventus vs Sporting CP
-#EXTVLCOPT:http-referrer=https://iron1.jarvisx1.cfd/000/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://iron1.jarvisx1.cfd/puk3/usergenrx4t0l8sybkr.m3u8
 
 ==================================================Indonesia=Channels==================================================
 
@@ -469,11 +423,9 @@ https://cdn10jtedge.indihometv.com/atm/DASH/mncnews/manifest.mpd
 =======================================
 
 #EXTINF:-1 tvg-id="Kompas TV - [Channel 106].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co.com/yn67Cj9y/KOMPAS.png" group-title="NASIONAL",KOMPAS TV
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h234/01.m3u8
+https://cdn10jtedge.indihometv.com/atm/DASH/KOMPAS_TV/manifest.mpd
 
 =======================================
 
