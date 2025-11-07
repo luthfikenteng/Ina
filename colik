@@ -36,8 +36,9 @@ awalan
 #EXTINF:-1 group-title="EVENT 7/NOVEMBER/2025" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/70/Logo_Piala_Dunia_U-17_2025.svg/250px-Logo_Piala_Dunia_U-17_2025.svg.png", 22:45 WIB Brazil vs Indonesia
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 15) ExoPlayerLib/2.13.2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=eaea45512d137def15b209a089cafd14:8d42db746ed0c4df61729b0d68d42bd7
-https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/rkhugudynd/out/v1/f7763e695c3b469594ed89fa163ebf0c/cenc-sd.mpd
+#KODIPROP:inputstream.adaptive.license_key=9009b7189e3e68cc09d17811f2beb55a:dd3f96a94c909da48ff40c92aabf8cf3
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/4yiko4it8k/out/v1/b77dd424c745443aba2f3f88d418f797/cenc-sd.mpd
+
 
 =======================================
 ===============LIGA INDO===============
@@ -303,11 +304,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h235/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/MkVjq2ZN/INDOSIAR.png" group-title="NASIONAL",INDOSIAR HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.vidio.com/
-#EXTVLCOPT:http-referrer=https://www.vidio.com/
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#https://popmi.my.id/tes.m3u8?id=205
+https://cdn10jtedge.indihometv.com/atm/DASH/indosiar/indosiar-avc1_2500000=7-3277707030000000.mpd
 
 =======================================
 
