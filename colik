@@ -37,13 +37,7 @@ awalan
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 15) ExoPlayerLib/2.13.2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9009b7189e3e68cc09d17811f2beb55a:dd3f96a94c909da48ff40c92aabf8cf3
-https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/4yiko4it8k/out/v1/b77dd424c745443aba2f3f88d418f797/cenc-sd.mpd
-
-#EXTINF:-1 group-title="EVENT 7/NOVEMBER/2025" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/70/Logo_Piala_Dunia_U-17_2025.svg/250px-Logo_Piala_Dunia_U-17_2025.svg.png", 22:45 WIB Brazil vs Indonesia
-#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 15) ExoPlayerLib/2.13.2
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://www.plus.fifa.com/flux-capacitor/api/v1/licensing/widevine/modular?sessionId=feRSU5NnmYs9Wr7pFUlutdoUBHnRoOpgRFZ-LkvGDc9Ceel8SBAj_HzDPxmi-iC9DkHrCq3FpusbmC434Z1pVifuNuHJGvo0IZfT_EJrtZQ=
-https://d7pd9oqdl4d44.cloudfront.net/2025_11_06_09_18_06_da7578c8-dec5-40e3-b5fb-3fa64d8e1e7a/PROD_CMAF_CENC/index-dash.mpd
+#https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/4yiko4it8k/out/v1/b77dd424c745443aba2f3f88d418f797/cenc-sd.mpd
 
 
 =======================================
@@ -199,14 +193,14 @@ KOMPETISI TAMBAHAN
 ===============MOTOGP================
 =======================================
 #https://i.ibb.co.com/TqRf4Xk3/IMG-20250816-175900.png
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/TqRf4Xk3/IMG-20250816-175900.png" group-title="EVENT 7/NOVEMBER/2025", MOTOGP
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/TqRf4Xk3/IMG-20250816-175900.png" group-title="EVENT 8/NOVEMBER/2025", MOTOGP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1539f043249e413d91906036f305831e:671e24fd8d234c7f38d85055815f902a
 https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/TqRf4Xk3/IMG-20250816-175900.png" group-title="EVENT 7/NOVEMBER/2025", MOTOGP
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/TqRf4Xk3/IMG-20250816-175900.png" group-title="EVENT 8/NOVEMBER/2025", MOTOGP
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=9f51f3dc6313ac8bc668e2d9d1c04dfa:74bc63e5a193454a91ca494975db33f9
 https://a151aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
