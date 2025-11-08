@@ -133,9 +133,10 @@ https://galandriel1.thobias.cfd/puk5/usergen0grnd3y8.m3u8
 
 
 #EXTINF:-1 tvg-id="digisport 1" tvg-logo="https://i.ibb.co.com/wZ40gYMj/IMG-20250430-174409.png" group-title="EVENT 9/NOVEMBER/2025" , 00:00 WIB Juventus vs Torino
-#EXTVLCOPT:http-referrer=https://ultra2.falconx1.cfd/000/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://ultra2.falconx1.cfd/kuk2/usergendx0ul2J8tsDx9lgcddwqrnd.m3u8|user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1&
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd
 
 #EXTINF:-1 tvg-id="digisport 1" tvg-logo="https://i.ibb.co.com/wZ40gYMj/IMG-20250430-174409.png" group-title="EVENT 8/NOVEMBER/2025", 21:00 WIB Lecce vs Hellas Verona
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
