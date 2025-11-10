@@ -467,7 +467,14 @@ https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
 
 =======================================
 
-#EXTINF:-1 tvg-id="NET" tvg-logo="https://i.ibb.co.com/qFLFkhp4/NET.png" group-title="NASIONAL" , MD TV
+#EXTINF:-1 tvg-id="NET" tvg-logo="https://i.ibb.co.com/qFLFkhp4/NET.png" group-title="NASIONAL" , MD TV 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=91dec6fd9fd84b879aacc027bf532790:588a2214bfb91fc0150b9ac2a745cef8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/6941abe8211d4ce8bd13d9b96bdd1630/index.mpd
+
+#EXTINF:-1 tvg-id="NET" tvg-logo="https://i.ibb.co.com/qFLFkhp4/NET.png" group-title="NASIONAL" , MD TV 2
 #KODIPROP:inputstream.adaptive.stream_headers=referer=&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservesd-1.dens.tv/h/h06/01.m3u8|referrer=http://dens.tv
