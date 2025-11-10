@@ -37,7 +37,7 @@ awalan
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 15) ExoPlayerLib/2.13.2
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://www.plus.fifa.com/flux-capacitor/api/v1/licensing/widevine/modular?sessionId=qqW0Vmkxx8Lvx88Cozh9guUXzzMvn56Qm6kFufwJdjOmasn-PvvmyYtbGPohWRqpOinqHfpP1a7zE4XrRqcxUMwspxavz4XCg-Q2Z22vM6k=
-https://d7pd9oqdl4d44.cloudfront.net/2025_11_06_09_33_15_0b08f296-e13f-4eef-af1d-429a89e256fe/PROD_CMAF_CENC/index-dash.mpd
+#https://d7pd9oqdl4d44.cloudfront.net/2025_11_06_09_33_15_0b08f296-e13f-4eef-af1d-429a89e256fe/PROD_CMAF_CENC/index-dash.mpd
 
 
 =======================================
