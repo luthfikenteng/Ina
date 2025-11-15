@@ -11,7 +11,7 @@ awalan
 #EXTINF:-1 group-title="EVENT 1/NOVEMBER/2025" tvg-logo="https://i.ibb.co.com/zhStskpR/IMG-20250825-165607.png", LIVOLI
 #https://iptv.lancartech.co.id:443/Farhan@90/18062025/23.ts
 
-#EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co.com/hFhj9FL9/MOJI.png" group-title="EVENT 1/NOVEMBER/2025", MOJI DIGITAL
+#EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.i" group-title="EVENT 15/NOVEMBER/2025", MOJI DIGITAL
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #http://103.170.33.11:9981/stream/channelid/1896622786?profile=pass
 #http://aromatv.co:80/live/Enjy3637/4JFEBAs359/444150.ts
@@ -44,6 +44,25 @@ https://d7pd9oqdl4d44.cloudfront.net/2025_11_12_18_00_57_6b12ce44-00b8-4633-b9c9
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://www.plus.fifa.com/flux-capacitor/api/v1/licensing/widevine/modular?sessionId=rSsCd3Lm7QZsn45W9tiZs-Lk0SegtYi5z6twJAf3dBFeaW18FkjUjhx-89Za4WkI6joNrwThsJpmQPRboKjUq50HdIb1pF27elxkFvjKxwk=
 https://d7pd9oqdl4d44.cloudfront.net/2025_11_12_18_00_52_67e6e798-25b3-4fd1-9851-8c1cd473cbce/PROD_CMAF_CENC/index-dash.mpd
+
+
+#EXTINF:-1 group-title="EVENT 15/NOVEMBER/2025" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/70/Logo_Piala_Dunia_U-17_2025.svg/250px-Logo_Piala_Dunia_U-17_2025.svg.png", 20:00 WIB Italia vs Republik Ceko
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 15) ExoPlayerLib/2.13.2
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://www.plus.fifa.com/flux-capacitor/api/v1/licensing/widevine/modular?sessionId=rSsCd3Lm7QZsn45W9tiZs-Lk0SegtYi5z6twJAf3dBFeaW18FkjUjhx-89Za4WkI6joNrwThsJpmQPRboKjUq50HdIb1pF27elxkFvjKxwk=
+
+
+#EXTINF:-1 group-title="EVENT 15/NOVEMBER/2025" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/70/Logo_Piala_Dunia_U-17_2025.svg/250px-Logo_Piala_Dunia_U-17_2025.svg.png", 20:30 WIB Jepang vs Afrika Selatan
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 15) ExoPlayerLib/2.13.2
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://www.plus.fifa.com/flux-capacitor/api/v1/licensing/widevine/modular?sessionId=rSsCd3Lm7QZsn45W9tiZs-Lk0SegtYi5z6twJAf3dBFeaW18FkjUjhx-89Za4WkI6joNrwThsJpmQPRboKjUq50HdIb1pF27elxkFvjKxwk=
+
+
+#EXTINF:-1 group-title="EVENT 15/NOVEMBER/2025" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/70/Logo_Piala_Dunia_U-17_2025.svg/250px-Logo_Piala_Dunia_U-17_2g", 20:00 WIB Indonesia U23 vs Mali U23
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 15) ExoPlayerLib/2.13.2
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://www.plus.fifa.com/flux-capacitor/api/v1/licensing/widevine/modular?sessionId=icgimJciazYvfBsi9KiBQjc5WWcegWZw8lKwrSUmU6e0wnU_GIViP_GX4ImYzzDnICROUlHYxeeRMQLJveDm2UkEZ-vYHfs86LKC4GlJGyY=
+https://d7pd9oqdl4d44.cloudfront.net/2025_11_15_12_46_30_2af91e8b-52b9-45c6-88dd-405a0663ea18/PROD_CMAF_CENC/index-dash.mpd
 
 =======================================
 ===============LIGA INDO===============
@@ -261,10 +280,10 @@ KOMPETISI TAMBAHAN
 #KODIPROP:inputstream.adaptive.license_key=1539f043249e413d91906036f305831e:671e24fd8d234c7f38d85055815f902a
 #https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/TqRf4Xk3/IMG-20250816-175900.png" group-title="EVENT 9/NOVEMBER/2025", MOTOGP
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/TqRf4Xk3/IMG-20250816-175900.png" group-title="EVENT 15/NOVEMBER/2025", MOTOGP
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=9f51f3dc6313ac8bc668e2d9d1c04dfa:74bc63e5a193454a91ca494975db33f9
-#https://a151aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=d0f2e5c39e70c18f29bf77768a1ad89a:d6853c51fcf37a18905f0609972395d7
+https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/dash/enc/bsaaetko8v/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
 
 
 =======================================
