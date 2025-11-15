@@ -56,7 +56,9 @@ https://d7pd9oqdl4d44.cloudfront.net/2025_11_12_18_01_02_41f364b8-68e9-4c7f-a969
 #EXTINF:-1 group-title="EVENT 15/NOVEMBER/2025" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/70/Logo_Piala_Dunia_U-17_2025.svg/250px-Logo_Piala_Dunia_U-17_2025.svg.png", 20:30 WIB Jepang vs Afrika Selatan
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 15) ExoPlayerLib/2.13.2
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://www.plus.fifa.com/flux-capacitor/api/v1/licensing/widevine/modular?sessionId=rSsCd3Lm7QZsn45W9tiZs-Lk0SegtYi5z6twJAf3dBFeaW18FkjUjhx-89Za4WkI6joNrwThsJpmQPRboKjUq50HdIb1pF27elxkFvjKxwk=
+#KODIPROP:inputstream.adaptive.license_key=https://www.plus.fifa.com/flux-capacitor/api/v1/licensing/widevine/modular?sessionId=qd48LABiyze9RDx1Bq06yyTizugFM3eowc_SSNg4DUX3laehs1DmekMRCVt8wXmdZlo3-VWGoQo0qRYgjpOLfkRBoffOPN33QG79SivbioE=
+https://d7pd9oqdl4d44.cloudfront.net/2025_11_12_18_06_44_d7c484f7-3def-462a-87be-fa3776d38cbb/PROD_CMAF_CENC/index-dash.mpd
+
 
 
 #EXTINF:-1 group-title="EVENT 15/NOVEMBER/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxUCldOhJNh6E_hYfDUWXGHHzxN73JxiztxUDQFR7A5g&s=10", 20:00 WIB Indonesia U23 vs Mali U23
