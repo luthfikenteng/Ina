@@ -28,18 +28,6 @@ awalan
 #EXTVLCOPT:http-referrer=https://demo.zplayer.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
 
-#EXTINF:-1 group-title="EVENT 19/NOVEMBER/2025" tvg-logo="https://i.ibb.co.com/MxBt8tCs/IMG-20250825-164825.png",BWF australia open
-https://mobilelive-play-2.ysp.cctv.cn/ikotv/2029319601_fhd.m3u8
-
-#EXTINF:-1 group-title="EVENT 19/NOVEMBER/2025" tvg-logo="https://i.ibb.co.com/MxBt8tCs/IMG-20250825-164825.png",BWF australia open 2
-https://mobilelive-play-2.ysp.cctv.cn/ikotv/2029319701_fhd.m3u8
-
-#EXTINF:-1 group-title="EVENT 19/NOVEMBER/2025" tvg-logo="https://i.ibb.co.com/MxBt8tCs/IMG-20250825-164825.png",BWF australia open 3
-https://mobilelive-play-2.ysp.cctv.cn/ikotv/2029320701_fhd.m3u8
-
-#EXTINF:-1 group-title="EVENT 19/NOVEMBER/2025" tvg-logo="https://i.ibb.co.com/MxBt8tCs/IMG-20250825-164825.png",BWF australia open 4
-https://mobilelive-play-2.ysp.cctv.cn/ikotv/2029320801_fhd.m3u8
-
 
 =======================================
 ==============LIVE SPORTS==============
