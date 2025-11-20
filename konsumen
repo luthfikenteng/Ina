@@ -63,8 +63,8 @@ http://103.46.10.145:9981/stream/channelid/2068418811?ticket=F6A638CAE3935CAFE3E
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vidd.semar.my.id/viddreq.php?id=205&type=drm
-https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/drm/dash/stream.mpd?hdnts=exp=1763641513~acl=/stream/205/file/drm/dash/stream.mpd!/stream/205/file/drm/dash/*/aac/*!/stream/205/file/drm/dash/*/*-1080p/*!/stream/205/file/drm/dash/*/*-720p/*!/stream/205/file/drm/dash/*/*-480p/*!/stream/205/file/drm/dash/*/*-360p/*~id=172201388~hmac=c62b9eafc11ecc56ceb29a79a0ba4a91a5053cdc3956316e6a338b97c5d7f0ec
-
+#https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/file/drm/dash/stream.mpd?hdnts=exp=1763641513~acl=/stream/205/file/drm/dash/stream.mpd!/stream/205/file/drm/dash/*/aac/*!/stream/205/file/drm/dash/*/*-1080p/*!/stream/205/file/drm/dash/*/*-720p/*!/stream/205/file/drm/dash/*/*-480p/*!/stream/205/file/drm/dash/*/*-360p/*~id=172201388~hmac=c62b9eafc11ecc56ceb29a79a0ba4a91a5053cdc3956316e6a338b97c5d7f0ec
+https://liveplay.camel4.live/live/sd-6MuTNFjqb9ZvxSVkaj.flv?txSecret=5f0552956793b8a6ee043aa64562085f&txTime=691F03DD&lat=9000
 
 #EXTINF:-1 group-title="EVENT 8/NOVEMBER/2025" tvg-logo="https://i.ibb.co.com/spvCP0My/IMG-20250919-155828.png", 19:00 WIB Persis Solo vs PSIM Yogyakarta
 #http://aromatv.co:80/Enjy3637/4JFEBAs359/444139
