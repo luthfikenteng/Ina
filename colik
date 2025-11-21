@@ -145,12 +145,12 @@ awalan
 
 
 
-#EXTINF:-1 tvg-id="digisport 1" tvg-logo="https://i.ibb.co.com/1JwYR5NV/LALIGA.png" group-title="EVENT 10/NOVEMBER/2025", 00:30 WIB Valencia vs Real Betis
+#EXTINF:-1 tvg-id="digisport 1" tvg-logo="https://i.ibb.co.com/1JwYR5NV/LALIGA.png" group-title="EVENT 22/NOVEMBER/2025", 03:00 WIB Valencia vs Levante
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
-#https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd|referer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd|referer=https://www.visionplus.id/
 
 
 #EXTINF:-1 tvg-id="digisport 1" tvg-logo="https://i.ibb.co.com/1JwYR5NV/LALIGA.png" group-title="EVENT 10/NOVEMBER/2025", 03:00 WIB Celta Vigo vs Barcelona
