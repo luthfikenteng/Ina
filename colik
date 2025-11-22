@@ -55,15 +55,17 @@ awalan
 #https://shorter.me/cuGoB
 
 
-#EXTINF:-1 group-title="EVENT 21/NOVEMBER/2025" tvg-logo="https://i.ibb.co.com/spvCP0My/IMG-20250919-155828.png", 19:00 WIB Persib vs Dewa United
-#https://shorter.me/NBOxU
-#http://103.46.10.145:9981/stream/channelid/2068418811?ticket=F6A638CAE3935CAFE3EF877AC34403F7AF116910&profile=pass
-
-#EXTINF:-1 group-title="EVENT 21/NOVEMBER/2025" tvg-logo="https://i.ibb.co.com/spvCP0My/IMG-20250919-155828.png", 19:00 WIB Persib vs Dewa United
+#EXTINF:-1 group-title="EVENT 22/NOVEMBER/2025" tvg-logo="https://i.ibb.co.com/spvCP0My/IMG-20250919-155828.png", 15:30 WIB PSIM Yogyakarta vs Bhayangkara
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.plcdn.xyz/
-#https://live.golivenow71.com/740b5aaaec5114fb0d34dea89000fb38/1763769424486/xqispup/xqispup@720p.m3u8
+https://live.golivenow71.com/50ae1747a645aa3e7644f5d29003424c/1763843395909/jggujqm/jggujqm@720p.m3u8
 
+
+#EXTINF:-1 group-title="EVENT 22/NOVEMBER/2025" tvg-logo="https://i.ibb.co.com/spvCP0My/IMG-20250919-155828.png", 15:30 WIB Persebaya Surabaya vs Arema
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.plcdn.xyz/
+https://live.golivenow71.com/adf790ec4d202b8b50e3b0a4808c5f6f/1763843583685/9l7x9pa/9l7x9pa@720p.m3u8
+http://103.46.10.145:9981/stream/channelid/2068418811?ticket=F6A638CAE3935CAFE3EF877AC34403F7AF116910&profile=pass
 
 #EXTINF:-1 group-title="EVENT 8/NOVEMBER/2025" tvg-logo="https://i.ibb.co.com/spvCP0My/IMG-20250919-155828.png", 19:00 WIB Persis Solo vs PSIM Yogyakarta
 #http://aromatv.co:80/Enjy3637/4JFEBAs359/444139
