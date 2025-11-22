@@ -171,7 +171,11 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/ind
 
 
 #EXTINF:-1 tvg-id="digisport 1" tvg-logo="https://i.ibb.co.com/wZ40gYMj/IMG-20250430-174409.png" group-title="EVENT 22/NOVEMBER/2025" , 21:00 WIB Udinese vs Bologna
-https://liveplay.camel4.live/live/sd-6MuSNj1o2f78S5NzUw.flv?txSecret=32a90f734f3ce5b345de39aae757b45e&txTime=6921C154&lat=9000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd
+
 
 #EXTINF:-1 tvg-id="digisport 1" tvg-logo="https://i.ibb.co.com/wZ40gYMj/IMG-20250430-174409.png" group-title="EVENT 22/NOVEMBER/2025" , 21:00 WIB Cagliari vs Genoa
 #EXTVLCOPT:http-referrer=https://galandriel1.thobias.cfd/000/
