@@ -120,10 +120,11 @@ https://shorter.me/KufST
 
 
 
-#EXTINF:-1 group-title="EVENT 1/NOVEMBER/2025" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png", 22:00 WIB Crystal Palace vs Brentford
+#EXTINF:-1 group-title="EVENT 23/NOVEMBER/2025" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png", 00:30 WIB Newcastle United vs Manchester City
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.plcdn.xyz/
 #https://live1.pro2cdnlive.com/live/channel15.flv?wsSecret=3692432a59c261ddbbfa5042d75387ac&wsABSTime=1759596274
+https://liveplay.camel4.live/live/sd-6MuT7Jy12s8Aiy2JDV.flv?txSecret=96b262a4a54cfc79ef893a583699d706&txTime=6921D54B&lat=9000
 
 =======================================
 =======================================
@@ -138,14 +139,6 @@ https://shorter.me/KufST
 #https://shorter.me/RZGKX
 
 
-
-#EXTINF:-1 tvg-id="digisport 1" tvg-logo="https://i.ibb.co.com/1JwYR5NV/LALIGA.png" group-title="EVENT 22/NOVEMBER/2025", 20:00 WIB Deportivo Alaves vs Celta Vigo
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
-#https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd|referer=https://www.visionplus.id/
-
 #EXTINF:-1 tvg-id="digisport 1" tvg-logo="https://i.ibb.co.com/1JwYR5NV/LALIGA.png" group-title="EVENT 22/NOVEMBER/2025", 22:15 WIB Barcelona vs Athletic Club
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -153,7 +146,19 @@ https://shorter.me/KufST
 #KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd|referer=https://www.visionplus.id/
 
+#EXTINF:-1 tvg-id="digisport 1" tvg-logo="https://i.ibb.co.com/1JwYR5NV/LALIGA.png" group-title="EVENT 23/NOVEMBER/2025", 00:30 WIB Osasuna vs Real Sociedad
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
+#https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd|referer=https://www.visionplus.id/
 
+#EXTINF:-1 tvg-id="digisport 1" tvg-logo="https://i.ibb.co.com/1JwYR5NV/LALIGA.png" group-title="EVENT 23/NOVEMBER/2025", 03:00 WIB Villareal vs Mallorca
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
+#https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd|referer=https://www.visionplus.id/
 
 #EXTINF:-1 tvg-id="digisport 1" tvg-logo="https://i.ibb.co.com/1JwYR5NV/LALIGA.png" group-title="EVENT 10/NOVEMBER/2025", 03:00 WIB Celta Vigo vs Barcelona
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -177,10 +182,15 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/ind
 https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd
 
 
-#EXTINF:-1 tvg-id="digisport 1" tvg-logo="https://i.ibb.co.com/wZ40gYMj/IMG-20250430-174409.png" group-title="EVENT 22/NOVEMBER/2025" , 21:00 WIB Cagliari vs Genoa
-#EXTVLCOPT:http-referrer=https://galandriel1.thobias.cfd/000/
+#EXTINF:-1 tvg-id="digisport 1" tvg-logo="https://i.ibb.co.com/wZ40gYMj/IMG-20250430-174409.png" group-title="EVENT 23/NOVEMBER/2025" , 00:00 WIB Fiorentina vs Juventus
+#EXTVLCOPT:http-referrer=https://arwen1.panaka1.cfd/000/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-#https://galandriel1.thobias.cfd/puk4/usergendx42x9qrnd.m3u8
+https://arwen1.panaka1.cfd/puk2/usergenrnd0clv03fyt.m3u8
+
+#EXTINF:-1 tvg-id="digisport 1" tvg-logo="https://i.ibb.co.com/wZ40gYMj/IMG-20250430-174409.png" group-title="EVENT 23/NOVEMBER/2025" , 02:45 WIB Napoli vs Atalanta
+#EXTVLCOPT:http-referrer=https://arwen1.panaka1.cfd/000/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+https://arwen1.panaka1.cfd/puk2/usergenrnd0clv03fyt.m3u8
 
 #EXTINF:-1 tvg-id="digisport 1" tvg-logo="https://i.ibb.co.com/wZ40gYMj/IMG-20250430-174409.png" group-title="EVENT 9/NOVEMBER/2025" , 21:00 WIB Bologna vs Napoli
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -234,11 +244,14 @@ https://galandriel1.thobias.cfd/puk5/usergen0grnd3y8.m3u8
 =======================================
 #https://i.ibb.co.com/wZqyXTQq/IMG-20250430-173924.png
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/wZqyXTQq/IMG-20250430-173924.png" group-title="EVENT 23/NOVEMBER/2025" , 03:05 WIB PSG vs Le Havre
+https://liveplay.camel4.live/live/sd-6MuT7Y3vTchmZjBTVH.flv?txSecret=2037871d76968f1816d1d2a016a5ec32&txTime=6921D6A9&lat=9000
+
 KOMPETISI TAMBAHAN
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/0/0c/EFL_%28Carabao%29_Cup_Logo.svg/840px-EFL_%28Carabao%29_Cup_Logo.svg.png" group-title="EVENT 30/OKTOBER/2025" , 02:45 WIB Arsenal vs Brighton & Hove Albion
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/0/0c/EFL_%28Carabao%29_Cup_Logo.svg/840px-EFL_%28Carabao%29_Cup_Logo.svg.png" group-title="EVENT 23/NOVEMBER/2025" , 02:45 WIB Arsenal vs Brighton & Hove Albion
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #https://shorter.me/w5Y5C
 
