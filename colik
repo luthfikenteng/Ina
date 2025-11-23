@@ -58,9 +58,8 @@ awalan
 #EXTINF:-1 group-title="EVENT 23/NOVEMBER/2025" tvg-logo="https://i.ibb.co.com/spvCP0My/IMG-20250919-155828.png", 19:00 WIB Bali United vs Persis Solo
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.plcdn.xyz/
-https://shorter.me/50f1b
 http://103.46.10.145:9981/stream/channelid/2068418811?ticket=F6A638CAE3935CAFE3EF877AC34403F7AF116910&profile=pass
-
+https://shorter.me/-p1Uy
 
 #EXTINF:-1 group-title="EVENT 22/NOVEMBER/2025" tvg-logo="https://i.ibb.co.com/spvCP0My/IMG-20250919-155828.png", 19:00 WIB Borneo vs Madura United
 #http://103.46.10.145:9981/stream/channelid/2068418811?ticket=F6A638CAE3935CAFE3EF877AC34403F7AF116910&profile=pass
@@ -788,7 +787,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/HBOSignatureHD/mediampd/HBOSignat
 
 =======================================
 
-#EXTINF:-1 tvg-id="Cinemax.id" tvg-name="Cinemax" tvg-logo="https://i.ibb.co.com/0pWPCfLb/CINEMAX.png" group-title="MOVIES",CINEMAX (OS7+)
+#EXTINF:-1 tvg-id="Cinemax.id" tvg-name="Cinemax" tvg-logo="https://i.ibb.co.com/0pWPCfLb/CINEMAX.png" group-title="MOVIES",CINEMAX
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=b489136b34aa4166a9c9984f19155d30:2c6de796954779fd6f51584425ac834e
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
