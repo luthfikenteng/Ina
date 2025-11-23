@@ -55,10 +55,18 @@ awalan
 #https://shorter.me/cuGoB
 
 
-#EXTINF:-1 group-title="EVENT 22/NOVEMBER/2025" tvg-logo="https://i.ibb.co.com/spvCP0My/IMG-20250919-155828.png", 19:00 WIB Borneo vs Madura United
+#EXTINF:-1 group-title="EVENT 23/NOVEMBER/2025" tvg-logo="https://i.ibb.co.com/spvCP0My/IMG-20250919-155828.png", 15:30 WIB Persita vs Malut
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.plcdn.xyz/
-#https://live.golivenow71.com/9a6bedd27a95e1ae7ec8edea6d9d8a18/1763853329231/dyv7fis/dyv7fis@720p.m3u8
+https://shorter.me/50f1b
+https://live.golivenow71.com/9a6bedd27a95e1ae7ec8edea6d9d8a18/1763853329231/dyv7fis/dyv7fis@720p.m3u8
+
+
+#EXTINF:-1 group-title="EVENT 23/NOVEMBER/2025" tvg-logo="https://i.ibb.co.com/spvCP0My/IMG-20250919-155828.png", 19:00 WIB Bali United vs Persis Solo
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.plcdn.xyz/
+https://shorter.me/50f1b
+https://live.golivenow71.com/9a6bedd27a95e1ae7ec8edea6d9d8a18/1763853329231/dyv7fis/dyv7fis@720p.m3u8
 
 
 #EXTINF:-1 group-title="EVENT 22/NOVEMBER/2025" tvg-logo="https://i.ibb.co.com/spvCP0My/IMG-20250919-155828.png", 19:00 WIB Borneo vs Madura United
@@ -83,7 +91,11 @@ awalan
 #https://i.ibb.co.com/twxFhvBY/PLE.png
 
 
-#EXTINF:-1 group-title="EVENT 22/NOVEMBER/2025" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png", 19:30 WIB Burnley vs Chelsea
+#EXTINF:-1 group-title="EVENT 23/NOVEMBER/2025" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png", 21:00 WIB Leeds United vs Aston Villa
+https://shorter.me/Re9zH
+
+#EXTINF:-1 group-title="EVENT 23/NOVEMBER/2025" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png", 23:30 WIB Arsenal vs Tottenham Hotspur
+https://shorter.me/Re9zH
 
 =======================================
 =======================================
@@ -91,9 +103,17 @@ awalan
 =======================================
 #https://i.ibb.co.com/1JwYR5NV/LALIGA.png
 
-#EXTINF:-1 tvg-id="digisport 1" tvg-logo="https://i.ibb.co.com/1JwYR5NV/LALIGA.png" group-title="EVENT 9/NOVEMBER/2025", 20:00 WIB Athletic Club vs Real Oviedo
+#EXTINF:-1 tvg-id="digisport 1" tvg-logo="https://i.ibb.co.com/1JwYR5NV/LALIGA.png" group-title="EVENT 23/NOVEMBER/2025", 20:00 WIB Real Oviedo vs Rayo
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://arwen1.panaka1.cfd/000/
+https://arwen1.panaka1.cfd/puk2/usergenrnd0clv03fyt.m3u8
 
-
+#EXTINF:-1 tvg-id="digisport 1" tvg-logo="https://i.ibb.co.com/1JwYR5NV/LALIGA.png" group-title="EVENT 23/NOVEMBER/2025", 22:15 WIB Real Betis vs Girona
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd|referer=https://www.visionplus.id/
 
 
 =======================================
@@ -103,7 +123,15 @@ awalan
 #https://i.ibb.co.com/wZ40gYMj/IMG-20250430-174409.png
 
 
-#EXTINF:-1 tvg-id="digisport 1" tvg-logo="https://i.ibb.co.com/wZ40gYMj/IMG-20250430-174409.png" group-title="EVENT 22/NOVEMBER/2025" , 21:00 WIB Udinese vs Bologna
+#EXTINF:-1 tvg-id="digisport 1" tvg-logo="https://i.ibb.co.com/wZ40gYMj/IMG-20250430-174409.png" group-title="EVENT 23/NOVEMBER/2025" , 18:30 WIB Hellas Verona vs Parma
+#EXTVLCOPT:http-referrer=https://iron1.jarvisx1.cfd/000/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+https://iron1.jarvisx1.cfd/puk3/usergenrx4t0l8sybkr.m3u8
+
+#EXTINF:-1 tvg-id="digisport 1" tvg-logo="https://i.ibb.co.com/wZ40gYMj/IMG-20250430-174409.png" group-title="EVENT 23/NOVEMBER/2025" , 21:00 WIB Cremonese vs Roma
+#EXTVLCOPT:http-referrer=https://iron1.jarvisx1.cfd/000/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+https://iron1.jarvisx1.cfd/puk3/usergenrx4t0l8sybkr.m3u8
 
 =======================================
 =======================================
