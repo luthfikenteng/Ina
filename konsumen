@@ -235,61 +235,7 @@ KOMPETISI TAMBAHAN
 
 
 #EXTINF:0 tvg-logo="https://i.ibb.co.com/39ysdc2K/IMG-20250501-231953.png" group-title="EVENT 28/NOVEMBER/2025",00:45 WIB Aston Villa vs Young Boys
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=9f51f3dc6313ac8bc668e2d9d1c04dfa:74bc63e5a193454a91ca494975db33f9
-https://a151aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
 
-#EXTINF:0 tvg-logo="https://i.ibb.co.com/39ysdc2K/IMG-20250501-231953.png" group-title="EVENT 28/NOVEMBER/2025",00:45 WIB Porto vs Nice
-https://shorter.me/92YjL
-
-#EXTINF:0 tvg-logo="https://i.ibb.co.com/39ysdc2K/IMG-20250501-231953.png" group-title="EVENT 28/NOVEMBER/2025",00:45 WIB Roma vs Midtjylland
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd|referer=https://www.visionplus.id/
-
-#EXTINF:0 tvg-logo="https://i.ibb.co.com/39ysdc2K/IMG-20250501-231953.png" group-title="EVENT 28/NOVEMBER/2025",00:45 WIB Fenerbahçe vs Ferencvaros
-https://shorter.me/e9ppP
-
-#EXTINF:0 tvg-logo="https://i.ibb.co.com/39ysdc2K/IMG-20250501-231953.png" group-title="EVENT 28/NOVEMBER/2025",00:45 WIB Feyenoord vs Celtic
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=a93c1cbfdccd23233bac13540c693e7f:2f6ab2e6693eb847eff3c9da8f9d01fc
-https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
-
-#EXTINF:0 tvg-logo="https://i.ibb.co.com/39ysdc2K/IMG-20250501-231953.png" group-title="EVENT 28/NOVEMBER/2025",00:45 WIB PAOK FC vs Brann
-#EXTVLCOPT:http-referrer=https://iron1.jarvisx1.cfd/000/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://iron1.jarvisx1.cfd/puk3/usergenrx4t0l8sybkr.m3u8
-
-#EXTINF:0 tvg-logo="https://i.ibb.co.com/39ysdc2K/IMG-20250501-231953.png" group-title="EVENT 28/NOVEMBER/2025",00:45 WIB Ludogorets Razgrad vs Celta Vigo
-https://shorter.me/aPWo5
-
-#EXTINF:0 tvg-logo="https://i.ibb.co.com/39ysdc2K/IMG-20250501-231953.png" group-title="EVENT 28/NOVEMBER/2025",03:00 WIB Bologna vs FC Salzburg
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3d756d566ca94e6499518ffb1474d5d0:dbe4ad6803e74739b8f954d23cc58e7b
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd|referer=https://www.visionplus.id/
-
-#EXTINF:0 tvg-logo="https://i.ibb.co.com/39ysdc2K/IMG-20250501-231953.png" group-title="EVENT 28/NOVEMBER/2025",03:00 WIB Maccabi Tel Aviv vs Lyon
-https://shorter.me/5JsW0
-
-#EXTINF:0 tvg-logo="https://i.ibb.co.com/39ysdc2K/IMG-20250501-231953.png" group-title="EVENT 28/NOVEMBER/2025",03:00 WIB Nottingham Forest vs Malmo FF
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=d0f2e5c39e70c18f29bf77768a1ad89a:d6853c51fcf37a18905f0609972395d7
-https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/dash/enc/bsaaetko8v/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
-
-#EXTINF:0 tvg-logo="https://i.ibb.co.com/39ysdc2K/IMG-20250501-231953.png" group-title="EVENT 28/NOVEMBER/2025",03:00 WIB Real Betis vs FC Utrecht
-https://shorter.me/c_Mf4
-
-#EXTINF:0 tvg-logo="https://i.ibb.co.com/39ysdc2K/IMG-20250501-231953.png" group-title="EVENT 28/NOVEMBER/2025",03:00 WIB Go Ahead Eagles vs VfB Stuttgart
-https://shorter.me/cDZT_
-
-#EXTINF:0 tvg-logo="https://i.ibb.co.com/39ysdc2K/IMG-20250501-231953.png" group-title="EVENT 28/NOVEMBER/2025",03:00 WIB FK Crvena Zvezda vs FCSB
-#EXTVLCOPT:http-referrer=https://saruman1.tharen1.cfd/000/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://saruman1.tharen1.cfd/puk1/usergenrx0cir27aq.m3u8
 
 ==================================================Indonesia=Channels==================================================
 
