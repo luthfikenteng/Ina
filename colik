@@ -156,6 +156,12 @@ https://kudos111.terranovax1.cfd/kuk4/usergendx0thc60skrdnnd.m3u8
 =======================================
 #https://i.ibb.co.com/R4McZS45/IMG-20250430-173818.png
 
+#EXTINF:-1 tvg-id="digisport 1" tvg-logo="https://i.ibb.co.com/R4McZS45/IMG-20250430-173818.png" group-title="EVENT 29/NOVEMBER/2025", 21:30 WIB Bayern Munchen vs St. Pauli
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
 
 =======================================
 =======================================
@@ -163,8 +169,11 @@ https://kudos111.terranovax1.cfd/kuk4/usergendx0thc60skrdnnd.m3u8
 =======================================
 #https://i.ibb.co.com/wZqyXTQq/IMG-20250430-173924.png
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/wZqyXTQq/IMG-20250430-173924.png" group-title="EVENT 23/NOVEMBER/2025" , 03:05 WIB PSG vs Le Havre
-#https://liveplay.camel4.live/live/sd-6MuT7Y3vTchmZjBTVH.flv?txSecret=2037871d76968f1816d1d2a016a5ec32&txTime=6921D6A9&lat=9000
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/wZqyXTQq/IMG-20250430-173924.png" group-title="EVENT 29/NOVEMBER/2025" , 23:00 WIB Monaco vs PSG
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd
 
 KOMPETISI TAMBAHAN
 
