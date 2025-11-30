@@ -94,6 +94,9 @@ awalan
 #https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
 
 #EXTINF:-1 group-title="EVENT 30/NOVEMBER/2025" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png", 21:05 WIB West Ham United vs Liverpool
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.plcdn.xyz/
+https://live.golivenow71.com/1b84b950f6d1967b98c12479394d07c1/1764557646137/r8ztat6/r8ztat6@720p.m3u8
 https://spstr.abntv.live/hls/psstream.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 
 #EXTINF:-1 group-title="EVENT 30/NOVEMBER/2025" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png", 21:05 WIB Aston Villa vs Wolverhampton
@@ -104,6 +107,9 @@ https://spstr.abntv.live/hls/psstream.m3u8|user-agent=Mozilla/5.0 (Windows NT 10
 https://nfsnew.newkso.ru/nfs/premium343/mono.m3u8
 
 #EXTINF:-1 group-title="EVENT 30/NOVEMBER/2025" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png", 21:05 WIB Nottingham Forest vs Brighton Hove & Albion
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.plcdn.xyz/
+https://tfra4gr5domt1gc41hctogezdoc3pptwzc3jtf3a8r531cp1gh5djq31o.100ycdn.com/live1.pro2cdnlive.com/live/channel4/playlist.m3u8?wsSecret=a3f0643f4f41f2ffefa12c4da0797ce8&wsABSTime=1764557797&wsSession=cebc3bdcfa2e0e97249fb9f9-176451459811644&wsIPSercert=ec543f7571efd3fe04c7885a4957bc5b&wsiphost=local&wsBindIP=1
 https://shorter.me/VCP92
 
 #EXTINF:-1 group-title="EVENT 30/NOVEMBER/2025" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png", 23:30 WIB Chelsea vs Arsenal
