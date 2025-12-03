@@ -105,7 +105,7 @@ https://live.golivenow71.com/8fecd8afc3e3b64c4b4c6da86041bb37/1764443768641/en7h
 #https://i.ibb.co.com/1JwYR5NV/LALIGA.png
 
 #EXTINF:-1 tvg-id="digisport 1" tvg-logo="https://i.ibb.co.com/1JwYR5NV/LALIGA.png" group-title="EVENT 4/DESEMBER/2025", 01:00 WIB Athletic Club vs Real Madrid
-https://live.golivenow71.com/8fecd8afc3e3b64c4b4c6da86041bb37/1764443768641/en7hf6r/index.m3u8
+https://shorter.me/ZeU_g
 
 =======================================
 =======================================
@@ -125,13 +125,12 @@ https://live.golivenow71.com/8fecd8afc3e3b64c4b4c6da86041bb37/1764443768641/en7h
 
 #EXTINF:-1 tvg-id="COPA ITALIA" tvg-logo="https://assets.skor.id/medium_Final_Coppa_Italia_e6d4c54367.jpeg" group-title="EVENT 4/DESEMBER/2025" , 00:00 WIB Napoli vs Cagliari
 https://shorter.me/X1hj0
-https://shorter.me/QKRYc
 
-#http://adp-premium.my.id/event/stream_camel1.php?id=zp5rzghg0n8pq82
+#http://adp-premium.my.id/event/stream_camel1.php?id=zp5rzghgw7o7q82
 
 #https://www.camel1.live/game/match-napoli-cagliari/video/zp5rzghg0n8pq82
 
-#https://www.camel1.live/game/match-1--fc-union-berlin-fc-bayern-munich/match/ednm9whwx102ryo
+#https://www.camel1.live/game/match-jordan-united-arab-emirates/video/zp5rzghgw7o7q82
 =======================================
 =======================================
 =============LIGA JERMAN==============
@@ -145,6 +144,7 @@ https://shorter.me/QKRYc
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 https://dash2.antik.sk/stream/nvidia_nova_sport1/playlist_cenc.mpd
+https://shorter.me/ek_sI
 
 =======================================
 =======================================
@@ -160,9 +160,10 @@ https://dash2.antik.sk/stream/nvidia_nova_sport1/playlist_cenc.mpd
 
 KOMPETISI TAMBAHAN
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/32/2025_FIFA_Arab_Cup_logo.svg/895px-2025_FIFA_Arab_Cup_logo.svg.png" group-title="EVENT 4/DESEMNER/2025" , 00:00 WIB Jordania vs Uni Emirat Arab
+https://shorter.me/zYQAW
 
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/0/0c/EFL_%28Carabao%29_Cup_Logo.svg/840px-EFL_%28Carabao%29_Cup_Logo.svg.png" group-title="EVENT 23/NOVEMBER/2025" , 02:45 WIB Arsenal vs Brighton & Hove Albion
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/32/2025_FIFA_Arab_Cup_logo.svg/895px-2025_FIFA_Arab_Cup_logo.svg.png" group-title="EVENT 23/NOVEMBER/2025" , 02:45 WIB Arsenal vs Brighton & Hove Albion
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #https://shorter.me/w5Y5C
 
