@@ -3888,3 +3888,6 @@ https://spstr.abntv.live/hls/psstream.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
 https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://i.co.com/wZ40gYMj/IMG-20250430-174409.g" group-title="LIVE EVENT CADANGAN" , TEST
+https://bit.ly/444D4qg
