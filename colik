@@ -83,19 +83,27 @@ awalan
 https://live.golivenow71.com/8fecd8afc3e3b64c4b4c6da86041bb37/1764443768641/en7hf6r/index.m3u8
 
 #EXTINF:-1 group-title="EVENT 4/DESEMBER/2025" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png", 02:30 WIB Brighton & Hove Albion vs Aston Villa
-https://live.golivenow71.com/8fecd8afc3e3b64c4b4c6da86041bb37/1764443768641/en7hf6r/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.plcdn.xyz/
+https://tfrd4gr5domt1gc41hctogezdoptpptwzc3jtf3a8r531cp1gh5djq31o.100ycdn.com/live1.pro2cdnlive.com/live/channel2/playlist.m3u8?wsSecret=a749073b97cb7ffc9955e73baad8c663&wsABSTime=1764831971&wsSession=b31995ad772de9b8848bf904-176478877273148&wsIPSercert=4c59ba5c620195a7c5a8d284f0a8bda2&wsiphost=local&wsBindIP=1
 
 #EXTINF:-1 group-title="EVENT 4/DESEMBER/2025" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png", 02:30 WIB Arsenal vs Brentford
-https://live.golivenow71.com/8fecd8afc3e3b64c4b4c6da86041bb37/1764443768641/en7hf6r/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.plcdn.xyz/
+https://live.golivenow71.com/6fcbf199bc2ea0a3732dc94eebae2297/1764831271272/rchtwtx/rchtwtx@720p.m3u8
 
 #EXTINF:-1 group-title="EVENT 4/DESEMBER/2025" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png", 02:30 WIB Wolves vs Nottingham Forest
 https://live.golivenow71.com/8fecd8afc3e3b64c4b4c6da86041bb37/1764443768641/en7hf6r/index.m3u8
 
 #EXTINF:-1 group-title="EVENT 4/DESEMBER/2025" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png", 03:15 WIB Liverpool vs Sunderland
-https://live.golivenow71.com/8fecd8afc3e3b64c4b4c6da86041bb37/1764443768641/en7hf6r/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.plcdn.xyz/
+https://tfrd4gr5domt1gc41hctogezdoptpptwzc3jtf3a8r531cp1gh5djq31o.100ycdn.com/live1.pro2cdnlive.com/live/channel11/playlist.m3u8?wsSecret=efc7eeae04ca0484d76516a45ea13e02&wsABSTime=1764831530&wsSession=b31995ad772de9b8848bf904-176478843703463&wsIPSercert=4c59ba5c620195a7c5a8d284f0a8bda2&wsiphost=local&wsBindIP=1
 
 #EXTINF:-1 group-title="EVENT 4/DESEMBER/2025" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png", 03:15 WIB Leeds United vs Chelsea
-https://live.golivenow71.com/8fecd8afc3e3b64c4b4c6da86041bb37/1764443768641/en7hf6r/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.plcdn.xyz/
+https://tfrd4gr5domt1gc41hctogezdopbpptwzc3jtf3a8r531cp1gh5djq31o.100ycdn.com/live1.pro2cdnlive.com/live/channel19/playlist.m3u8?wsSecret=002abc369001be873e0c0356cbe4d02e&wsABSTime=1764831856&wsSession=d2be40e02af46ff0e2060e38-176478865739389&wsIPSercert=4c59ba5c620195a7c5a8d284f0a8bda2&wsiphost=local&wsBindIP=1
 
 
 =======================================
@@ -133,8 +141,6 @@ https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5
 #EXTINF:-1 tvg-id="COPA ITALIA" tvg-logo="https://assets.skor.id/medium_Final_Coppa_Italia_e6d4c54367.jpeg" group-title="EVENT 3/DESEMBER/2025" , 21:00 WIB Atalanta vs Genoa
 #https://play.live8818.com/nami/hd-en-6MvXrNoGqzmNPJdNH9.m3u8
 
-#EXTINF:-1 tvg-id="COPA ITALIA" tvg-logo="https://assets.skor.id/medium_Final_Coppa_Italia_e6d4c54367.jpeg" group-title="EVENT 4/DESEMBER/2025" , 00:00 WIB Napoli vs Cagliari
-https://shorter.me/X1hj0
 
 #EXTINF:-1 tvg-id="COPA ITALIA" tvg-logo="https://assets.skor.id/medium_Final_Coppa_Italia_e6d4c54367.jpeg" group-title="EVENT 4/DESEMBER/2025" , 03:00 WIB Inter vs Venezia
 https://shorter.me/vae0p
@@ -177,7 +183,7 @@ https://shorter.me/ek_sI
 KOMPETISI TAMBAHAN
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/32/2025_FIFA_Arab_Cup_logo.svg/895px-2025_FIFA_Arab_Cup_logo.svg.png" group-title="EVENT 4/DESEMBER/2025" , 00:00 WIB Jordania vs Uni Emirat Arab
-https://shorter.me/zYQAW
+#https://shorter.me/zYQAW
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/32/2025_FIFA_Arab_Cup_logo.svg/895px-2025_FIFA_Arab_Cup_logo.svg.png" group-title="EVENT 23/NOVEMBER/2025" , 02:45 WIB Arsenal vs Brighton & Hove Albion
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
@@ -3901,4 +3907,6 @@ https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5
 
 #EXTINF:-1 tvg-logo="https://i.co.com/wZ40gYMj/IMG-20250430-174409.g" group-title="LIVE EVENT CADANGAN" , TEST
 https://bit.ly/444D4qg
+
+#EXTINF:-1 tvg-logo="https://i.co.com/wZ40gYMj/IMG-20250430-174409.g" group-title="LIVE EVENT CADANGAN" , TEST 2
 https://raw.githubusercontent.com/luthfikenteng/Ina/refs/heads/main/PL/MTATV.m3u8
