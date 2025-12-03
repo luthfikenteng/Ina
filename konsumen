@@ -77,9 +77,25 @@ awalan
 
 #EXTINF:-1 group-title="EVENT 3/DESEMBER/2025" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png" , 02:30 WIB AFC Bournemouth vs Everton
 
-#EXTINF:-1 group-title="EVENT 30/NOVEMBER/2025" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png", 23:30 WIB Chelsea vs Arsenal
+#EXTINF:-1 group-title="EVENT 4/DESEMBER/2025" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png", 02:30 WIB Burnley vs Crystal Palace
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.plcdn.xyz/
+https://live.golivenow71.com/8fecd8afc3e3b64c4b4c6da86041bb37/1764443768641/en7hf6r/index.m3u8
+
+#EXTINF:-1 group-title="EVENT 4/DESEMBER/2025" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png", 02:30 WIB Brighton & Hove Albion vs Aston Villa
+https://live.golivenow71.com/8fecd8afc3e3b64c4b4c6da86041bb37/1764443768641/en7hf6r/index.m3u8
+
+#EXTINF:-1 group-title="EVENT 4/DESEMBER/2025" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png", 02:30 WIB Arsenal vs Brentford
+https://live.golivenow71.com/8fecd8afc3e3b64c4b4c6da86041bb37/1764443768641/en7hf6r/index.m3u8
+
+#EXTINF:-1 group-title="EVENT 4/DESEMBER/2025" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png", 02:30 WIB Wolves vs Nottingham Forest
+https://live.golivenow71.com/8fecd8afc3e3b64c4b4c6da86041bb37/1764443768641/en7hf6r/index.m3u8
+
+#EXTINF:-1 group-title="EVENT 4/DESEMBER/2025" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png", 03:15 WIB Liverpool vs Sunderland
+https://live.golivenow71.com/8fecd8afc3e3b64c4b4c6da86041bb37/1764443768641/en7hf6r/index.m3u8
+
+#EXTINF:-1 group-title="EVENT 4/DESEMBER/2025" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png", 03:15 WIB Leeds United vs Chelsea
+https://live.golivenow71.com/8fecd8afc3e3b64c4b4c6da86041bb37/1764443768641/en7hf6r/index.m3u8
 
 
 =======================================
@@ -88,8 +104,8 @@ awalan
 =======================================
 #https://i.ibb.co.com/1JwYR5NV/LALIGA.png
 
-#EXTINF:-1 tvg-id="digisport 1" tvg-logo="https://i.ibb.co.com/1JwYR5NV/LALIGA.png" group-title="EVENT 3/DESEMBER/2025", 03:00 WIB Barcelona vs Athletico Madrid
-
+#EXTINF:-1 tvg-id="digisport 1" tvg-logo="https://i.ibb.co.com/1JwYR5NV/LALIGA.png" group-title="EVENT 4/DESEMBER/2025", 01:00 WIB Athletic Club vs Real Madrid
+https://live.golivenow71.com/8fecd8afc3e3b64c4b4c6da86041bb37/1764443768641/en7hf6r/index.m3u8
 
 =======================================
 =======================================
@@ -107,6 +123,9 @@ awalan
 #EXTINF:-1 tvg-id="COPA ITALIA" tvg-logo="https://assets.skor.id/medium_Final_Coppa_Italia_e6d4c54367.jpeg" group-title="EVENT 3/DESEMBER/2025" , 21:00 WIB Atalanta vs Genoa
 https://play.live8818.com/nami/hd-en-6MvXrNoGqzmNPJdNH9.m3u8
 
+#EXTINF:-1 tvg-id="COPA ITALIA" tvg-logo="https://assets.skor.id/medium_Final_Coppa_Italia_e6d4c54367.jpeg" group-title="EVENT 4/DESEMBER/2025" , 00:00 WIB Napoli vs Cagliari
+https://shorter.me/X1hj0
+
 =======================================
 =======================================
 =============LIGA JERMAN==============
@@ -115,7 +134,11 @@ https://play.live8818.com/nami/hd-en-6MvXrNoGqzmNPJdNH9.m3u8
 
 #EXTINF:-1 tvg-id="digisport 1" tvg-logo="https://i.ibb.co.com/R4McZS45/IMG-20250430-173818.png" group-title="EVENT 29/NOVEMBER/2025", 21:30 WIB Bayern Munchen vs St. Pauli
 
-
+#EXTINF:-1 tvg-id="DFB-POKAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRenFRxJl6oZX5RSpMRnV1qsA8FlwMSYZW3RWRiYE7wxA&s=10" group-title="EVENT 4/DESEMBER/2025" , 02:45 WIB Union Berlin vs Bayern Munchen
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/nvidia_nova_sport1/playlist_cenc.mpd
 
 =======================================
 =======================================
