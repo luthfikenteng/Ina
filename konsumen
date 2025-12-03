@@ -110,7 +110,12 @@ https://live.golivenow71.com/8fecd8afc3e3b64c4b4c6da86041bb37/1764443768641/en7h
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd|referer=https://www.visionplus.id/
-https://shorter.me/ZeU_g
+
+#EXTINF:-1 tvg-id="digisport 1" tvg-logo="https://i.ibb.co.com/1JwYR5NV/LALIGA.png" group-title="EVENT 4/DESEMBER/2025" , 01:00 WIB Athletic Club vs Real Madrid
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
+https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
 
 =======================================
 =======================================
@@ -1679,7 +1684,7 @@ https://flv.intechmedia.net/live/ch30.m3u8
 #https://rocket-tv.online/redtube/randomyt.m3u8?id=UCIrj7gqiu8uUfgMitYFzkNg
 #https://playlist.x10.mx/youtube/play.m3u8?id=UCIrj7gqiu8uUfgMitYFzkNg
 #https://raw.githubusercontent.com/luthfikenteng/Ina/refs/heads/main/PL/MTATV.m3u8
-#https://iptvfreemium.serv00.net/youtubechannelid.php?id=UCIrj7gqiu8uUfgMitYFzkNg
+#https://iptvfreemium.serv00.net/youtubechannelid.m3u8?id=UCIrj7gqiu8uUfgMitYFzkNg
 
 =======================================
 
@@ -3896,3 +3901,4 @@ https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5
 
 #EXTINF:-1 tvg-logo="https://i.co.com/wZ40gYMj/IMG-20250430-174409.g" group-title="LIVE EVENT CADANGAN" , TEST
 https://bit.ly/444D4qg
+https://raw.githubusercontent.com/luthfikenteng/Ina/refs/heads/main/PL/MTATV.m3u8
