@@ -140,11 +140,7 @@ awalan
 #EXTINF:-1 tvg-id="digisport 1" tvg-logo="https://i.ibb.co.com/R4McZS45/IMG-20250430-173818.png" group-title="EVENT 29/NOVEMBER/2025", 21:30 WIB Bayern Munchen vs St. Pauli
 
 #EXTINF:-1 tvg-id="DFB-POKAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRenFRxJl6oZX5RSpMRnV1qsA8FlwMSYZW3RWRiYE7wxA&s=10" group-title="EVENT 4/DESEMBER/2025" , 02:45 WIB Union Berlin vs Bayern Munchen
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-#https://dash2.antik.sk/stream/nvidia_nova_sport1/playlist_cenc.mpd
-https://shorter.me/ek_sI
+
 
 =======================================
 =======================================
