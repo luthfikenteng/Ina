@@ -80,34 +80,8 @@ awalan
 #EXTINF:-1 group-title="EVENT 4/DESEMBER/2025" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png", 02:30 WIB Burnley vs Crystal Palace
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.plcdn.xyz/
-https://play.live8818.com/nami/hd-en-6MuT7Jy1CgPd9Dzytw.m3u8
+#https://play.live8818.com/nami/hd-en-6MuT7Jy1CgPd9Dzytw.m3u8
 
-#EXTINF:-1 group-title="EVENT 4/DESEMBER/2025" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png", 02:30 WIB Brighton & Hove Albion vs Aston Villa
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.plcdn.xyz/
-https://tfrd4gr5domt1gc41hctogezdoptpptwzc3jtf3a8r531cp1gh5djq31o.100ycdn.com/live1.pro2cdnlive.com/live/channel2/playlist.m3u8?wsSecret=a749073b97cb7ffc9955e73baad8c663&wsABSTime=1764831971&wsSession=b31995ad772de9b8848bf904-176478877273148&wsIPSercert=4c59ba5c620195a7c5a8d284f0a8bda2&wsiphost=local&wsBindIP=1
-https://play.live8818.com/nami/sd-6MuT7Jy1CZoBXnXESF.m3u8
-
-
-#EXTINF:-1 group-title="EVENT 4/DESEMBER/2025" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png", 02:30 WIB Arsenal vs Brentford
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.plcdn.xyz/
-https://live.golivenow71.com/6fcbf199bc2ea0a3732dc94eebae2297/1764831271272/rchtwtx/rchtwtx@720p.m3u8
-https://shorter.me/QDiku
-
-
-#EXTINF:-1 group-title="EVENT 4/DESEMBER/2025" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png", 02:30 WIB Wolves vs Nottingham Forest
-https://play.live8818.com/nami/hd-en-6MuT7JxzCMm6gsZaq9.m3u8
-
-#EXTINF:-1 group-title="EVENT 4/DESEMBER/2025" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png", 03:15 WIB Liverpool vs Sunderland
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.plcdn.xyz/
-https://tfrd4gr5domt1gc41hctogezdoptpptwzc3jtf3a8r531cp1gh5djq31o.100ycdn.com/live1.pro2cdnlive.com/live/channel11/playlist.m3u8?wsSecret=efc7eeae04ca0484d76516a45ea13e02&wsABSTime=1764831530&wsSession=b31995ad772de9b8848bf904-176478843703463&wsIPSercert=4c59ba5c620195a7c5a8d284f0a8bda2&wsiphost=local&wsBindIP=1
-
-#EXTINF:-1 group-title="EVENT 4/DESEMBER/2025" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png", 03:15 WIB Leeds United vs Chelsea
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.plcdn.xyz/
-https://tfrd4gr5domt1gc41hctogezdopbpptwzc3jtf3a8r531cp1gh5djq31o.100ycdn.com/live1.pro2cdnlive.com/live/channel19/playlist.m3u8?wsSecret=002abc369001be873e0c0356cbe4d02e&wsABSTime=1764831856&wsSession=d2be40e02af46ff0e2060e38-176478865739389&wsIPSercert=4c59ba5c620195a7c5a8d284f0a8bda2&wsiphost=local&wsBindIP=1
 
 
 =======================================
@@ -121,13 +95,13 @@ https://tfrd4gr5domt1gc41hctogezdopbpptwzc3jtf3a8r531cp1gh5djq31o.100ycdn.com/li
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd|referer=https://www.visionplus.id/
+#https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd|referer=https://www.visionplus.id/
 
 #EXTINF:-1 tvg-id="digisport 1" tvg-logo="https://i.ibb.co.com/1JwYR5NV/LALIGA.png" group-title="EVENT 4/DESEMBER/2025" , 01:00 WIB Athletic Club vs Real Madrid
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
-https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
+#https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
 
 =======================================
 =======================================
@@ -147,7 +121,7 @@ https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5
 
 
 #EXTINF:-1 tvg-id="COPA ITALIA" tvg-logo="https://assets.skor.id/medium_Final_Coppa_Italia_e6d4c54367.jpeg" group-title="EVENT 4/DESEMBER/2025" , 03:00 WIB Inter vs Venezia
-https://shorter.me/vae0p
+#https://shorter.me/vae0p
 
 #http://adp-premium.my.id/event/stream_camel1.php?id=965mkyhk1jp1r1g
 
@@ -169,7 +143,7 @@ https://shorter.me/vae0p
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-https://dash2.antik.sk/stream/nvidia_nova_sport1/playlist_cenc.mpd
+#https://dash2.antik.sk/stream/nvidia_nova_sport1/playlist_cenc.mpd
 https://shorter.me/ek_sI
 
 =======================================
@@ -1901,8 +1875,12 @@ https://v2.siar.us/mic/live/playlist.m3u8
 
 =======================================
 
-#EXTINF:-1 tvg-id="musik.id" tvg-name="musik indonesia" tvg-logo="https://i.ibb.co.com/LDVJDmXF/MIC.png" group-title="MUSIC",Musik Indonesia ID (INDIHOME)
-https://cdn08jtedge.indihometv.com/dassdvr/134/musikindo/manifest.mpd
+#EXTINF:-1 tvg-id="musik.id" tvg-name="musik indonesia" tvg-logo="https://i.ibb.co.com/LDVJDmXF/MIC.png" group-title="MUSIC",Musik Indonesia
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew07.php
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c685730a4243017317dee5df1572/manifest.mpd
+
 
 =======================================
 
