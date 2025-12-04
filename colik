@@ -41,7 +41,14 @@ awalan
 #https://i.ibb.co.com/twxFhvBY/PLE.png
 
 
-#EXTINF:-1 group-title="EVENT 3/DESEMBER/2025" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png" , 02:30 WIB AFC Bournemouth vs Everton
+#EXTINF:-1 group-title="EVENT 5/DESEMBER/2025" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png" , 03:00 WIB Manchester United vs West Ham United
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3dcfbec0e7146928baa55210bf2cb62f:bc85f74f815d9be5ae1dd6defaa05135
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uiffe4jhf0/out/v1/3534efafca8c4815adbb4d2e9a1fe003/cenc.mpd
+
 
 #EXTINF:-1 group-title="EVENT 4/DESEMBER/2025" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png", 02:30 WIB Burnley vs Crystal Palace
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
@@ -82,19 +89,18 @@ awalan
 #KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
 #https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
 
-#EXTINF:-1 tvg-id="COPA ITALIA" tvg-logo="https://assets.skor.id/medium_Final_Coppa_Italia_e6d4c54367.jpeg" group-title="EVENT 3/DESEMBER/2025" , 21:00 WIB Atalanta vs Genoa
-#https://play.live8818.com/nami/hd-en-6MvXrNoGqzmNPJdNH9.m3u8
+#EXTINF:-1 tvg-id="COPA ITALIA" tvg-logo="https://assets.skor.id/medium_Final_Coppa_Italia_e6d4c54367.jpeg" group-title="EVENT 5/DESEMBER/2025" , 00:00 WIB Bologna vs Parma
+https://play.live8818.com/nami/hd-en-6MvXrNoGqzmNPJdNH9.m3u8
 
 
-#EXTINF:-1 tvg-id="COPA ITALIA" tvg-logo="https://assets.skor.id/medium_Final_Coppa_Italia_e6d4c54367.jpeg" group-title="EVENT 4/DESEMBER/2025" , 03:00 WIB Inter vs Venezia
-#https://shorter.me/vae0p
+#EXTINF:-1 tvg-id="COPA ITALIA" tvg-logo="https://assets.skor.id/medium_Final_Coppa_Italia_e6d4c54367.jpeg" group-title="EVENT 4/DESEMBER/2025" , 03:00 WIB Lazio vs Milan
+https://shorter.me/Jt8ac
 
-#http://adp-premium.my.id/event/stream_camel1.php?id=965mkyhk1jp1r1g
+#http://adp-premium.my.id/event/stream_camel1.php?id=3glrw7hnp7zlqdy
 
 #https://www.camel1.live/game/match-napoli-cagliari/video/zp5rzghg0n8pq82
 
-#https://www.camel1.live/game/match-inter-milan-venezia/match/965mkyhk1jp1r1g
-
+#https://www.camel1.live/football/syria-vs-qatar/3glrw7hnp7zlqdy
 
 
 =======================================
@@ -122,8 +128,8 @@ awalan
 
 KOMPETISI TAMBAHAN
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/32/2025_FIFA_Arab_Cup_logo.svg/895px-2025_FIFA_Arab_Cup_logo.svg.png" group-title="EVENT 4/DESEMBER/2025" , 00:00 WIB Jordania vs Uni Emirat Arab
-#https://shorter.me/zYQAW
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/32/2025_FIFA_Arab_Cup_logo.svg/895px-2025_FIFA_Arab_Cup_logo.svg.png" group-title="EVENT 5/DESEMBER/2025" , 00:00 WIB Syria vs Qatar
+https://shorter.me/-5Dx_
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/32/2025_FIFA_Arab_Cup_logo.svg/895px-2025_FIFA_Arab_Cup_logo.svg.png" group-title="EVENT 23/NOVEMBER/2025" , 02:45 WIB Arsenal vs Brighton & Hove Albion
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
