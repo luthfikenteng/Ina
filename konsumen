@@ -8,14 +8,6 @@ awalan
 =======================================
 #https://i.ibb.co.com/zhStskpR/IMG-20250825-165607.png
 
-#EXTINF:-1 group-title="EVENT 1/NOVEMBER/2025" tvg-logo="https://i.ibb.co.com/zhStskpR/IMG-20250825-165607.png", LIVOLI
-#https://iptv.lancartech.co.id:443/Farhan@90/18062025/23.ts
-
-#EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.i" group-title="EVENT 15/NOVEMBER/2025", MOJI DIGITAL
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#http://103.170.33.11:9981/stream/channelid/1896622786?profile=pass
-#http://aromatv.co:80/live/Enjy3637/4JFEBAs359/444150.ts
-
 =======================================
 ==============BADMINTON==============
 =======================================
@@ -25,36 +17,10 @@ awalan
 #EXTVLCOPT:http-origin=https://demo.zplayer.xyz
 #EXTVLCOPT:http-referrer=https://demo.zplayer.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-#https://hotlivezz179026907.akainu.xyz/Lxpb30konzwqAqq6B9WbXg/Fv2lucGIbhPi2caWYvF5Lg/1762274796803/live/may24/chunklist.m3u8
-#https://hotlivezz179026907.akainu.xyz/0y4swFB-w-aqidEQHgGdpA/Fv2lucGIbhPi2caWYvF5Lg/1763958838383/live/may26/chunklist.m3u8
-#https://hotlivezz179026907.akainu.xyz/_vL6TZlh4uqQqQPS_rrakA/Fv2lucGIbhPi2caWYvF5Lg/1758036936957/live/may241/chunklist.m3u8
-#https://hotlivezz179026907.akainu.xyz/tLxvqH7mzo4JY93kOqqAcQ/Fv2lucGIbhPi2caWYvF5Lg/1763959084831/live/may261/chunklist.m3u8
+
 =======================================
 ==============LIVE SPORTS==============
 =======================================
-
-
-
-#EXTINF:-1 group-title="EVENT 24/NOVEMBER/2025" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/70/Logo_Piala_Dunia_U-17_2025.svg/250px-Logo_Piala_Dunia_U-17_2025.svg.png", 20:30 WIB Austria vs Italia
-
-#EXTINF:-1 group-title="EVENT 24/NOVEMBER/2025" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/70/Logo_Piala_Dunia_U-17_2025.svg/250px-Logo_Piala_Dunia_U-17_2025.svg.png", 23:00 WIB Portugal vs Brazil
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=eaea45512d137def15b209a089cafd14:8d42db746ed0c4df61729b0d68d42bd7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/rkhugudynd/out/v1/f7763e695c3b469594ed89fa163ebf0c/cenc-sd.mpd
-
-#EXTINF:-1 group-title="EVENT 26/NOVEMBER/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeaOdE58HLNYbAiocoo7LrB3ihumQiLwZqyH1xYhnPABDa9BVuhbBiYDCj&s=10", 19:15 WIB Bangkok United vs Selangor
-
-#EXTINF:-1 group-title="EVENT 26/NOVEMBER/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeaOdE58HLNYbAiocoo7LrB3ihumQiLwZqyH1xYhnPABDa9BVuhbBiYDCj&s=10", 20:45 WIB Istiqlol vs Al Nassr
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=39c4dc6704cf4ceea2fd4863b88d8a7d:4e9d7954c2ff46759289da4fc9f018ea
-#EXTVLCOPT:http-referrer=https://visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
-
-
-
-#EXTINF:-1 group-title="EVENT 26/NOVEMBER/2025" tvg-logo="https://g-sports.id/wp-content/uploads/2025/03/AFC-Champions-League-Elite-ACL-Elite-grafis-Menk-Karmawan-G-Sports.id_.jpg", 19:15 WIB Shanghai Shenhua vs Vissel Kobe
 
 
 =======================================
@@ -284,11 +250,6 @@ https://cdn10jtedge.indihometv.com/atm/DASH/indosiar/indosiar-avc1_2500000=7-327
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co.com/hFhj9FL9/MOJI.png" group-title="NASIONAL", MOJI DIGITAL
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-http://103.170.33.11:9981/stream/channelid/1896622786?profile=pass
-http://103.46.10.145:9981/stream/channelid/1687232794?ticket=263AE984B301239602755A78F23AB29A0E3F41BE&profile=pass
 
 =======================================
 
@@ -3255,25 +3216,6 @@ https://d1cctoeg0n48w5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 
 =======================================
 
-#EXTINF:-1 cuid="793" tvg-name="TUDN" tvg-id="Canal.TUDN.(México).sv" tvg-logo="https://logo.m3uassets.com/tudn.png" group-title="SPORTS",TUDN
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2722647f77b44824c432a3c4555830a2:1734befb82f4b438bd84195f6c212e7b
-https://live-atv-cdn.izzigo.tv/1/out/u/dash/TUDN-HD/default.mpd
-
-=======================================
-
-#EXTINF:-1 cuid="793" tvg-name="TUDN" tvg-id="TUDN.us" tvg-logo="https://logo.m3uassets.com/tudn.png" group-title="SPORTS",TUDN IP
-http://212.102.60.231/TUDN/tracks-v1a1/mono.m3u8
-
-=======================================
-
-#EXTINF:-1 cuid="819" tvg-name="PX.Sports" tvg-id="Canal.PX.Sports.mx" tvg-logo="https://logo.m3uassets.com/pxsports.png" group-title="SPORTS", PX SPORTS
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8c53466401bf1c02903470cf41d01b6e:90898b3079182c414ecc104ff53dc9b7
-https://live-atv-cdn.izzigo.tv/4/out/u/dash/PX-SPORTS-HD/default.mpd
-
-=======================================
-
 #EXTINF:-1 group-title="SPORTS" tvg-id="SSC 1" tvg-logo="https://i.ibb.co.com/3YP3Dqhf/SSC1.png",SSC 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.62
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -3890,9 +3832,3 @@ https://spstr.abntv.live/hls/psstream.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
 https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
-
-#EXTINF:-1 tvg-logo="https://i.co.com/wZ40gYMj/IMG-20250430-174409.g" group-title="LIVE EVENT CADANGAN" , TEST
-https://bit.ly/444D4qg
-
-#EXTINF:-1 tvg-logo="https://i.co.com/wZ40gYMj/IMG-20250430-174409.g" group-title="LIVE EVENT CADANGAN" , TEST 2
-https://raw.githubusercontent.com/luthfikenteng/Ina/refs/heads/main/PL/MTATV.m3u8
