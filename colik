@@ -2,6 +2,9 @@
 
 awalan
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/32/2025_FIFA_Arab_Cup_logo.svg/895px-2025_FIFA_Arab_Cup_logo.svg.png" group-title="EVENT 5/DESEMBER/2025" , 00:00 WIB Syria vs Qatar
+https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/master.m3u8 
+https://shorter.me/-5Dx_
 
 =======================================
 =================VOLI==================
@@ -128,8 +131,7 @@ https://shorter.me/Jt8ac
 
 KOMPETISI TAMBAHAN
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/32/2025_FIFA_Arab_Cup_logo.svg/895px-2025_FIFA_Arab_Cup_logo.svg.png" group-title="EVENT 5/DESEMBER/2025" , 00:00 WIB Syria vs Qatar
-https://shorter.me/-5Dx_
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/32/2025_FIFA_Arab_Cup_logo.svg/895px-2025_FIFA_Arab_Cup_logo.svg.png" group-title="EVENT 23/NOVEMBER/2025" , 02:45 WIB Arsenal vs Brighton & Hove Albion
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
