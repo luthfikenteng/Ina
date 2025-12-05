@@ -5,7 +5,7 @@ awalan
 #EXTINF:-1 tvg-id="LIGA BRI" group-title="EVENT 5/DESEMBER/2025" tvg-logo="https://i.ibb.co.com/spvCP0My/IMG-20250919-155828.png", 19:00 WIB Persib vs Borneo
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/32/2025_FIFA_Arab_Cup_logo.svg/895px-2025_FIFA_Arab_Cup_logo.svg.png" group-title="EVENT 5/DESEMBER/2025" , 21:30 WIB Oman vs Maroko
-https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/master.m3u8 
+#https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/master.m3u8 
 #https://shorter.me/-5Dx_
 
 #EXTINF:-1 tvg-id="COPA ITALIA" tvg-logo="https://assets.skor.id/medium_Final_Coppa_Italia_e6d4c54367.jpeg" group-title="EVENT 5/DESEMBER/2025" , 00:00 WIB Bologna vs Parma
@@ -93,13 +93,11 @@ https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/master
 #https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
 
 
-#http://adp-premium.my.id/event/stream_camel1.php?id=dj2ryohlx7x7q1z
+#http://adp-premium.my.id/event/stream_camel1.php?id=vjxm8ghewlp9r6o
 
 #https://www.camel1.live/game/match-napoli-cagliari/video/zp5rzghg0n8pq82
 
-#https://www.camel1.live/football/syria-vs-qatar/3glrw7hnp7zlqdy
-#https://www.camel1.live/football/mashal-muborak-vs-buxoro-fk/live/dj2ryohlx7x7q1z
-
+#https://www.camel1.live/football/oman-vs-morocco/vjxm8ghewlp9r6o
 =======================================
 =======================================
 =============LIGA JERMAN==============
