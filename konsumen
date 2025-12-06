@@ -37,18 +37,28 @@ https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/master
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://galandriel1.thobias.cfd/puk4/usergendx42x9qrnd.m3u8
 
+#EXTINF:-1 tvg-id="LIGA JERMAN" tvg-logo="https://i.ibb.co.com/R4McZS45/IMG-20250430-173818.png" group-title="EVENT 6/DESEMBER/2025", 21:30 WIB Stuttgart vs Bayern Munchen
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
+
 
 #EXTINF:-1 tvg-id="LIGA INGGRIS" group-title="EVENT 6/DESEMBER/2025" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png" , 22:00 WIB Manchester City vs Sunderland
-
+https://shorter.me/-5Dx_
 
 #EXTINF:-1 tvg-id="LIGA INGGRIS" group-title="EVENT 6/DESEMBER/2025" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png" , 22:00 WIB AFC Bournemouth vs Chelsea
+https://shorter.me/-5Dx_
 
 #EXTINF:-1 tvg-id="LIGA INGGRIS" group-title="EVENT 6/DESEMBER/2025" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png" , 22:00 WIB Everton vs Nottingham Forest
+https://shorter.me/-5Dx_
 
 #EXTINF:-1 tvg-id="LIGA INGGRIS" group-title="EVENT 6/DESEMBER/2025" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png" , 22:00 WIB Tottenham Hotspur vs Brentford
-
+https://shorter.me/-5Dx_
 
 #EXTINF:-1 tvg-id="LIGA INGGRIS" group-title="EVENT 6/DESEMBER/2025" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png" , 22:00 WIB Newcastle United vs Burnley
+https://shorter.me/-5Dx_
 
 #EXTINF:-1 tvg-id="LIGA SPANYOL" tvg-logo="https://i.ibb.co.com/1JwYR5NV/LALIGA.png" group-title="EVENT 6/DESEMBER/2025", 22:15 WIB Deportivo Alaves vs Real Sociedad
 #EXTVLCOPT:http-referrer=https://arwen1.panaka1.cfd/000/
@@ -145,7 +155,7 @@ https://arwen1.panaka1.cfd/puk2/usergenrnd0clv03fyt.m3u8
 =======================================
 #https://i.ibb.co.com/R4McZS45/IMG-20250430-173818.png
 
-#EXTINF:-1 tvg-id="digisport 1" tvg-logo="https://i.ibb.co.com/R4McZS45/IMG-20250430-173818.png" group-title="EVENT 29/NOVEMBER/2025", 21:30 WIB Bayern Munchen vs St. Pauli
+
 
 #EXTINF:-1 tvg-id="DFB-POKAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRenFRxJl6oZX5RSpMRnV1qsA8FlwMSYZW3RWRiYE7wxA&s=10" group-title="EVENT 4/DESEMBER/2025" , 02:45 WIB Union Berlin vs Bayern Munchen
 
