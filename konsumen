@@ -32,6 +32,12 @@ https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/master
 #https://shorter.me/-5Dx_
 
 
+#EXTINF:-1 tvg-id="LIGA ITALI" tvg-logo="https://i.ibb.co.com/wZ40gYMj/IMG-20250430-174409.png" group-title="EVENT 6/DESEMBER/2025" , 21:00 WIB Sassuolo vs Fiorentina
+#EXTVLCOPT:http-referrer=https://galandriel1.thobias.cfd/000/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+https://galandriel1.thobias.cfd/puk4/usergendx42x9qrnd.m3u8
+
+
 #EXTINF:-1 tvg-id="LIGA INGGRIS" group-title="EVENT 6/DESEMBER/2025" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png" , 22:00 WIB Manchester City vs Sunderland
 
 
