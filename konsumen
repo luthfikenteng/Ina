@@ -45,6 +45,15 @@ https://galandriel1.thobias.cfd/puk4/usergendx42x9qrnd.m3u8
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
 
 
+#EXTINF:-1 tvg-id="LIGA JERMAN" tvg-logo="https://i.ibb.co.com/R4McZS45/IMG-20250430-173818.png" group-title="EVENT 6/DESEMBER/2025", 21:30 WIB Augsburg vs Bayer Leverkusen
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b576e5f5f1bc4cbaa866e5b0face5a30:3377be6c3b5f688ebed687312c9b9d95
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd|referrer=https://visionplus.id/
+
+
 #EXTINF:-1 tvg-id="LIGA INGGRIS" group-title="EVENT 6/DESEMBER/2025" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png" , 22:00 WIB Manchester City vs Sunderland
 https://shorter.me/-5Dx_
 
