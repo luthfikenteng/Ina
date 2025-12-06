@@ -8,6 +8,12 @@ https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/master
 
 
 #EXTINF:-1 tvg-id="LIGA BRI" group-title="EVENT 6/DESEMBER/2025" tvg-logo="https://i.ibb.co.com/spvCP0My/IMG-20250919-155828.png", 19:00 WIB PSM vs Persebaya
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+https://d.jusamof.shop/hls/ZPPP.m3u8
+https://t9nt3-cf.ki5nyb7vt.sbs/auth%3D66599c0a95722b8a7592c42b01b2db201caab6adb05378a482b6558bb7b253f5eed90b2e44cbbc3d4fa034e142c835565fbdb5eb9f481807e7903a9aa6098bd9abc02d1b989142fda79bc51caad6e47539a9824b514b9e83fb6fb06e0262f70c6d18cfe024c185cacdf9899dd107f8fa75990dc6a12305e24682fc502a4a4faa96003e64095acfbef4b93dac9f9c91418673fc13d6feebb523fc27b91cff5331f3b378995d29a97d65c84a6769879674dc403ccea71369cc70e6f0b8f901f42c559590f30b1273a3c7ae6380922d9a99b61ffb1ffdb56be46a93a4bc0045ac70189f7c4cd5b97a7b62bf367d4f84ae33ef41760e91bd232963346a44baf1b3c0c449b9413f525b932b014da4e64144894e1b88b7595ac6116a9340508681ff91%26cid%3D3xjz6IXedgzzZbyXhgf3G251206%26_v%3D2%26_r%3D1Gz9lH%26_vis%3D198fc9d6cfe4e7258118f70e849f2c46c63cdcb12dd05fe6c62d7743ef3d67d2%26_vvs%3D137ce678d6e21533158645a142d7f83090802beed5ddfda741e6ee6d7d44bbda/app/c389715.m3u8
+
+#EXTINF:-1 tvg-id="LIGA BRI" group-title="EVENT 6/DESEMBER/2025" tvg-logo="https://i.ibb.co.com/spvCP0My/IMG-20250919-155828.png", 19:00 WIB PSM vs Persebaya
 https://shorter.me/io1fL
 
 
@@ -20,6 +26,10 @@ https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/dash/enc/bsaaetko8v/
 #EXTVLCOPT:http-referrer=https://arwen1.panaka1.cfd/000/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://arwen1.panaka1.cfd/puk2/usergenrnd0clv03fyt.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/32/2025_FIFA_Arab_Cup_logo.svg/895px-2025_FIFA_Arab_Cup_logo.svg.png" group-title="EVENT 6/DESEMBER/2025" , 20:30 WIB Bahrain vs Aljazair
+https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/master.m3u8 
+#https://shorter.me/-5Dx_
 
 
 #EXTINF:-1 tvg-id="LIGA INGGRIS" group-title="EVENT 6/DESEMBER/2025" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png" , 22:00 WIB Manchester City vs Sunderland
