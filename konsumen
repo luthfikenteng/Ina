@@ -3,46 +3,34 @@
 awalan
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/32/2025_FIFA_Arab_Cup_logo.svg/895px-2025_FIFA_Arab_Cup_logo.svg.png" group-title="EVENT 6/DESEMBER/2025" , 18:00 WIB Kuwait vs Jordania
-https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/master.m3u8 
+#https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/master.m3u8 
 #https://shorter.me/-5Dx_
 
 
 #EXTINF:-1 tvg-id="LIGA BRI" group-title="EVENT 6/DESEMBER/2025" tvg-logo="https://i.ibb.co.com/spvCP0My/IMG-20250919-155828.png", 19:00 WIB PSM vs Persebaya
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://d.jusamof.shop/hls/ZPPP.m3u8
-https://t9nt3-cf.ki5nyb7vt.sbs/auth%3D66599c0a95722b8a7592c42b01b2db201caab6adb05378a482b6558bb7b253f5eed90b2e44cbbc3d4fa034e142c835565fbdb5eb9f481807e7903a9aa6098bd9abc02d1b989142fda79bc51caad6e47539a9824b514b9e83fb6fb06e0262f70c6d18cfe024c185cacdf9899dd107f8fa75990dc6a12305e24682fc502a4a4faa96003e64095acfbef4b93dac9f9c91418673fc13d6feebb523fc27b91cff5331f3b378995d29a97d65c84a6769879674dc403ccea71369cc70e6f0b8f901f42c559590f30b1273a3c7ae6380922d9a99b61ffb1ffdb56be46a93a4bc0045ac70189f7c4cd5b97a7b62bf367d4f84ae33ef41760e91bd232963346a44baf1b3c0c449b9413f525b932b014da4e64144894e1b88b7595ac6116a9340508681ff91%26cid%3D3xjz6IXedgzzZbyXhgf3G251206%26_v%3D2%26_r%3D1Gz9lH%26_vis%3D198fc9d6cfe4e7258118f70e849f2c46c63cdcb12dd05fe6c62d7743ef3d67d2%26_vvs%3D137ce678d6e21533158645a142d7f83090802beed5ddfda741e6ee6d7d44bbda/app/c389715.m3u8
-
-#EXTINF:-1 tvg-id="LIGA BRI" group-title="EVENT 6/DESEMBER/2025" tvg-logo="https://i.ibb.co.com/spvCP0My/IMG-20250919-155828.png", 19:00 WIB PSM vs Persebaya
-https://shorter.me/io1fL
 
 
 #EXTINF:-1 tvg-id="LIGA INGGRIS" group-title="EVENT 6/DESEMBER/2025" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png" , 19:30 WIB Aston Villa vs Arsenal
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=d0f2e5c39e70c18f29bf77768a1ad89a:d6853c51fcf37a18905f0609972395d7
-https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/dash/enc/bsaaetko8v/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
 
 #EXTINF:-1 tvg-id="LIGA SPANYOL" tvg-logo="https://i.ibb.co.com/1JwYR5NV/LALIGA.png" group-title="EVENT 6/DESEMBER/2025", 20:00 WIB Villareal vs Getafe
 #EXTVLCOPT:http-referrer=https://arwen1.panaka1.cfd/000/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://arwen1.panaka1.cfd/puk2/usergenrnd0clv03fyt.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/32/2025_FIFA_Arab_Cup_logo.svg/895px-2025_FIFA_Arab_Cup_logo.svg.png" group-title="EVENT 6/DESEMBER/2025" , 20:30 WIB Bahrain vs Aljazair
-https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/master.m3u8 
-#https://shorter.me/-5Dx_
+#https://arwen1.panaka1.cfd/puk2/usergenrnd0clv03fyt.m3u8
 
 
 #EXTINF:-1 tvg-id="LIGA ITALI" tvg-logo="https://i.ibb.co.com/wZ40gYMj/IMG-20250430-174409.png" group-title="EVENT 6/DESEMBER/2025" , 21:00 WIB Sassuolo vs Fiorentina
 #EXTVLCOPT:http-referrer=https://galandriel1.thobias.cfd/000/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://galandriel1.thobias.cfd/puk4/usergendx42x9qrnd.m3u8
+#https://galandriel1.thobias.cfd/puk4/usergendx42x9qrnd.m3u8
 
 #EXTINF:-1 tvg-id="LIGA JERMAN" tvg-logo="https://i.ibb.co.com/R4McZS45/IMG-20250430-173818.png" group-title="EVENT 6/DESEMBER/2025", 21:30 WIB Stuttgart vs Bayern Munchen
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
 #EXTVLCOPT:http-referrer=https://visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
+#https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
 
 
 #EXTINF:-1 tvg-id="LIGA JERMAN" tvg-logo="https://i.ibb.co.com/R4McZS45/IMG-20250430-173818.png" group-title="EVENT 6/DESEMBER/2025", 21:30 WIB Augsburg vs Bayer Leverkusen
@@ -51,76 +39,33 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/in
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b576e5f5f1bc4cbaa866e5b0face5a30:3377be6c3b5f688ebed687312c9b9d95
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd|referrer=https://visionplus.id/
+#https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd|referrer=https://visionplus.id/
 
 
 #EXTINF:-1 tvg-id="LIGA INGGRIS" group-title="EVENT 6/DESEMBER/2025" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png" , 22:00 WIB Manchester City vs Sunderland
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
-https://shorter.me/lxBun
+
 
 #EXTINF:-1 tvg-id="LIGA INGGRIS" group-title="EVENT 6/DESEMBER/2025" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png" , 22:00 WIB AFC Bournemouth vs Chelsea
-https://shorter.me/dLDGw
 
 #EXTINF:-1 tvg-id="LIGA INGGRIS" group-title="EVENT 6/DESEMBER/2025" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png" , 22:00 WIB Everton vs Nottingham Forest
-https://shorter.me/Y2RhN
 
 #EXTINF:-1 tvg-id="LIGA INGGRIS" group-title="EVENT 6/DESEMBER/2025" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png" , 22:00 WIB Tottenham Hotspur vs Brentford
-https://shorter.me/eWwCF
 
 #EXTINF:-1 tvg-id="LIGA INGGRIS" group-title="EVENT 6/DESEMBER/2025" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png" , 22:00 WIB Newcastle United vs Burnley
-https://shorter.me/uZCvg
 
 #EXTINF:-1 tvg-id="LIGA SPANYOL" tvg-logo="https://i.ibb.co.com/1JwYR5NV/LALIGA.png" group-title="EVENT 6/DESEMBER/2025", 22:15 WIB Deportivo Alaves vs Real Sociedad
-#EXTVLCOPT:http-referrer=https://arwen1.panaka1.cfd/000/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://arwen1.panaka1.cfd/puk2/usergenrnd0clv03fyt.m3u8
 
 
 #EXTINF:-1 tvg-id="COPA ITALIA" tvg-logo="https://assets.skor.id/medium_Final_Coppa_Italia_e6d4c54367.jpeg" group-title="EVENT 5/DESEMBER/2025" , 00:00 WIB Bologna vs Parma
-#https://shorter.me/XsTrn
+
 
 #EXTINF:-1 tvg-id="COPA ITALIA" tvg-logo="https://assets.skor.id/medium_Final_Coppa_Italia_e6d4c54367.jpeg" group-title="EVENT 5/DESEMBER/2025" , 03:00 WIB Lazio vs Milan
-#https://shorter.me/Jt8ac
+
 
 =======================================
 
 
 #EXTINF:-1 tvg-id="LIGA ITALI" tvg-logo="https://i.ibb.co.com/wZ40gYMj/IMG-20250430-174409.png" group-title="EVENT 7/DESEMBER/2025" , 00:00 WIB Inter vs Como
-#EXTVLCOPT:http-referrer=https://iron1.jarvisx1.cfd/000/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://iron1.jarvisx1.cfd/puk3/usergenrx4t0l8sybkr.m3u8
-
-#EXTINF:-1 tvg-id="LIGA ITALI" tvg-logo="https://i.ibb.co.com/wZ40gYMj/IMG-20250430-174409.png" group-title="EVENT 7/DESEMBER/2025" , 00:00 WIB Inter vs Como
-https://shorter.me/TQb6u
-
-#EXTINF:-1 tvg-id="LIGA INGGRIS" group-title="EVENT 7/DESEMBER/2025" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png" , 00:30 WIB Leeds United vs Liverpool
-https://shorter.me/aqWL7
-
-
-#EXTINF:-1 tvg-id="LIGA SPANYOL" tvg-logo="https://i.ibb.co.com/1JwYR5NV/LALIGA.png" group-title="EVENT 7/DESEMBER/2025", 00:30 WIB Real Betis vs Barcelona
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3d756d566ca94e6499518ffb1474d5d0:dbe4ad6803e74739b8f954d23cc58e7b
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd|referer=https://www.visionplus.id/
-
-#EXTINF:-1 tvg-id="LIGA SPANYOL" tvg-logo="https://i.ibb.co.com/1JwYR5NV/LALIGA.png" group-title="EVENT 7/DESEMBER/2025", 00:30 WIB Real Betis vs Barcelona
-https://shorter.me/0v3Nz
-
-#EXTINF:-1 tvg-id="LIGA ITALI" tvg-logo="https://i.ibb.co.com/wZ40gYMj/IMG-20250430-174409.png" group-title="EVENT 7/DESEMBER/2025" , 02:45 WIB Hellas Verona vs Atalanta
-#EXTVLCOPT:http-referrer=https://iron1.jarvisx1.cfd/000/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://iron1.jarvisx1.cfd/puk3/usergenrx4t0l8sybkr.m3u8
-
-#EXTINF:-1 tvg-id="LIGA SPANYOL" tvg-logo="https://i.ibb.co.com/1JwYR5NV/LALIGA.png" group-title="EVENT 7/DESEMBER/2025", 03:00 WIB Athletic Club vs Atletico Madrid
-#EXTVLCOPT:http-referrer=https://arwen1.panaka1.cfd/000/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://arwen1.panaka1.cfd/puk2/usergenrnd0clv03fyt.m3u8
 
 =======================================
 =================VOLI==================
