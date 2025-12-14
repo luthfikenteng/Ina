@@ -5,6 +5,13 @@ awalan
 #EXTINF:0 tvg-logo="https://assets.promediateknologi.id/crop/0x0:0x0/0x0/webp/photo/p3/57/2024/08/16/acl-2-logo-3991472108.jpg" group-title="EVENT 10/DESEMBER/2025",19:15 WIB Persib vs Bangkok United
 
 
+#EXTINF:-1 tvg-id="digisport 1" tvg-logo="https://i.ibb.co.com/wZ40gYMj/IMG-20250430-174409.png" group-title="EVENT 14/DESEMBER/2025" , 18:30 WIB Milan vs Sassuolo
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
+https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
+
 =======================================
 =================VOLI==================
 =======================================
@@ -2540,11 +2547,12 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/in
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#EXTINF:-1 tvg-id="" group-title="SPORTS INDO"  tvg-logo="https://i.ibb.co.com/Qv9Fw7qD/SS3.png", Sportstars 3 hd A
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="" group-title="SPORTS INDO"  tvg-logo="https://i.ibb.co.com/Qv9Fw7qD/SS3.png", Sportstars 3 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_key=https://kingtvpremium.my.id/play/pision/drm.php?id=114
-#https://terabit.web.id/media.mpd?id=114&type=dash|referrer=https://visionplus.id/
+#KODIPROP:inputstream.adaptive.license_key=ac900f4053fa420095fb84f491f7a331:59748725964ff275e524af73792c8ad4
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/9a06560796f441a3981cd5a27c7d917f/index.mpd
+
 
 
 #EXTINF:-1 tvg-id="" group-title="SPORTS INDO"  tvg-logo="https://i.ibb.co.com/Qv9Fw7qD/SS3.png", Sportstars 3 hd
