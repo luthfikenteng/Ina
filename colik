@@ -2,35 +2,6 @@
 
 awalan
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9d/Copa_del_Rey_2021_alt.svg/revision/latest?cb=20220306182434" group-title="EVENT 17/DESEMBER/2025" , 01:00 WIB Deportivo La Coruna vs Mallorca
-#EXTVLCOPT:http-origin=https://demo.zplayer.xyz
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-https://a.egrehel.shop/hls/DPPPQ.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9d/Copa_del_Rey_2021_alt.svg/revision/latest?cb=20220306182434" group-title="EVENT 17/DESEMBER/2025" , 01:00 WIB Eibar vs Elche
-#EXTVLCOPT:http-origin=https://demo.zplayer.xyz
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-https://a.egkk.shop/hls/DPPPQQ.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9d/Copa_del_Rey_2021_alt.svg/revision/latest?cb=20220306182434" group-title="EVENT 17/DESEMBER/2025" , 03:00 WIB CD Eldense vs Real Sociedad
-#EXTVLCOPT:http-origin=https://demo.zplayer.xyz
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-https://a.egkk.shop/hls/DPPPQQ.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9d/Copa_del_Rey_2021_alt.svg/revision/latest?cb=20220306182434" group-title="EVENT 17/DESEMBER/2025" , 03:00 WIB Guadalajara vs Barcelona
-https://shorter.me/aSYGn
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9d/Copa_del_Rey_2021_alt.svg/revision/latest?cb=20220306182434" group-title="EVENT 17/DESEMBER/2025" , 03:00 WIB Sporting Gijon vs Valencia
-https://shorter.me/8gsKi
-
-#EXTINF:-1 tvg-logo="https://cdn1-production-images-kly.akamaized.net/g8RZAonrYD4aJg3qyv5XVKwfe1w=/800x450/smart/filters:quality(75):strip_icc()/kly-media-production/medias/4929849/original/003217400_1724809169-logo-efl-carabao-cup.jpg" group-title="EVENT 17/DESEMBER/2025" , 03:00 WIB Cardiff vs Chelsea
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6
-https://tglmp04.akamaized.net/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd
 
 =======================================
 =================VOLI==================
