@@ -2,18 +2,7 @@
 
 awalan
 
-#EXTINF:-1 tvg-id="digisport 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnDQ1doXLigtDJLDFmttGfyIwBLE6cu6MFqDTvfECPDw&s=10" group-title="EVENT 19/DESEMBER/2025", 17:30 WIB Volleyball Thailand vs Indonesia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2f3056cac18d4e31a59de39767042b03:83728946b898141ae411572f9f5fce0d
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/pl_sdi2/default/index.mpd
-
-#EXTINF:-1 tvg-id="digisport 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnDQ1doXLigtDJLDFmttGfyIwBLE6cu6MFqDTvfECPDw&s=10" group-title="EVENT 19/DESEMBER/2025", 18:30 WIB Futsal Thailand vs Indonesia
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_key=ac900f4053fa420095fb84f491f7a331:59748725964ff275e524af73792c8ad4
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/9a06560796f441a3981cd5a27c7d917f/index.mpd
-
+#EXTINF:-1 tvg-id="digisport 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnDQ1doXLigtDJLDFmttGfyIwBLE6cu6MFqDTvfECPDw&s=10" group-title="EVENT 19/DESEMBER/2025", 17:30 WIB Volleyball 
 
 =======================================
 =================VOLI==================
