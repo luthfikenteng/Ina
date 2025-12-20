@@ -25,6 +25,62 @@ https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/dash/enc/bsaaetko8v/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://arwen1.panaka1.cfd/puk2/usergenrnd0clv03fyt.m3u8
 
+#EXTINF:-1 group-title="EVENT 20/DESEMBER/2025" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png", 22:00 WIB AFC Bournemouth vs Burnley
+https://shorter.me/mROE6
+
+#EXTINF:-1 group-title="EVENT 20/DESEMBER/2025" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png", 22:00 WIB Wolves vs Brentford
+https://shorter.me/WZJKQ
+
+#EXTINF:-1 group-title="EVENT 20/DESEMBER/2025" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png", 22:00 WIB Brighton & Hove Albion vs Sunderland
+https://shorter.me/5LrNV
+
+#EXTINF:-1 group-title="EVENT 20/DESEMBER/2025" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png", 22:00 WIB Brighton & Manchester City vs West Ham United
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.plcdn.xyz/
+https://live.golivenow71.com/c6d0fcc3666ee1b830a598b6b154790a/1766261857091/rchtwtx/index.m3u8
+
+#EXTINF:-1 tvg-id="digisport 1" tvg-logo="https://i.ibb.co.com/1JwYR5NV/LALIGA.png" group-title="EVENT 20/DESEMBER/2025", 22:15 WIB Levante vs Real Sociedad
+#EXTVLCOPT:http-referrer=https://arwen1.panaka1.cfd/000/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+https://arwen1.panaka1.cfd/puk2/usergenrnd0clv03fyt.m3u8
+
+
+
+#EXTINF:-1 tvg-id="digisport 1" tvg-logo="https://i.ibb.co.com/wZ40gYMj/IMG-20250430-174409.png" group-title="EVENT 21/DESEMBER/2025" , 00:00 WIB Lazio vs Cremonese
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
+https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
+
+#EXTINF:-1 group-title="EVENT 21/DESEMBER/2025" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png", 00:30 WIB Tottenham Hotspur vs Liverpool
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.plcdn.xyz/
+https://live.golivenow71.com/b8f4073fd5f6dd5c80aac13f56b95973/1766262108230/rchtwtx/index.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36&referrer=https://xlz.plcdn.xyz/
+
+#EXTINF:-1 tvg-id="digisport 1" tvg-logo="https://i.ibb.co.com/1JwYR5NV/LALIGA.png" group-title="EVENT 21/DESEMBER/2025", 00:30 WIB Osasusa vs Deportivo Alaves
+#EXTVLCOPT:http-referrer=https://arwen1.panaka1.cfd/000/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+https://arwen1.panaka1.cfd/puk2/usergenrnd0clv03fyt.m3u8
+
+#EXTINF:-1 tvg-id="digisport 1" tvg-logo="https://i.ibb.co.com/wZ40gYMj/IMG-20250430-174409.png" group-title="EVENT 21/DESEMBER/2025" , 02:45 WIB Juventus vs Roma
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
+https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
+
+#EXTINF:-1 group-title="EVENT 21/DESEMBER/2025" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png", 03:00 WIB Leeds United vs Crystal Palace
+https://shorter.me/mROE6
+
+#EXTINF:-1 tvg-id="digisport 1" tvg-logo="https://i.ibb.co.com/1JwYR5NV/LALIGA.png" group-title="EVENT 21/DESEMBER/2025", 03:00 WIB Real Madrid vs Sevilla
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
+https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
+
+
 =======================================
 =================VOLI==================
 =======================================
