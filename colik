@@ -26,22 +26,26 @@ https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/dash/enc/bsaaetko8v/
 https://arwen1.panaka1.cfd/puk2/usergenrnd0clv03fyt.m3u8
 
 #EXTINF:-1 group-title="EVENT 20/DESEMBER/2025" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png", 22:00 WIB AFC Bournemouth vs Burnley
-https://shorter.me/mROE6
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+http://205.237.105.202/hls/UJJJ.m3u8
+
+#EXTINF:-1 group-title="EVENT 20/DESEMBER/2025" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png", 22:00 WIB AFC Bournemouth vs Burnley
+https://shorter.me/j02or
 
 #EXTINF:-1 group-title="EVENT 20/DESEMBER/2025" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png", 22:00 WIB Wolves vs Brentford
-https://shorter.me/WZJKQ
+https://shorter.me/K9JsG
 
 #EXTINF:-1 group-title="EVENT 20/DESEMBER/2025" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png", 22:00 WIB Brighton & Hove Albion vs Sunderland
-https://shorter.me/5LrNV
+https://shorter.me/Wm4x8
 
 #EXTINF:-1 group-title="EVENT 20/DESEMBER/2025" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png", 22:00 WIB Brighton & Manchester City vs West Ham United
 http://adp-premium.my.id/event/stream_camel1.php?id=2y8m4zh5j8e3ql0
 
 #EXTINF:-1 group-title="EVENT 20/DESEMBER/2025" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png", 22:00 WIB Brighton & Manchester City vs West Ham United
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.plcdn.xyz/
-https://live.golivenow71.com/c6d0fcc3666ee1b830a598b6b154790a/1766261857091/rchtwtx/index.m3u8
-
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+http://205.237.105.202/hls/UJJJQQ.m3u8
 
 
 #EXTINF:-1 tvg-id="digisport 1" tvg-logo="https://i.ibb.co.com/1JwYR5NV/LALIGA.png" group-title="EVENT 20/DESEMBER/2025", 22:15 WIB Levante vs Real Sociedad
