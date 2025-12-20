@@ -2,8 +2,6 @@
 
 awalan
 
-#EXTINF:-1 tvg-id="digisport 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnDQ1doXLigtDJLDFmttGfyIwBLE6cu6MFqDTvfECPDw&s=10" group-title="EVENT 19/DESEMBER/2025", 17:30 WIB Volleyball 
-
 EXTINF:-1 tvg-id="digisport 1" tvg-logo="https://i.ibb.co.com/spvCP0My/IMG-20250919-155828.png" group-title="EVENT 20/DESEMBER/2025", 19:00 WIB Persebaya vs Borneo
 https://shorter.me/6Q-BM
 
@@ -12,6 +10,9 @@ EXTINF:-1 tvg-id="digisport 1" tvg-logo="https://i.ibb.co.com/spvCP0My/IMG-20250
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
 https://c.beyye.shop/hls/ruuu.m3u8
+
+EXTINF:-1 tvg-id="digisport 1" tvg-logo="https://i.ibb.co.com/spvCP0My/IMG-20250919-155828.png" group-title="EVENT 20/DESEMBER/2025", 19:00 WIB Persebaya vs Borneo
+https://shorter.me/Of9Mf
 
 =======================================
 =================VOLI==================
