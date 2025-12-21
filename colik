@@ -49,6 +49,11 @@ https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/
 #KODIPROP:inputstream.adaptive.license_key=dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
 
+#EXTINF:-1 group-title="EVENT 21/DESEMBER/2025" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png", 23:30 WIB Aston Villa vs Manchester United
+https://shorter.me/mNSTc
+
+
+
 #EXTINF:-1 group-title="EVENT 21/DESEMBER/2025" tvg-logo="https://i.ibb.co.com/R4McZS45/IMG-20250430-173818.png", 23:30 WIB Heidenheim vs Bayern Munchen
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -156,12 +161,11 @@ https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/
 #https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
 
 
-#http://adp-premium.my.id/event/stream_camel1.php?id=965mkyhked4dr1g
+#http://adp-premium.my.id/event/stream_camel1.php?id=4wyrn4h6e4w3q86
 
 #https://www.camel1.live/game/match-napoli-cagliari/video/zp5rzghg0n8pq82
 
-#https://www.camel1.live/football/persib-bandung-vs-bhayangkara-presisi-indonesia-fc/965mkyhked4dr1g
-
+#https://www.camel1.live/football/aston-villa-vs-manchester-united/live/4wyrn4h6e4w3q86
 =======================================
 =======================================
 =============LIGA JERMAN==============
