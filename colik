@@ -10,16 +10,16 @@ awalan
 #https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
 
 
-#EXTINF:-1 tvg-id="digisport 1" tvg-logo="https://i.ibb.co.com/spvCP0My/IMG-20250919-155828.png" group-title="EVENT 22/DESEMBER/2025", 15:30 WIB Biak Numfor vs Bali United
+#EXTINF:-1 tvg-id="digisport 1" tvg-logo="https://i.ibb.co.com/spvCP0My/IMG-20250919-155828.png" group-title="EVENT 22/DESEMBER/2025", 19:00 WIB Semen Padang vs Persija
 http://filex.tv:8080//live/shafiq02/1234/302264.ts
 
-#EXTINF:-1 tvg-id="digisport 1" tvg-logo="https://i.ibb.co.com/spvCP0My/IMG-20250919-155828.png" group-title="EVENT 22/DESEMBER/2025", 15:30 WIB Biak Numfor vs Bali United
-http://adp-premium.my.id/event/stream_camel1.php?id=4wyrn4h64pezq86
+#EXTINF:-1 tvg-id="digisport 1" tvg-logo="https://i.ibb.co.com/spvCP0My/IMG-20250919-155828.png" group-title="EVENT 22/DESEMBER/2025", 19:00 WIB Semen Padang vs Persija
+https://shorter.me/nDk8p
 
-#EXTINF:-1 tvg-id="digisport 1" tvg-logo="https://i.ibb.co.com/spvCP0My/IMG-20250919-155828.png" group-title="EVENT 22/DESEMBER/2025", 15:30 WIB Biak Numfor vs Bali United
+#EXTINF:-1 tvg-id="digisport 1" tvg-logo="https://i.ibb.co.com/spvCP0My/IMG-20250919-155828.png" group-title="EVENT 22/DESEMBER/2025", 19:00 WIB Semen Padang vs Persija
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.plcdn.xyz/
-https://live.golivenow71.com/55c580d2cba3d28534abd1a034fcaf58/1766426959779/gmpmb95/index.m3u8
+https://shorter.me/P5XII
 
 
 =======================================
