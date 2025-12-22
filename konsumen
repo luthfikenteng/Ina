@@ -10,10 +10,11 @@ awalan
 #https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
 
 
-#EXTINF:-1 tvg-id="digisport 1" tvg-logo="https://i.ibb.co.com/spvCP0My/IMG-20250919-155828.png" group-title="EVENT 21/DESEMBER/2025", 19:00 WIB Persib vs Bhayangkara
-#http://filex.tv:8080//live/shafiq02/1234/302264.ts
+#EXTINF:-1 tvg-id="digisport 1" tvg-logo="https://i.ibb.co.com/spvCP0My/IMG-20250919-155828.png" group-title="EVENT 22/DESEMBER/2025", 15:30 WIB Biak Numfor vs Bali United
+http://filex.tv:8080//live/shafiq02/1234/302264.ts
 
-
+#EXTINF:-1 tvg-id="digisport 1" tvg-logo="https://i.ibb.co.com/spvCP0My/IMG-20250919-155828.png" group-title="EVENT 22/DESEMBER/2025", 15:30 WIB Biak Numfor vs Bali United
+https://shorter.me/pW9Do
 
 =======================================
 =================VOLI==================
