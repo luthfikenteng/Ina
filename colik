@@ -14,6 +14,13 @@ awalan
 #http://filex.tv:8080//live/shafiq02/1234/302264.ts
 
 
+#EXTINF:-1 tvg-id="digisport 1" tvg-logo="https://i.ibb.co.com/spvCP0My/IMG-20250919-1g" group-title="EVENT 25/DESEMBER/2025", 14:00 WIB Indonesia vs Malaysia
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
+
 =======================================
 =================VOLI==================
 =======================================
@@ -1128,7 +1135,7 @@ https://mifntechnology.github.io/siaranMy/channels/DuniaSinema/index.m3u8
 
 =======================================
 
-#EXTINF:-1 tvg-id="MentariTV.id" group-title="KIDS" tvg-name="Mentari TV" tvg-logo="https://i.ibb.co.com/7Jnn95wt/MENTARI.png",MENTARI TV HD 1
+#EXTINF:-1 tvg-id="MentariTV.id" group-title="KIDS" tvg-name="Mentari TV" tvg-logo="https://i.ibb.co.com/7Jnn95wt/MENTARI.png",MENTARI TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 https://dusk.biz.id/vinteo-lokal/prodeo.m3u8?id=8237&type=hls
 https://nextgenz.my.id/event/pidio/play.m3u8?id=8237&type=hls
@@ -1136,7 +1143,7 @@ https://nextgenz.my.id/event/pidio/play.m3u8?id=8237&type=hls
 #EXTINF:-1 tvg-id="MentariTV.id" group-title="KIDS" tvg-name="Mentari TV" tvg-logo="https://i.ibb.co.com/7Jnn95wt/MENTARI.png",MENTARI TV HD 2
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
-https://cdn10jtedge.indihometv.com/atm/DASH/mentaritv/manifest.mpd
+#https://cdn10jtedge.indihometv.com/atm/DASH/mentaritv/manifest.mpd
 
 =======================================
 
