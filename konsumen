@@ -32,8 +32,10 @@ https://shorter.me/ZPewG
 #EXTINF:-1 tvg-id="digisport 1" tvg-logo="https://i.ibb.co.com/spvCP0My/IMG-20250919-155828.png" group-title="EVENT 27/DESEMBER/2025", 19:00 WIB Persib Bandung vs PSM Makassar
 https://shorter.me/GkziE
 
-#EXTINF:-1 group-title="EVENT 27/DESEMBER/2025" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png", 03:00 WIB Manchester United vs Newcastle United
-
+#EXTINF:-1 group-title="EVENT 27/DESEMBER/2025" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png", 19:30 WIB Nottingham Forest vs Manchester City
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d0f2e5c39e70c18f29bf77768a1ad89a:d6853c51fcf37a18905f0609972395d7
+https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/dash/enc/bsaaetko8v/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
 
 
 =======================================
