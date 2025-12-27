@@ -10,8 +10,25 @@ awalan
 #https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
 
 
-#EXTINF:-1 tvg-id="digisport 1" tvg-logo="https://i.ibb.co.com/spvCP0My/IMG-20250919-155828.png" group-title="EVENT 23/DESEMBER/2025", 15:30 WIB Arena vs Madura United
-#http://filex.tv:8080//live/shafiq02/1234/302264.ts
+#EXTINF:-1 tvg-id="digisport 1" tvg-logo="https://i.ibb.co.com/spvCP0My/IMG-20250919-155828.png" group-title="EVENT 27/DESEMBER/2025", 15:30 WIB Persik Kediri vs Persis Solo
+http://filex.tv:8080//live/shafiq02/1234/302264.ts
+
+#EXTINF:-1 tvg-id="digisport 1" tvg-logo="https://i.ibb.co.com/spvCP0My/IMG-20250919-155828.png" group-title="EVENT 27/DESEMBER/2025", 15:30 WIB Persik Kediri vs Persis Solo
+http://adp-premium.my.id/event/stream_camel1.php?id=n54qllhn860xqvy
+
+#EXTINF:-1 tvg-id="digisport 1" tvg-logo="https://i.ibb.co.com/wZ40gYMj/IMG-20250430-174409.png" group-title="EVENT 27/DESEMBER/2025" , 18:30 WIB Parma vs Fiorentina
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
+#https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
+
+
+#EXTINF:-1 tvg-id="digisport 1" tvg-logo="https://i.ibb.co.com/spvCP0My/IMG-20250919-155828.png" group-title="EVENT 27/DESEMBER/2025", 19:00 WIB Persib Bandung vs PSM Makassar
+http://filex.tv:8080//live/shafiq02/1234/302264.ts
+
+#EXTINF:-1 tvg-id="digisport 1" tvg-logo="https://i.ibb.co.com/spvCP0My/IMG-20250919-155828.png" group-title="EVENT 27/DESEMBER/2025", 19:00 WIB Persib Bandung vs PSM Makassar
+http://adp-premium.my.id/event/stream_camel1.php?id=1l4rjnh9x07em7v
 
 
 #EXTINF:-1 group-title="EVENT 27/DESEMBER/2025" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png", 03:00 WIB Manchester United vs Newcastle United
@@ -92,11 +109,11 @@ awalan
 #https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
 
 
-#http://adp-premium.my.id/event/stream_camel1.php?id=4wyrn4h64pezq86
+#http://adp-premium.my.id/event/stream_camel1.php?id=n54qllhn860xqvy
 
 #https://www.camel1.live/game/match-napoli-cagliari/video/zp5rzghg0n8pq82
 
-#https://www.camel1.live/football/psbs-biak-numfor-vs-bali-united/live/4wyrn4h64pezq86
+#https://www.camel1.live/football/persatuan-sepak-bola-indonesia-kediri-vs-persis-solo-fc/n54qllhn860xqvy
 
 
 =======================================
