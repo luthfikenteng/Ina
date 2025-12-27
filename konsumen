@@ -53,6 +53,36 @@ https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/
 #KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd
 
+#EXTINF:-1 group-title="EVENT 27/DESEMBER/2025" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png", 22:00 WIB Arsenal vs Brighton & Hove Albion
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+http://205.237.106.36/hls/VAVAVAQ.m3u8
+
+
+#EXTINF:-1 group-title="EVENT 27/DESEMBER/2025" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png", 22:00 WIB Liverpool vs Wolves
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+http://205.237.106.36/hls/VAVAVA.m3u8
+
+#EXTINF:-1 group-title="EVENT 27/DESEMBER/2025" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png", 22:00 WIB Brentford vs AFC Bournemouth
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+http://205.237.105.202/hls/RIIIIQQ.m3u8
+
+#EXTINF:-1 group-title="EVENT 27/DESEMBER/2025" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png", 22:00 WIB West Ham United vs Fulham
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+http://205.237.104.56/hls/RIIIIQQQ.m3u8
+
+
+#EXTINF:-1 group-title="EVENT 27/DESEMBER/2025" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png", 22:00 WIB Burnley vs Everton
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+http://205.237.106.134/hls/RIIIIQQQQ.m3u8
+
+
+
+
 =======================================
 =================VOLI==================
 =======================================
