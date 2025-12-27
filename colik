@@ -28,7 +28,8 @@ https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/
 http://filex.tv:8080//live/shafiq02/1234/302264.ts
 
 #EXTINF:-1 tvg-id="digisport 1" tvg-logo="https://i.ibb.co.com/spvCP0My/IMG-20250919-155828.png" group-title="EVENT 27/DESEMBER/2025", 19:00 WIB Persib Bandung vs PSM Makassar
-https://shorter.me/pIJ2Z
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+http://adp-premium.my.id/event/stream_camel1.php?id=1l4rjnh9x07em7v
 
 #EXTINF:-1 tvg-id="digisport 1" tvg-logo="https://i.ibb.co.com/spvCP0My/IMG-20250919-155828.png" group-title="EVENT 27/DESEMBER/2025", 19:00 WIB Persib Bandung vs PSM Makassar
 https://shorter.me/GkziE
@@ -119,11 +120,11 @@ https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/
 #https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
 
 
-#http://adp-premium.my.id/event/stream_camel1.php?id=n54qllhn860xqvy
+#http://adp-premium.my.id/event/stream_camel1.php?id=1l4rjnh9x07em7v
 
 #https://www.camel1.live/game/match-napoli-cagliari/video/zp5rzghg0n8pq82
 
-#https://www.camel1.live/football/persatuan-sepak-bola-indonesia-kediri-vs-persis-solo-fc/n54qllhn860xqvy
+#https://www.camel1.live/football/persib-bandung-vs-persatuan-sepakbola-makassar/live/1l4rjnh9x07em7v
 
 
 =======================================
