@@ -29,20 +29,18 @@ https://f.efkefeyfef.shop/hls/LOLOLO.m3u8
 https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
 
 #EXTINF:-1 group-title="EVENT 28/DESEMBER/2025" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png", 21:00 WIB Sunderland vs Leeds United
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+http://205.237.104.133/hls/FDFDFDQ.m3u8
+
+
+#EXTINF:-1 group-title="EVENT 28/DESEMBER/2025" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png", 23:30 WIB Crystal Palace vs Tottenham Hotspur
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
-
-#EXTINF:-1 group-title="EVENT 28/DESEMBER/2025" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png", 21:00 WIB Crystal Palace vs Tottenham Hotspur
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mp
 
 #EXTINF:-1 tvg-id="digisport 1" tvg-logo="https://i.ibb.co.com/wZ40gYMj/IMG-20250430-174409.png" group-title="EVENT 28/DESEMBER/2025" , 21:00 WIB Cremonese vs Napoli
 #KODIPROP:inputstreamaddon=inputstream.adaptive
