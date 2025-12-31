@@ -573,6 +573,12 @@ https://malang.staratv.id/hls/0/stream.m3u8
 
 =======================================
 
+#EXTINF:-1 tvg-id="staratv malang" tvg-logo="https://i.ibb.co.com/gLsTjbxs/IMG-20251231-124917.png" group-title="DAERAH",Matrix TV Jogjakarta
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
+https://stream.matrixtv.id/hls/2/stream.m3u8
+
+=======================================
+
 #EXTINF:-1 group-title="DAERAH" tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://i.ibb.co.com/Jw2gk40N/SURABAYA.png",Surabaya TV
 https://e.siar.us/live/surabayatv.m3u8
 
@@ -1005,7 +1011,7 @@ https://fta3-cdn-flr.visionplus.id/out/v1/65432a4c12ca4a52abf473a0e41d7c7e/index
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #https://fta4-cdn-flr.visionplus.id/out/v1/db82aed7a1864935b8b8f960651c3db7/index.mpd
-https://slive.mana2.my/DramaChannel/index.mpd
+#https://slive.mana2.my/DramaChannel/index.mpd
 
 =======================================
  
