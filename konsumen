@@ -549,6 +549,30 @@ https://e.siar.us/live/smtv.m3u8
 
 =======================================
 
+#EXTINF:-1 tvg-id="staratv cianjur" tvg-logo="https://i.ibb.co.com/NndM00BW/IMG-20251231-083013.png" group-title="DAERAH",StaraTV Cianjur
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
+https://cianjur.staratv.id/hls/0/stream.m3u8
+
+=======================================
+
+#EXTINF:-1 tvg-id="staratv smd" tvg-logo="https://i.ibb.co.com/NndM00BW/IMG-20251231-083013.png" group-title="DAERAH",StaraTV Sumedang
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
+https://stream.staratv.id/hls/0/stream.m3u8
+
+=======================================
+
+#EXTINF:-1 tvg-id="staratv bdg" tvg-logo="https://i.ibb.co.com/NndM00BW/IMG-20251231-083013.png" group-title="DAERAH",StaraTV Bandung
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
+https://bandung.staratv.id/hls/0/stream.m3u8
+
+=======================================
+
+#EXTINF:-1 tvg-id="staratv malang" tvg-logo="https://i.ibb.co.com/NndM00BW/IMG-20251231-083013.png" group-title="DAERAH",StaraTV Malang
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
+https://malang.staratv.id/hls/0/stream.m3u8
+
+=======================================
+
 #EXTINF:-1 group-title="DAERAH" tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://i.ibb.co.com/Jw2gk40N/SURABAYA.png",Surabaya TV
 https://e.siar.us/live/surabayatv.m3u8
 
