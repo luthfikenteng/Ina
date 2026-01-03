@@ -5,7 +5,27 @@ awalan
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/XZLbVM3H/IMG-20260102-233331.png" group-title="EVENT 3/JANUARI/2026", 00:30 WIB Al-Ahli vs Al Nassr
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/spvCP0My/IMG-20250919-155828.png" group-title="EVENT 3/JANUARI/2026", 15:30 WIB Persija vs Persijap
+#EXTVLCOPT:http-referrer=https://xlz.plcdn.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+https://live.golivenow71.com/16fe883c2c8edbfae3c888cf08459049/1767459843255/vg4b678/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/spvCP0My/IMG-20250919-155828.png" group-title="EVENT 3/JANUARI/2026", 15:30 WIB Borneo vs PSM
+#EXTVLCOPT:http-referrer=https://xlz.plcdn.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+https://live.golivenow71.com/56cdf68b67b6c55b38f99a1ddf521230/1767459716437/armrqlx/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/spvCP0My/IMG-20250919-155828.png" group-title="EVENT 3/JANUARI/2026", 19:00 WIB Madura United vs Persebaya
+#EXTVLCOPT:http-referrer=https://xlz.plcdn.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+https://shorter.me/EtF57
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/wZ40gYMj/IMG-20250430-174409.png" group-title="EVENT 3/JANUARI/2026" , 18:30 WIB Como vs Udinese
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
+https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
 
 =======================================
 =================VOLI==================
