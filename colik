@@ -62,14 +62,15 @@ https://saruman1.tharen1.cfd/puk1/usergenrx0cir27aq.m3u8
 
 
 #EXTINF:-1 group-title="EVENT 3/JANUARI/2026" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png", 22:00 WIB Brighton vs Burnley
-#EXTVLCOPT:http-referrer=https://demo.zplayer.xyz/
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-https://play.live8818.com/nami/hd-en-6MuT7Jy1CgPd9Dzytw.m3u8
+http://205.237.106.36/hls/CRRRR.m3u8
+
 
 #EXTINF:-1 group-title="EVENT 3/JANUARI/2026" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png", 22:00 WIB Wolves vs West Ham United
-#EXTVLCOPT:http-referrer=https://demo.zplayer.xyz/
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-https://play.live8818.com/nami/hd-en-6MuT7Jy1CgPd9Dzytw.m3u8
+http://205.237.104.56/hls/CRRRRQ.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/1JwYR5NV/LALIGA.png" group-title="EVENT 3/JANUARI/2026" , 22:15 WIB Osasuna vs Athletic Club
