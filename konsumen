@@ -16,9 +16,14 @@ https://live.golivenow71.com/16fe883c2c8edbfae3c888cf08459049/1767459843255/vg4b
 https://live.golivenow71.com/56cdf68b67b6c55b38f99a1ddf521230/1767459716437/armrqlx/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/spvCP0My/IMG-20250919-155828.png" group-title="EVENT 3/JANUARI/2026", 19:00 WIB Madura United vs Persebaya
-#EXTVLCOPT:http-referrer=https://xlz.plcdn.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
 https://shorter.me/EtF57
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/spvCP0My/IMG-20250919-155828.png" group-title="EVENT 3/JANUARI/2026", 19:00 WIB Madura United vs Persebaya
+#EXTVLCOPT:http-referrer=https://ppdd16.plaifrdcikf.shop/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+https://cxyznt3-cf.didjhfyu8yg.sbs/auth%3D37caa3bd78fef14606968c696c9c9d22b7315dc0e401eb6012046350205b8b61df4daabaf4818ff0d6524a5c4af09373ddaf4ca1de43bcd0bacf51fb8ccdac704825c808ed6b424290605b41a2787fc4636b78b0d089d00734f68b9c3a0a4e473e425fe01fa4ae1c1b60127617215b4caa8306b3212265d579f8afe819f243857303885a13a92f9884213fab60cc6eeeb57efe7cdc53fcc009d05c7b7d7a5e33428a8fe4a5a352654899ae5bfcd241a77d6db43ba133fc22c0ee67550cb3428c6b6bb7a7a1817b44c0b84d4e5c05d921%26cid%3DWjrgwItUPBj8HL-5puDZh251227%26_v%3D2%26_r%3DshZOsg%26_vis%3Dea4dcb50d72a28ac62a3db87cfa0e831f967bf22165c90e28372a0e5185f3d90%26_vvs%3Db8703871cebaa64e6cde9b7da58fb9c88d148e50d13ffe33ef07d68d6b960ab2/app/c394743.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/wZ40gYMj/IMG-20250430-174409.png" group-title="EVENT 3/JANUARI/2026" , 18:30 WIB Como vs Udinese
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -26,6 +31,14 @@ https://shorter.me/EtF57
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
 https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
+
+#EXTINF:-1 group-title="EVENT 3/JANUARI/2026" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png", 19:30 WIB Aston Villa vs Nottingham Forest
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
 
 =======================================
 =================VOLI==================
@@ -284,7 +297,7 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/0a6c6b1534444ab4bd903af8761e6747/ind
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #https://dusk.biz.id/vinteo-lokal/prodeo.m3u8?id=782&type=hls
-https://nextgenz.my.id/event/pidio/play.m3u8?id=8237&type=hls
+https://nextgenz.my.id/event/pidio/play.m3u8?id=782&type=hls
 
 =======================================
 
