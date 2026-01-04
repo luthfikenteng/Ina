@@ -59,6 +59,17 @@ http://205.237.104.56/hls/sososoQ.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 http://205.237.105.202/hls/sososoQQ.m3u8
 
+#EXTINF:-1 group-title="EVENT 4/JANUARI/2026" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png", 22:00 WIB Newcastle United vs Crystal Palace
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+http://205.237.106.134/hls/KIIIIQQQQ.m3u8
+
+#EXTINF:-1 group-title="EVENT 4/JANUARI/2026" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png", 22:00 WIB Everton vs Brentford
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+http://205.237.105.202/hls/sososo.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/1JwYR5NV/LALIGA.png" group-title="EVENT 4/JANUARI/2026", 22:15 WIB Real Madrid vs Real Betis
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
