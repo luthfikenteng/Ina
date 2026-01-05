@@ -9,9 +9,8 @@ awalan
 #EXTVLCOPT:http-referrer=https://xlz.plcdn.xyz/
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/spvCP0My/IMG-20250919-155828.png" group-title="EVENT 5/JANUARI/2026", 15:30 WIB Persik Kediri vs Persib
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-https://playlist-enkripsi.tvgeulis.workers.dev/stream.m3u8?token=KorQVp3Pq9AbHjGohZyRtpTW821wqAKbmxFP8B_2vThN8TH1xNW2G_UlJSdrcku8YQAEFPyJa26uEojSlcqUOw&exp=1767631301&hmac=54975d2988b95a8666c3d7d6d386bf24b81fb64bc1cbebb9452f960ab935f4bf
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/spvCP0My/IMG-20250919-155828.png" group-title="EVENT 5/JANUARI/2026", 19:00 WIB Persik Kediri vs Persib
+https://playlist-enkripsi.tvgeulis.workers.dev/stream.m3u8?token=obI-jtvFB7At14vKExaopVkhhslz_mnyoZeleRSpPWZsKTAVJBM8PewIXv7z0EUlh8cI4O7tV9LjZDV5zMdprQ&exp=1767635535&hmac=b65a202dc8f755b4342f1117934140979c08160666618e05ec80b4ec7a050317
 
 =======================================
 =================VOLI==================
