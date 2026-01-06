@@ -8,7 +8,7 @@ awalan
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/spvCP0My/IMG-20250919-155828.png" group-title="EVENT 5/JANUARI/2026", 19:00 WIB Persik Kediri vs Persib
 #EXTVLCOPT:http-referrer=https://xlz.plcdn.xyz/
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/wZ40gYMj/IMG-20250430-174409.png" group-title="EVENT 6/JANUARI/2026" , 21:00 WIB Pisa vs Como
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/wZ40gYMj/IMG-20250430-174409.png" group-title="EVENT 7/JANUARI/2026" , 00:00 WIB Lecce vs Roma
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
