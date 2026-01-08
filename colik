@@ -27,13 +27,19 @@ awalan
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/MxBt8tCs/IMG-20250825-164825.png" group-title="EVENT 8/JANUARI/2026", Malaysia Open
-https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.plcdn.xyz/
+https://hotlivezz179026907.akainu.xyz/61btu80eaoWWfdliFoJIKg/Fv2lucGIbhPi2caWYvF5Lg/1767888965473/live/may10/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/MxBt8tCs/IMG-20250825-164825.png" group-title="EVENT 8/JANUARI/2026", Malaysia Open
-https://shorter.me/GdmBI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.plcdn.xyz/
+https://hotlivezz179026907.akainu.xyz/i5G6kvgK4TifYMXz5LAhPA/Fv2lucGIbhPi2caWYvF5Lg/1767888965473/live/may101/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/MxBt8tCs/IMG-20250825-164825.png" group-title="EVENT 8/JANUARI/2026", Malaysia Open
-https://shorter.me/a5i91
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.plcdn.xyz/
+https://hotlivezz179026907.akainu.xyz/LIG4JOKu0cv6VeuFos1InA/Fv2lucGIbhPi2caWYvF5Lg/1767888965473/live/may271/chunklist.m3u8
 
 =======================================
 ==============LIVE SPORTS==============
