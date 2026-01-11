@@ -80,7 +80,22 @@ https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/
 https://a151aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/R4McZS45/IMG-20250430-173818.png" group-title="EVENT 11/JANUARI/2026" , 23:30 WIB Bayern Munchen vs Wolsburg
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
+https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/wZ40gYMj/IMG-20250430-174409.png" group-title="EVENT 12/JANUARI/2026" , 00:00 WIB Verona vs Lazio
+https://stitcher.pluto.tv/stitch/hls/channel/63a0e33a45264d000850ed7e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=cb5874fc-6948-11ef-b8e3-ea3db3d97a96
+
+#EXTINF:-1 tvg-logo="https://cdns.klimg.com/bola.net/library/upload/21/2023/01/supercopa-de-espana-_7934a32.jpg" group-title="EVENT 12/JANUARI/2026" , 02:00 WIB Barcelona vs Real Madrid
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=192b1115da041585c77200128549efa1:634e10efe4abbb14be400a3ccbac0258
+https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/wZ40gYMj/IMG-20250430-174409.png" group-title="EVENT 12/JANUARI/2026" , 02:45 WIB Inter vs Napoli
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
