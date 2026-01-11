@@ -34,6 +34,12 @@ https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
 
 
+#EXTINF:-1 tvg-logo="https://cdns.klimg.com/bola.net/library/upload/21/2024/03/996x664/fa-cup-piala-fa_12e0ed5.jpg" group-title="EVENT 11/JANUARI/2026" , 19:00 WIB Derby Country vs Leeds United
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=9f51f3dc6313ac8bc668e2d9d1c04dfa:74bc63e5a193454a91ca494975db33f9
+https://a151aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
+
+
 =======================================
 =================VOLI==================
 =======================================
