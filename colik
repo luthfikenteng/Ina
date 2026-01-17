@@ -8,6 +8,12 @@ awalan
 http://205.237.105.202/hls/jojojo.m3u8
 
 
+#EXTINF:-1 group-title="EVENT 17/JANUARI/2026" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png", 19:30 WIB Manchester United vs Manchester City
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+https://live-en.aisports.cc/moviebox/device02/playlist.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/1JwYR5NV/LALIGA.png" group-title="EVENT 17/JANUARI/2026", 20:00 WIB Real Madrid vs Levante
 #KODIPROP:inputstreamaddon=inputstream.adaptive
