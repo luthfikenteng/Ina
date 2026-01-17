@@ -2,32 +2,6 @@
 
 awalan
 
-#EXTINF:-1 group-title="EVENT 17/JANUARI/2026" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png", 19:30 WIB Manchester United vs Manchester City
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-http://205.237.105.202/hls/jojojo.m3u8
-
-
-#EXTINF:-1 group-title="EVENT 17/JANUARI/2026" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png", 19:30 WIB Manchester United vs Manchester City
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-https://live-en.aisports.cc/moviebox/device02/playlist.m3u8
-
-#EXTINF:-1 group-title="EVENT 17/JANUARI/2026" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png", 19:30 WIB Manchester United vs Manchester City
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1JwYR5NV/LALIGA.png" group-title="EVENT 17/JANUARI/2026", 20:00 WIB Real Madrid vs Levante
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281
-https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd
-
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/wZ40gYMj/IMG-20250430-174409.png" group-title="EVENT 17/JANUARI/2026" , 21:00 WIB Udinese vs Inter
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -42,30 +16,33 @@ https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 http://205.237.106.134/hls/CACACACCc.m3u8
-
-
+https://play7ba.peodlc.com/sport/202_4392161_2.m3u8
 
 #EXTINF:-1 group-title="EVENT 17/JANUARI/2026" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png", 22:00 WIB Chelsea vs Brentford
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 http://205.237.105.202/hls/CACACAC.m3u8
-
+https://play7ba.peodlc.com/sport/202_4392166_2.m3u8
 
 #EXTINF:-1 group-title="EVENT 17/JANUARI/2026" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png", 22:00 WIB Tottenham vs West Ham
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 http://205.237.105.202/hls/CACACACCcc.m3u8
+https://play7ba.peodlc.com/sport/202_4392159_2.m3u8
+
 
 #EXTINF:-1 group-title="EVENT 17/JANUARI/2026" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png", 22:00 WIB Sunderland vs Crystal Palace
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 http://205.237.106.134/hls/CACACA.m3u8
+https://play7ba.peodlc.com/sport/202_4392160_2.m3u8
+
 
 #EXTINF:-1 group-title="EVENT 17/JANUARI/2026" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png", 22:00 WIB Leeds vs Fulham
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 http://205.237.104.133/hls/CACACACC.m3u8
-
+https://play7ba.peodlc.com/sport/202_4392164_2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/1JwYR5NV/LALIGA.png" group-title="EVENT 17/JANUARI/2026", 22:15 WIB Mallorca vs Athletic Club
 #KODIPROP:inputstreamaddon=inputstream.adaptive
