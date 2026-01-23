@@ -3,7 +3,30 @@
 awalan
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEjkyRKt_A71M-tLyr574mM4mSqxwYyInzBmpeSgzhlw&s=10" group-title="EVENT 22/JANUARI/2026" , 00:45 WIB Galatasaray vs Atletico Madrid
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/spvCP0My/IMG-20250919-155828.png" group-title="EVENT 23/JANUARI/2026" , 15:30 WIB Persis Solo vs Borneo
+#EXTVLCOPT:http-referrer=https://xl365.livecdnem.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+https://live.golivenow71.com/574f9fa23749e7799368a1281d164483/1769187333925/r8ztat6/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/MxBt8tCs/IMG-20250825-164825.png" group-title="EVENT 23/JANUARI/2026", Daihatsu Indonesia Master
+#EXTVLCOPT:http-origin=https://demo.zplayer.xyz
+#EXTVLCOPT:http-referrer=https://demo.zplayer.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+https://hotlivezz179026907.akainu.xyz/_HPEpsDsdSdoUBbr3gKRLA/Fv2lucGIbhPi2caWYvF5Lg/1769194808647/live/may21/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/MxBt8tCs/IMG-20250825-164825.png" group-title="EVENT 23/JANUARI/2026", Daihatsu Indonesia Master
+#EXTVLCOPT:http-origin=https://demo.zplayer.xyz
+#EXTVLCOPT:http-referrer=https://demo.zplayer.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+https://hotlivezz179026907.akainu.xyz/HIyBAdlw47z3tTtT9DtZhA/Fv2lucGIbhPi2caWYvF5Lg/1769194808647/live/may211/chunklist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/MxBt8tCs/IMG-20250825-164825.png" group-title="EVENT 23/JANUARI/2026", Daihatsu Indonesia Master
+#EXTVLCOPT:http-origin=https://demo.zplayer.xyz
+#EXTVLCOPT:http-referrer=https://demo.zplayer.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+https://hotlivezz179026907.akainu.xyz/kNsYMeV_bVuVOQVsQ5sZJA/Fv2lucGIbhPi2caWYvF5Lg/1769194808647/live/may212/chunklist.m3u8
+
 
 =======================================
 =================VOLI==================
