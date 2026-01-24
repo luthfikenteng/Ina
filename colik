@@ -285,8 +285,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/cKN30V8Q/SCTV.png" group-title="NASIONAL",SCTV HD
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#https://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/sctv/manifest.mpd
-https://cdn10jtedge.indihometv.com/atm/DASH/sctv/manifest.mpd
+https://cdn10jtedge.indihometv.com/atm/DASH/sctv/sctv-avc1_2500000=7-3277707030000000.mpd
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/cKN30V8Q/SCTV.png" group-title="NASIONAL",SCTV HD
@@ -852,7 +851,7 @@ https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cdbfc4
 =======================================
 
 #EXTINF:-1 tvg-id="HBO" tvg-logo="https://i.ibb.co.com/qMWw8Tph/HBO.png" group-title="MOVIES" , HBO
-https://cdn10jtedge.indihometv.com/atm/DASH/hbo/manifest.mpd
+https://cdn10jtedge.indihometv.com/atm/DASH/hbo/hbo-avc1_2500000=7-3277707030000000.mpd
 
 =======================================
 
@@ -969,8 +968,8 @@ https://fta4-cdn-flr.visionplus.id/out/v1/333a9658ed6a4424a92e319114fb7111/index
 =======================================
 
 #EXTINF:0 tvg-logo="https://i.ibb.co.com/7tPf37Yn/HITSM.png" group-title="MOVIES",HITS MOVIES
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_pro/index.drm?id=42
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=99e736f170b148ffb16d0ad6c8f93ef4:d1b4737ab41f0daae733f11a4b84fa02
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 https://fta4-cdn-flr.visionplus.id/out/v1/de93893d01e6446daaf052a7fec694fc/index.mpd
@@ -1135,7 +1134,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/bioskopindonesia/manifest.mpd
 
 #EXTINF:-1 tvg-id="bioskop indonesia" tvg-logo="https://i.ibb.co.com/chVJ3ddY/BI.png" group-title="MOVIES",BIOSKOP INDONESIA
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://forsat.diskon.com/forsattv/forsatpro1900.php
+#KODIPROP:inputstream.adaptive.license_key=https://fcc.manggatv09.workers.dev/
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856fd0d66d0170341bf1000905/manifest.mpd
 
@@ -1150,7 +1149,7 @@ https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856fd0d66d0170341bf
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/Q7G9CsDq/CW.png" group-title="MOVIES",Cinema World
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://forsat.diskon.com/forsattv/forsatpro1900.php
+#KODIPROP:inputstream.adaptive.license_key=https://fcc.manggatv09.workers.dev/
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016d0555b83e37a3/manifest.mpd
 
@@ -1337,7 +1336,7 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/c70975aaa68d47f2a38799e6730a7816/ind
 
 #EXTINF:-1 tvg-id="Cartoon Network" tvg-logo="https://i.ibb.co.com/ymCZGnJ7/CN.png" group-title="KIDS" , Cartoon Network (OS7+)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=http://forsat.diskon.com/forsattv/forsatpro1900.php
+#KODIPROP:inputstream.adaptive.license_key=https://fcc.manggatv09.workers.dev/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856b8d2390016b9c3ee6c21d7c/manifest.mpd|referrer=https://www.cubmu.com/
 
@@ -1619,7 +1618,7 @@ https://mui.siar.us/mui/live/playlist.m3u8
 =======================================
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://forsat.diskon.com/forsattv/forsatpro1900.php
+#KODIPROP:inputstream.adaptive.license_key=https://fcc.manggatv09.workers.dev/
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #EXTINF:-1 tvg-id="khazanah" tvg-logo="https://i.ibb.co.com/TMVBKLzp/KHAZANAH.png" group-title="RELIGI", KHAZANAH (OS7+)
 https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6856f08326c016f557be28131b9/manifest.mpd
@@ -1838,7 +1837,7 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/c20d75deb06f401aa89681a9e5054de7/ind
 =======================================
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://forsat.diskon.cloud/forsattv/forsatpro1900.php
+#KODIPROP:inputstream.adaptive.license_key=https://fcc.manggatv09.workers.dev/
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #EXTINF:-1 tvg-id="musik.id" tvg-name="musik indonesia" tvg-logo="https://i.ibb.co.com/LDVJDmXF/MIC.png" group-title="MUSIC",Musik Indonesia
 https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c685730a4243017317dee5df1572/manifest.mpd
