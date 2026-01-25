@@ -333,6 +333,9 @@ http://op-group1-swiftservehd-1.dens.tv/h/h24/index.m3u8?app_type=web&amp;userid
 #KODIPROP:inputstream.adaptive.license_key=b6486d00c9d842d88ba1660deec8becc:67ed72016590f2138d9fc10b807708b2
 https://atemecdnbalancer-voe.sysln.id/live/eds/TvOne/mediampd/TvOne.mpd
 
+#EXTINF:-1 tvg-id="tvOne - [Channel 97].id" group-title="NASIONAL" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co.com/7t2mbspy/TVONE.png",TV ONE HD
+https://op-group1-swiftservehd-1.dens.tv/h/h40/01.m3u8|user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1&referrer=http://dens.tv
+
 =======================================
 
 #EXTINF:-1 group-title="NASIONAL" tvg-id="iNews HD - [Channel 433].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co.com/Dfjt4MKN/INEWS.png",INEWS
@@ -394,7 +397,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h210/02.m3u8|user-agent=ExoPlayer/2.19
 =======================================
 
 #EXTINF:-1 tvg-id="Rajawali TV" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://i.ibb.co.com/MkkwN1Zd/RTV.png" group-title="NASIONAL", RTV
-http://op-group1-swiftservehd-1.dens.tv/h/h10/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=RTV|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
+https://op-group1-swiftservehd-1.dens.tv/h/h10/01.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36&referrer=https://www.dens.tv/
 
 =======================================
 
@@ -1168,7 +1171,7 @@ https://gooo.blog/opix/genx.m3u8?id=vtv&cyev=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ
 #https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=1561&type=dash
 
 #EXTINF:-1 tvg-id="Rajawali TV" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://i.ibb.co.com/MkkwN1Zd/RTV.png" group-title="KIDS", RTV HD
-http://op-group1-swiftservehd-1.dens.tv/h/h10/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=RTV|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
+https://op-group1-swiftservehd-1.dens.tv/h/h10/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=RTV|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
 
 =======================================
 
