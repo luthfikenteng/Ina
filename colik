@@ -48,10 +48,13 @@ https://saruman1.tharen1.cfd/puk1/usergenrx0cir27aq.m3u8
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/fe4d00f07e2f43b789102b84b4d243a9/index.mpd
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3xcIvi04zjoWtxM0pbUlgomuTWr34Sz8vEDxK_VkoxQ&s=10" group-title="EVENT 29/JANUARI/2026", 03:00 WIB Barcelona vs Kobenhavn
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3xcIvi04zjoWtxM0pbUlgomuTWr34Sz8vEDxK_VkoxQ&s=10" group-title="EVENT 29/JANUARI/2026", 03:00 WIB Barcelona vs Kobenhavn (1)
 #EXTVLCOPT:http-referrer=https://galandriel1.thobias.cfd/000/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://galandriel1.thobias.cfd/puk4/usergendx42x9qrnd.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3xcIvi04zjoWtxM0pbUlgomuTWr34Sz8vEDxK_VkoxQ&s=10" group-title="EVENT 29/JANUARI/2026", 03:00 WIB Barcelona vs Kobenhavn (2)
+https://d952e52961615b5576267090ed78c739.livehwc4.com/pullsgp.yyzb456.top/live/stream-566370_lhd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=610a91850f4917ef4eb494a21a8e0dbe
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3xcIvi04zjoWtxM0pbUlgomuTWr34Sz8vEDxK_VkoxQ&s=10" group-title="EVENT 29/JANUARI/2026", 03:00 WIB PSV vs Bayern Munchen
 https://stitcher.pluto.tv/stitch/hls/channel/63a0e33a45264d000850ed7e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=cb5874fc-6948-11ef-b8e3-ea3db3d97a96
@@ -102,6 +105,10 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/ind
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3dd653fc7aa1e3075b7f0233620df68f:8573791fa55bff03a3094ff559fc1407
 https://slive.mana2.my/SpotvNow/index.mpd|referrer=https://www.mana2.my/
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3xcIvi04zjoWtxM0pbUlgomuTWr34Sz8vEDxK_VkoxQ&s=10" group-title="EVENT 29/JANUARI/2026", 03:00 WIB Arsenal vs Kairat
+https://de4cdb5858c97f07f5753843e535ca8e.livehwc4.com/pullsgp.yyzb456.top/live/stream-551893_lhd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=c83802a7ab8d8720cc0df5c550d2b2c5
+
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3xcIvi04zjoWtxM0pbUlgomuTWr34Sz8vEDxK_VkoxQ&s=10" group-title="EVENT 29/JANUARI/2026", 03:00 WIB Bayer Leverkusen vs Villareal
