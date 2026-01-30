@@ -3,8 +3,13 @@
 awalan
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/spvCP0My/IMG-20250919-155828.png" group-title="EVENT 26/JANUARI/2026" , 19:00 WIB Dewa United vs Arema
-#https://live.golivenow71.com/271d2d9104ee8731c3810babce691748/1769447739975/lhsazur/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/spvCP0My/IMG-20250919-155828.png" group-title="EVENT 30/JANUARI/2026" , 15:30 WIB Petsita vs Persija
+https://shorter.me/aAvar
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/spvCP0My/IMG-20250919-155828.png" group-title="EVENT 30/JANUARI/2026" , 15:30 WIB Persik Kediri vs Bali United
+https://live.golivenow71.com/6757352cde0e0459b611562db0156096/1769797927284/wkatjcf/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/MxBt8tCs/IMG-20250825-164825.png" group-title="EVENT 30/JANUARI/2026", Thailand Master
 #EXTVLCOPT:http-origin=https://demo.zplayer.xyz
