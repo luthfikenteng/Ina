@@ -2673,7 +2673,7 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/in
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/6RCGbRBw/IMG-20260105-232833.png" group-title="SPORTS INDO",Voli TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-#https://tv.casindo.org/hls/2/2.m3u8
+http://103.160.205.142:9999/stream/channelid/1572314271?profile=pass
 
 =======================================
 
