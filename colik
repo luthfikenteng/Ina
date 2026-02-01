@@ -6,21 +6,7 @@ awalan
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/spvCP0My/IMG-20250919-155828.png" group-title="EVENT 1/FEBRUARI/2026" , 15:30 WIB Borneo vs PSIM Yogyakarta
 #EXTVLCOPT:http-referrer=https://xl365.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel21.m3u8?wsSecret=50c87f143167b5bac8813df5c9dd3fd9&wsABSTime=1763683685
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/spvCP0My/IMG-20250919-155828.png" group-title="EVENT 1/FEBRUARI/2026" , 15:30 WIB Borneo vs PSIM Yogyakarta
-#EXTVLCOPT:http-referrer=https://ppdd18.plaifrdcikf.shop/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-https://xyzna2-cf.didjhfyu8yg.sbs/auth%3D139595de8bac2eb06c148c782392b6f8e15a0233d506120f4f9e4263b2866c4cbe54d0f860b626b487b646d17ba846f2f7c8164f83cb0fc2eae0cb5d9a0d1688f58374d3027c1a3e762291b8bdd5d136a980b7bd9371af263ebe6ac9d2798e3214e9dde99da48d322c11a4d56f954c064dca7d1824ccf40dfafa9a38bd6d6508c86c8d0fb8b1ec65128ac92bc63b0c0de46c3c482b66e51f98fb56d3d7d635a9ad27cf4be9defcf570232bc1e468cb9baf12581f73bc024e59402b543428a43a%26cid%3DjFKyyQgZE8-lmdiBGr8sG260201%26_v%3D2%26_r%3Dwo8DZl%26_vis%3D48d7415379359a9bbe351a370c0a0b6787218e671697b9e22228499bdf45726e%26_vvs%3Db0ae549fcc01e03abb893147e6e3e0c2a6457faf943609df2999bcfd154cfe5f/app/c401075.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/wZ40gYMj/IMG-20250430-174409.png" group-title="EVENT 1/FEBRUARI/2026" , 18:30 WIB Torino vs Lecce
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
-https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
+#https://live1.pro2cdnlive.com/live/channel21.m3u8?wsSecret=50c87f143167b5bac8813df5c9dd3fd9&wsABSTime=1763683685
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/spvCP0My/IMG-20250919-155828.png" group-title="EVENT 1/FEBRUARI/2026" , 19:00 WIB Persebaya Surabaya vs Dewa United
@@ -68,17 +54,7 @@ https://a151aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/9o6
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/MxBt8tCs/IMG-20250825-164825.png" group-title="EVENT 1/FEBRUARI/2026", Thailand Master
-#EXTVLCOPT:http-referrer=https://xl365.livecdnem.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel40.m3u8?wsSecret=fbf492e520ab510d95397f678ad4a9b7&wsABSTime=1769891950
 
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/MxBt8tCs/IMG-20250825-164825.png" group-title="EVENT 1/FEBRUARI/2026", Thailand Master
-#EXTVLCOPT:http-origin=https://demo.zplayer.xyz
-#EXTVLCOPT:http-referrer=https://demo.zplayer.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-https://hotlivezz179026907.akainu.xyz/Ae5vIzTQ92RFWOlyM282CQ/Fv2lucGIbhPi2caWYvF5Lg/1766359247398/live/may21/chunklist.m3u8
 
 =======================================
 =================VOLI==================
