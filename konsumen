@@ -8,7 +8,12 @@ awalan
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
 #https://live.golivenow71.com/230f8701479ce534f6bfda25a446aac9/1770052654056/lhsazur/index.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://cdn0-production-images-kly.akamaized.net/nrEUfjpp6KLotwMKY-l8k42-qtM=/1200x675/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/5457834/original/076905400_1767059927-InShot_20251230_085300398.jpg" group-title="EVENT 2/FEBRUARI/2026" , AFC Futsal Asian Cup
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
 
 
 =======================================
@@ -3601,13 +3606,10 @@ https://galandriel1.thobias.cfd/puk4/usergendx42x9qrnd.m3u8
 https://galandriel1.thobias.cfd/puk5/usergen0grnd3y8.m3u8
 
 =======================================
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/tT61vKS8/POKER.png" group-title="SPORTS",POKER TV
-https://hls.pokertvfa.live/hls/stream.m3u8
-
-
-
-<======================== Malaysia ==========================>
+=======================================
+===============MALAYSIA===============
+=======================================
+=======================================
 
 #EXTINF:-1 tvg-id="TV1" tvg-url="https://bit.ly/RtmEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Logo_of_TV1_%28Malaysia%29.svg/1200px-Logo_of_TV1_%28Malaysia%29.svg.png" tvg-url="https://bit.ly/JejeVisionEPG" group-title="Malaysia",TV 1
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
@@ -3768,8 +3770,9 @@ https://d1sq2slp9afh7o.cloudfront.net/smil:roll/chunklist_b2596000_slENG.m3u8
 https://d1sq2slp9afh7o.cloudfront.net/smil:snap/chunklist_b2596000_slENG.m3u8
 
 =======================================
+================BRUNEI================
+=======================================
 
-<============================== Brunei ======================================>
 #EXTINF:-1 group-title="Brunei" tvg-id="Sukmaindera" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://i.ibb.co.com/TNTCXwS/RTB.png",RTB Sukmaindera FHD
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/x-mpegURL
