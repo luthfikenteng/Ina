@@ -2,21 +2,6 @@
 
 awalan
 
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/spvCP0My/IMG-20250919-155828.png" group-title="EVENT 2/FEBRUARI/2026" , 19:00 WIB PSM vs Semen Padang
-#EXTVLCOPT:http-referrer=https://xl365.livecdnem.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-#https://live.golivenow71.com/230f8701479ce534f6bfda25a446aac9/1770052654056/lhsazur/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn0-production-images-kly.akamaized.net/nrEUfjpp6KLotwMKY-l8k42-qtM=/1200x675/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/5457834/original/076905400_1767059927-InShot_20251230_085300398.jpg" group-title="EVENT 3/FEBRUARI/2026" , AFC Futsal Asian Cup
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
-#EXTVLCOPT:http-referrer=https://visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
-
-
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/wZ40gYMj/IMG-20250430-174409.png" group-title="EVENT 4/FEBRUARI/2026" , 02:45 WIB Bologna vs Milan
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -36,6 +21,21 @@ https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5
 #EXTVLCOPT:http-referrer=https://arwen1.panaka1.cfd/000/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://arwen1.panaka1.cfd/puk2/usergenrnd0clv03fyt.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/spvCP0My/IMG-20250919-155828.png" group-title="EVENT 2/FEBRUARI/2026" , 19:00 WIB PSM vs Semen Padang
+#EXTVLCOPT:http-referrer=https://xl365.livecdnem.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+#https://live.golivenow71.com/230f8701479ce534f6bfda25a446aac9/1770052654056/lhsazur/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn0-production-images-kly.akamaized.net/nrEUfjpp6KLotwMKY-l8k42-qtM=/1200x675/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/5457834/original/076905400_1767059927-InShot_20251230_085300398.jpg" group-title="EVENT 3/FEBRUARI/2026" , AFC Futsal Asian Cup
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
+
 
 
 =======================================
