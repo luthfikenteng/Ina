@@ -3,10 +3,16 @@
 awalan
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/spvCP0My/IMG-20250919-155828.png" group-title="EVENT 6/FEBRUARI/2026" , 19:00 WIB Persib vs Malut United
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/spvCP0My/IMG-20250919-155828.png" group-title="EVENT 7/FEBRUARI/2026" , 15:30 WIB Persik Kediri vs Dewa United
 #EXTVLCOPT:http-referrer=https://xl365.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-#https://live1.pro2cdnlive.com/live/channel21.m3u8?wsSecret=50c87f143167b5bac8813df5c9dd3fd9&wsABSTime=1763683685
+https://live1.pro2cdnlive.com/live/channel11.m3u8?wsSecret=71c13ab6d69a095b8c94b64aeac78596&wsABSTime=1766260690
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/spvCP0My/IMG-20250919-155828.png" group-title="EVENT 7/FEBRUARI/2026" , 15:30 WIB Bhayangkara vs Borneo
+#EXTVLCOPT:http-referrer=https://xl365.livecdnem.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+https://live1.pro2cdnlive.com/live/channel21.m3u8?wsSecret=50c87f143167b5bac8813df5c9dd3fd9&wsABSTime=1763683685
+
 
 #EXTINF:-1 tvg-logo="https://cdn0-production-images-kly.akamaized.net/nrEUfjpp6KLotwMKY-l8k42-qtM=/1200x675/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/5457834/original/076905400_1767059927-InShot_20251230_085300398.jpg" group-title="EVENT 7/FEBRUARI/2026" , 19:00 WIB AFC Futsal Asian Cup : Indonesia vs Iran
 #KODIPROP:inputstream.adaptive.license_type=clearkey
