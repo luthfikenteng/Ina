@@ -450,7 +450,7 @@ https://d2xx73ro32cip.cloudfront.net/out/v1/db34a1b61f414d2181c29f1892bc8d0b/ind
 #EXTINF:-1 group-title="NASIONAL" tvg-id="beritasatu" tvg-logo="https://i.ibb.co.com/v6SXYpr3/BERITASATU.png",BERITASATU
 #http://op-group1-swiftservehd-1.dens.tv/h/h209/02.m3u8|user-agent=DENSGO/3.00.04 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1&referrer=http://dens.tv
 
-#EXTINF:-1 group-title="NASIONAL" tvg-id="beritasatu" tvg-logo="https://i.ibb.co.com/v6SXYpr3/BERITASATU.png",BERITASATU
+#EXTINF:-1 group-title="NASIONAL" tvg-id="beritasatu" tvg-logo="https://i.ibb.co.com/v6SXYpr3/BERITASATU.png", BERITASATU
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew2025.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
@@ -520,6 +520,12 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/17c724036c5f4615bd0b8093126b5c44/in
 #EXTVLCOPT--http-reconnect=true
 #https://op-group1-swiftservehd-1.dens.tv/h/h77/S4/mnf.m3u8
 https://op-group1-swiftservehd-1.dens.tv/h/h77/index2.m3u8?app_type=web&userid=lite&chname=Channel_Jowo
+
+#EXTINF:0 tvg-country="ID" tvg-logo="https://i.ibb.co.com/Kc73NG74/JOWO.png" group-title="DAERAH", Jowo Channel
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew2025.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://cdnjkt913.transvision.co.id:1001/live/master/3/4028c685910daca60191a29de97f443a/manifest.mpd
 
 =======================================
 
@@ -1369,7 +1375,12 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2a5668fb3b9f4e34ab7c02cdc6ef56db/in
 #https://d2xz2v5wuvgur6.cloudfront.net/out/v1/a241815698e84bc68f1bb6c4996ee92a/index.mpd
 
 #EXTINF:-1 tvg-id="My Kidz - [Channel 66].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co.com/Xf9nr9kt/MK.png" group-title="KIDS",MYKIDS
-http://op-group1-swiftservehd-1.dens.tv/h/h191/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=My_Kidz_HD|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
+#http://op-group1-swiftservehd-1.dens.tv/h/h191/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=My_Kidz_HD|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
+
+#EXTINF:-1 tvg-id="My Kidz - [Channel 66].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co.com/Xf9nr9kt/MK.png" group-title="KIDS",MYKIDS
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://cdn10jtedge.indihometv.com/atm/DASH/mykids/manifest.mpd
 
 =======================================
 
