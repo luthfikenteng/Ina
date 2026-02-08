@@ -3,19 +3,17 @@
 awalan
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/spvCP0My/IMG-20250919-155828.png" group-title="EVENT 8/FEBRUARI/2026" , 15:30 WIB PSBS Biak Numfor vs PSM
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/spvCP0My/IMG-20250919-155828.png" group-title="EVENT 8/FEBRUARI/2026" , 19:00 WIB Persija vs Arema
 #EXTVLCOPT:http-referrer=https://xl365.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=f77bafd6c267236682cc850d824a8a9a&txTime=69889dce
+https://live1.pro2cdnlive.com/live/channel8.m3u8?wsSecret=f1c8225c81616337cd19b3e254333554&wsABSTime=1761424409
 
-
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/spvCP0My/IMG-20250919-155828.png" group-title="EVENT 8/FEBRUARI/2026" , 15:30 WIB Semen Padang vs Persita
-#EXTVLCOPT:http-referrer=https://xl365.livecdnem.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-https://live.golivenow71.com/249b45bc309bcb9dba7b1b4a1352a6d8/1770572740973/trd02w8/trd02w8@720p.m3u8
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/wZ40gYMj/IMG-20250430-174409.png" group-title="EVENT 8/FEBRUARI/2026" , 18:30 WIB Bologna vs Parma
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
+https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
 
 =======================================
 =================VOLI==================
