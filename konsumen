@@ -3,10 +3,15 @@
 awalan
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/spvCP0My/IMG-20250919-155828.png" group-title="EVENT 7/FEBRUARI/2026" , 15:30 WIB Persik Kediri vs Dewa United
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/spvCP0My/IMG-20250919-155828.png" group-title="EVENT 8/FEBRUARI/2026" , 15:30 WIB PSBS Biak Numfor vs PSM
 #EXTVLCOPT:http-referrer=https://xl365.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-#https://live1.pro2cdnlive.com/live/channel11.m3u8?wsSecret=71c13ab6d69a095b8c94b64aeac78596&wsABSTime=1766260690
+https://live.golivenow71.com/26b20cb374a61547628aaa0c0ea3651a/1770572845693/iaxzupy/iaxzupy@720p.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/spvCP0My/IMG-20250919-155828.png" group-title="EVENT 8/FEBRUARI/2026" , 15:30 WIB Semen Padang vs Persita
+#EXTVLCOPT:http-referrer=https://xl365.livecdnem.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+https://live.golivenow71.com/249b45bc309bcb9dba7b1b4a1352a6d8/1770572740973/trd02w8/trd02w8@720p.m3u8
 
 
 =======================================
