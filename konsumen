@@ -267,6 +267,7 @@ http://202.169.224.202:8800/udp/239.9.1.32:1234
 
 #EXTINF:-1 tvg-id="MentariTV.id" group-title="NASIONAL" tvg-name="Mentari TV" tvg-logo="https://i.ibb.co.com/7Jnn95wt/MENTARI.png",MENTARI TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #https://dusk.biz.id/vinteo-lokal/prodeo.m3u8?id=8237&type=hls
 https://nextgenz.my.id/event/pidio/play.m3u8?id=8237&type=hls
 
