@@ -3907,3 +3907,5 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 https://spstr.abntv.live/hls/psstream.m3u8
 
+#EXTINF:-1 group-title="LIVE EVENT CADANGAN" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png", INGGRIS
+https://raw.githubusercontent.com/luthfikenteng/Ina/refs/heads/main/PL/mentari.m3u8
