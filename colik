@@ -7,31 +7,6 @@ awalan
 #EXTVLCOPT:http-referrer=https://xl365.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
 
-#EXTINF:-1 group-title="EVENT 11/FEBRUARI/2026" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png", 02:30 WIB Chelsea vs Leeds United
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-http://195.178.110.37/hls/RRRRR.m3u8
-https://d952e52961615b5576267090ed78c739.livehwc4.com/pullsgp.yyzb456.top/live/stream-705956_lhd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=ed64cff7ffccd04c7421a459ada00a88
-https://live-en.aisports.cc/moviebox/device02/playlist.m3u8
-
-#EXTINF:-1 group-title="EVENT 11/FEBRUARI/2026" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png", 02:30 WIB Everton vs AFC Bournemouth
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-http://195.178.110.25/hls/ZZZZZ.m3u8
-https://d952e52961615b5576267090ed78c739.livehwc4.com/pullsgp.yyzb456.top/live/stream-551166_lhd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=ed64cff7ffccd04c7421a459ada00a88
-
-
-#EXTINF:-1 group-title="EVENT 11/FEBRUARI/2026" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png", 02:30 WIB Tottenham Hotspur vs Newcastle United
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-https://live-en.aisports.cc/moviebox/device01/playlist.m3u8
-https://d952e52961615b5576267090ed78c739.livehwc4.com/pullsgp.yyzb456.top/live/stream-698168_lhd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=a402b88dc710fd9096a282546e5ece74
-
-
-#EXTINF:-1 group-title="EVENT 11/FEBRUARI/2026" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png", 03:15 WIB West Ham United vs Manchester United
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=d0f2e5c39e70c18f29bf77768a1ad89a:d6853c51fcf37a18905f0609972395d7
-https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/dash/enc/bsaaetko8v/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
 
 =======================================
 =================VOLI==================
