@@ -253,7 +253,7 @@ https://nextgenz.my.id/event/pidio/play.mpd?id=8237&type=dash
 #EXTINF:-1 tvg-id="MentariTV.id" group-title="NASIONAL" tvg-name="Mentari TV" tvg-logo="https://i.ibb.co.com/7Jnn95wt/MENTARI.png", MENTARI TV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/8237/res=720p/file/stream.mpd?hdntl=exp=1771042870~acl=%2fstream%2f8237%2fres%3d720p%2ffile%2fstream.mpd!%2fstream%2f8237%2ffile%2f*%2faac%2f*!%2fstream%2f8237%2ffile%2f*%2f*-720p%2f*!%2fstream%2f8237%2ffile%2f*%2f*-480p%2f*!%2fstream%2f8237%2ffile%2f*%2f*-360p%2f*~id=allUsers~data=hdntl~hmac=e7ddd5a5417c327a28503efa798073706c2825c24b50fe817ea0142dea4bf754
+https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/8237/res=720p/file/stream.mpd?hdntl=exp=1771054274~acl=%2fstream%2f8237%2fres%3d720p%2ffile%2fstream.mpd!%2fstream%2f8237%2ffile%2f*%2faac%2f*!%2fstream%2f8237%2ffile%2f*%2f*-720p%2f*!%2fstream%2f8237%2ffile%2f*%2f*-480p%2f*!%2fstream%2f8237%2ffile%2f*%2f*-360p%2f*~id=allUsers~data=hdntl~hmac=ec59a8d045296994c3adb61a007987f104e3da0c5c4e205784de99abfba5007f
 
 =======================================
 
@@ -2759,7 +2759,7 @@ https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5
 #EXTVLCOPT--http-reconnect=true
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=3dcfbec0e7146928baa55210bf2cb62f:bc85f74f815d9be5ae1dd6defaa05135
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uiffe4jhf0/out/v1/3534efafca8c4815adbb4d2e9a1fe003/cenc.mpd
+#https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uiffe4jhf0/out/v1/3534efafca8c4815adbb4d2e9a1fe003/cenc.mpd
 
 =======================================
 
@@ -2769,7 +2769,7 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uiffe4jhf0/
 #EXTVLCOPT--http-reconnect=true
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
+#https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
 
 =======================================
 
@@ -2827,7 +2827,7 @@ https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd
 #EXTINF:0 tvg-id="TNT 1" tvg-logo="https://i.ibb.co.com/2382dG2H/TNT1.png" group-title="SPORTS",TNT SPORTS 1 FHD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d0f2e5c39e70c18f29bf77768a1ad89a:d6853c51fcf37a18905f0609972395d7
-https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/dash/enc/bsaaetko8v/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
+#https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/dash/enc/bsaaetko8v/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
 #http://tv.8dott.xyz:80/live/samuel/samuel123456/697057.ts
 
 =======================================
@@ -2835,7 +2835,7 @@ https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/dash/enc/bsaaetko8v/
 #EXTINF:0 tvg-id="TNT 2" tvg-logo="https://i.ibb.co.com/2J5ns1Z/TNT2.png" group-title="SPORTS",TNT SPORTS 2 FHD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=9f51f3dc6313ac8bc668e2d9d1c04dfa:74bc63e5a193454a91ca494975db33f9
-https://a151aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
+#https://a151aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
 #http://tv.8dott.xyz:80/live/samuel/samuel123456/697056.ts
 
 =======================================
@@ -2843,7 +2843,7 @@ https://a151aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/dash/enc/f0qvkrra8j/
 #EXTINF:0 tvg-id="TNT 3" tvg-logo="https://i.ibb.co.com/k6yYpgbQ/TNT3.png" group-title="SPORTS",TNT SPORTS 3 FHD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a93c1cbfdccd23233bac13540c693e7f:2f6ab2e6693eb847eff3c9da8f9d01fc
-https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
+#https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
 #http://tv.8dott.xyz:80/live/samuel/samuel123456/697055.ts
 
 
@@ -2852,7 +2852,7 @@ https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/dash/enc/lsdasbvglv/
 #EXTINF:0 tvg-id="TNT 4" tvg-logo="https://i.ibb.co.com/rKVqGRhm/TNT4.png" group-title="SPORTS",TNT SPORTS 4 FHD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=192b1115da041585c77200128549efa1:634e10efe4abbb14be400a3ccbac0258
-https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
+#https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
 #http://tv.8dott.xyz:80/live/samuel/samuel123456/697054.ts
 
 =======================================
@@ -3086,7 +3086,7 @@ https://zap-live1-ott.izzigo.tv/3/out/u/dash/SKYSPORTS21HD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ca4316630f56d6f33e9ff73b7ad211d1:72c54e5646055f444e99bc1123919e89
-https://a151aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/9o6jmlyjpm/out/v1/ad80a9bfecc6438f82f2af41c58d7fb8/cenc.mpd
+#https://a151aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/9o6jmlyjpm/out/v1/ad80a9bfecc6438f82f2af41c58d7fb8/cenc.mpd
 
 =======================================
 
