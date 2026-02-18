@@ -9,6 +9,13 @@ awalan
 #https://live.golivenow71.com/cca69730a20af3c80431d4635bf359cd/1771266872121/as9xexm/index.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://img.sportcorner.id/uploads/2025/03/13/large_afc_champions_league_two_369bcf97fc.webp" group-title="EVENT 86/FEBRUARI/2026" , 19:15 WIB Persib vs Ratchaburi
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
+
 
 
 =======================================
