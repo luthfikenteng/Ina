@@ -9,7 +9,7 @@ awalan
 #https://live.golivenow71.com/cca69730a20af3c80431d4635bf359cd/1771266872121/as9xexm/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://img.sportcorner.id/uploads/2025/03/13/large_afc_champions_league_two_369bcf97fc.webp" group-title="EVENT 86/FEBRUARI/2026" , 19:15 WIB Persib vs Ratchaburi
+#EXTINF:-1 tvg-logo="https://img.sportcorner.id/uploads/2025/03/13/large_afc_champions_league_two_369bcf97fc.webp" group-title="EVENT 18/FEBRUARI/2026" , 19:15 WIB Persib vs Ratchaburi
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
 #EXTVLCOPT:http-referrer=https://visionplus.id/
@@ -263,7 +263,7 @@ https://nextgenz.my.id/event/pidio/play.mpd?id=8237&type=dash
 #EXTINF:-1 tvg-id="MentariTV.id" group-title="NASIONAL" tvg-name="Mentari TV" tvg-logo="https://i.ibb.co.com/7Jnn95wt/MENTARI.png", MENTARI TV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/8237/res=720p/file/stream.mpd?hdntl=exp=1771393063~acl=%2fstream%2f8237%2fres%3d720p%2ffile%2fstream.mpd!%2fstream%2f8237%2ffile%2f*%2faac%2f*!%2fstream%2f8237%2ffile%2f*%2f*-720p%2f*!%2fstream%2f8237%2ffile%2f*%2f*-480p%2f*!%2fstream%2f8237%2ffile%2f*%2f*-360p%2f*~id=allUsers~data=hdntl~hmac=aa47bbcddecf7e4559a041bc640dc275ceadaa6b45f8bcd6c3118ee0c43c5e55
+https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/8237/res=720p/file/stream.mpd?hdntl=exp=1771423190~acl=%2fstream%2f8237%2fres%3d720p%2ffile%2fstream.mpd!%2fstream%2f8237%2ffile%2f*%2faac%2f*!%2fstream%2f8237%2ffile%2f*%2f*-720p%2f*!%2fstream%2f8237%2ffile%2f*%2f*-480p%2f*!%2fstream%2f8237%2ffile%2f*%2f*-360p%2f*~id=allUsers~data=hdntl~hmac=cb48b3ba832942f673127672d64ab7332656f44907c3399264faf4baa9839c29
 
 =======================================
 
