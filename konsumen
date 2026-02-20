@@ -8,6 +8,16 @@ awalan
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
 https://live.golivenow71.com/b868f90ace7ba5c305d738d7ef2815c6/1771613106208/xqispup/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/spvCP0My/IMG-20250919-155828.png" group-title="EVENT 20/FEBRUARI/2026" , 20:30 WIB Persik Kediri vs Bhayangkara FC
+#EXTVLCOPT:http-referrer=https://xl365.livecdnem.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+https://live.golivenow71.com/a06b532e5d6fbcc6e5c647652ecc1914/1771612974958/jggujqm/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/spvCP0My/IMG-20250919-155828.png" group-title="EVENT 20/FEBRUARI/2026" , 21:00 WIB Semen Padang vs Malut United
+#EXTVLCOPT:http-referrer=https://xl365.livecdnem.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+https://live.golivenow71.com/527340356186fb2d77bf54055310c77b/1771613051817/trd02w8/trd02w8@720p.m3u8
+
 
 =======================================
 =================VOLI==================
