@@ -124,8 +124,16 @@ https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5
 
 #EXTINF:-1 group-title="EVENT 22/FEBRUARI/2026" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png", 03:00 WIB Manchester City vs Newcastle United
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+http://195.178.110.27/hls/OOOOOQQQQQQQ.m3u8
+
+
+#EXTINF:-1 group-title="EVENT 22/FEBRUARI/2026" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png", 03:00 WIB Manchester City vs Newcastle United
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xl365.livecdnem.com/
 https://live.golivenow71.com/7a9308736e65939f194a9ee643b3d426/1771699587016/rchtwtx/index.m3u8
+
+
 
 
 
@@ -387,7 +395,7 @@ https://nextgenz.my.id/event/pidio/play.mpd?id=8237&type=dash
 #EXTINF:-1 tvg-id="MentariTV.id" group-title="NASIONAL" tvg-name="Mentari TV" tvg-logo="https://i.ibb.co.com/7Jnn95wt/MENTARI.png", MENTARI TV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/8237/res=720p/file/stream.mpd?hdntl=exp=1771690474~acl=%2fstream%2f8237%2fres%3d720p%2ffile%2fstream.mpd!%2fstream%2f8237%2ffile%2f*%2faac%2f*!%2fstream%2f8237%2ffile%2f*%2f*-720p%2f*!%2fstream%2f8237%2ffile%2f*%2f*-480p%2f*!%2fstream%2f8237%2ffile%2f*%2f*-360p%2f*~id=allUsers~data=hdntl~hmac=a8b0fcc597e4eeb9204463801a2feec8b0e73ecdc8fa348def44cdf68d919364
+https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/8237/res=720p/file/stream.mpd?hdntl=exp=1771717728~acl=%2fstream%2f8237%2fres%3d720p%2ffile%2fstream.mpd!%2fstream%2f8237%2ffile%2f*%2faac%2f*!%2fstream%2f8237%2ffile%2f*%2f*-720p%2f*!%2fstream%2f8237%2ffile%2f*%2f*-480p%2f*!%2fstream%2f8237%2ffile%2f*%2f*-360p%2f*~id=allUsers~data=hdntl~hmac=58372e3f9b49040d16ad1f41f493ab01a831b6bfe49bd84ad47f33fa8f52f280
 
 =======================================
 
