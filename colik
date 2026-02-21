@@ -133,7 +133,10 @@ http://195.178.110.2/hls/syyy.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 https://s.simskimsa.shop/hls/syyy.m3u8
 
-
+#EXTINF:-1 group-title="EVENT 22/FEBRUARI/2026" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png", 03:00 WIB Manchester City vs Newcastle United
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+https://livecdn-bp-nobar.maypn.stream/stream/2/chunks.m3u8?x-sign=f1eb953705ce1bff83ddb49bd09c5559&x-time=1771704480&is_vip=true&token=nobar-3865dcfc-33eb-4b37-9a52-58c144cf3717
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/1JwYR5NV/LALIGA.png" group-title="EVENT 22/FEBRUARI/2026", 03:00 WIB Atletico Madrid vs Espanyol
