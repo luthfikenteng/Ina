@@ -8,118 +8,9 @@ awalan
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/wZ40gYMj/IMG-20250430-174409.png" group-title="EVENT 22/FEBRUARI/2026" , 18:30 WIB Genoa vs Torino
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
-https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1JwYR5NV/LALIGA.png" group-title="EVENT 22/FEBRUARI/2026", 20:00 WIB Getafe vs Sevilla
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281
-https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd
-
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/spvCP0My/IMG-20250919-155828.png" group-title="EVENT 22/FEBRUARI/2026" , 20:30 WIB Persib vs Persita
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-http://205.237.104.40/hls/ZUUUZ.m3u8
-
-
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/spvCP0My/IMG-20250919-155828.png" group-title="EVENT 22/FEBRUARI/2026" , 20:30 WIB Persib vs Persita
 #EXTVLCOPT:http-referrer=https://ppdd18.plaifrdcikf.shop/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-https://xxyznt1-cf.didjhfyu8yg.sbs/auth%3D40e9a951db8f941c7514cc89a326b73adc8cf8f72a7ee6b0a80df20879f739aa10a1c0928d0d4c237f069b589b36379c4aa472843fd07cc05786ed53dca74c4a053eabd82fccc7f229a369f7975fd45053f6d546ada2e5e97516bfad04ec7706b3d9e96f490265fd291ebf4c0dd22ba20f58652e0a59df23cb8ccff6af01d4c8404f01126f1fb267fee80b514e1dd3acbf17fd2a470c53bfeedfd538db869510%26cid%3DQdG3zVBdGCScFxCZEPODz260222%26_v%3D2%26_r%3DHOiPYf%26_vis%3D301ccffc945a409e8fdf36c4c81aa4607e680128b4e5180b628d5ad4a0612b87%26_vvs%3D2d90ead2222f74a640c7dfa2d899b01584c04bea72b4c49028740fdc51b587ad%26_vas%3D1c162fc451c72989e700904b8069f372737c90c59163def95bb87bb96ff3f762/transcode/c406243_480p.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/spvCP0My/IMG-20250919-155828.png" group-title="EVENT 22/FEBRUARI/2026" , 20:30 WIB Dewa United vs Borneo
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-http://205.237.104.40/hls/ZUUU.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/spvCP0My/IMG-20250919-155828.png" group-title="EVENT 22/FEBRUARI/2026" , 20:30 WIB Dewa United vs Borneo
-#EXTVLCOPT:http-referrer=https://ppdd18.plaifrdcikf.shop/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-https://cxyznt3-cf.didjhfyu8yg.sbs/auth%3Dcc089b2c97e5e266ca59ccb100e9f96efe14234a440284728c01a50536cd2489b3f0d1dda5636c2bd22eca2c8ec89753c9b92405f2e1a88aa3736eff7906110fdc00dced9bcf6a340d0f45b448d8d3f13fc157273cdc842e34acf4d11e2fd4c44c0367f1f13999e6dcd9c7d5950a029af70db7a8fc658ab946b72cd86ebbda0145b29dad2fd4ebd34fdccff976ae53e7a55cbffd58f0153f516046c3e5366799%26cid%3DQdG3zVBdGCScFxCZEPODz260222%26_v%3D2%26_r%3D6-u2K3%26_vis%3Deaf2796a337096e7cc962f862825cece6269a9985a59e57f4bdb2acd817384a6%26_vvs%3Db2c7b928f70986042ecd700a0b9719394140b624a4f3f7bd08163ccada5b45b6%26_vas%3D4a0763e748cb06bc9abffbeb0eee2aaf1ae0329766c7f17c004ef445b2d7e5db/app/c405867.m3u8
-
-
-#EXTINF:-1 group-title="EVENT 22/FEBRUARI/2026" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png", 21:00 WIB Nottingham Forest vs Liverpool
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-http://195.178.110.27/hls/FAFAFAQQ.m3u8
-https://livecdn-bp-nobar.maypn.stream/stream/27/chunks.m3u8?x-sign=39d2b346b022f00ed35fb190f4554afe&x-time=1771768020&is_vip=true&token=nobar-8b64d7cf-c952-4478-b2cb-8290e1f223ae
-
-#EXTINF:-1 group-title="EVENT 22/FEBRUARI/2026" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png", 21:00 WIB Nottingham Forest vs Liverpool
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xl365.livecdnem.com/
-https://live.golivenow71.com/cc2c4a5a5a4cd66a6557f0be39cc968d/1771788524417/rchtwtx/index.m3u8
-
-
-#EXTINF:-1 group-title="EVENT 22/FEBRUARI/2026" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png", 21:00 WIB Crystal Palace vs Wolves
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-https://livecdn-bp-nobar.maypn.stream/stream/2/chunks.m3u8?x-sign=183b13025d3609be6a65d36e2a945bc5&x-time=1771768020&is_vip=true&token=nobar-8b64d7cf-c952-4478-b2cb-8290e1f223ae
-
-#EXTINF:-1 group-title="EVENT 22/FEBRUARI/2026" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png", 21:00 WIB Sunderland vs Fulham
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-https://livecdn-bp-nobar.maypn.stream/stream/38/chunks.m3u8?x-sign=ea28b0b685f070f30159fd793a6c7823&x-time=1771769280&is_vip=true&token=nobar-8b64d7cf-c952-4478-b2cb-8290e1f223ae
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/wZ40gYMj/IMG-20250430-174409.png" group-title="EVENT 22/FEBRUARI/2026" , 21:00 WIB Atalanta vs Napoli
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
-https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1JwYR5NV/LALIGA.png" group-title="EVENT 22/FEBRUARI/2026", 22:15 WIB Barcelona vs Levante
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281
-https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd
-
-#EXTINF:-1 group-title="EVENT 22/FEBRUARI/2026" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png", 23:30 WIB Tottenham Hotspur vs Arsenal
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-http://195.178.110.25/hls/ZIII.m3u8
-https://livecdn-bp-nobar.maypn.stream/stream/2/chunks.m3u8?x-sign=028b9ba18276d9bd886071da4c01fde0&x-time=1771777200&is_vip=true&token=nobar-8b64d7cf-c952-4478-b2cb-8290e1f223ae
-http://195.178.110.25/hls/ZIIIZ.m3u8
-https://d952e52961615b5576267090ed78c739.livehwc4.com/pullsgp.yyzb456.top/live/stream-698168_lhd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=a630aa17894badc049c19796cbf9b63a
-
-
-#EXTINF:-1 group-title="EVENT 22/FEBRUARI/2026" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png", 23:30 WIB Tottenham Hotspur vs Arsenal
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xl365.livecdnem.com/
-https://live.golivenow71.com/cc2c4a5a5a4cd66a6557f0be39cc968d/1771788524417/rchtwtx/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/wZ40gYMj/IMG-20250430-174409.png" group-title="EVENT 23/FEBRUARI/2026" , 00:00 WIB Milan vs Parma
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
-https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1JwYR5NV/LALIGA.png" group-title="EVENT 23/FEBRUARI/2026", 00:30 WIB Celta Vigo vs Mallorca
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
-https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
-
-
-
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/wZ40gYMj/IMG-20250430-174409.png" group-title="EVENT 23/FEBRUARI/2026" , 02:45 WIB Roma vs Cremonese
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -386,7 +277,7 @@ https://nextgenz.my.id/event/pidio/play.mpd?id=8237&type=dash
 #EXTINF:-1 tvg-id="MentariTV.id" group-title="NASIONAL" tvg-name="Mentari TV" tvg-logo="https://i.ibb.co.com/7Jnn95wt/MENTARI.png", MENTARI TV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/8237/res=720p/file/stream.mpd?hdntl=exp=1771791391~acl=%2fstream%2f8237%2fres%3d720p%2ffile%2fstream.mpd!%2fstream%2f8237%2ffile%2f*%2faac%2f*!%2fstream%2f8237%2ffile%2f*%2f*-720p%2f*!%2fstream%2f8237%2ffile%2f*%2f*-480p%2f*!%2fstream%2f8237%2ffile%2f*%2f*-360p%2f*~id=allUsers~data=hdntl~hmac=5ef6d1932c855fcb92f4b19089b57d7dee5065c8b2bcfd680cdf86312d268d4f
+https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/8237/res=720p/file/stream.mpd?hdntl=exp=1771807757~acl=%2fstream%2f8237%2fres%3d720p%2ffile%2fstream.mpd!%2fstream%2f8237%2ffile%2f*%2faac%2f*!%2fstream%2f8237%2ffile%2f*%2f*-720p%2f*!%2fstream%2f8237%2ffile%2f*%2f*-480p%2f*!%2fstream%2f8237%2ffile%2f*%2f*-360p%2f*~id=allUsers~data=hdntl~hmac=bfef15dbe747048557fb3a9e5e6d1377b6f632ee6f32f58fe8ac54ca9c3090a0
 
 =======================================
 
