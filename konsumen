@@ -34,9 +34,9 @@ http://205.237.104.40/hls/ZUUUZ.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/spvCP0My/IMG-20250919-155828.png" group-title="EVENT 22/FEBRUARI/2026" , 20:30 WIB Dewa United vs Borneo
-#EXTVLCOPT:http-referrer=https://xl365.livecdnem.com/
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-https://live.golivenow71.com/54879468f39eaa5a1b30a86a80ff8cd5/1771698726995/t7snhbq/t7snhbq@720p.m3u8
+http://205.237.104.40/hls/ZUUU.m3u8
 
 
 #EXTINF:-1 group-title="EVENT 22/FEBRUARI/2026" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png", 21:00 WIB Nottingham Forest vs Liverpool
