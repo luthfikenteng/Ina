@@ -41,14 +41,9 @@ https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 http://195.178.110.27/hls/rtrtrt.m3u8
 https://s.simskimsa.shop/hls/rtrtrt.m3u8
+http://195.178.110.37/hls/rtrtrtQ.m3u8
 https://d952e52961615b5576267090ed78c739.livehwc4.com/pullsgp.yyzb456.top/live/stream-698168_lhd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=c24fd42e709ac071fe34cedf868f29fe
 
-
-
-#EXTINF:-1 group-title="EVENT 24/FEBRUARI/2026" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png", 03:00 WIB Everton vs Manchester United
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xl365.livecdnem.com/
-https://live.golivenow71.com/55a81acf8762677ee32763cef116b10c/1771872779170/rchtwtx/index.m3u8
 
 
 
