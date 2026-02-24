@@ -32,7 +32,11 @@ https://live1.pro2cdnlive.com/live/channel1.m3u8?wsSecret=fad562b1cf5c5761632289
 =======================================
 #https://i.ibb.co.com/MxBt8tCs/IMG-20250825-164825.png
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/MxBt8tCs/IMG-20250825-164825.png" group-title="EVENT 6/FEBRUARI/2026", Badminton Asia Team Championships 2026
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/MxBt8tCs/IMG-20250825-164825.png" group-title="EVENT 24/FEBRUARI/2026", Yonex German Open 2026
+https://tfto4gr5domt1gc41hctogezdgc3pptwzc3jtf3a8r531cp1gh5djq31o.100ycdn.com/live1.pro2cdnlive.com/live/channel40.m3u8?wsSecret=1271b7ccfbba38e52561a3f1b7146eb5&wsABSTime=1771964031&wsSession=2c72275d00ca9a2478a0d49d-177192232802939&wsIPSercert=4b3bb8ae455929bbb94d84cbb18f700e&wsiphost=local&wsBindIP=1
+https://ikohls.tailaso.top/live/fTjyRr.m3u8
+https://tfto4gr5domt1gc41hctogezdgcjpptwzc3jtf3a8r531cp1gh5djq31o.100ycdn.com/live1.pro2cdnlive.com/live/channel42.m3u8?wsSecret=cc41da6cf932b62e053f1400589ba584&wsABSTime=1771964246&wsSession=ed98f8f28317b229d9755581-177192243296940&wsIPSercert=4b3bb8ae455929bbb94d84cbb18f700e&wsiphost=local&wsBindIP=1
+https://ikohls.tailaso.top/live/Y2sYfQ.m3u8
 
 
 
@@ -272,7 +276,7 @@ https://nextgenz.my.id/event/pidio/play.mpd?id=8237&type=dash
 #EXTINF:-1 tvg-id="MentariTV.id" group-title="NASIONAL" tvg-name="Mentari TV" tvg-logo="https://i.ibb.co.com/7Jnn95wt/MENTARI.png", MENTARI TV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/8237/res=720p/file/stream.mpd?hdntl=exp=1771898249~acl=%2fstream%2f8237%2fres%3d720p%2ffile%2fstream.mpd!%2fstream%2f8237%2ffile%2f*%2faac%2f*!%2fstream%2f8237%2ffile%2f*%2f*-720p%2f*!%2fstream%2f8237%2ffile%2f*%2f*-480p%2f*!%2fstream%2f8237%2ffile%2f*%2f*-360p%2f*~id=allUsers~data=hdntl~hmac=c30a39efeb81124d13543b13ee22cbec06d4f49591cf366b3adf85b1357f91fd
+https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/8237/res=720p/file/stream.mpd?hdntl=exp=1771949978~acl=%2fstream%2f8237%2fres%3d720p%2ffile%2fstream.mpd!%2fstream%2f8237%2ffile%2f*%2faac%2f*!%2fstream%2f8237%2ffile%2f*%2f*-720p%2f*!%2fstream%2f8237%2ffile%2f*%2f*-480p%2f*!%2fstream%2f8237%2ffile%2f*%2f*-360p%2f*~id=allUsers~data=hdntl~hmac=584c84f601817aa1730e8b484c6a9328b10adc5e629803783b862e642bc3a229
 
 =======================================
 
