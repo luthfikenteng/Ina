@@ -13,6 +13,13 @@ awalan
 #EXTVLCOPT:http-referrer=https://ppdd18.plaifrdcikf.shop/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
 
+#EXTINF:-1 tvg-logo="https://mediaindonesia.gumlet.io/news/2025/05/31/1748680674_38e981685335bb8209f7.jpeg?w=376&dpr=2.6" group-title="EVENT 25/FEBRUARI/2026" , 00:45 WIB Atletico Madrid vs Club Brugge
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd|referer=https://www.visionplus.id/
+
 
 #EXTINF:-1 tvg-logo="https://mediaindonesia.gumlet.io/news/2025/05/31/1748680674_38e981685335bb8209f7.jpeg?w=376&dpr=2.6" group-title="EVENT 25/FEBRUARI/2026" , 00:45 WIB Atletico Madrid vs Club Brugge
 #EXTVLCOPT:http-referrer=https://ppdd18.plaifrdcikf.shop/
@@ -34,8 +41,8 @@ https://stitcher.pluto.tv/stitch/hls/channel/63a0e33a45264d000850ed7e/master.m3u
 #https://i.ibb.co.com/MxBt8tCs/IMG-20250825-164825.png
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/MxBt8tCs/IMG-20250825-164825.png" group-title="EVENT 24/FEBRUARI/2026", Yonex German Open 2026
-https://tfto4gr5domt1gc41hctogezdgc3pptwzc3jtf3a8r531cp1gh5djq31o.100ycdn.com/live1.pro2cdnlive.com/live/channel40.m3u8?wsSecret=1271b7ccfbba38e52561a3f1b7146eb5&wsABSTime=1771964031&wsSession=2c72275d00ca9a2478a0d49d-177192232802939&wsIPSercert=4b3bb8ae455929bbb94d84cbb18f700e&wsiphost=local&wsBindIP=1
-https://tfto4gr5domt1gc41hctogezdgcjpptwzc3jtf3a8r531cp1gh5djq31o.100ycdn.com/live1.pro2cdnlive.com/live/channel42.m3u8?wsSecret=cc41da6cf932b62e053f1400589ba584&wsABSTime=1771964246&wsSession=ed98f8f28317b229d9755581-177192243296940&wsIPSercert=4b3bb8ae455929bbb94d84cbb18f700e&wsiphost=local&wsBindIP=1
+#https://tfto4gr5domt1gc41hctogezdgc3pptwzc3jtf3a8r531cp1gh5djq31o.100ycdn.com/live1.pro2cdnlive.com/live/channel40.m3u8?wsSecret=1271b7ccfbba38e52561a3f1b7146eb5&wsABSTime=1771964031&wsSession=2c72275d00ca9a2478a0d49d-177192232802939&wsIPSercert=4b3bb8ae455929bbb94d84cbb18f700e&wsiphost=local&wsBindIP=1
+#https://tfto4gr5domt1gc41hctogezdgcjpptwzc3jtf3a8r531cp1gh5djq31o.100ycdn.com/live1.pro2cdnlive.com/live/channel42.m3u8?wsSecret=cc41da6cf932b62e053f1400589ba584&wsABSTime=1771964246&wsSession=ed98f8f28317b229d9755581-177192243296940&wsIPSercert=4b3bb8ae455929bbb94d84cbb18f700e&wsiphost=local&wsBindIP=1
 
 
 
