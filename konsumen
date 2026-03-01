@@ -12,79 +12,19 @@ awalan
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/wZ40gYMj/IMG-20250430-174409.png" group-title="EVENT 1/MARET/2026" , 18:30 WIB Cremonese vs Milan
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
-https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/1JwYR5NV/LALIGA.png" group-title="EVENT 1/MARET/2026", 20:00 WIB Elche vs Espanyol
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281
-https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/spvCP0My/IMG-20250919-155828.png" group-title="EVENT 1/MARET/2026" , 20:30 WIB Persis Solo vs Persik Kediri
+
+#EXTINF:-1 group-title="EVENT 1/MARET/2026" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png", 21:00 WIB Arsenal vs Chelsea
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-http://205.237.104.40/hls/RARARAQQQQ.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/spvCP0My/IMG-20250919-155828.png" group-title="EVENT 1/MARET/2026" , 20:30 WIB Persis Solo vs Persik Kediri
-#EXTVLCOPT:http-referrer=https://ppdd18.plaifrdcikf.shop/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-https://xxyznt1-cf.didjhfyu8yg.sbs/auth%3D763dfa72bd153e78fde15adcb9bcb906a3b70fdbf9514313246696e89bc9e407ed328d3921381ef9f28ee39cf0f37bc705a1881c41e4a0b5b4da6dd51424a4ffe3ba99930091242d0a5c607af7b4e7d2a92f8fc00046b4ab747cac64ccb89021469c83b4d732f92d008811eb7cc5ce1edd218c6e3e58a3b4bc92e32e06b840f99bccabe33fb33d3b8bf1754346e2d12aac403303d97e97b155ee0167b8b77868%26cid%3DQdG3zVBdGCScFxCZEPODz260222%26_v%3D2%26_r%3D6yDOS9%26_vis%3D25f70a874893b9564cc87b77baf31a283fdb0c2b1caf0e83996d4e4a49ba1356%26_vvs%3D0f1d8fcafbe3f41e95a0989c9ac1659e312ca8fde094a0db026b77cc1eecb1d6%26_vas%3Db20668ba8ea9acbbd8b8d525c3e65daedb26980c57c69d288c5fa02989722849/app/c407578.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/spvCP0My/IMG-20250919-155828.png" group-title="EVENT 1/MARET/2026" , 20:30 WIB Dewa United vs Bhayangkara
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-http://205.237.104.40/hls/RARARAQQQ.m3u8
-
-
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/spvCP0My/IMG-20250919-155828.png" group-title="EVENT 1/MARET/2026" , 20:30 WIB Dewa United vs Bhayangkara
-#EXTVLCOPT:http-referrer=https://ppdd18.plaifrdcikf.shop/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-https://xyzna2-cf.didjhfyu8yg.sbs/auth%3D5903656ead8945c42af61cb91103db2e5c33007ddd5e666ed310b1dc1b29bf0bacc23ec0b56dc905379db3864a8f658430604e98857aa233fe1f197d28452d8490819133f4e2600ea24d45b42812cbdb437fc2fc920f6f9a86946ad9d293411e5b5c7a06741e5be40d52ad6614915d12ef51d9ef7104dbadfc777e55860215e7dff197919ec574068593e506c31a2cef3e1b821b63a2db4a565406836cf69d34%26cid%3DQdG3zVBdGCScFxCZEPODz260222%26_v%3D2%26_r%3DHKgtjm%26_vis%3D9032931401b593b943ecf13c97dfd4f4a5c87ece552136225c33152ab528e6b4%26_vvs%3D555d3c9d363d6f6a21b73fdbb7886cb6d650c7faa8e16beb0475f4a162fdaec0%26_vas%3D2bfcdae93642eff8fd3d142126f159a94ee11c1fa4333681f2a1a30d6c0bf179/app/c407387.m3u8
-
-
-#EXTINF:-1 group-title="EVENT 1/MARET/2026" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png", 21:00 WIB Fulham vs Tottenham Hotspur
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-http://195.178.110.37/hls/HMMMQ.m3u8
-https://d952e52961615b5576267090ed78c739.livehwc4.com/pullsgp.yyzb456.top/live/stream-698168_lhd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=9155e9bc8239fdd6e247cf76decb41b5
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/9b6f1f81-8f4e-4b18-8f44-42eab535468c/1080p/media.m3u8
-
-
-#EXTINF:-1 group-title="EVENT 1/MARET/2026" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png", 21:00 WIB Manchester United vs Crystal Palace
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-http://195.178.110.37/hls/HMMMQQ.m3u8
-https://d952e52961615b5576267090ed78c739.livehwc4.com/pullsgp.yyzb456.top/live/stream-308116_lhd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=9155e9bc8239fdd6e247cf76decb41b5
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/444d6050-d12f-4be5-973a-1a831748fdd6/1080p/media.m3u8
-
-
-
-#EXTINF:-1 group-title="EVENT 1/MARET/2026" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png", 21:00 WIB Brighton vs Nottingham Forest
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-http://195.178.110.37/hls/HMMM.m3u8
-https://d952e52961615b5576267090ed78c739.livehwc4.com/pullsgp.yyzb456.top/live/stream-259579_lhd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=9155e9bc8239fdd6e247cf76decb41b5
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/8f134584-947c-4d13-89dc-2caf6761d399/1080p/media.m3u8
-
+http://195.178.110.2/hls/HMMMQQ.m3u8
+https://d952e52961615b5576267090ed78c739.livehwc4.com/pullsgp.yyzb456.top/live/stream-698168_lhd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=5b6393414ce3c27c40481f0dcf0feda5
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/wZ40gYMj/IMG-20250430-174409.png" group-title="EVENT 1/MARET/2026" , 21:00 WIB Sassuolo vs Atalanta
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
-https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
 
 
 =======================================
@@ -339,7 +279,7 @@ http://202.169.224.202:8800/udp/239.9.1.32:1234
 #EXTINF:-1 tvg-id="MentariTV.id" group-title="NASIONAL" tvg-name="Mentari TV" tvg-logo="https://i.ibb.co.com/7Jnn95wt/MENTARI.png", MENTARI TV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/8237/res=720p/file/stream.mpd?hdntl=exp=1772373152~acl=%2fstream%2f8237%2fres%3d720p%2ffile%2fstream.mpd!%2fstream%2f8237%2ffile%2f*%2faac%2f*!%2fstream%2f8237%2ffile%2f*%2f*-720p%2f*!%2fstream%2f8237%2ffile%2f*%2f*-480p%2f*!%2fstream%2f8237%2ffile%2f*%2f*-360p%2f*~id=allUsers~data=hdntl~hmac=56caa46fcf40499909be5749a6ecfa9f6c38993fb335923dfb6a00cf9f4ff3c6
+https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/8237/res=720p/file/stream.mpd?hdntl=exp=1772395961~acl=%2fstream%2f8237%2fres%3d720p%2ffile%2fstream.mpd!%2fstream%2f8237%2ffile%2f*%2faac%2f*!%2fstream%2f8237%2ffile%2f*%2f*-720p%2f*!%2fstream%2f8237%2ffile%2f*%2f*-480p%2f*!%2fstream%2f8237%2ffile%2f*%2f*-360p%2f*~id=allUsers~data=hdntl~hmac=4470bc8cbcbbd5027de0ebd8ffb23acc6dc7abede30456bb893947ddb98d0a90
 
 =======================================
 
@@ -1278,7 +1218,8 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/dc63bd198bc44193b570e0567ff5b22c/ind
 #EXTINF:-1 tvg-id="MentariTV.id" group-title="KIDS" tvg-name="Mentari TV" tvg-logo="https://i.ibb.co.com/7Jnn95wt/MENTARI.png",MENTARI TV HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/8237/res=720p/file/stream.mpd?hdntl=exp=1772356830~acl=%2fstream%2f8237%2fres%3d720p%2ffile%2fstream.mpd!%2fstream%2f8237%2ffile%2f*%2faac%2f*!%2fstream%2f8237%2ffile%2f*%2f*-720p%2f*!%2fstream%2f8237%2ffile%2f*%2f*-480p%2f*!%2fstream%2f8237%2ffile%2f*%2f*-360p%2f*~id=allUsers~data=hdntl~hmac=4a9ec3a2e2d887127e2f5d7e662f1c1e05f57bc918323d4178ea5778dbc5d54f
+https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/8237/res=720p/file/stream.mpd?hdntl=exp=1772395961~acl=%2fstream%2f8237%2fres%3d720p%2ffile%2fstream.mpd!%2fstream%2f8237%2ffile%2f*%2faac%2f*!%2fstream%2f8237%2ffile%2f*%2f*-720p%2f*!%2fstream%2f8237%2ffile%2f*%2f*-480p%2f*!%2fstream%2f8237%2ffile%2f*%2f*-360p%2f*~id=allUsers~data=hdntl~hmac=4470bc8cbcbbd5027de0ebd8ffb23acc6dc7abede30456bb893947ddb98d0a90
+
 
 #EXTINF:-1 tvg-id="MentariTV.id" group-title="KIDS" tvg-name="Mentari TV" tvg-logo="https://i.ibb.co.com/7Jnn95wt/MENTARI.png",MENTARI TV HD 2
 #EXTHTTP:{"Authorization":"Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTg1NDk2NTQsImV4cCI6MTc1ODU2MDQ1NCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxMDMuMTA3Ljg0LjE4MyJ9fQ.wMafBJ9gJ_O3Fz6vZ6mjwls65hSlf-jupah8hsAIDEc", "X-TOKEN":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTg1NDk2NTQsImV4cCI6MTc1ODU2MDQ1NCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxMDMuMTA3Ljg0LjE4MyJ9fQ.0BUFpzNT3h5xuYuhmKHMffBu22_78xn792rAWxKY4RQ"}
