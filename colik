@@ -17,7 +17,7 @@ awalan
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/1JwYR5NV/LALIGA.png" group-title="EVENT 1/MARET/2026", 20:00 WIB Elche vs Espanyol
 
 
-#EXTINF:-1 group-title="EVENT 1/MARET/2026" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png", 21:00 WIB Arsenal vs Chelsea
+#EXTINF:-1 group-title="EVENT 1/MARET/2026" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png", 23:30 WIB Arsenal vs Chelsea
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
 http://195.178.110.2/hls/HMMMQQ.m3u8
