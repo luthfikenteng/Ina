@@ -48,11 +48,32 @@ https://live1.pro2cdnlive.com/live/channel1.m3u8?wsSecret=fad562b1cf5c5761632289
 https://xyzna2-cf.didjhfyu8yg.sbs/auth%3D5903656ead8945c42af61cb91103db2e5c33007ddd5e666ed310b1dc1b29bf0bacc23ec0b56dc905379db3864a8f658430604e98857aa233fe1f197d28452d8490819133f4e2600ea24d45b42812cbdb437fc2fc920f6f9a86946ad9d293411e5b5c7a06741e5be40d52ad6614915d12ef51d9ef7104dbadfc777e55860215e7dff197919ec574068593e506c31a2cef3e1b821b63a2db4a565406836cf69d34%26cid%3DQdG3zVBdGCScFxCZEPODz260222%26_v%3D2%26_r%3DHKgtjm%26_vis%3D9032931401b593b943ecf13c97dfd4f4a5c87ece552136225c33152ab528e6b4%26_vvs%3D555d3c9d363d6f6a21b73fdbb7886cb6d650c7faa8e16beb0475f4a162fdaec0%26_vas%3D2bfcdae93642eff8fd3d142126f159a94ee11c1fa4333681f2a1a30d6c0bf179/app/c407387.m3u8
 
 
-#EXTINF:-1 group-title="EVENT 28/FEBRUARI/2026" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png", 03:00 WIB Wolves vs Aston Villa
+#EXTINF:-1 group-title="EVENT 1/MARET/2026" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png", 21:00 WIB Fulham vs Tottenham Hotspur
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+https://hotlivezz179026907.akainu.xyz/kkkPJI-zn53jNgRSCdTQuw/Fv2lucGIbhPi2caWYvF5Lg/1764562804455/live/may251/chunklist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/wZ40gYMj/IMG-20250430-174409.png" group-title="EVENT 1/MARET/2026" , 02:45 WIB Inter vs Genoa
+#EXTINF:-1 group-title="EVENT 1/MARET/2026" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png", 21:00 WIB Manchester United vs Crystal Palace
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+https://hotlivezz179026907.akainu.xyz/kkkPJI-zn53jNgRSCdTQuw/Fv2lucGIbhPi2caWYvF5Lg/1764562804455/live/may251/chunklist.m3u8
+
+
+#EXTINF:-1 group-title="EVENT 1/MARET/2026" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png", 21:00 WIB Brighton vs Nottingham Forest
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+https://hotlivezz179026907.akainu.xyz/kkkPJI-zn53jNgRSCdTQuw/Fv2lucGIbhPi2caWYvF5Lg/1764562804455/live/may251/chunklist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/wZ40gYMj/IMG-20250430-174409.png" group-title="EVENT 1/MARET/2026" , 21:00 WIB Sassuolo vs Atalanta
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
+https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
 
 
 =======================================
