@@ -27,25 +27,28 @@ awalan
 
 #EXTINF:-1 group-title="EVENT 4/MARET/2026" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png", 02:30 WIB AFC Bournemouth vs Brentford
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.plcdn.xyz/
-https://play.live8818.com/nami/hd-en-6MuT7Jy1CgPd9Dzytw.m3u8
-
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+http://195.178.110.25/hls/PPPPY.m3u8
+https://d952e52961615b5576267090ed78c739.livehwc4.com/pullsgp.yyzb456.top/live/stream-534857_lhd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=6b899f443edb343848621d219295a8c9
 
 #EXTINF:-1 group-title="EVENT 4/MARET/2026" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png", 02:30 WIB Leeds United vs Sunderland
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.plcdn.xyz/
-https://play.live8818.com/nami/hd-en-6MuT7Jy1CgPd9Dzytw.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+http://195.178.110.2/hls/PPPPYQQ.m3u8
+https://d952e52961615b5576267090ed78c739.livehwc4.com/pullsgp.yyzb456.top/live/stream-503366_lhd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=ae9a653f0b35c8dcd2df264c0e529cdd
+
 
 
 #EXTINF:-1 group-title="EVENT 4/MARET/2026" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png", 02:30 WIB Everton vs Burnley
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.plcdn.xyz/
-https://play.live8818.com/nami/hd-en-6MuT7Jy1CgPd9Dzytw.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+http://195.178.110.27/hls/PPPPYQ.m3u8
+https://d952e52961615b5576267090ed78c739.livehwc4.com/pullsgp.yyzb456.top/live/stream-551166_lhd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=6b899f443edb343848621d219295a8c9
 
 
 #EXTINF:-1 group-title="EVENT 4/MARET/2026" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png", 03:15 WIB Wolves vs Liverpool
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.plcdn.xyz/
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 https://play.live8818.com/nami/hd-en-6MuT7Jy1CgPd9Dzytw.m3u8
 
 
