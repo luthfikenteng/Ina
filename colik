@@ -15,9 +15,6 @@ awalan
 #EXTINF:-1 group-title="EVENT 6/MARET/2026" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png", 03:00 WIB Tottenham Hotspur vs Crystal Palace
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-http://195.178.110.2/hls/nnnn.m3u8
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/e8f9e319-0797-46a8-ac36-9fdaeea3766a/1080p/media.m3u8
-https://de4cdb5858c97f07f5753843e535ca8e.livehwc4.com/pullsgp.yyzb456.top/live/stream-698168_lhd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=d701ac291306d2c122293b9ad3098239
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/wZ40gYMj/IMG-20250430-174409.png" group-title="EVENT 3/MARET/2026" , 00:30 WIB Pisa vs Bologna
@@ -252,8 +249,8 @@ http://202.169.224.202:8800/udp/239.9.1.32:1234
 #EXTINF:-1 tvg-id="MentariTV.id" group-title="NASIONAL" tvg-name="Mentari TV" tvg-logo="https://i.ibb.co.com/7Jnn95wt/MENTARI.png", MENTARI TV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/8237/res=720p/file/stream.mpd?hdntl=exp=1772754171~acl=%2fstream%2f8237%2fres%3d720p%2ffile%2fstream.mpd!%2fstream%2f8237%2ffile%2f*%2faac%2f*!%2fstream%2f8237%2ffile%2f*%2f*-720p%2f*!%2fstream%2f8237%2ffile%2f*%2f*-480p%2f*!%2fstream%2f8237%2ffile%2f*%2f*-360p%2f*~id=allUsers~data=hdntl~hmac=7f8f5e86da2e3204b5a7d313caf337013e5c67dcc1aaafb5f20967f8f74066b2
-
+https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/8237/res=720p/file/stream.mpd?hdntl=exp=1772763035~acl=%2fstream%2f8237%2fres%3d720p%2ffile%2fstream.mpd!%2fstream%2f8237%2ffile%2f*%2faac%2f*!%2fstream%2f8237%2ffile%2f*%2f*-720p%2f*!%2fstream%2f8237%2ffile%2f*%2f*-480p%2f*!%2fstream%2f8237%2ffile%2f*%2f*-360p%2f*~id=allUsers~data=hdntl~hmac=d2e3a02607ba48f9acf2e8fb77ebeecc807499b14ab1b06596a123a522e30e78
+https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/8237/file/primary/aac/aac-1772477445_11958332416.m4s?hdntl=exp=1772763035~acl=/stream/8237/res=720p/file/stream.mpd!/stream/8237/file/*/aac/*!/stream/8237/file/*/*-720p/*!/stream/8237/file/*/*-480p/*!/stream/8237/file/*/*-360p/*~id=allUsers~data=hdntl~hmac=d2e3a02607ba48f9acf2e8fb77ebeecc807499b14ab1b06596a123a522e30e78
 =======================================
 
 #EXTINF:0 tvg-logo="https://i.ibb.co.com/1GWCbMRs/ANTV.png" group-title="NASIONAL" tvg-id="ANTV",  ANTV
