@@ -6,11 +6,6 @@ awalan
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/MxBt8tCs/IMG-20250825-164825.png" group-title="EVENT 4/MARET/2026", Yonex All England 2026
 #EXTVLCOPT:http-referrer=https://xl365.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel41.m3u8?wsSecret=bfb3fa1a0430c200aff758112ddb794d&wsABSTime=1772676764
-https://live1.pro2cdnlive.com/live/channel42.m3u8?wsSecret=cf09b391c25c539016af2890ef6c24cd&wsABSTime=1772676886
-https://live1.pro2cdnlive.com/live/channel43.m3u8?wsSecret=a577dbfdd4b5bbd4270e2c8e7aac8dca&wsABSTime=1772677215
-https://live1.pro2cdnlive.com/live/channel40.m3u8?wsSecret=f2e6fcd4ba28a1786b6a03f00429fbd5&wsABSTime=1772677423
-
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/spvCP0My/IMG-20250919-155828.png" group-title="EVENT 3/MARET/2026" , 20:30 WIB Persija vs Borneo
@@ -32,56 +27,6 @@ https://live1.pro2cdnlive.com/live/channel40.m3u8?wsSecret=f2e6fcd4ba28a1786b6a0
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/wZ40gYMj/IMG-20250430-174409.png" group-title="EVENT 3/MARET/2026" , 00:30 WIB Pisa vs Bologna
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/1JwYR5NV/LALIGA.png" group-title="EVENT 5/MARET/2026", 01:00 WIB Rayo Vallecano vs Real Oviedo
-#EXTVLCOPT:http-referrer=https://arwen1.panaka1.cfd/000/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://arwen1.panaka1.cfd/puk2/usergenrnd0clv03fyt.m3u8
-
-
-#EXTINF:-1 group-title="EVENT 5/MARET/2026" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png", 02:30 WIB Manchester City vs Nottingham Forest
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-http://195.178.110.37/hls/UUUUQQQ.m3u8
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/8830e608-13f9-4df9-9c09-37f18e3c77cb/1080p/media.m3u8
-
-#EXTINF:-1 group-title="EVENT 5/MARET/2026" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png", 02:30 WIB Brighton vs Arsenal
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-http://195.178.110.2/hls/UUUUQ.m3u8
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/798576a8-8cb3-4da9-beea-ab8e05cc2c0a/1080p/media.m3u8
-
-#EXTINF:-1 group-title="EVENT 5/MARET/2026" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png", 02:30 WIB Fulham vs West Ham
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-http://195.178.110.25/hls/UUUUQQ.m3u8
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/7dd6015c-aea6-4be0-b11e-c3be54d18bc5/1080p/media.m3u8
-
-#EXTINF:-1 group-title="EVENT 5/MARET/2026" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png", 02:30 WIB Aston Villa vs Chelsea
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-http://195.178.110.25/hls/UUUU.m3u8
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/d6d0f549-6114-4e01-abca-d5f55f7c8059/1080p/media.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRO4jNp3Ad1GQ_YtlN482ZLRbVwLInDozDBh6xEjifcHw&s=10" group-title="EVENT 5/MARET/2026", 03:00 WIB Real Sociedad vs Athletic Club
-#EXTVLCOPT:http-referrer=https://arwen1.panaka1.cfd/000/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://arwen1.panaka1.cfd/puk2/usergenrnd0clv03fyt.m3u8
-
-
-
-#EXTINF:-1 group-title="EVENT 5/MARET/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5m8PDEdWvCFFGZytDLT2MFhZ5aNeYX9j_9Q1P75U5Vw&s=10", 03:00 WIB Lazio vs Atalanta
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd
-
-
-
-#EXTINF:-1 group-title="EVENT 5/MARET/2026" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png", 03:15 WIB Newcastle United vs Manchester United
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-http://195.178.110.25/hls/GNNN.m3u8
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/4226ba68-9a2e-4397-a7b2-9762f3fc5766/1080p/media.m3u8
-https://d952e52961615b5576267090ed78c739.livehwc4.com/pullsgp.yyzb456.top/live/stream-698168_lhd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=ecaef5d2ac14723ea3d35aa79b296188
 
 
 =======================================
