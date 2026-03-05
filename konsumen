@@ -3,9 +3,14 @@
 awalan
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/MxBt8tCs/IMG-20250825-164825.png" group-title="EVENT 4/MARET/2026", Yonex All England 2026
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/MxBt8tCs/IMG-20250825-164825.png" group-title="EVENT 5/MARET/2026", Yonex All England 2026
 #EXTVLCOPT:http-referrer=https://xl365.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+https://live1.pro2cdnlive.com/live/channel40.m3u8?wsSecret=f2e6fcd4ba28a1786b6a03f00429fbd5&wsABSTime=1772677423
+https://live1.pro2cdnlive.com/live/channel41.m3u8?wsSecret=bfb3fa1a0430c200aff758112ddb794d&wsABSTime=1772676764
+https://live1.pro2cdnlive.com/live/channel42.m3u8?wsSecret=cf09b391c25c539016af2890ef6c24cd&wsABSTime=1772676886
+https://tftx4gr5domt1gc41hctogezdgpbpptwzc3jtf3a8r531cp1gh5djq31o.100ycdn.com/live1.pro2cdnlive.com/live/channel43.m3u8?wsSecret=a577dbfdd4b5bbd4270e2c8e7aac8dca&wsABSTime=1772677215&wsSession=ce9a9b8f1970bb8058051a6f-177270769177412&wsIPSercert=8f2bb9798a5769f45779e3f0725e904f&wsiphost=local&wsBindIP=1
+
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/spvCP0My/IMG-20250919-155828.png" group-title="EVENT 3/MARET/2026" , 20:30 WIB Persija vs Borneo
