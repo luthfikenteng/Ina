@@ -41,7 +41,7 @@ https://live1.pro2cdnlive.com/live/channel15.m3u8?wsSecret=7f53719fd18faf141e9ae
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/wZ40gYMj/IMG-20250430-174409.png" group-title="EVENT 7/MARET/2026" , 02:45 WIB Juventus vs Pisa
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/wZ40gYMj/IMG-20250430-174409.png" group-title="EVENT 8/MARET/2026" , 02:45 WIB Juventus vs Pisa
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
