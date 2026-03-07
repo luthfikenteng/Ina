@@ -50,11 +50,11 @@ https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTddNp14Bl02azp-QyLdIyqknhFftC-cehADT5eI1qfxw&s=10" group-title="EVENT 8/MARET/2026", 03:00 WIB Newcastle United vs Manchester City
-#EXTVLCOPT:http-referrer=https://xl365.livecdnem.com/
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel15.m3u8?wsSecret=7f53719fd18faf141e9ae5738038ee8c&wsABSTime=1772828928
-
-
+http://195.178.110.37/hls/SQSQSQQ.m3u8
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/cfb66866-f39b-4ebe-8b0b-9257809642f1/1080p/media.m3u8
+https://d952e52961615b5576267090ed78c739.livehwc4.com/pullsgp.yyzb456.top/live/stream-865057_lhd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=c33b76740b817b210b732fa35177cb36
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/1JwYR5NV/LALIGA.png" group-title="EVENT 8/MARET/2026", 03:00 WIB Atletic Club vs Barcelona
