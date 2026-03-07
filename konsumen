@@ -3,9 +3,29 @@
 awalan
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/MxBt8tCs/IMG-20250825-164825.png" group-title="EVENT 6/MARET/2026", Yonex All England 2026
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/MxBt8tCs/IMG-20250825-164825.png" group-title="EVENT 7/MARET/2026", Yonex All England 2026
 #EXTVLCOPT:http-referrer=https://xl365.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+https://live1.pro2cdnlive.com/live/channel40.m3u8?wsSecret=f2e6fcd4ba28a1786b6a03f00429fbd5&wsABSTime=1772677423
+https://mobilelive-play.ysp.cctv.cn/ikotv/863DA64B48DF3A744E4490FF1634895658D53865B61B9029D6FCA66FBCFB8099F17ACD33E631D3031CEF59A8C89FB91A5A1F27817EFE263FB1A9DE1F843C206C0316E64C5421F82968D13B97B9EDBF4182A7C2E67650F3785A01879E7BAD3DBF84EDC054320D7BB5AD5ADA956B8CF416/2030262801_shd.m3u8?svrtime=1772875865&pid=600218991&m3u8_with_time_tag=2&cdn=5201&revoi=&app_id=519748109&guid=mhaklnq9_dh9vvf6p8h5&ysign=12fa2eae8d1fd4d7a204183daa599907&ytime=1772875865&ytype=1
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTddNp14Bl02azp-QyLdIyqknhFftC-cehADT5eI1qfxw&s=10" group-title="EVENT 7/MARET/2026", 19:15 WIB Mansfield vs Arsenal
+#EXTVLCOPT:http-referrer=https://xl365.livecdnem.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+http://195.178.110.2/hls/ZUUU.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/spvCP0My/IMG-20250919-155828.png" group-title="EVENT 6/MARET/2026" , 20:30 WIB Arema vs Bali United
 #EXTVLCOPT:http-referrer=https://xl365.livecdnem.com/
