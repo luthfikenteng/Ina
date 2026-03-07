@@ -13,6 +13,11 @@ https://mobilelive-play.ysp.cctv.cn/ikotv/863DA64B48DF3A744E4490FF1634895658D538
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTddNp14Bl02azp-QyLdIyqknhFftC-cehADT5eI1qfxw&s=10" group-title="EVENT 7/MARET/2026", 19:15 WIB Mansfield vs Arsenal
 #EXTVLCOPT:http-referrer=https://xl365.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+https://live1.pro2cdnlive.com/live/channel5.m3u8?wsSecret=7523bc03fc0453754be94ec10e1bbc39&wsABSTime=1768677726
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTddNp14Bl02azp-QyLdIyqknhFftC-cehADT5eI1qfxw&s=10" group-title="EVENT 7/MARET/2026", 19:15 WIB Mansfield vs Arsenal
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
 http://195.178.110.2/hls/ZUUU.m3u8
 
 
