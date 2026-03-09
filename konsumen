@@ -27,7 +27,7 @@ https://dash2.antik.sk/stream/nvidia_nova_sport1/playlist_cenc.mpd
 
 
 
-EXTINF:-1 tvg-logo="https://i.ibb.co.com/wZ40gYMj/IMG-20250430-174409.png" group-title="EVENT 10/MARET/2026" , 02:45 WIB Lazio vs Sassuolo
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/wZ40gYMj/IMG-20250430-174409.png" group-title="EVENT 10/MARET/2026" , 02:45 WIB Lazio vs Sassuolo
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
