@@ -38,20 +38,19 @@ http://iptvtree.net:8080/F33848/cbd9779b/162138
 
 #EXTINF:-1 group-title="EVENT 15/MARET/2026" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png", 21:00 WIB Crystal Palace vs Leeds United
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.plcdn.xyz/
-https://live1.pro2cdnlive.com/live/channel15.m3u8?wsSecret=796baabf373552b168b54380f98ae384&wsABSTime=1773517215
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+http://195.178.110.27/hls/VVVVJQ.m3u8
 
 #EXTINF:-1 group-title="EVENT 15/MARET/2026" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png", 21:00 WIB Manchester United vs Aston Villa
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.plcdn.xyz/
-https://live1.pro2cdnlive.com/live/channel1.m3u8?wsSecret=fad562b1cf5c5761632289120dbeb592&wsABSTime=1771959245
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+http://195.178.110.2/hls/VVVVJQQ.m3u8
 
 
 #EXTINF:-1 group-title="EVENT 15/MARET/2026" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png", 21:00 WIB Nothingham Forest vs Fulham
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.plcdn.xyz/
-https://live1.pro2cdnlive.com/live/channel1.m3u8?wsSecret=fad562b1cf5c5761632289120dbeb592&wsABSTime=1771959245
-
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+http://195.178.110.25/hls/VVVVJQQQ.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/wZ40gYMj/IMG-20250430-174409.png" group-title="EVENT 15/MARET/2026" , 21:00 WIB Sassuolo vs Bologna
 #KODIPROP:inputstreamaddon=inputstream.adaptive
