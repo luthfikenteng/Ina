@@ -24,9 +24,11 @@ awalan
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_aGAI0bl4O2KSdHDJ7RY_rQauQ0u0Pirh0WJrzrNiR-rO3gScbewwHRE&s=10" group-title="EVENT 18/MARET/2026", 00:45 WIB Sporting CP vs Bodo/Glimt
-#EXTVLCOPT:http-referrer=https://saruman1.tharen1.cfd/000/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://saruman1.tharen1.cfd/puk1/usergenrx0cir27aq.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+http://195.178.110.2/hls/MMMMQ.m3u8
+https://d952e52961615b5576267090ed78c739.livehwc4.com/pullsgp.yyzb456.top/live/stream-698168_lhd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=da41f7d602e130da3bb6287a4e140081
+http://195.178.110.2/hls/MMMMQQ.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_aGAI0bl4O2KSdHDJ7RY_rQauQ0u0Pirh0WJrzrNiR-rO3gScbewwHRE&s=10" group-title="EVENT 18/MARET/2026", 03:00 WIB Arsenal vs Bayer Leverkusen
