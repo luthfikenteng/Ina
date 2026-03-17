@@ -20,8 +20,30 @@ awalan
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
 
 
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/1JwYR5NV/LALIGA.png" group-title="EVENT 17/MARET/2026", 03:00 WIB Rayo Vallecano vs Levante
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_aGAI0bl4O2KSdHDJ7RY_rQauQ0u0Pirh0WJrzrNiR-rO3gScbewwHRE&s=10" group-title="EVENT 18/MARET/2026", 00:45 WIB Sporting CP vs Bodo/Glimt
+#EXTVLCOPT:http-referrer=https://saruman1.tharen1.cfd/000/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+https://saruman1.tharen1.cfd/puk1/usergenrx0cir27aq.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_aGAI0bl4O2KSdHDJ7RY_rQauQ0u0Pirh0WJrzrNiR-rO3gScbewwHRE&s=10" group-title="EVENT 18/MARET/2026", 03:00 WIB Arsenal vs Bayer Leverkusen
+#EXTVLCOPT:http-referrer=https://saruman1.tharen1.cfd/000/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+https://saruman1.tharen1.cfd/puk1/usergenrx0cir27aq.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_aGAI0bl4O2KSdHDJ7RY_rQauQ0u0Pirh0WJrzrNiR-rO3gScbewwHRE&s=10" group-title="EVENT 18/MARET/2026", 03:00 WIB Chelsea vs PSG
+#EXTVLCOPT:http-referrer=https://saruman1.tharen1.cfd/000/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+https://saruman1.tharen1.cfd/puk1/usergenrx0cir27aq.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_aGAI0bl4O2KSdHDJ7RY_rQauQ0u0Pirh0WJrzrNiR-rO3gScbewwHRE&s=10" group-title="EVENT 18/MARET/2026", 03:00 WIB Manchester City vs Real Madrid
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://kudos111.terranovax1.cfd/000/
+https://kudos111.terranovax1.cfd/kuk4/usergendx0thc60skrdnnd.m3u8
 
 =======================================
 =================VOLI==================
