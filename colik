@@ -60,9 +60,11 @@ awalan
 
 
 #EXTINF:-1 tvg-logo="https://static.republika.co.id/uploads/member/images/news/medium_fifa_series_2026_by_kevin_18c6ef1019_1763812205.jpg" group-title="EVENT 27/MARET/2026", 20:00 WIB Indonesia vs St. Kitts and Nevis
-#EXTVLCOPT:http-referrer=https://xl365.livecdnem.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel11.m3u8?wsSecret=71c13ab6d69a095b8c94b64aeac78596&wsABSTime=1766260690
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 15) ExoPlayerLib/2.13.2
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://www.plus.fifa.com/flux-capacitor/api/v1/licensing/widevine/modular?sessionId=Q_LTuXEpuWEvRlIYf2Ayujfy_8Vz_VN8SwUfJvTL_9eVAvXHzXf1r1b4oOHto2rQZUEcQPnP8p6ue9ceyDDzrOuYrV2HzP6dR_IzzxIkMqM
+https://fifa.global.transmit.live/eu-west-1-a/dash/68c40af04301491a9f4cfb58/2026_03_24_14_57_52_1d1c0f22-4786-4220-a1e3-b000c1e9b4d7/PROD_CMAF_CENC/index-dash.mpd
+
 
 
 
