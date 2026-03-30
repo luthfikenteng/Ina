@@ -59,11 +59,11 @@ awalan
 
 
 
-#EXTINF:-1 tvg-logo="https://static.republika.co.id/uploads/member/images/news/medium_fifa_series_2026_by_kevin_18c6ef1019_1763812205.jpg" group-title="EVENT 27/MARET/2026", 20:00 WIB Indonesia vs St. Kitts and Nevis
+#EXTINF:-1 tvg-logo="https://static.republika.co.id/uploads/member/images/news/medium_fifa_series_2026_by_kevin_18c6ef1019_1763812205.jpg" group-title="EVENT 30/MARET/2026", 20:00 WIB Indonesia vs Bulgaria
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 15) ExoPlayerLib/2.13.2
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://www.plus.fifa.com/flux-capacitor/api/v1/licensing/widevine/modular?sessionId=Q_LTuXEpuWEvRlIYf2Ayujfy_8Vz_VN8SwUfJvTL_9eVAvXHzXf1r1b4oOHto2rQZUEcQPnP8p6ue9ceyDDzrOuYrV2HzP6dR_IzzxIkMqM
-#https://fifa.global.transmit.live/eu-west-1-a/dash/68c40af04301491a9f4cfb58/2026_03_24_14_57_52_1d1c0f22-4786-4220-a1e3-b000c1e9b4d7/PROD_CMAF_CENC/index-dash.mpd
+https://fifa.global.transmit.live/eu-west-1-a/dash/68c40af04301491a9f4cfb58/2026_03_24_14_57_52_1d1c0f22-4786-4220-a1e3-b000c1e9b4d7/PROD_CMAF_CENC/index-dash.mpd
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLNX7T6OtB3czVZNDkEnkJjnFipNLj_NHoV9FZ8jk_2jTIqPiMOGcV200&s=10" group-title="EVENT 29/MARET/2026", 00:00 WIB Hungaria vs Slovenia
