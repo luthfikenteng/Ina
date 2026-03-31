@@ -2918,7 +2918,7 @@ https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
 =======================================
 
 #EXTINF:-1 tvg-id="60492fdd9989d30007ccd30a" tvg-logo="https://i.ibb.co.com/sv5HKNvv/BEINEXS.png" group-title="SPORTS",beIN Sports Xtra en Español
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8
+#https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8
 
 =======================================
 
@@ -2990,26 +2990,26 @@ https://dash2.antik.sk/stream/nvidia_sport2/playlist_cenc.mpd
 #EXTINF:-1 tvg-id="digisport 1" tvg-logo="https://i.ibb.co.com/Y7fh0HCd/IMG-20250827-161212.png" group-title="SPORTS" , DIGI SPORT 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://cool-tv.net/
-https://pulse1.zalmora.cfd/kuk1/usergendx472snx93kdgwqrnd.m3u8
+#https://pulse1.zalmora.cfd/kuk1/usergendx472snx93kdgwqrnd.m3u8
 
 =======================================
 
 #EXTINF:-1 tvg-id="digisport 2" tvg-logo="https://i.ibb.co.com/842fF0x1/IMG-20250827-161637.png" group-title="SPORTS" , DIGI SPORT 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://ultra2.falconx1.cfd/000/
-https://ultra2.falconx1.cfd/kuk2/usergendx0ul2J8tsDx9lgcddwqrnd.m3u8
+#https://ultra2.falconx1.cfd/kuk2/usergendx0ul2J8tsDx9lgcddwqrnd.m3u8
 
 =======================================
 
 #EXTINF:-1 tvg-id="digisport 3" tvg-logo="https://i.ibb.co.com/q3YpZPv9/IMG-20250827-161457.png" group-title="SPORTS" , DIGI SPORT 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://ultra2.falconx1.cfd/000/
-https://ultra2.falconx1.cfd/kuk3/usergendx0slfk9QssDx9lgxlsdmqrnd.m3u8
+#https://ultra2.falconx1.cfd/kuk3/usergendx0slfk9QssDx9lgxlsdmqrnd.m3u8
 
 #EXTINF:-1 tvg-id="digisport 4" tvg-logo="https://i.ibb.co.com/7xRqzYk2/IMG-20250828-110400.png" group-title="SPORTS" , DIGI SPORT 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://kudos111.terranovax1.cfd/000/
-https://kudos111.terranovax1.cfd/kuk4/usergendx0thc60skrdnnd.m3u8
+#https://kudos111.terranovax1.cfd/kuk4/usergendx0thc60skrdnnd.m3u8
 
 =======================================
 
@@ -3020,13 +3020,13 @@ https://kudos111.terranovax1.cfd/kuk4/usergendx0thc60skrdnnd.m3u8
 #EXTINF:-1 tvg-id="RAI Sport.it" tvg-logo="https://i.ibb.co.com/WNCMfrdv/RAI.png" group-title="SPORTS",Rai Sport
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=87a5beac54c74bf4a95a142b90fb817f:4618d1d8d1903223990635f181afd202
-https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-dash/raisport1.mpd
+#https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-dash/raisport1.mpd
 
 =======================================
 
 #EXTINF:-1 tvg-id="" tvg-name="KBSN" tvg-logo="https://i.ibb.co.com/VpjxC4z3/KBSN.png" group-title="SPORTS",KBSN SPORTS
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; V2030 Build/SP1A.210812.003)
-http://live-edge-th136.myjktv.com/watch/live.m3u8?video=kbs_n_sports_540&sid=dCk6rPUY0pBERsgC2xzzO5QlzIz20f3RTAyLnas0&secret=84927af7841b99ed3d4916a2b4b583b4&time=1696425172|Referer=https://kakotv.com/
+#http://live-edge-th136.myjktv.com/watch/live.m3u8?video=kbs_n_sports_540&sid=dCk6rPUY0pBERsgC2xzzO5QlzIz20f3RTAyLnas0&secret=84927af7841b99ed3d4916a2b4b583b4&time=1696425172|Referer=https://kakotv.com/
 
 =======================================
 
@@ -3364,11 +3364,6 @@ https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/fdx74zqzhu/out/v1/7
 #https://uselector.cdn.intigral-ott.net/SPZ/SPZ.isml/manifest.mpd
  =======================================
 
-#EXTINF:-1 cuid="819" tvg-name="tdp 🇪🇸" tvg-id="ESBC410000577" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Tve_teledeporte.png" group-title="SPORTS", TDP 🇪??
-https://d1cctoeg0n48w5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-mnixw9wn5ugmv/TeledeporteES.m3u8
-
-=======================================
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/Y7nLSnwC/IMG-20260204-003144.png" group-title="SPORTS",LALIGA TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a
@@ -3465,7 +3460,7 @@ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/bcj3iscpd6/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7e99f734748d098cbfa2f7bde968dd44:98ea6088c3222e9abaf61e537804d6cc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.62
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/u142pfptsm/out/v1/1caa3b2dfa9e448d8f61209bdfc1acdc/cenc.mpd
+#https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/u142pfptsm/out/v1/1caa3b2dfa9e448d8f61209bdfc1acdc/cenc.mpd
 
 =======================================
 
@@ -3473,7 +3468,7 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/u142pfptsm/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=362202eefc5d9e42eec6450998cce9e8:978dfdd53186ec587d940e0bd1e2ec42
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.62
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/v5v9yfn62i/out/v1/0991e33d09da46b2857fcc845db95c40/cenc.mpd
+#https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/v5v9yfn62i/out/v1/0991e33d09da46b2857fcc845db95c40/cenc.mpd
 
 =======================================
 
@@ -3481,7 +3476,7 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/v5v9yfn62i/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d9097a1b7d04b7786b29f2b0e155316d:279695ebe0fb1bc5787422b6b59ce8a8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.62
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/mrskysvotx/out/v1/ad58961bd8fd48d2944e461c034b8914/cenc.mpd
+#https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/mrskysvotx/out/v1/ad58961bd8fd48d2944e461c034b8914/cenc.mpd
 
 =======================================
 
@@ -3489,7 +3484,7 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/mrskysvotx/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e1aa4c4daf6222a04f7ae80130495ea1:31bb1ee9a8d088f62b0103550c301449
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.62
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/irtfdsri14/out/v1/165128c314e944faa3d79e107974b323/cenc.mpd
+#https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/irtfdsri14/out/v1/165128c314e944faa3d79e107974b323/cenc.mpd
 
 =======================================
 
@@ -3497,7 +3492,7 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/irtfdsri14/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8ce20e2a4b3dd04e0a6e5469b7cb47be:163c323b65d0597b13f037641fd67b1e
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.62
-https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/mttgh1c4ei/out/v1/9cc664b146744e2ba23066aa048efbc5/cenc.mpd
+#https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/mttgh1c4ei/out/v1/9cc664b146744e2ba23066aa048efbc5/cenc.mpd
 
 =======================================
 
@@ -3559,7 +3554,7 @@ https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/mttgh1c4ei/
 #EXTINF:-1 tvg-id="unifi" group-title="SPORTS" tvg-logo="https://i.ibb.co.com/DDRYMfyD/US.png",Unifi Sports 1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=Y2M1YzUwMTEtMWYxYi0zYjAxLTg2M2YtZjJmZTA2MWIyM2Nh
-https://unifi-live11.secureswiftcontent.com/UnifiHD/live11.mpd
+#https://unifi-live11.secureswiftcontent.com/UnifiHD/live11.mpd
 
 =======================================
 
@@ -3590,7 +3585,7 @@ https://amg17560-fcb-amg17560c2-rakuten-es-4889.playouts.now.amagi.tv/playlist.m
 =======================================
 
 #EXTINF:-1 tvg-name="BOXINGTV" tvg-logo="https://i.ibb.co.com/NnWwbZG9/BT.png" group-title="SPORTS",BOXINGTV
-https://1180885077.rsc.cdn77.org/HLS/BOXINGTV.m3u8
+#https://1180885077.rsc.cdn77.org/HLS/BOXINGTV.m3u8
 
 =======================================
 
@@ -3600,17 +3595,17 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 =======================================
 
 #EXTINF:-1 group-title="SPORTS" tvg-id="dubaisports1.ae" tvg-logo="https://i.ibb.co.com/qLC38xG4/DUB.png",Dubai Sports 1 
-https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/master.m3u8 
+#https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/master.m3u8 
 
 =======================================
 
 #EXTINF:-1 group-title="SPORTS" tvg-id="dubaisports2.ae" tvg-logo="https://i.ibb.co.com/HL5GmR2W/DUB2.png",Dubai Sports 2 
-https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/master.m3u8 
+#https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/master.m3u8 
 
 =======================================
 
 #EXTINF:-1 group-title="SPORTS" tvg-id="dubaisports3.ae" tvg-logo="https://i.ibb.co.com/rGQ2G8jS/DUB3.png",Dubai Sports 3 
-https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd5/smil:dubaisportshd5.smil/master.m3u8 
+#https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd5/smil:dubaisportshd5.smil/master.m3u8 
 
 =======================================
 
