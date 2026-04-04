@@ -7,36 +7,24 @@ awalan
 #EXTVLCOPT:http-referrer=https://xl365.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzZZUWOp_hOagHMcF4vEL7-wJjoB0IYz6bqgobwz8C7g&s=10" group-title="EVENT 4/APRIL/2026" , 18:45 WIB Manchester City vs Liverpool
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/4c596a5d-29d4-4007-8bf9-a9b5c1131fcc/1080p/media.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/spvCP0My/IMG-20250919-155828.png" group-title="EVENT 4/APRIL/2026" , 19:00 WIB Persebaya vs Persita
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-http://195.178.110.2/hls/ttttq.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/spvCP0My/IMG-20250919-155828.png" group-title="EVENT 4/APRIL/2026" , 19:00 WIB Persebaya vs Persita
 #EXTVLCOPT:http-referrer=https://ppdd18.plaifrdcikf.shop/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-https://cxyznt3-cf.didjhfyu8yg.sbs/auth%3D3768352a1afb49dd9625c6e5b8c48378289dc60f76b87db38ff121ff43b916781ed603c8799f7b7545d64b38b135d6d315f4d7816efee9a730f6bc33183f9139cb091a434d7ad9f99d4cff7b16e2e6cd7d42bd5e5b7d5c662b4a6ce094953ee828c83732e5ce46d47f38772b88cde56d52e0d207eeb5e8fe5a8f139c2a4acce787d8ad29cf67dfbf7f7ce46ec99a8fe1d4ad09b609bcc4065334292fb08cc964%26cid%3DLdV2wawfzl1fwrZo7RY8n260327%26_v%3D2%26_r%3D5rqr4u%26_vis%3D26b7099b6cba26025f5a27059b1f5cb9b7d0ac075d8191bfeaf0ce14c0feea0d%26_vvs%3D53e63bf1c1383a2094917fb178282dbaedc6abd6848dded2b5c448459abb5ea1%26_vas%3D6680f91fc674083ad8e65743481b90ec8ef929c793bfdfdcb4a421499eaa8014/app/c414198.m3u8
 
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/1JwYR5NV/LALIGA.png" group-title="EVENT 4/APRIL/2026", 19:00 WIB Real Sociedad vs Levante
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
-https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/wZ40gYMj/IMG-20250430-174409.png" group-title="EVENT 4/APRIL/2026" , 20:00 WIB Sassuolo vs Cagliari
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
-https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
+
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/1JwYR5NV/LALIGA.png" group-title="EVENT 4/APRIL/2026", 21:15 WIB Mallorca vs Real Madrid
@@ -73,46 +61,34 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/in
 
 
 
-#EXTINF:-1 group-title="EVENT 21/MARET/2026" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png", 22:00 WIB Fulham vs Burnley
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzZZUWOp_hOagHMcF4vEL7-wJjoB0IYz6bqgobwz8C7g&s=10" group-title="EVENT 4/APRIL/2026" , 23:15 WIB Chelsea vs Port Vale
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/4c596a5d-29d4-4007-8bf9-a9b5c1131fcc/1080p/media.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/wZ40gYMj/IMG-20250430-174409.png" group-title="EVENT 5/APRIL/2026" , 01:45 WIB Lazio vs Parma
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
+https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
 
 
-#EXTINF:-1 tvg-logo="https://static.republika.co.id/uploads/member/images/news/medium_fifa_series_2026_by_kevin_18c6ef1019_1763812205.jpg" group-title="EVENT 30/MARET/2026", 20:00 WIB Indonesia vs Bulgaria
-#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 15) ExoPlayerLib/2.13.2
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://www.plus.fifa.com/flux-capacitor/api/v1/licensing/widevine/modular?sessionId=VNB63TbeJ7tIF963NguEjCQsfqrzG7Ljcl0BGQNMsjtvecYef74hRn1NelA9JckMEfS0JSS8RSL3PJey2Kgc9YpHBMTynC0NkGLQg-jizFs
-#https://d7pd9oqdl4d44.cloudfront.net/2026_03_26_15_54_26_1045349a-2c5a-4c82-a015-cf64dbc78f2d/PROD_CMAF_CENC/index-dash.mpd
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzZZUWOp_hOagHMcF4vEL7-wJjoB0IYz6bqgobwz8C7g&s=10" group-title="EVENT 5/APRIL/2026" , 02:00 WIB Southampton vs Arsenal
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/4c596a5d-29d4-4007-8bf9-a9b5c1131fcc/1080p/media.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1JwYR5NV/LALIGA.png" group-title="EVENT 5/APRIL/2026", 02:00 WIB Atletico Madrid vs Barcelona
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
+https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
 
 
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLNX7T6OtB3czVZNDkEnkJjnFipNLj_NHoV9FZ8jk_2jTIqPiMOGcV200&s=10" group-title="EVENT 29/MARET/2026", 00:00 WIB Hungaria vs Slovenia
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
-#EXTVLCOPT:http-referrer=https://visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
-
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLNX7T6OtB3czVZNDkEnkJjnFipNLj_NHoV9FZ8jk_2jTIqPiMOGcV200&s=10" group-title="EVENT 29/MARET/2026", 00:00 WIB Skotlandia vs Jepang
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=39c4dc6704cf4ceea2fd4863b88d8a7d:4e9d7954c2ff46759289da4fc9f018ea
-#EXTVLCOPT:http-referrer=https://visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
-
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLNX7T6OtB3czVZNDkEnkJjnFipNLj_NHoV9FZ8jk_2jTIqPiMOGcV200&s=10" group-title="EVENT 28/MARET/2026", 02:45 WIB Inggris vs Uruguay
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16
-#EXTVLCOPT:http-referrer=https://visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tmpzbbdj9y/out/v1/962736723a534ba294e7592fef49827b/cenc.mpd
 
 =======================================
 =================VOLI==================
