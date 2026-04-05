@@ -9,15 +9,21 @@ awalan
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/spvCP0My/IMG-20250919-155828.png" group-title="EVENT 4/APRIL/2026" , 15:30 WIB Bhayangkara vs Persija
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/spvCP0My/IMG-20250919-155828.png" group-title="EVENT /APRIL/2026" , 15:30 WIB Bhayangkara vs Persija
 #EXTVLCOPT:http-referrer=https://lxscore.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
 https://stream.titanlivescore.com/live/LXSCORE-4879974.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/spvCP0My/IMG-20250919-155828.png" group-title="EVENT 4/APRIL/2026" , 19:00 WIB Persebaya vs Persita
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/spvCP0My/IMG-20250919-155828.png" group-title="EVENT /APRIL/2026" , 15:30 WIB Bhayangkara vs Persija
 #EXTVLCOPT:http-referrer=https://ppdd18.plaifrdcikf.shop/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+https://xyzna2-cf.didjhfyu8yg.sbs/auth%3Dc6d6b41ab7388f626c8f77ca7dcc46fc1dc312768634301d4a6a07b92988c902bfcba84fa04d76c49b01e17894f06157de0cc666ccc6c585b038f2a726d3bf003633594de47c83be04f4a44d2f16ddb2d1429e5af1171b19e74400993ef4c741143c51328ca10be3cdd85ee8ad37bef8624ddeeac94feb9e343079279f571a39c71789b375e553d5ab2afd5abd23f66353292ecd77f4a29d327d7ad5b7fe9911%26cid%3DLdV2wawfzl1fwrZo7RY8n260327%26_v%3D2%26_r%3Dh7-Xi3%26_vis%3Dd839dc3fe6f55a7a8ee6a74cccba3bc72c15ce1b82eef2cfe2fe2fe6f6c52861%26_vvs%3Dd04b6802d1cc023e6f2db92440bf7f4e46317bc663ee7a86cdc0333dfb1bac46%26_vas%3Dd857273410b60610336170b34d894fda519302f8eef0cafb066b76c88a25fefc/app/c414695.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/spvCP0My/IMG-20250919-155828.png" group-title="EVENT /APRIL/2026" , 15:30 WIB Bhayangkara vs Persija
+#EXTVLCOPT:http-referrer=https://xl365.livecdnem.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+https://live1.pro2cdnlive.com/live/channel11.m3u8?wsSecret=71c13ab6d69a095b8c94b64aeac78596&wsABSTime=1766260690
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/1JwYR5NV/LALIGA.png" group-title="EVENT 4/APRIL/2026", 19:00 WIB Real Sociedad vs Levante
