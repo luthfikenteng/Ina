@@ -9,10 +9,7 @@ awalan
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/MxBt8tCs/IMG-20250825-164825.png" group-title="EVENT 8/APRIL/2026", BAC 2026
 #EXTVLCOPT:http-referrer=https://xl365.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-https://2a6096f50ffc05c7c7766fbd1358fce6.v.smtcdns.net/play.cbalive.weibisai.com/live/4163949374969061_AiHD.m3u8?txSecret=cab965cf5fdb37568a8c1dc9057e9ceb&txTime=69D6DDF0
-https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4163949610994061_AiHD.m3u8?txSecret=d2051aee009e3d21903787ca00f28399&txTime=69D6DDF0
-https://2a6096f50ffc05c7c7766fbd1358fce6.v.smtcdns.net/play.cbalive.weibisai.com/live/4163949780639061_AiHD.m3u8?txSecret=53180d30d23e0df2963c7547148e6535&txTime=69D6DDF0
-https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4163949926550061_AiHD.m3u8?txSecret=95c025b5843ac066c6c65581985fa695&txTime=69D6DDF0
+
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvxW_LLP1BpCRwksEO9ZborWgJqrpJe-X7zt2gXlJ4yjYewAKwLzEWxPL5&s=10" group-title="EVENT 9/APRIL/2026", 02:00 WIB PSG vs Liverpool
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -21,6 +18,12 @@ https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com
 #KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd|referer=https://www.visionplus.id/
 
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvxW_LLP1BpCRwksEO9ZborWgJqrpJe-X7zt2gXlJ4yjYewAKwLzEWxPL5&s=10" group-title="EVENT 9/APRIL/2026", 02:00 WIB PSG vs Liverpool
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dca8597f12f8d6928b55c1291c7bb300:36c8b3f51d474b95f0adad70899343e1
+#https://live-atv-cdn.izzigo.tv/2/out/u/dash/TNT-HD/default.mpd
+
+
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvxW_LLP1BpCRwksEO9ZborWgJqrpJe-X7zt2gXlJ4yjYewAKwLzEWxPL5&s=10" group-title="EVENT 9/APRIL/2026", 02:00 WIB Barcelona vs Atletico Madrid
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -28,6 +31,14 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/ind
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd|referer=https://www.visionplus.id/
+
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvxW_LLP1BpCRwksEO9ZborWgJqrpJe-X7zt2gXlJ4yjYewAKwLzEWxPL5&s=10" group-title="EVENT 9/APRIL/2026", 02:00 WIB Barcelona vs Atletico Madrid
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f69bf028397e4ecfafce84abb7c5fe2b:25028aad0e2003b2785cf5196a4e2fa1
+https://livevlisctcdnw.seenow.vn/livesnv2/BONGDA_HD/manifest.mpd
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/spvCP0My/IMG-20250919-155828.png" group-title="EVENT 5/APRIL/2026" , 15:30 WIB Bhayangkara vs Persija
@@ -2885,7 +2896,7 @@ https://livevlisctcdnw.seenow.vn/livesnv2/THETHAO_GOLF_HD/manifest.mpd
 #EXTVLCOPT--http-reconnect=true
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
-#http://qw.live.pv-cdn.net/OTTB/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
+https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
 
 =======================================
 
@@ -2894,8 +2905,8 @@ https://livevlisctcdnw.seenow.vn/livesnv2/THETHAO_GOLF_HD/manifest.mpd
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
-#http://qw.live.pv-cdn.net/OTTB/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=3dcfbec0e7146928baa55210bf2cb62f:bc85f74f815d9be5ae1dd6defaa05135
+https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/clients/dash/enc/uiffe4jhf0/out/v1/3534efafca8c4815adbb4d2e9a1fe003/cenc.mpd
 
 =======================================
 
