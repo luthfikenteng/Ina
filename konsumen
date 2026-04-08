@@ -9,10 +9,7 @@ awalan
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/MxBt8tCs/IMG-20250825-164825.png" group-title="EVENT 8/APRIL/2026", BAC 2026
 #EXTVLCOPT:http-referrer=https://xl365.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-https://2a6096f50ffc05c7c7766fbd1358fce6.v.smtcdns.net/play.cbalive.weibisai.com/live/4163949374969061_AiHD.m3u8?txSecret=cab965cf5fdb37568a8c1dc9057e9ceb&txTime=69D6DDF0
-https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4163949610994061_AiHD.m3u8?txSecret=d2051aee009e3d21903787ca00f28399&txTime=69D6DDF0
-https://2a6096f50ffc05c7c7766fbd1358fce6.v.smtcdns.net/play.cbalive.weibisai.com/live/4163949780639061_AiHD.m3u8?txSecret=53180d30d23e0df2963c7547148e6535&txTime=69D6DDF0
-https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4163949926550061_AiHD.m3u8?txSecret=95c025b5843ac066c6c65581985fa695&txTime=69D6DDF0
+
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvxW_LLP1BpCRwksEO9ZborWgJqrpJe-X7zt2gXlJ4yjYewAKwLzEWxPL5&s=10" group-title="EVENT 9/APRIL/2026", 02:00 WIB PSG vs Liverpool
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
