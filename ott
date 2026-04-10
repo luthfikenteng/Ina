@@ -4146,16 +4146,16 @@ https://cctv-backend.cirebonkab.go.id:6969/memfs/a33ab3f4-2d64-42f4-8f8b-733ba26
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CCTV CIREBON",ATCS Simpang Samsat
-https://cctv.cirebonkota.go.id/hls/atcs-simpang-samsat/index.m3u8
+https://rtsp.run/output/33ae1607-a589-4241-b37a-00d4455c3e27/output.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CCTV CIREBON",ATCS Simpang Perumnas
-https://cctv.cirebonkota.go.id/hls/atcs-simpang-perumnas/index.m3u8
+https://rtsp.run/output/f9608daf-103b-48ab-a0b6-5029429fcf9a/output.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CCTV CIREBON",ATCS Simpang Kanggraksan
 https://cctv.cirebonkota.go.id/hls/atcs-simpang-kanggraksan/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CCTV CIREBON",ATCS Simpang Terminal
-https://cctv.cirebonkota.go.id/hls/atcs-simpang-terminal/index.m3u8
+https://rtsp.run/output/6963534e-02cf-4f18-bad9-6f0342cda451/output.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CCTV CIREBON",Lemah Wungkuk
 https://cctv.cirebonkota.go.id/hls/lemah-wungkuk/index.m3u8
@@ -4164,31 +4164,31 @@ https://cctv.cirebonkota.go.id/hls/lemah-wungkuk/index.m3u8
 https://cctv.cirebonkota.go.id/hls/satpol-pp/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CCTV CIREBON",ATCS Simpang Krucuk
-https://cctv.cirebonkota.go.id/hls/atcs-simpang-krucuk/index.m3u8
+https://rtsp.run/output/2c37226e-d1b7-436c-86b1-fd33c92b97b9/output.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CCTV CIREBON",ATCS Simpang Cabang Bayi
-https://cctv.cirebonkota.go.id/hls/atcs-simpang-jabang-bayi/index.m3u8
+https://rtsp.run/output/988e5dd2-c918-46b6-b9af-1e44637af528/output.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CCTV CIREBON",ATCS Simpang Asia
-https://cctv.cirebonkota.go.id/hls/atcs-simpang-asia/index.m3u8
+https://rtsp.run/output/a4251707-6a5e-4b59-a5ec-64d29f894a4f/output.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CCTV CIREBON",ATCS Simpang Gunung Sari
-https://cctv.cirebonkota.go.id/hls/atcs-simpang-gunung-sari/index.m3u8
+https://rtsp.run/output/0e7eb476-71fc-4d9d-bcc9-af024c7263c3/output.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CCTV CIREBON",ATCS Simpang Winaon
-https://cctv.cirebonkota.go.id/hls/atcs-simpang-winaon/index.m3u8
+https://rtsp.run/output/2f470f77-87de-4257-9482-c1c758344b81/output.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CCTV CIREBON",ATCS Simpang Siliwangi
-https://cctv.cirebonkota.go.id/hls/atcs-simpang-siliwangi/index.m3u8
+https://rtsp.run/output/85baa020-05af-48ce-bc87-771dbf673687/output.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CCTV CIREBON",ATCS Depan Kantor PD
-https://cctv.cirebonkota.go.id/hls/atcs-depan-kantor-pd/index.m3u8
+https://rtsp.run/output/ab79dc07-303b-419e-b3bb-d0372ff1c95f/output.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CCTV CIREBON",Sudarsono
 https://cctv.cirebonkota.go.id/hls/sudarsono/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CCTV CIREBON",ATCS Simpang Diklatpri
-https://cctv.cirebonkota.go.id/hls/atcs-simpang-diklatpri/index.m3u8
+https://rtsp.run/output/46adc916-e1bc-47fc-911c-8be866b2ae0a/output.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CCTV CIREBON",Flyover Pegambiran
 https://cctv.cirebonkota.go.id/hls/flyover-pegambiran/index.m3u8
