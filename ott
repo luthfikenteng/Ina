@@ -7,13 +7,13 @@ awalan
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=60dc08aae52f4c0b806a8e43f24a12c8:30d5b579966d822b215ec51a91d8a271
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd
+#https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/MxBt8tCs/IMG-20250825-164825.png" group-title="EVENT 10/APRIL/2026", BAC 2026
 #EXTVLCOPT:http-referrer=https://xl365.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4163951178888061_AiHD.m3u8?txSecret=63a4d01bb91cb3f02297bb993072eb66&txTime=69D99D10
+#https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4163951178888061_AiHD.m3u8?txSecret=63a4d01bb91cb3f02297bb993072eb66&txTime=69D99D10
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/MxBt8tCs/IMG-20250825-164825.png" group-title="EVENT 10/APRIL/2026", BAC 2026
@@ -33,7 +33,7 @@ https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/spvCP0My/IMG-20250919-155828.png" group-title="EVENT 10/APRIL/2026" , 19:00 WIB Persita vs Arema
 #EXTVLCOPT:http-referrer=https://xl365.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel16.m3u8?wsSecret=51a39e92e5c7c38026b2e293bf4ae031&wsABSTime=1775843403
+#https://live1.pro2cdnlive.com/live/channel16.m3u8?wsSecret=51a39e92e5c7c38026b2e293bf4ae031&wsABSTime=1775843403
 
 
 
@@ -103,13 +103,31 @@ https://live1.pro2cdnlive.com/live/channel16.m3u8?wsSecret=51a39e92e5c7c38026b2e
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/wZ40gYMj/IMG-20250430-174409.png" group-title="EVENT 7/APRIL/2026" , 01:45 WIB Napoli vs Milan
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1JwYR5NV/LALIGA.png" group-title="EVENT 7/APRIL/2026", 02:00 WIB Girona vs Villareal
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzZZUWOp_hOagHMcF4vEL7-wJjoB0IYz6bqgobwz8C7g&s=10" group-title="EVENT 4/APRIL/2026" , 23:15 WIB Chelsea vs Port Vale
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/wZ40gYMj/IMG-20250430-174409.png" group-title="EVENT 5/APRIL/2026" , 01:45 WIB Lazio vs Parma
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/wZ40gYMj/IMG-20250430-174409.png" group-title="EVENT 11/APRIL/2026" , 01:45 WIB Roma vs Pisa
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
+https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1JwYR5NV/LALIGA.png" group-title="EVENT 11/APRIL/2026", 02:00 WIB Real Madrid vs Girona
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281
+https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd
+
+
+#EXTINF:-1 group-title="EVENT 11/APRIL/2026" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png", 02:00 WIB West Ham United vs Wolves
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.plcdn.xyz/
+https://play.live8818.com/nami/hd-en-6MuT7Jy1CgPd9Dzytw.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzZZUWOp_hOagHMcF4vEL7-wJjoB0IYz6bqgobwz8C7g&s=10" group-title="EVENT 5/APRIL/2026" , 02:00 WIB Southampton vs Arsenal
