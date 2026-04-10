@@ -3815,7 +3815,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-http://bestp55.xyz:80/A7FC77529786/519C32219872/1052628|referrer=https://rtmklik.rtm.gov.my/
+#http://bestp55.xyz:80/A7FC77529786/519C32219872/1052628|referrer=https://rtmklik.rtm.gov.my/
 
 =======================================
 
@@ -3830,7 +3830,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
 =======================================
 
 #EXTINF:-1 group-title="Malaysia" tvg-id="DidikTVKPM" tvg-name="DidikTv KPM" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/DidikTv.png",DidikTv KPM
-https://mifntechnology.github.io/siaranMy/channels/DidikTvKPM/index.m3u8
+#https://mifntechnology.github.io/siaranMy/channels/DidikTvKPM/index.m3u8
 
 =======================================
 
@@ -3838,12 +3838,12 @@ https://mifntechnology.github.io/siaranMy/channels/DidikTvKPM/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a9c619074ed38c20e25ad36c3c57c10c:056e1e49573d2caee5cb4fe78f8c4f3d
-https://get.perfecttv.net/dash.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=8tv
+#https://get.perfecttv.net/dash.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=8tv
 
 =======================================
 
 #EXTINF:-1 group-title="Malaysia" tvg-id="TV9" tvg-name="TV9" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Tv9.png",TV9
-https://mifntechnology.github.io/siaranMy/channels/Tv9/index.m3u8
+#https://mifntechnology.github.io/siaranMy/channels/Tv9/index.m3u8
 
 =======================================
 
@@ -3864,7 +3864,7 @@ https://mifntechnology.github.io/siaranMy/channels/AstroAwani/index.m3u8
 
 #EXTINF:-1 group-title="Malaysia" tvg-id="DuniaSinema" tvg-name="DuniaSinema" tvg-logo="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/DuniaSinema.png", Dunia Sinema
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://mifntechnology.github.io/siaranMy/channels/DuniaSinema/index.m3u8
+#https://mifntechnology.github.io/siaranMy/channels/DuniaSinema/index.m3u8
 
 =======================================
 
@@ -3995,46 +3995,41 @@ https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
 https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist_b4096000_slENG.m3u8?id=1229
 
 =======================================
+ ==============SINGAPURA==============
+=======================================
 
 #EXTINF:-1 group-title="SINGAPURA" tvg-url="https://bit.ly/SingaporeEpg" tvg-id="Ch 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Mediacorp_Channel_5_2023.svg/1200px-Mediacorp_Channel_5_2023.svg.png",Channel 5
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1b8ee3db17d34547983a2c3ddc3d28fc:fb5deb5f688fd67ec20c71191c7f4590
-https://tglmp02.akamaized.net/out/v1/8c503a6966554d439035588f10505eee/manifest.mpd
+#https://tglmp02.akamaized.net/out/v1/8c503a6966554d439035588f10505eee/manifest.mpd
 
 =======================================
 
 #EXTINF:-1 group-title="SINGAPURA" tvg-url="https://bit.ly/SingaporeEpg" tvg-id="Ch 8" tvg-logo="https://static.wikia.nocookie.net/iepfanon/images/8/84/Mediacorp_Channel_8_2023.png",Channel 8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=970d551e974d4a82b45213dc07541131:7586b55fcb4807a5b74764e5564d8095
-https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/260581/assetType/media/assetFileId/5754124/contextType/PLAYBACK/isAltUrl/False/a.mpd
-
-=======================================
-
-#EXTINF:-1 group-title="SINGAPURA" tvg-url="https://bit.ly/SingaporeEpg" tvg-id="Ch 8" tvg-logo="https://static.wikia.nocookie.net/iepfanon/images/8/84/Mediacorp_Channel_8_2023.png",Channel 8
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=a4315e7266024dfc9ddb9667727d9635:485a55859fda05a1e3e8ae1ae63906e8 
-https://tglmp02.akamaized.net/out/v1/423fa206c4ea458ebe83d6edd172eb10/manifest.mpd
+#https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/260581/assetType/media/assetFileId/5754124/contextType/PLAYBACK/isAltUrl/False/a.mpd
 
 =======================================
 
 #EXTINF:-1 group-title="SINGAPURA" tvg-url="https://bit.ly/SingaporeEpg" tvg-id="Ch U" tvg-logo="https://namwahpai.sg/wp-content/uploads/2021/04/Lark20210405-184740.png",Channel U
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=981fda1d42aa4d81b367d85794447e2a:61f0b7e53768214d4d56917fbcfc2723
-https://tglmp03.akamaized.net/out/v1/151218455da04a47be327aa14be3e5cb/manifest.mpd
+#https://tglmp03.akamaized.net/out/v1/151218455da04a47be327aa14be3e5cb/manifest.mpd
 
 =======================================
 
 #EXTINF:-1 group-title="SINGAPURA" tvg-url="https://bit.ly/SingaporeEpg" tvg-id="Suria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Mediacorp_Suria_2023.svg/640px-Mediacorp_Suria_2023.svg.png",Suria
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=db646b3742ba42718a28436a1f401aa8:75a545066954b9b7fafa96d72a844e00
-https://tglmp04.akamaized.net/out/v1/00ac947de8174a54bd0f52226115d1db/manifest.mpd
+#https://tglmp04.akamaized.net/out/v1/00ac947de8174a54bd0f52226115d1db/manifest.mpd
 
 =======================================
 
 #EXTINF:-1  tvg-id="Vasantham" group-title="SINGAPURA" tvg-url="https://bit.ly/SingaporeEpg" tvg-logo="https://i.ibb.co.com/YR4kxxX/mvasantham.png",Vasantham
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=239d5a09def64776bec6c74271dfafa9:8e3c76df4951eaa21e9c9c28af6b56d1
-https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/237653/assetType/media/assetFileId/5754108/contextType/PLAYBACK/isAltUrl/False/a.mpd
+#https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/237653/assetType/media/assetFileId/5754108/contextType/PLAYBACK/isAltUrl/False/a.mpd
 
 =======================================
 
@@ -4053,19 +4048,102 @@ https://tglmp03.akamaized.net/out/v1/be732843b7d24bada23e13810282e55f/manifest.m
 =======================================
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Mediacorp_flat_logo_%282015%29.svg/640px-Mediacorp_flat_logo_%282015%29.svg.png" group-title="SINGAPURA",Mediacorp Entertainment English
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mediacorp-entertainment-english/manifest.m3u8
+#https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mediacorp-entertainment-english/manifest.m3u8
 
 =======================================
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Mediacorp_flat_logo_%282015%29.svg/640px-Mediacorp_flat_logo_%282015%29.svg.png" group-title="SINGAPURA",Mediacorp Entertainment Tamil
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mediacorp-entertainment-tamil/manifest.m3u8
+#https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mediacorp-entertainment-tamil/manifest.m3u8
 
 =======================================
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Mediacorp_flat_logo_%282015%29.svg/640px-Mediacorp_flat_logo_%282015%29.svg.png" group-title="SINGAPURA",Mediacorp Entertainment China
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mediacorp-entertainment-chinese/manifest.m3u8
+#https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mediacorp-entertainment-chinese/manifest.m3u8
 
 =======================================
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CCTV CIREBON", Kec. Arjawinangun - Simpang Pasar Junjang 2
+https://cctv-backend.cirebonkab.go.id:6969/memfs/6cb72e32-4f64-4550-8557-a83b9c8e891a_output_0.m3u8?session=FgX3jEgDNwTtrTzQ8MnR6R
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CCTV CIREBON", Kec. Ciwaringin - Simpang Ciwaringin
+https://cctv-backend.cirebonkab.go.id:6969/memfs/7dbb977f-10ba-44be-8f19-2a9fb8979f66_output_0.m3u8?session=NybKRKaJW3ZPSHNG3THo4d
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CCTV CIREBON", Kec. Palimanan - Simpang Palimanan
+https://cctv-backend.cirebonkab.go.id:6969/memfs/dd29bcf6-7848-4332-85ac-8ddf65222d6b_output_0.m3u8?session=QsHybFjC3JwtcrfGVjDyz4
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CCTV CIREBON", Kec. Plumbon - Exit Tol 1
+https://cctv-backend.cirebonkab.go.id:6969/memfs/88f8003a-9c18-4f0a-b4fa-f5b2c4f62143_output_0.m3u8?session=k25eAZnCDQ9ZENF4YKZZsQ
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CCTV CIREBON", Kec. Weru - Simpang Plered 3
+https://cctv-backend.cirebonkab.go.id:6969/memfs/bcf098d1-1af4-459e-8d4a-8b94a8aed0e4_output_0.m3u8?session=8H6e3JJDh9XV8AdHt2qgeY
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CCTV CIREBON", Kec. Kedawung - Bundaran Kedawung 2
+https://cctv-backend.cirebonkab.go.id:6969/memfs/a71f2a04-c4c0-4280-9d71-d572d01fe1e6_output_0.m3u8?session=EEBUcUUaKRWPzKjWusLkUf
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CCTV CIREBON", Kec. Gn. Jati - Jl. Makam Sunan
+https://cctv-backend.cirebonkab.go.id:6969/memfs/3aa30f9f-06c8-41c7-9571-04fc18c7fc7a_output_0.m3u8?session=XYeu9sk45dQXbzGhBPeWU4
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CCTV CIREBON", Kec. Dukupuntang - Simpang Pasar Kramat 2
+https://cctv-backend.cirebonkab.go.id:6969/memfs/40ea0ae3-26cf-4fa5-8802-48198d143f14_output_0.m3u8?session=8mf8REGU4EaSuxsRRfZQUq
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CCTV CIREBON", Kec. Sumber - Simpang Kenanga
+https://cctv-backend.cirebonkab.go.id:6969/memfs/f7b1c4fe-8bee-4624-8e91-7765d5640ee8_output_0.m3u8?session=AKfcgP2rd28FGwwxMeZsTE
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CCTV CIREBON", Kec. Sumber - Simpang Taman PKK
+https://cctv-backend.cirebonkab.go.id:6969/memfs/0d3f6af6-b408-4739-914c-4fe42da1489a_output_0.m3u8?session=GHA8GMQAT4Z7N8wSCmthFd
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CCTV CIREBON", Kec. Sumber - Simpang Pasar Sumber 1
+https://cctv-backend.cirebonkab.go.id:6969/memfs/9e5cb528-a433-468d-9570-be0ec1316120_output_0.m3u8?session=msMso7LjubfLieczigtpz9
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CCTV CIREBON", Kec. Sumber - Simpang Disdik
+https://cctv-backend.cirebonkab.go.id:6969/memfs/157dd0a9-f3e6-4ea6-afad-f56b645e49ec_output_0.m3u8?session=bP2tJpHMqd9ykRLwjkHVf3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CCTV CIREBON", Kec. Sumber - Alun-alun Pataraksa
+https://cctv-backend.cirebonkab.go.id:6969/memfs/4c99a769-bce9-47f4-86ea-683aab391d25_output_0.m3u8?session=M6VAcqefBd756pPYRmw97e
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CCTV CIREBON", Kec. Sumber - Simpang DPRD
+https://cctv-backend.cirebonkab.go.id:6969/memfs/f8083a29-d000-449a-9cb9-5491afa300f9_output_0.m3u8?session=DtAW4JBggKdFLuVJXjmnyK
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CCTV CIREBON", Kec. Sumber - Jalan Kantor DPRD
+https://cctv-backend.cirebonkab.go.id:6969/memfs/02201aa3-ae20-41d8-9a8e-bf2f13cad662_output_0.m3u8?session=PPWAUdokF7kHTEokigCjCD
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CCTV CIREBON", Kec. Sumber - Jalan Kantor Bupati
+https://cctv-backend.cirebonkab.go.id:6969/memfs/880e7686-641a-4517-ad40-e7c6729e6cc8_output_0.m3u8?session=P27ydS9mmEUMSrNi49LQDG
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CCTV CIREBON", Kec. Sumber - Simpang Babakan Sumber
+https://cctv-backend.cirebonkab.go.id:6969/memfs/d53579b1-67a7-4577-931e-dd491f332d4b_output_0.m3u8?session=m5s4zsCpCdVT5azPVtPMk3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CCTV CIREBON", Kec. Astanajapura - Exit Tol 1
+https://cctv-backend.cirebonkab.go.id:6969/memfs/9b4e3bec-18b3-4604-bfb3-62f0cff4750d_output_0.m3u8?session=ExkGNpq4rAJomiXcs7FMLi
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CCTV CIREBON", Kec. Astanajapura - Exit Tol 2
+https://cctv-backend.cirebonkab.go.id:6969/memfs/30338f79-90e2-4684-ac21-f338c264ad86_output_0.m3u8?session=3v97pC9br5pkuJZ6sNq7yc
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CCTV CIREBON", Kec. Lemahabang - Pasar Cipeujeuh Wetan
+https://cctv-backend.cirebonkab.go.id:6969/memfs/55cfddc7-66d0-4731-a5f2-359594fee9ca_output_0.m3u8?session=TMBKPRWNU47LUMkTjRcUet
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CCTV CIREBON", Kec. Gebang - Simpang Pasar Gebang
+https://cctv-backend.cirebonkab.go.id:6969/memfs/1f5811df-8482-4a55-b00e-f4010c78bbee_output_0.m3u8?session=ccRLxSKbvPrYGx3kykdTJj
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CCTV CIREBON", Kec. Pabuaran - Simpang Pasar Pabuaran
+https://cctv-backend.cirebonkab.go.id:6969/memfs/26d5ad8b-8f22-4002-b31f-387e1cd2cbee_output_0.m3u8?session=jP9dMkaPyrtGKutF2rYuoZ
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CCTV CIREBON", Kec. Losari - Simpang Terminal Losari 1
+https://cctv-backend.cirebonkab.go.id:6969/memfs/a87b98b8-be04-4415-a0ad-8d5d582c17e4_output_0.m3u8?session=mooKDFVZRV6xLirz7FMcwW
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CCTV CIREBON", Kec. Losari - Simpang Terminal Losari 2
+https://cctv-backend.cirebonkab.go.id:6969/memfs/a33ab3f4-2d64-42f4-8f8b-733ba260fcc4_output_0.m3u8?session=8YDTksfKmwpgKyPEGTumrY
+
+
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CCTV CIREBON",ATCS Simpang Samsat
 https://cctv.cirebonkota.go.id/hls/atcs-simpang-samsat/index.m3u8
