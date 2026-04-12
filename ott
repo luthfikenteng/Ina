@@ -28,6 +28,10 @@ https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.m
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
 #https://stream.titanlivescore.com/live/LXSCORE-4879974.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/spvCP0My/IMG-20250919-155828.png" group-title="EVENT 12/APRIL/2026" , 15:30 WIB Persis Solo vs Semen Padang
+#EXTVLCOPT:http-referrer=https://xl365.livecdnem.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+https://live1.pro2cdnlive.com/live/channel8.m3u8?wsSecret=0c9cc3241260bafdb080d84e46c34c6e&wsABSTime=1775926987
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/wZ40gYMj/IMG-20250430-174409.png" group-title="EVENT 6/APRIL/2026" , 17:30 WIB Udinese vs Como
@@ -2622,6 +2626,13 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/fe4d00f07e2f43b789102b84b4d243a9/ind
 #KODIPROP:inputstream.adaptive.license_key=http://tvgp.diskon.cloud/red/6685.drm
 http://tvgp.diskon.cloud/red/6685.mpd
 
+
+#EXTINF:-1 tvg-id="Champions TV 1.id" tvg-logo="https://i.ibb.co.com/vS9RDyS/CH1.png" group-title="SPORTS INDO",Champions TV 1
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/11111/6685.drm
+https://aspaltvpasti.top/11111/6685.mpd
+
 =======================================
 
 #EXTINF:-1 tvg-id="Champions TV 2.id" tvg-logo="https://i.ibb.co.com/j9R3bHJW/CH2.png" group-title="SPORTS INDO",Champions TV 2
@@ -2629,6 +2640,12 @@ http://tvgp.diskon.cloud/red/6685.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://tvgp.diskon.cloud/red/6686.drm
 http://tvgp.diskon.cloud/red/6686.mpd
+
+#EXTINF:-1 tvg-id="Champions TV 1.id" tvg-logo="https://i.ibb.co.com/vS9RDyS/CH1.png" group-title="SPORTS INDO",Champions TV 2
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/11111/6686.drm
+https://aspaltvpasti.top/11111/6686.mpd
 
 =======================================
 
@@ -2638,6 +2655,12 @@ http://tvgp.diskon.cloud/red/6686.mpd
 #KODIPROP:inputstream.adaptive.license_key=http://tvgp.diskon.cloud/red/19404.drm
 http://tvgp.diskon.cloud/red/19404.mpd
 
+#EXTINF:-1 tvg-id="Champions TV 1.id" tvg-logo="https://i.ibb.co.com/vS9RDyS/CH1.png" group-title="SPORTS INDO",Champions TV 3
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/11111/19404.drm
+https://aspaltvpasti.top/11111/19404.mpd
+
 =======================================
 
 #EXTINF:-1 tvg-id="Champions TV 5.id" tvg-logo="https://i.ibb.co.com/7NKQcgc2/CH5.png" group-title="SPORTS INDO",Champions TV 5
@@ -2646,6 +2669,12 @@ http://tvgp.diskon.cloud/red/19404.mpd
 #KODIPROP:inputstream.adaptive.license_key=http://tvgp.diskon.cloud/red/9182.drm
 http://tvgp.diskon.cloud/red/9182.mpd
 
+#EXTINF:-1 tvg-id="Champions TV 1.id" tvg-logo="https://i.ibb.co.com/vS9RDyS/CH1.png" group-title="SPORTS INDO",Champions TV 5
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/11111/9182.drm
+https://aspaltvpasti.top/11111/9182.mpd
+
 =======================================
 
 #EXTINF:-1 tvg-id="Champions TV 6.id" tvg-logo="https://i.ibb.co.com/tp7JbgxQ/CH6.png" group-title="SPORTS INDO",Champions TV 6
@@ -2653,6 +2682,12 @@ http://tvgp.diskon.cloud/red/9182.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://tvgp.diskon.cloud/red/9183.drm
 http://tvgp.diskon.cloud/red/9183.mpd
+
+#EXTINF:-1 tvg-id="Champions TV 1.id" tvg-logo="https://i.ibb.co.com/vS9RDyS/CH1.png" group-title="SPORTS INDO",Champions TV 6
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/11111/9183.drm
+https://aspaltvpasti.top/11111/9183.mpd
 
 =======================================
 
