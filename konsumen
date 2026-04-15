@@ -331,8 +331,8 @@ http://202.169.224.202:8800/udp/239.9.1.32:1234
 #EXTINF:-1 tvg-id="MentariTV.id" group-title="NASIONAL" tvg-name="Mentari TV" tvg-logo="https://i.ibb.co.com/7Jnn95wt/MENTARI.png", MENTARI TV 1
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://tvgp.diskon.cloud/red/8237.drm
-http://tvgp.diskon.cloud/red/8237.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/11111/8237.drm
+https://aspaltvpasti.top/11111/8237.mpd
 
 
 
@@ -1283,8 +1283,8 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/dc63bd198bc44193b570e0567ff5b22c/ind
 #EXTINF:-1 tvg-id="MentariTV.id" group-title="KIDS" tvg-name="Mentari TV" tvg-logo="https://i.ibb.co.com/7Jnn95wt/MENTARI.png",MENTARI TV HD
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://tvgp.diskon.cloud/red/8237.drm
-http://tvgp.diskon.cloud/red/8237.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/11111/8237.drm
+https://aspaltvpasti.top/11111/8237.mpd
 
 
 #EXTINF:-1 tvg-id="MentariTV.id" group-title="KIDS" tvg-name="Mentari TV" tvg-logo="https://i.ibb.co.com/7Jnn95wt/MENTARI.png",MENTARI TV HD 2
@@ -2627,7 +2627,7 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/fe4d00f07e2f43b789102b84b4d243a9/ind
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://tvgp.diskon.cloud/red/6685.drm
-http://tvgp.diskon.cloud/red/6685.mpd
+#http://tvgp.diskon.cloud/red/6685.mpd
 
 
 #EXTINF:-1 tvg-id="Champions TV 1.id" tvg-logo="https://i.ibb.co.com/vS9RDyS/CH1.png" group-title="SPORTS INDO",Champions TV 1
@@ -2642,7 +2642,7 @@ https://aspaltvpasti.top/11111/6685.mpd
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://tvgp.diskon.cloud/red/6686.drm
-http://tvgp.diskon.cloud/red/6686.mpd
+#http://tvgp.diskon.cloud/red/6686.mpd
 
 #EXTINF:-1 tvg-id="Champions TV 1.id" tvg-logo="https://i.ibb.co.com/vS9RDyS/CH1.png" group-title="SPORTS INDO",Champions TV 2
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
@@ -2656,7 +2656,7 @@ https://aspaltvpasti.top/11111/6686.mpd
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://tvgp.diskon.cloud/red/19404.drm
-http://tvgp.diskon.cloud/red/19404.mpd
+#http://tvgp.diskon.cloud/red/19404.mpd
 
 #EXTINF:-1 tvg-id="Champions TV 1.id" tvg-logo="https://i.ibb.co.com/vS9RDyS/CH1.png" group-title="SPORTS INDO",Champions TV 3
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
@@ -2670,7 +2670,7 @@ https://aspaltvpasti.top/11111/19404.mpd
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://tvgp.diskon.cloud/red/9182.drm
-http://tvgp.diskon.cloud/red/9182.mpd
+#http://tvgp.diskon.cloud/red/9182.mpd
 
 #EXTINF:-1 tvg-id="Champions TV 1.id" tvg-logo="https://i.ibb.co.com/vS9RDyS/CH1.png" group-title="SPORTS INDO",Champions TV 5
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
@@ -2684,7 +2684,7 @@ https://aspaltvpasti.top/11111/9182.mpd
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://tvgp.diskon.cloud/red/9183.drm
-http://tvgp.diskon.cloud/red/9183.mpd
+#http://tvgp.diskon.cloud/red/9183.mpd
 
 #EXTINF:-1 tvg-id="Champions TV 1.id" tvg-logo="https://i.ibb.co.com/vS9RDyS/CH1.png" group-title="SPORTS INDO",Champions TV 6
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
@@ -2698,7 +2698,15 @@ https://aspaltvpasti.top/11111/9183.mpd
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://tvgp.diskon.cloud/red/9353.drm
-http://tvgp.diskon.cloud/red/9353.mpd
+#http://tvgp.diskon.cloud/red/9353.mpd
+
+
+#EXTINF:0 tvg-id="PL" tvg-logo="https://i.ibb.co.com/rRZz7ftW/PL.png" group-title="SPORTS INDO", PREMIER LEAGUE TV
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/11111/9353.drm
+https://aspaltvpasti.top/11111/9353.mpd
+
 
 =======================================
 
