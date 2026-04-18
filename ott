@@ -93,8 +93,12 @@ https://live1.pro2cdnlive.com/live/channel23.m3u8?wsSecret=350084137f67a9c5153c2
 #EXTINF:-1 group-title="EVENT 12/APRIL/2026" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png", 20:00 WIB Crystal Palace vs Newcastle United
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/wZ40gYMj/IMG-20250430-174409.png" group-title="EVENT 12/APRIL/2026" , 20:00 WIB Parma vs Napoli
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/wZ40gYMj/IMG-20250430-174409.png" group-title="EVENT 18/APRIL/2026" , 20:00 WIB Udinese vs Parma
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
+https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/wZ40gYMj/IMG-20250430-174409.png" group-title="EVENT 11/APRIL/2026" , 20:00 WIB Cagliari vs Cremonese
