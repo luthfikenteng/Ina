@@ -615,8 +615,8 @@ https://beritasatu.secureswiftcontent.com/han/beritasatu/bsatu10008/srtoutput/ma
 #EXTINF:-1 tvg-country="" tvg-logo="https://i.ibb.co.com/7xb2sP7G/IMG-20250928-143516.png" group-title="NASIONAL" ,SINPO TV
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://tvgp.diskon.cloud/red/19046.drm
-http://tvgp.diskon.cloud/red/19046.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/11111/19046.drm
+https://aspaltvpasti.top/11111/19046.mpd
 
 =======================================
 
@@ -1725,8 +1725,10 @@ https://d2gr3zenqo3tg4.cloudfront.net/out/v1/a8f14e34c687494fb1454b88742db085/in
 =======================================
 
 #EXTINF:-1 tvg-id="Ajwa" tvg-logo="https://i.ibb.co.com/CFtLPrZ/AJWA.png" group-title="RELIGI",AJWA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#https://nextgenz.my.id/event/pidio/play.mpd?id=7464&type=dash
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/11111/7464.drm
+https://aspaltvpasti.top/11111/7464.mpd
 
 =======================================
 
