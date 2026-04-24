@@ -15,7 +15,7 @@ awalan
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/MxBt8tCs/IMG-20250825-164825.png" group-title="EVENT 24/APRIL/2026", Thomas & Uber Cup Final 2026
 #EXTVLCOPT:http-referrer=https://xl365.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-https://ikohls.combbilebba.lol/live/qnrNO0.m3u8
+https://ikohls.combbilebba.lol/live/qiYc8e.m3u8
 https://ikohls.combbilebba.lol/live/x8P3eH.m3u8
 https://ikohls.combbilebba.lol/live/SsgUbz.m3u8
 
@@ -334,8 +334,7 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/in
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/TqRf4Xk3/IMG-20250816-175900.png" group-title="EVENT 24/APRIL/2026", MOTOGP
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed
-https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd
-
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_spotv2hd/default/index.mpd
 
 =======================================
 ==============LIGA ARAB===============
@@ -3088,7 +3087,7 @@ https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_spotvhd.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/CKVCy1FR/SPOTV2.png" group-title="SPORTS",SPOTV 2 🇵🇭
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed
-https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_spotv2hd/default/index.mpd
 
 =======================================
 
