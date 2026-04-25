@@ -147,7 +147,9 @@ https://dko29we9nm1rd.cloudfront.net/hls/CH621/index.m3u8|user-agent=Mozilla/5.0
 
 
 #EXTINF:-1 group-title="EVENT 25/APRIL/2026" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png", 21:00 WIB West Ham United vs Everton
-https://dko29we9nm1rd.cloudfront.net/hls/CH622/index.m3u8|user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/76bac4d6-f82f-4036-a155-4fb4cfd0838c/1080p/media.m3u8
 
 
 #EXTINF:-1 group-title="EVENT 25/APRIL/2026" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png", 21:00 WIB Wolves vs Tottenham Hotspur
