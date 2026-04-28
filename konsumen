@@ -15,14 +15,14 @@ awalan
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/MxBt8tCs/IMG-20250825-164825.png" group-title="EVENT 27/APRIL/2026", Thomas & Uber Cup Final 2026
 #EXTVLCOPT:http-referrer=https://emb.tailasoo.lol/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-https://liveh34byt.vtvprime.vn/hls/SKSS3/04.m3u8
-https://liveh34byt.vtvprime.vn/hls/SKSS1/04.m3u8
+#https://liveh34byt.vtvprime.vn/hls/SKSS3/04.m3u8
+#https://liveh34byt.vtvprime.vn/hls/SKSS1/04.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/MxBt8tCs/IMG-20250825-164825.png" group-title="EVENT 27/APRIL/2026", Thomas & Uber Cup Final 2026
 #EXTVLCOPT:http-referrer=https://xl365.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-https://live2.pro2cdnlive.com/live/channel55.m3u8
+#https://live2.pro2cdnlive.com/live/channel55.m3u8
 
 
 
@@ -86,7 +86,7 @@ https://live2.pro2cdnlive.com/live/channel55.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/spvCP0My/IMG-20250919-155828.png" group-title="EVENT 27/APRIL/2026" , 19:00 WIB Persija vs Persis Solo
 #EXTVLCOPT:http-referrer=https://xl365.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel2.m3u8?wsSecret=064b0ad54315f8f7534fa2c83cb7c990&wsABSTime=1772570276
+#https://live1.pro2cdnlive.com/live/channel2.m3u8?wsSecret=064b0ad54315f8f7534fa2c83cb7c990&wsABSTime=1772570276
 
 
 
@@ -241,7 +241,7 @@ https://live1.pro2cdnlive.com/live/channel2.m3u8?wsSecret=064b0ad54315f8f7534fa2
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
-https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
+#https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
 
 
 
@@ -255,7 +255,7 @@ https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5
 
 
 #EXTINF:-1 group-title="EVENT 28/APRIL/2026" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png", 02:00 WIB Manchester United vs Brentford
-https://dko29we9nm1rd.cloudfront.net/hls/CH621/index.m3u8|user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#https://dko29we9nm1rd.cloudfront.net/hls/CH621/index.m3u8|user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 
 
 #EXTINF:-1 group-title="EVENT 28/APRIL/2026" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png", 02:00 WIB Manchester United vs Brentford
@@ -264,7 +264,7 @@ https://dko29we9nm1rd.cloudfront.net/hls/CH621/index.m3u8|user-agent=Mozilla/5.0
 #EXTVLCOPT--http-reconnect=true
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
-https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
+#https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
 
 #EXTINF:-1 group-title="EVENT 23/APRIL/2026" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png", 02:00 WIB AFC Bournemouth vs Leeds United
 #https://dko29we9nm1rd.cloudfront.net/hls/CH622/index.m3u8|user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
