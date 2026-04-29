@@ -11,17 +11,17 @@ awalan
 #https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/MxBt8tCs/IMG-20250825-164825.png" group-title="EVENT 28/APRIL/2026", Thomas & Uber Cup Final 2026
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/MxBt8tCs/IMG-20250825-164825.png" group-title="EVENT 29/APRIL/2026", Thomas & Uber Cup Final 2026
 #EXTVLCOPT:http-referrer=https://emb.tailasoo.lol/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-#https://liveh34byt.vtvprime.vn/hls/SKSS2/04.m3u8
-#https://liveh34byt.vtvprime.vn/hls/SKSS1/04.m3u8
+https://liveh34byt.vtvprime.vn/hls/SKSS3/04.m3u8
+https://liveh34byt.vtvprime.vn/hls/SKSS1/04.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/MxBt8tCs/IMG-20250825-164825.png" group-title="EVENT 28/APRIL/2026", Thomas & Uber Cup Final 2026
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/MxBt8tCs/IMG-20250825-164825.png" group-title="EVENT 29/APRIL/2026", Thomas & Uber Cup Final 2026
 #EXTVLCOPT:http-referrer=https://xl365.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-#https://live2.pro2cdnlive.com/live/channel56.m3u8
+https://live2.pro2cdnlive.com/live/channel57.m3u8
 
 #EXTINF:-1 tvg-logo="https://mediaindonesia.gumlet.io/news/2025/05/31/1748680674_38e981685335bb8209f7.jpeg?w=376&dpr=2.6" group-title="EVENT 29/APRIL/2026", 02:00 WIB PSG vs Bayern Munchen
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -459,7 +459,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/sctv/sctv-avc1_2500000=7-32777070300
 #KODIPROP:inputstream.adaptive.license_key=93d5b9f9d5d14f15b1ba9582f332d1fc:116e4014a662fef4ea5d7671dd5120d8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9e9aba7068ca4c7f8a73381bef5f8742/index.mpd
+#https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9e9aba7068ca4c7f8a73381bef5f8742/index.mpd
 
 
 
@@ -485,7 +485,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/indosiar/indosiar-avc1_2500000=7-327
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/11111/205.drm
-https://aspaltvpasti.top/11111/205.mpd
+#https://aspaltvpasti.top/11111/205.mpd
 
 =======================================
 
@@ -732,7 +732,7 @@ https://beritasatu.secureswiftcontent.com/han/beritasatu/bsatu10008r/srtoutput/h
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/11111/19046.drm
-https://aspaltvpasti.top/11111/19046.mpd
+#https://aspaltvpasti.top/11111/19046.mpd
 
 =======================================
 
@@ -1844,7 +1844,7 @@ https://d2gr3zenqo3tg4.cloudfront.net/out/v1/a8f14e34c687494fb1454b88742db085/in
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/11111/7464.drm
-https://aspaltvpasti.top/11111/7464.mpd
+#https://aspaltvpasti.top/11111/7464.mpd
 
 =======================================
 
@@ -2814,7 +2814,7 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/fe4d00f07e2f43b789102b84b4d243a9/ind
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/11111/6685.drm
-https://aspaltvpasti.top/11111/6685.mpd
+#https://aspaltvpasti.top/11111/6685.mpd
 
 =======================================
 
@@ -2828,7 +2828,7 @@ https://aspaltvpasti.top/11111/6685.mpd
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/11111/6686.drm
-https://aspaltvpasti.top/11111/6686.mpd
+#https://aspaltvpasti.top/11111/6686.mpd
 
 =======================================
 
@@ -2842,7 +2842,7 @@ https://aspaltvpasti.top/11111/6686.mpd
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/11111/19404.drm
-https://aspaltvpasti.top/11111/19404.mpd
+#https://aspaltvpasti.top/11111/19404.mpd
 
 =======================================
 
@@ -2856,7 +2856,7 @@ https://aspaltvpasti.top/11111/19404.mpd
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/11111/9182.drm
-https://aspaltvpasti.top/11111/9182.mpd
+#https://aspaltvpasti.top/11111/9182.mpd
 
 =======================================
 
@@ -2870,7 +2870,7 @@ https://aspaltvpasti.top/11111/9182.mpd
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/11111/9183.drm
-https://aspaltvpasti.top/11111/9183.mpd
+#https://aspaltvpasti.top/11111/9183.mpd
 
 =======================================
 
@@ -2885,7 +2885,7 @@ https://aspaltvpasti.top/11111/9183.mpd
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/11111/9353.drm
-https://aspaltvpasti.top/11111/9353.mpd
+#https://aspaltvpasti.top/11111/9353.mpd
 
 
 =======================================
