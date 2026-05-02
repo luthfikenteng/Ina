@@ -166,11 +166,28 @@ https://b.kaisamm.shop/hls/TGGGQ.m3u8
 
 
 
+#EXTINF:-1 group-title="EVENT 2/MEI/2026" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png", 21:00 WIB Newcastle United vs Brighton HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=654e3893f622a676cccd048d13b8d54e:fc272dd6b7945bcd562c186854b8538b
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+https://bosstv.asia/yabostv/9182.mpd
+
+
+
 #EXTINF:-1 group-title="EVENT 2/MEI/2026" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png", 21:00 WIB Brentford vs West Ham United
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
 http://193.47.62.191/hls/TGGG.m3u8
 
+#EXTINF:-1 group-title="EVENT 2/MEI/2026" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png", 21:00 WIB Brentford vs West Ham United HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f5edbe4006617c5a576a61b592437469:b8c47aa4f0ff958aaac5e655845c7834
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+https://bosstv.asia/yabostv/9183.mpd
 
 
 
