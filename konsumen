@@ -14,8 +14,8 @@ awalan
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/MxBt8tCs/IMG-20250825-164825.png" group-title="EVENT 2/MEI/2026", Thomas & Uber Cup Final 2026
 #EXTVLCOPT:http-referrer=https://emb.tailasoo.lol/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-https://liveh34byt.vtvprime.vn/hls/SKSS2/04.m3u8
-https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4187471211996061_AiSD.m3u8?txSecret=a4726309d408160a541510e435a6bee1&txTime=69F6E460
+#https://liveh34byt.vtvprime.vn/hls/SKSS2/04.m3u8
+#https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4187471211996061_AiSD.m3u8?txSecret=a4726309d408160a541510e435a6bee1&txTime=69F6E460
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/MxBt8tCs/IMG-20250825-164825.png" group-title="EVENT 30/APRIL/2026", Thomas & Uber Cup Final 2026
 #EXTVLCOPT:http-referrer=https://xl365.livebytexscorez.com
@@ -103,7 +103,7 @@ https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3d756d566ca94e6499518ffb1474d5d0:dbe4ad6803e74739b8f954d23cc58e7b
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd|referer=https://www.visionplus.id/
+#https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd|referer=https://www.visionplus.id/
 
 
 
@@ -139,7 +139,7 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/ind
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd
+#https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd
 
 
 
@@ -148,21 +148,21 @@ https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd
 #KODIPROP:inputstream.adaptive.license_key=39c4dc6704cf4ceea2fd4863b88d8a7d:4e9d7954c2ff46759289da4fc9f018ea
 #EXTVLCOPT:http-referrer=https://visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
+#https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
 
 
 
 #EXTINF:-1 group-title="EVENT 2/MEI/2026" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png", 21:00 WIB Wolves vs Sunderland
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-http://193.47.62.190/hls/FIIII.m3u8
+#http://193.47.62.190/hls/FIIII.m3u8
 
 
 
 #EXTINF:-1 group-title="EVENT 2/MEI/2026" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png", 21:00 WIB Newcastle United vs Brighton
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-https://b.kaisamm.shop/hls/TGGGQ.m3u8
+#https://b.kaisamm.shop/hls/TGGGQ.m3u8
 
 
 
@@ -172,14 +172,14 @@ https://b.kaisamm.shop/hls/TGGGQ.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=654e3893f622a676cccd048d13b8d54e:fc272dd6b7945bcd562c186854b8538b
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-https://bosstv.asia/yabostv/9182.mpd
+#https://bosstv.asia/yabostv/9182.mpd
 
 
 
 #EXTINF:-1 group-title="EVENT 2/MEI/2026" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png", 21:00 WIB Brentford vs West Ham United
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-http://193.47.62.191/hls/TGGG.m3u8
+#http://193.47.62.191/hls/TGGG.m3u8
 
 #EXTINF:-1 group-title="EVENT 2/MEI/2026" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png", 21:00 WIB Brentford vs West Ham United HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -187,7 +187,7 @@ http://193.47.62.191/hls/TGGG.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f5edbe4006617c5a576a61b592437469:b8c47aa4f0ff958aaac5e655845c7834
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-https://bosstv.asia/yabostv/9183.mpd
+#https://bosstv.asia/yabostv/9183.mpd
 
 
 
@@ -212,7 +212,7 @@ https://bosstv.asia/yabostv/9183.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
-https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
+#https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
 
 
 
@@ -227,7 +227,7 @@ https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
-https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
+#https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
 
 
 
@@ -240,7 +240,7 @@ https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5
 #EXTVLCOPT--http-reconnect=true
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
-https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
+#https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
 
 
 
@@ -251,7 +251,7 @@ https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/clients/dash/enc/3b7qwi
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
-https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
+#https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/R4McZS45/IMG-20250430-173818.png" group-title="EVENT 2/MEI/2026" , 23:30 WIB Bayer Leverkusen vs RB Leipzig
@@ -259,7 +259,7 @@ https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/
 #KODIPROP:inputstream.adaptive.license_key=39c4dc6704cf4ceea2fd4863b88d8a7d:4e9d7954c2ff46759289da4fc9f018ea
 #EXTVLCOPT:http-referrer=https://visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
+#https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
 
 
 
@@ -294,7 +294,7 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/in
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
-https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
+#https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
 
 
 
@@ -329,7 +329,7 @@ https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
-https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
+#https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
 
 
 
