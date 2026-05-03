@@ -15,7 +15,7 @@ awalan
 #EXTVLCOPT:http-referrer=https://emb.tailasoo.lol/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
 #https://liveh34byt.vtvprime.vn/hls/SKSS2/04.m3u8
-https://liveh34byt.vtvprime.vn/hls/SKSS2/04.m3u8
+#https://liveh34byt.vtvprime.vn/hls/SKSS2/04.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/MxBt8tCs/IMG-20250825-164825.png" group-title="EVENT 30/APRIL/2026", Thomas & Uber Cup Final 2026
 #EXTVLCOPT:http-referrer=https://xl365.livebytexscorez.com
@@ -82,8 +82,8 @@ https://liveh34byt.vtvprime.vn/hls/SKSS2/04.m3u8
 #EXTVLCOPT:http-referrer=https://lxscore.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
 #https://stream.titanlivescore.com/live/LXSCORE-4879994.m3u8
-https://d302.soft4game.com/o22/stream504/o/stream504/chunks.m3u8?nimblesessionid=73612151&wmsAuthSign=c2VydmVyX3RpbWU9NS8zLzIwMjYgMTI6MTA6MzUgUE0maGFzaF92YWx1ZT1VQ3A5d0JRVnpsRFBBTFhwc0dWQXZRPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI=
-https://video.bqzb4.cn/live/0ded0f304144c2d5.m3u8?sign=fedc28c7e06012be31ce8d2ef862337d&expire=1777896054
+#https://d302.soft4game.com/o22/stream504/o/stream504/chunks.m3u8?nimblesessionid=73612151&wmsAuthSign=c2VydmVyX3RpbWU9NS8zLzIwMjYgMTI6MTA6MzUgUE0maGFzaF92YWx1ZT1VQ3A5d0JRVnpsRFBBTFhwc0dWQXZRPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI=
+#https://video.bqzb4.cn/live/0ded0f304144c2d5.m3u8?sign=fedc28c7e06012be31ce8d2ef862337d&expire=1777896054
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/spvCP0My/IMG-20250919-155828.png" group-title="EVENT 12/APRIL/2026" , 19:00 WIB Persib vs Bali United
@@ -105,7 +105,7 @@ https://video.bqzb4.cn/live/0ded0f304144c2d5.m3u8?sign=fedc28c7e06012be31ce8d2ef
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
-https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
+#https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
 
 
 
@@ -116,7 +116,7 @@ https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5
 #EXTINF:-1 group-title="EVENT 3/MEI/2026" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png", 20:00 WIB AFC Bournemouth vs Crystal Palace
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/971bdf65-5c78-4d3d-b61f-ba5524c0ad0b/1080p/media.m3u8
+#https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/971bdf65-5c78-4d3d-b61f-ba5524c0ad0b/1080p/media.m3u8
 
 
 #EXTINF:-1 group-title="EVENT 19/APRIL/2026" tvg-logo="https://i.ibb.co.com/twxFhvBY/PLE.png", 20:00 WIB Nothingham Forest vs Burnley
@@ -140,7 +140,7 @@ https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/971bdf
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
-https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
+#https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
 
 
 
@@ -221,7 +221,7 @@ https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
-https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
+#https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
 
 
 
@@ -231,7 +231,7 @@ https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/
 #EXTVLCOPT--http-reconnect=true
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
-https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
+#https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/wZ40gYMj/IMG-20250430-174409.png" group-title="EVENT 3/MEI/2026" , 23:00 WIB Juventus vs Verona
@@ -296,6 +296,7 @@ https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b
 https://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
+
 
 
 
