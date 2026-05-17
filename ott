@@ -99,11 +99,16 @@ https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/clients/dash/enc/3b7qwi
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/spvCP0My/IMG-20250919-155828.png" group-title="EVENT 15/MEI/2026" , 19:00 WIB PSBS Biak Numfor vs Arema
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/spvCP0My/IMG-20250919-155828.png" group-title="EVENT 17/MEI/2026" , 19:00 WIB PSM vs Persib
 #EXTVLCOPT:http-referrer=https://lxscore.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
 #https://stream.titanlivescore.com/live/LXSCORE-4879994.m3u8
-#https://stream.titanlivescore.com/live/LXSCORE-4880034.m3u8
+https://stream.titanlivescore.com/live/LXSCORE-4880041.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/spvCP0My/IMG-20250919-155828.png" group-title="EVENT 17/MEI/2026" , 19:00 WIB PSM vs Persib
+#EXTVLCOPT:http-referrer=https://jlbfpc.jlbfyh.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+https://bf.jabflive.com/live/5005010_hd01.m3u8?txSecret=96dca17eb471d12a93aa6ba20adf84f2&txTime=6a09a5db
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/spvCP0My/IMG-20250919-155828.png" group-title="EVENT 12/APRIL/2026" , 19:00 WIB Persib vs Bali United
