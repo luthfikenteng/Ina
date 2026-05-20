@@ -12,8 +12,7 @@ awalan
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/MxBt8tCs/IMG-20250825-164825.png" group-title="EVENT 20/MEI/2026", Malaysia Master 2026
-#EXTVLCOPT:http-referrer=https://emb.tailasoo.lol/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
 https://0713546501eefc1afcb0b54d64dcb5b8.v.smtcdns.net/play.cbalive.weibisai.com/live/4207149241814061_AiHD.m3u8?txSecret=67aa4b6ea1b93a740e5c2bd7df1b0057&txTime=6A0E3CF0
 https://2a6096f50ffc05c7c7766fbd1358fce6.v.smtcdns.net/play.cbalive.weibisai.com/live/4207149710071061_AiHD.m3u8?txSecret=2ec09d5bea289aa47de5f0d594a4e1f5&txTime=6A0E3CF0
 https://2a6096f50ffc05c7c7766fbd1358fce6.v.smtcdns.net/play.cbalive.weibisai.com/live/4207149969260061_AiHD.m3u8?txSecret=2ddab675f208a172ac3a1107ed1e1f1f&txTime=6A0E3CF0
