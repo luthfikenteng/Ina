@@ -13,10 +13,6 @@ awalan
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/MxBt8tCs/IMG-20250825-164825.png" group-title="EVENT 20/MEI/2026", Malaysia Master 2026
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://0713546501eefc1afcb0b54d64dcb5b8.v.smtcdns.net/play.cbalive.weibisai.com/live/4207149241814061_AiHD.m3u8?txSecret=67aa4b6ea1b93a740e5c2bd7df1b0057&txTime=6A0E3CF0
-https://2a6096f50ffc05c7c7766fbd1358fce6.v.smtcdns.net/play.cbalive.weibisai.com/live/4207149710071061_AiHD.m3u8?txSecret=2ec09d5bea289aa47de5f0d594a4e1f5&txTime=6A0E3CF0
-https://2a6096f50ffc05c7c7766fbd1358fce6.v.smtcdns.net/play.cbalive.weibisai.com/live/4207149969260061_AiHD.m3u8?txSecret=2ddab675f208a172ac3a1107ed1e1f1f&txTime=6A0E3CF0
-https://0713546501eefc1afcb0b54d64dcb5b8.v.smtcdns.net/play.cbalive.weibisai.com/live/4207150130401061_AiHD.m3u8?txSecret=db965f953df25bbe0279f6f75000cc44&txTime=6A0E3CF0
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/MxBt8tCs/IMG-20250825-164825.png" group-title="EVENT 15/MEI/2026", Thailand Open 2026
@@ -540,6 +536,9 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/in
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
+
+
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/cKN30V8Q/SCTV.png" group-title="NASIONAL",SCTV HD
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
