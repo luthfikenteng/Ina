@@ -583,7 +583,7 @@ https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6859645ee4801965cd06
 
 
 #EXTINF:-1 group-title="NASIONAL" tvg-id="beritasatu" tvg-logo="https://i.ibb.co.com/v6SXYpr3/BERITASATU.png",BERITASATU
-https://beritasatu.secureswiftcontent.com/han/beritasatu/bsatu10008r/srtoutput/hvideo-1280x720.m3u8
+https://xtdslboppkkv-pull.bpmedialive.com/live/beritasatu_abrhd/index.m3u8
 
 =======================================
 
@@ -646,7 +646,7 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/17c724036c5f4615bd0b8093126b5c44/in
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #https://op-group1-swiftservehd-1.dens.tv/h/h77/S4/mnf.m3u8
-https://op-group1-swiftservehd-1.dens.tv/h/h77/index2.m3u8?app_type=web&userid=lite&chname=Channel_Jowo
+#https://op-group1-swiftservehd-1.dens.tv/h/h77/index2.m3u8?app_type=web&userid=lite&chname=Channel_Jowo
 
 #EXTINF:0 tvg-country="ID" tvg-logo="https://i.ibb.co.com/Kc73NG74/JOWO.png" group-title="DAERAH", Jowo Channel
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1014,7 +1014,7 @@ https://live-channel4-cdn.visionplus.id/out/v1/45c0752c6b6b4397b80243ac9fed96fd/
 #EXTINF:-1 tvg-id="K-Plus" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" tvg-logo="https://i.ibb.co.com/1GsXBNwz/K.png" group-title="MOVIES",K+
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://cdn10jtedge.indihometv.com/atm/DASH/kplus/manifest.mpd
+https://indihuy.streamized.net/atm/DASH/kplus/manifest.mpd
 
 
 #EXTINF:-1 tvg-id="K-Plus" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" tvg-logo="https://i.ibb.co.com/1GsXBNwz/K.png" group-title="MOVIES",K+
@@ -1060,9 +1060,7 @@ https://fta4-cdn-flr.visionplus.id/out/v1/333a9658ed6a4424a92e319114fb7111/index
 
 #EXTINF:0 tvg-logo="https://i.ibb.co.com/7tPf37Yn/HITSM.png" group-title="MOVIES",HITS MOVIES
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=12a34fccac944a19a14101a9009dae05:2d1543668411b31aec7269d889d4821c
-https://atemecdnbalancer-voe.sysln.id/live/eds/HitsMoviesHD/mediampd/HitsMoviesHD.mpd
+https://cdnbal1.indihometv.com/atm/DASH/hitsmovie/hitsmovie-avc1_2500000=7-3277707030000000.mpd
 
 =======================================
  
@@ -1220,7 +1218,7 @@ https://indihuy.streamized.net/atm/DASH/ROCK_ACTION/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://indihuy.streamized.net/atm/DASH/bioskopindonesia/manifest.mpd
+#https://indihuy.streamized.net/atm/DASH/bioskopindonesia/manifest.mpd
 
 #EXTINF:-1 tvg-id="bioskop indonesia" tvg-logo="https://i.ibb.co.com/chVJ3ddY/BI.png" group-title="MOVIES",BIOSKOP INDONESIA
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1349,18 +1347,14 @@ https://op-group1-swiftservehd-1.dens.tv/h/h10/01.m3u8|user-agent=Mozilla/5.0 (W
 
 =======================================
 
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co.com/KcWqL2V6/HOREE.png",Horee!
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=686f7265653030303030303030303030:fe3d39b39bd26f0ee274f60c397bf61a
-#https://cdn08jtedge.indihometv.com/dassdvr/130/horee/manifest.mpd
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co.com/KcWqL2V6/HOREE.g",MAX KIDS
+https://indihuy.streamized.net/atm/DASH/indikids/manifest.mpd
 
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co.com/KcWqL2V6/HOREE.png",HOREE!
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0a3aaee779e940db8ff24f9f3eb5c98a:440e1c1ce9ba337844409c8bcad5a268
-https://atemecdnbalancer-voe.sysln.id/live/eds/HoreeHD/mediampd/HoreeHD.mpd
+#https://atemecdnbalancer-voe.sysln.id/live/eds/HoreeHD/mediampd/HoreeHD.mpd
 
 
 #EXTINF:0 tvg-id="PL" tvg-logo="https://i.ibb.co.com/KcWqL2V6/HOREE.png" group-title="KIDS", HOREE!
@@ -1411,7 +1405,7 @@ https://indihuy.streamized.net/atm/DASH/indikids/manifest.mpd
 =======================================
 
 #EXTINF:-1 group-title="KIDS"  tvg-logo="https://i.ibb.co.com/ym6kPq52/IMG-20250529-035435.png",TOM & JERRY
-http://xxip9.top:8080/live/Jamesmcmillan%40att.net/Jamesmcmillan%402023/125635.ts
+#http://xxip9.top:8080/live/Jamesmcmillan%40att.net/Jamesmcmillan%402023/125635.ts
 
 =======================================
 
@@ -1526,7 +1520,7 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/ab3ef0f0e4144c3c8b7e60f1873a3bcc/ind
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f2c313fce55344e5a52389741d1f53f8:bae1e47db562b66895beb8fccdf2ad8a
-https://cdn10jtedge.indihometv.com/dassdvr/107/aniplus/manifest.mpd
+#https://cdn10jtedge.indihometv.com/dassdvr/107/aniplus/manifest.mpd
 
 =======================================
 
