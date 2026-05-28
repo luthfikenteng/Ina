@@ -13,9 +13,7 @@ awalan
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/MxBt8tCs/IMG-20250825-164825.png" group-title="EVENT 27/MEI/2026", Singapore Open 2026
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4214941831687061_AiSD.m3u8?txSecret=96446d7c1482f511fb80ae8b26be8330&txTime=6A178580
-https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4214942021240061_AiSD.m3u8?txSecret=df325d3e9d2d499158e1d6927fe49b48&txTime=6A178580
-https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4214942184149061_AiSD.m3u8?txSecret=0ac68a5a1b84d341015590f156a2e1ad&txTime=6A178580
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/1JwYR5NV/LALIGA.png" group-title="EVENT 18/MEI/2026", 00:00 WIB Atletico Madrid vs Girona
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
