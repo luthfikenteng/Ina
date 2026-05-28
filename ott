@@ -11,8 +11,11 @@ awalan
 #https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/MxBt8tCs/IMG-20250825-164825.png" group-title="EVENT 27/MEI/2026", Singapore Open 2026
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/MxBt8tCs/IMG-20250825-164825.png" group-title="EVENT 28/MEI/2026", Singapore Open 2026
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4214942479150061_AiSD.m3u8?txSecret=f05cfef225f520a9a7f7f46b0cb32b03&txTime=6A18D700
+https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4214942675577061_AiSD.m3u8?txSecret=b8d21100939778b9ab331c63cb40c183&txTime=6A18D700
+https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4214942850425061_AiSD.m3u8?txSecret=053b5d6bcda7b3dc0edb661822c7bac6&txTime=6A18D700
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/1JwYR5NV/LALIGA.png" group-title="EVENT 18/MEI/2026", 00:00 WIB Atletico Madrid vs Girona
