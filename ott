@@ -24,7 +24,7 @@ awalan
 #https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd|referer=https://www.visionplus.id/
 
 
-#EXTINF:0 tvg-id="TNT 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ85bovdP9Fl3qLDr3uXCr_s24OhxEAekVh2rwT0GY12w&s=10" group-title="EVENT 30/MEI/2026",23:00 WIB FINAL UCL : PSG vs ARSENAL
+#EXTINF:0 tvg-id="TNT 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ85bovdP9Fl3qLDr3uXCr_s24OhxEAekVh2rwT0GY12w&s=10" group-title="EVENT 30/MEI/2026",23:00 WIB Psg vs Arsenal
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b
 https://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
