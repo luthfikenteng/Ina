@@ -15,13 +15,6 @@ awalan
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/MxBt8tCs/IMG-20250825-164825.png" group-title="EVENT 4/JUNI/2026", Polytron Indonesia Open 2026
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-#EXTVLCOPT:http-user-agent=android-R+
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/MxBt8tCs/IMG-20250825-16482.ng" group-title="EVENT 4/JUNI/2026", 20:00 WIB Timor Leste U-19 vs Indonesia U-19
-https://ec01-pop1-hlc.tv360.vn/bpk-token/oglokl4lit4s7rswpduhbfxff5yznzjp/bpk-tv/449/output/.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMcQiJa3RHYjkZdcOhynXpi9ClhSlhH1660f0udnkrbw&s" group-title="EVENT 3/JUNI/2026" , 18:30 WIB China vs Czechia
