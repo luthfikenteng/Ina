@@ -17,10 +17,12 @@ awalan
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/MxBt8tCs/IMG-20250825-164825.png" group-title="EVENT 4/JUNI/2026", Polytron Indonesia Open 2026
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMcQiJa3RHYjkZdcOhynXpi9ClhSlhH1660f0udnkrbw&s" group-title="EVENT 3/JUNI/2026" , 18:30 WIB China vs Czechia
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ClhSlhH1660f0udnkrbw&s" group-title="EVENT 5/JUNI/2026" , 20:00 WIB Indonesia vs Oman
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://xl365.buzzscorelinez.com/
-#https://live1.pro2cdnlive.com/live/channel81.m3u8?wsSecret=f429958b359c3b01718401e6ae601472&wsABSTime=1780454413
+https://live2.pro2cdnlive.com/live/channel9.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://cdns.klimg.com/bola.net/library/p/headline/0000138315.jpg" group-title="EVENT 3/JUNI/2026" , 19:00 WIB Indonesia (W) vs Singapore (W)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
