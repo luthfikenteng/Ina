@@ -11,8 +11,11 @@ awalan
 #https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/MxBt8tCs/IMG-20250825-164825.png" group-title="EVENT 4/JUNI/2026", Polytron Indonesia Open 2026
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/MxBt8tCs/IMG-20250825-164825.png" group-title="EVENT 5/JUNI/2026", Polytron Indonesia Open 2026
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4236496789652061_AiHD.m3u8?txSecret=ddc8e3840027704b4469b0da90f2e086&txTime=6A239B40
+https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4236496938623061_AiHD.m3u8?txSecret=e5c4748340e0d3d4f7f65a732fa5950f&txTime=6A239B40
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/MxBt8tCs/IMG-20250825-164825.png" group-title="EVENT 4/JUNI/2026", Polytron Indonesia Open 2026
 
