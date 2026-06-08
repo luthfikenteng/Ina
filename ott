@@ -26,10 +26,17 @@ https://live1.pro2cdnlive.com/live/channel81.m3u8?wsSecret=39d55b9be45aed41a430e
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNoy_-ACx4QVUNCRcE1xiH_mqDrp-74qDEO_pEkXDR-g&s=10" group-title="EVENT 5/JUNI/2026" , 20:00 WIB Indonesia vs Oman
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-DOygCE1UhFQ9cNRx2UwAXQu-asbrKqewa5Afx35LRFpk_u39_Y4ot1s&s=10" group-title="EVENT 8/JUNI/2026" , 20:00 WIB Singapura U19 vs Brunei U19
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://lxscore.com/
-#https://stream.titanlivescore.com/live/default-100000094.m3u8
+#EXTVLCOPT:http-referrer=https://xl365.buzzscorelinez.com/
+https://live2.pro2cdnlive.com/live/channel6.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiCHJH1ek1xUW7H2tzUjviVJEhCa9hD1guyEq9MWTlLg&s=10" group-title="EVENT 8/JUNI/2026" , 20:00 WIB Thailand U19 vs Malaysia U19
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://xl365.buzzscorelinez.com/
+https://live2.pro2cdnlive.com/live/channel15.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://cdns.klimg.com/bola.net/library/p/headline/0000138315.jpg" group-title="EVENT 3/JUNI/2026" , 19:00 WIB Indonesia (W) vs Singapore (W)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
