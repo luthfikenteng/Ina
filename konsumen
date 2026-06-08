@@ -19,10 +19,10 @@ awalan
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/MxBt8tCs/IMG-20250825-164825.png" group-title="EVENT 4/JUNI/2026", Polytron Indonesia Open 2026
 
 
-#EXTINF:-1 tvg-logo="https://cdns.klimg.com/bola.net/library/upload/24/2026/06/1280x720/indo-viet_91dce2a.jpg" group-title="EVENT 7/JUNI/2026" , 20:00 WIB Indonesia U19 vs Vietnam U19
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/zhStskpR/IMG-20250825-165607.png" group-title="EVENT 8/JUNI/2026" , 17:00 WIB Vietnam vs Indonedia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://xl365.buzzscorelinez.com/
-#https://live2.pro2cdnlive.com/live/channel5.m3u8
+https://live1.pro2cdnlive.com/live/channel81.m3u8?wsSecret=39d55b9be45aed41a430ec1ba781eb97&wsABSTime=1780944565
 
 
 
@@ -1994,7 +1994,7 @@ https://mic.siar.us/mic/live/mic.m3u8
  #EXTINF:-1 tvg-id="mtv" tvg-logo="https://iili.io/JZIQRHv.png" group-title="MUSIC",MTV Live
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://cdnbal1.indihometv.com/atm/DASH/MTV_LIVE/manifest.mpd
+#https://cdnbal1.indihometv.com/atm/DASH/MTV_LIVE/manifest.mpd
 
 =======================================
 
