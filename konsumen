@@ -27,10 +27,12 @@ https://live1.pro2cdnlive.com/live/channel80.m3u8?wsSecret=5f1fd41bfb6e8b6d00ca5
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-DOygCE1UhFQ9cNRx2UwAXQu-asbrKqewa5Afx35LRFpk_u39_Y4ot1s&s=10" group-title="EVENT 8/JUNI/2026" , 20:00 WIB Singapura U19 vs Brunei U19
+#EXTINF:-1 tvg-logo="https://cdn1-production-images-kly.akamaized.net/vGRjHBaQ88gPg2LFEv4vWIFotWI=/800x450/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/8029880/original/041222600_1780871446-ChatGPT_Image_Jun_8__2026__05_25_19_AM.jpg" group-title="EVENT 9/JUNI/2026" , 20:00 WIB Indonesia vs Mozambik
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://xl365.buzzscorelinez.com/
-#https://live2.pro2cdnlive.com/live/channel6.m3u8
+https://live1.pro2cdnlive.com/live/channel21.m3u8?wsSecret=97fd614a221a0556dcca118bfae346fe&wsABSTime=1781030774
+
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiCHJH1ek1xUW7H2tzUjviVJEhCa9hD1guyEq9MWTlLg&s=10" group-title="EVENT 8/JUNI/2026" , 20:00 WIB Thailand U19 vs Malaysia U19
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
