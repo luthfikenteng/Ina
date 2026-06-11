@@ -19,10 +19,10 @@ awalan
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/MxBt8tCs/IMG-20250825-164825.png" group-title="EVENT 11/JUNI/2026", Australia Open 2026
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://xl365.buzzscorelinez.com/
-https://tfwl3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.pro2cdnlive.com/live/channel61.m3u8?wsSession=fc451ffa2254f834f620bd68-178098443887723&wsIPSercert=4b3bb8ae455929bbb94d84cbb18f700e&wsBindIP=2&wsserid=1168278531255916870
-https://tfwl3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.pro2cdnlive.com/live/channel62.m3u8?wsSession=fc451ffa2254f834f620bd68-178098452077640&wsIPSercert=4b3bb8ae455929bbb94d84cbb18f700e&wsBindIP=2&wsserid=1168278531255916870
-https://tfwl3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.pro2cdnlive.com/live/channel63.m3u8?wsSession=fc451ffa2254f834f620bd68-178098453825069&wsIPSercert=4b3bb8ae455929bbb94d84cbb18f700e&wsBindIP=2&wsserid=1168278531255916870
-https://tfwl3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.pro2cdnlive.com/live/channel64.m3u8?wsSession=fc451ffa2254f834f620bd68-178098456574876&wsIPSercert=4b3bb8ae455929bbb94d84cbb18f700e&wsBindIP=2&wsserid=1168278531255916870
+#https://tfwl3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.pro2cdnlive.com/live/channel61.m3u8?wsSession=fc451ffa2254f834f620bd68-178098443887723&wsIPSercert=4b3bb8ae455929bbb94d84cbb18f700e&wsBindIP=2&wsserid=1168278531255916870
+#https://tfwl3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.pro2cdnlive.com/live/channel62.m3u8?wsSession=fc451ffa2254f834f620bd68-178098452077640&wsIPSercert=4b3bb8ae455929bbb94d84cbb18f700e&wsBindIP=2&wsserid=1168278531255916870
+#https://tfwl3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.pro2cdnlive.com/live/channel63.m3u8?wsSession=fc451ffa2254f834f620bd68-178098453825069&wsIPSercert=4b3bb8ae455929bbb94d84cbb18f700e&wsBindIP=2&wsserid=1168278531255916870
+#https://tfwl3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.pro2cdnlive.com/live/channel64.m3u8?wsSession=fc451ffa2254f834f620bd68-178098456574876&wsIPSercert=4b3bb8ae455929bbb94d84cbb18f700e&wsBindIP=2&wsserid=1168278531255916870
 
 
 #EXTINF:-1 tvg-logo="https://foto.kontan.co.id/HyPMB-cVEJ5kmE-nA7hoDs7fhDs=/smart/filters:format(webp)/2025/07/08/103576782.jpg" group-title="EVENT 11/JUNI/2026" , 19:00 WIB VNL : Slovenia vs Polandia
@@ -57,7 +57,7 @@ https://live1.pro2cdnlive.com/live/channel83.m3u8?wsSecret=475115433fd0078f6f265
 #https://stream.titanlivescore.com/live/default-100000095.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://imgcdn.espos.id/@espos/images/2026/06/20260611083053-prediksi-indonesia-u-19-vs-australia.jpg?quality=60" group-title="EVENT /JUNI/2026" , 20:15 WIB Indonesia U19 vs Australia U19
+#EXTINF:-1 tvg-logo="https://imgcdn.espos.id/@espos/images/2026/06/20260611083053-prediksi-indonesia-u-19-vs-australia.jpg?quality=60" group-title="EVENT 11/JUNI/2026" , 20:15 WIB Indonesia U19 vs Australia U19
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://xl365.buzzscorelinez.com/
 https://live2.pro2cdnlive.com/live/channel15.m3u8
