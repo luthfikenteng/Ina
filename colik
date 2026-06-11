@@ -62,6 +62,15 @@ https://live1.pro2cdnlive.com/live/channel83.m3u8?wsSecret=475115433fd0078f6f265
 #EXTVLCOPT:http-referrer=https://xl365.buzzscorelinez.com/
 https://live2.pro2cdnlive.com/live/channel15.m3u8
 
+#EXTINF:-1 tvg-logo="https://imgcdn.espos.id/@espos/images/2026/06/20260611083053-prediksi-indonesia-u-19-vs-australia.jpg?quality=60" group-title="EVENT 11/JUNI/2026" , 20:15 WIB Indonesia U19 vs Australia U19
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://lxscore.com/
+https://v4-81285a097b2cd341b7871fa3aafac269.livehwc4.com/stream.titanlivescore.com/live/default-107494.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=84be0048cf7176c3f2ace0573c5d394c
+
+
+#EXTINF:-1 tvg-logo="https://imgcdn.espos.id/@espos/images/2026/06/20260611083053-prediksi-indonesia-u-19-vs-australia.jpg?quality=60" group-title="EVENT 11/JUNI/2026" , 20:15 WIB Indonesia U19 vs Australia U19
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+https://rr1-ateme.tv360.vn/live/eds/379/HLS_Clean_MHL_2s/index.m3u8?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzM3OS9ITFNfQ2xlYW5fTUhMXzJzLyIsImV4cCI6MTc4MTE5OTUxMH0.eSs1HUnkqH24VPXMPQMRiBq17kN1VT82WGyQb2-rwwl5USiqYUD-QimfOdhTr4c3zZ19JIQQxWch9gk5V4tVgA&screen=MHL&uid=258998359
 
 
 #EXTINF:-1 tvg-logo="https://cdns.klimg.com/bola.net/library/p/headline/0000138315.jpg" group-title="EVENT 3/JUNI/2026" , 19:00 WIB Indonesia (W) vs Singapore (W)
