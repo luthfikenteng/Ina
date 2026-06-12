@@ -6,18 +6,23 @@ awalan
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQID-lg2H4PeSDC44affkJIGy6YBioiHxHPJYeP6JgXtig4kzBd6ffa4Y8&s=10" group-title="EVENT 12/JUNI/2026", 09:00 WIB Republik Korea vs Republik Ceko
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQID-lg2H4PeSDC44affkJIGy6YBioiHxHPJYeP6JgXtig4kzBd6ffa4Y8&s=10" group-title="EVENT 13/JUNI/2026", 02:00 WIB Kanada vs Bosnia Herzegovina
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=9752ef72590ef441ffa3731e0486fbc0:db63ec7b9f11348b7cc6808a54c99457
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-#https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/epg9sw6owc/out/v1/e50aecefcb294fae85d6b343e0a6f1cc/cenc.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/epg9sw6owc/out/v1/e50aecefcb294fae85d6b343e0a6f1cc/cenc.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQID-lg2H4PeSDC44affkJIGy6YBioiHxHPJYeP6JgXtig4kzBd6ffa4Y8&s=10" group-title="EVENT 13/JUNI/2026", 02:00 WIB Kanada vs Bosnia Herzegovina
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQID-lg2H4PeSDC44affkJIGy6YBioiHxHPJYeP6JgXtig4kzBd6ffa4Y8&s=10" group-title="EVENT 12/JUNI/2026", 09:00 WIB Republik Korea vs Republik Ceko
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQID-lg2H4PeSDC44affkJIGy6YBioiHxHPJYeP6JgXtig4kzBd6ffa4Y8&s=10" group-title="EVENT 13/JUNI/2026", 08:00 WIB USA vs Paraguay
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=45bbd582f220f438f896450d8306a3f2:582c6ba7f64bbc0f2d91c6b0c265760c
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-#https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/hubonmgf5k/out/v1/10560d92577e4917973aa4624124ecd6/cenc-sd.mpd
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/hubonmgf5k/out/v1/10560d92577e4917973aa4624124ecd6/cenc-sd.mpd
 
 
 
@@ -50,17 +55,16 @@ awalan
 
 
 
-#EXTINF:-1 tvg-logo="https://foto.kontan.co.id/HyPMB-cVEJ5kmE-nA7hoDs7fhDs=/smart/filters:format(webp)/2025/07/08/103576782.jpg" group-title="EVENT 12/JUNI/2026" , 03:00 WIB VNL : Jerman vs Italy
+#EXTINF:-1 tvg-logo="https://foto.kontan.co.id/HyPMB-cVEJ5kmE-nA7hoDs7fhDs=/smart/filters:format(webp)/2025/07/08/103576782.jpg" group-title="EVENT 13/JUNI/2026" , 02:30 WIB VNL : Belgia vs Serbia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://xl365.buzzscorelinez.com/
-#https://live1.pro2cdnlive.com/live/channel81.m3u8?wsSecret=341e65cc2ade8c3290c6ae450ec5956e&wsABSTime=1781203017
+https://live1.pro2cdnlive.com/live/channel80.m3u8?wsSecret=b0046a91a5f1365af9c49c294d1976d9&wsABSTime=1781286022
 
 
-#EXTINF:-1 tvg-logo="https://foto.kontan.co.id/HyPMB-cVEJ5kmE-nA7hoDs7fhDs=/smart/filters:format(webp)/2025/07/08/103576782.jpg" group-title="EVENT 12/JUNI/2026" , 19:00 WIB VNL : Jepang vs Polandia
+#EXTINF:-1 tvg-logo="https://foto.kontan.co.id/HyPMB-cVEJ5kmE-nA7hoDs7fhDs=/smart/filters:format(webp)/2025/07/08/103576782.jpg" group-title="EVENT 13/JUNI/2026" , 03:00 WIB VNL : Jerman vs USA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://xl365.buzzscorelinez.com/
-https://live1.pro2cdnlive.com/live/channel83.m3u8?wsSecret=6858139840a2a8722f8559b06f15b9f3&wsABSTime=1781286896
-
+https://live1.pro2cdnlive.com/live/channel82.m3u8?wsSecret=eccd18cf531d0baef6d0bd9ffabd7fe2&wsABSTime=1781286276
 
 
 #EXTINF:-1 tvg-logo="https://foto.kontan.co.id/HyPMB-cVEJ5kmE-nA7hoDs7fhDs=/smart/filters:format(webp)/2025/07/08/103576782.jpg" group-title="EVENT 10/JUNI/2026" , 22:00 WIB VNL : Turki vs USA
