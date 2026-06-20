@@ -5,7 +5,7 @@ awalan
 #EXTINF:-1 tvg-logo="https://asianvolleyball.net/new/wp-content/uploads/2026/04/Website-Cover-copy.jpg" group-title="EVENT 20/JUNI/2026", 16:30 WIB Bahrain vs Chinese Taipei
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://xl365.buzzscorelinez.com/
-https://live1.pro2cdnlive.com/live/channel83.m3u8?wsSecret=097bff7d470d0ba8a253dd8884de082b&wsABSTime=1781981487
+#https://live1.pro2cdnlive.com/live/channel83.m3u8?wsSecret=097bff7d470d0ba8a253dd8884de082b&wsABSTime=1781981487
 
 
 
@@ -58,7 +58,7 @@ https://live1.pro2cdnlive.com/live/channel83.m3u8?wsSecret=097bff7d470d0ba8a253d
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/MxBt8tCs/IMG-20250825-164825.png" group-title="EVENT 20/JUNI/2026", Macau Open 2026
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4239071016481061_AiSD.m3u8?txSecret=12f426c7640c564f94659eea3797f3c9&txTime=6A3745A0
+#https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4239071016481061_AiSD.m3u8?txSecret=12f426c7640c564f94659eea3797f3c9&txTime=6A3745A0
 
 
 
