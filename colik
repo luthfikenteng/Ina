@@ -54,7 +54,7 @@ awalan
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQID-lg2H4PeSDC44affkJIGy6YBioiHxHPJYeP6JgXtig4kzBd6ffa4Y8&s=10" group-title="EVENT 21/JUNI/2026", 11:00 WIB Tunisia vs Jepang
 #EXTVLCOPT:http-referrer=https://www.rtbgo.bn/
 #EXTVLCOPT:http-user-agent=RTBGo/2.0.21 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#https://d1211whpimeups.cloudfront.net/smil:rtb2/playlist.m3u8
+https://d1211whpimeups.cloudfront.net/smil:rtb2/playlist.m3u8
 
 
 
@@ -66,9 +66,9 @@ awalan
 #https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/MxBt8tCs/IMG-20250825-164825.png" group-title="EVENT 20/JUNI/2026", Macau Open 2026
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/MxBt8tCs/IMG-20250825-164825.png" group-title="EVENT 21/JUNI/2026", Macau Open 2026
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-#https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4239071016481061_AiSD.m3u8?txSecret=12f426c7640c564f94659eea3797f3c9&txTime=6A3745A0
+https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4239071645568061_AiSD.m3u8?txSecret=a1d6c88d58c4edff7504b58ac7ade1b5&txTime=6A389720
 
 
 
