@@ -26,9 +26,9 @@ awalan
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQID-lg2H4PeSDC44affkJIGy6YBioiHxHPJYeP6JgXtig4kzBd6ffa4Y8&s=10" group-title="EVENT 21/JUNI/2026", 00:00 WIB Belanda vs Swedia
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQID-lg2H4PeSDC44affkJIGy6YBioiHxHPJYeP6JgXtig4kzBd6ffa4Y8&s=10" group-title="EVENT 21/JUNI/2026", 23:00 WIB Spanyol vs Arab Saudi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
-#https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
+https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQID-lg2H4PeSDC44affkJIGy6YBioiHxHPJYeP6JgXtig4kzBd6ffa4Y8&s=10" group-title="EVENT 21/JUNI/2026", 03:00 WIB Jerman vs Pantai Gading
@@ -92,6 +92,13 @@ awalan
 #EXTINF:-1 tvg-logo="https://foto.kontan.co.id/HyPMB-cVEJ5kmE-nA7hoDs7fhDs=/smart/filters:format(webp)/2025/07/08/103576782.jpg" group-title="EVENT 21/JUNI/2026" , 17:00 WIB VNL : Canada vs Poland
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.pro2cdnlive.com/live/channel81.m3u8
+
+#EXTINF:-1 tvg-logo="https://foto.kontan.co.id/HyPMB-cVEJ5kmE-nA7hoDs7fhDs=/smart/filters:format(webp)/2025/07/08/103576782.jpg" group-title="EVENT 21/JUNI/2026" , 20:00 WIB VNL : Germany vs Brazil
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9009b7189e3e68cc09d17811f2beb55a:dd3f96a94c909da48ff40c92aabf8cf3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/4yiko4it8k/out/v1/b77dd424c745443aba2f3f88d418f797/cenc-sd.mpd
+
 
 
 #EXTINF:-1 tvg-logo="https://foto.kontan.co.id/HyPMB-cVEJ5kmE-nA7hoDs7fhDs=/smart/filters:format(webp)/2025/07/08/103576782.jpg" group-title="EVENT 21/JUNI/2026" , 19:00 WIB VNL : Japan vs Italy
