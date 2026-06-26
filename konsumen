@@ -154,17 +154,17 @@ http://193.47.62.59/hls/TKKKQQQQ.m3u8
 https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.pro2cdnlive.com/live/channel81.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://foto.kontan.co.id/HyPMB-cVEJ5kmE-nA7hoDs7fhDs=/smart/filters:format(webp)/2025/07/08/103576782.jpg" group-title="EVENT 21/JUNI/2026" , 20:30 WIB VNL : Thailand vs Belanda
+#EXTINF:-1 tvg-logo="https://foto.kontan.co.id/HyPMB-cVEJ5kmE-nA7hoDs7fhDs=/smart/filters:format(webp)/2025/07/08/103576782.jpg" group-title="EVENT 27/JUNI/2026" , 01:00 WIB VNL : Belgia vs Germany
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#https://hqlive.yarncdn.live/live/hqtv_blv_phanhai/playlist.m3u8
+https://hqlive.yarncdn.live/live/hqtv_blv_phanphep/playlist.m3u8
 
 
 
 
-#EXTINF:-1 tvg-logo="https://foto.kontan.co.id/HyPMB-cVEJ5kmE-nA7hoDs7fhDs=/smart/filters:format(webp)/2025/07/08/103576782.jpg" group-title="EVENT 19/JUNI/2026" , 23:30 WIB VNL : Belgia vs Jerman
+#EXTINF:-1 tvg-logo="https://foto.kontan.co.id/HyPMB-cVEJ5kmE-nA7hoDs7fhDs=/smart/filters:format(webp)/2025/07/08/103576782.jpg" group-title="EVENT 27/JUNI/2026" , 01:30 WIB VNL : Serbia vs Cuba
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://xl365.buzzscorelinez.com/
-#https://live1.pro2cdnlive.com/live/channel82.m3u8?wsSecret=67249cdb130e0a84b380496df8bb5b30&wsABSTime=1781889500|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36&referrer=https://xl365.buzzscorelinez.com/
+https://hqlive.yarncdn.live/live/hqtv_blv_phanbong/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://foto.kontan.co.id/HyPMB-cVEJ5kmE-nA7hoDs7fhDs=/smart/filters:format(webp)/2025/07/08/103576782.jpg" group-title="EVENT 10/JUNI/2026" , 22:00 WIB VNL : Turki vs USA
