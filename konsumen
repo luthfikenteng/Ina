@@ -7,7 +7,7 @@ awalan
 #EXTINF:-1 tvg-logo="https://asianvolleyball.net/new/wp-content/uploads/2026/04/Website-Cover-copy.jpg" group-title="EVENT 26/JUNI/2026", 16:30 WIB Qatar vs Korea Selatan
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://xl365.buzzscorelinez.com/
-https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.pro2cdnlive.com/live/channel82.m3u8
+#https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.pro2cdnlive.com/live/channel82.m3u8
 
 
 
@@ -126,24 +126,24 @@ https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/l
 
 
 
-#EXTINF:-1 tvg-logo="https://foto.kontan.co.id/HyPMB-cVEJ5kmE-nA7hoDs7fhDs=/smart/filters:format(webp)/2025/07/08/103576782.jpg" group-title="EVENT 21/JUNI/2026" , 17:00 WIB VNL : Canada vs Poland
+#EXTINF:-1 tvg-logo="https://foto.kontan.co.id/HyPMB-cVEJ5kmE-nA7hoDs7fhDs=/smart/filters:format(webp)/2025/07/08/103576782.jpg" group-title="EVENT 26/JUNI/2026" , 21:30 WIB VNL : Ukraina vs Canada
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.pro2cdnlive.com/live/channel81.m3u8
+https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.pro2cdnlive.com/live/channel82.m3u8
 
 
 
 
-#EXTINF:-1 tvg-logo="https://foto.kontan.co.id/HyPMB-cVEJ5kmE-nA7hoDs7fhDs=/smart/filters:format(webp)/2025/07/08/103576782.jpg" group-title="EVENT 21/JUNI/2026" , 19:00 WIB VNL : Japan vs Italy
+#EXTINF:-1 tvg-logo="https://foto.kontan.co.id/HyPMB-cVEJ5kmE-nA7hoDs7fhDs=/smart/filters:format(webp)/2025/07/08/103576782.jpg" group-title="EVENT 21/JUNI/2026" , 21:30 WIB VNL : China vs Argentina
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://xl365.buzzscorelinez.com/
-#https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.pro2cdnlive.com/live/channel82.m3u8
+https://hqlive.yarncdn.live/live/hqtv_blv_phanbong/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://foto.kontan.co.id/HyPMB-cVEJ5kmE-nA7hoDs7fhDs=/smart/filters:format(webp)/2025/07/08/103576782.jpg" group-title="EVENT 21/JUNI/2026" , 20:00 WIB VNL : Germany vs Brazil
+#EXTINF:-1 tvg-logo="https://foto.kontan.co.id/HyPMB-cVEJ5kmE-nA7hoDs7fhDs=/smart/filters:format(webp)/2025/07/08/103576782.jpg" group-title="EVENT 21/JUNI/2026" , 22:00 WIB VNL : Iran vs Japan
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9009b7189e3e68cc09d17811f2beb55a:dd3f96a94c909da48ff40c92aabf8cf3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/4yiko4it8k/out/v1/b77dd424c745443aba2f3f88d418f797/cenc-sd.mpd
+https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.pro2cdnlive.com/live/channel81.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://foto.kontan.co.id/HyPMB-cVEJ5kmE-nA7hoDs7fhDs=/smart/filters:format(webp)/2025/07/08/103576782.jpg" group-title="EVENT 21/JUNI/2026" , 20:30 WIB VNL : Thailand vs Belanda
