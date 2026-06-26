@@ -47,16 +47,15 @@ awalan
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQID-lg2H4PeSDC44affkJIGy6YBioiHxHPJYeP6JgXtig4kzBd6ffa4Y8&s=10" group-title="EVENT 27/JUNI/2026", 02:00 WIB Norwegia vs Prancis
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-http://193.47.62.59/hls/TKKKQQQQ.m3u8
-#https://live13a.jynrrs.com/live/20233432.m3u8
+http://193.47.62.55/hls/UIIII.m3u8
+https://live06.zuqiu106.com/live/20233432.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQID-lg2H4PeSDC44affkJIGy6YBioiHxHPJYeP6JgXtig4kzBd6ffa4Y8&s=10" group-title="EVENT 27/JUNI/2026", 02:00 WIB Senegal vs Irak
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-http://193.47.62.59/hls/TKKKQQQQ.m3u8
-#https://live13a.jynrrs.com/live/20233432.m3u8
-
+http://193.47.62.55/hls/JJJJQQ.m3u8
+https://live06.zuqiu106.com/live/79635460.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQID-lg2H4PeSDC44affkJIGy6YBioiHxHPJYeP6JgXtig4kzBd6ffa4Y8&s=10" group-title="EVENT 27/JUNI/2026", 07:00 WIB Uruguay vs Spanyol
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
