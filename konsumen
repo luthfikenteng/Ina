@@ -766,7 +766,8 @@ https://cdnbal1.indihometv.com/atm/DASH/KOMPAS_TV/KOMPAS_TV-avc1_2500000=7-32777
 
 #EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://i.ibb.co.com/tPHJ7gzF/GARUDA.png" group-title="NASIONAL",Garuda TV
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://hgmtv.com:19360/garudatvlivestreaming/720p.m3u8
+https://hgmstream.servehttp.com/garuda/main_stream.m3u8?session=49a94ad3-8592-4d11-b575-e9a458db095d&cookieCheck=1
+
 
 #EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://i.ibb.co.com/tPHJ7gzF/GARUDA.png" group-title="NASIONAL", GARUDA TV FHD
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
