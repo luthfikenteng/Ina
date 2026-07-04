@@ -4,12 +4,12 @@ awalan
 
 
 
-#EXTINF:-1 tvg-logo="https://dcm1eeuyachdi.cloudfront.net/fit-in/3840x3840/filters:quality(100):format(webp)/media/images/events/badminton-canada/img-banner/4bf85985-7a5.png" group-title="EVENT 5/JULI/2026", Yonex Canada Open 2025
+#EXTINF:-1 tvg-logo="https://dcm1eeuyachdi.cloudfront.net/fit-in/3840x3840/filters:quality(100):format(webp)/media/images/events/badminton-canada/img-banner/4bf85985-7a5.png" group-title="EVENT 4/JULI/2026", Yonex Canada Open 2026
 https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.pro2cdnlive.com/live/channel61.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQID-lg2H4PeSDC44affkJIGy6YBioiHxHPJYeP6JgXtig4kzBd6ffa4Y8&s=10" group-title="EVENT 4/JULI/2026", 01:00 WIB Australia vs Mesir
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQID-lg2H4PeSDC44affkJIGy6YBioiHxHPJYeP6JgXtig4kzBd6ffa4Y8&s=10" group-title="EVENT 5/JULI/2026", 00:00 WIB Kanada vs Maroko
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #http://193.47.62.47/hls/dTHXCZzsssQ.m3u8
@@ -17,17 +17,41 @@ https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/l
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQID-lg2H4PeSDC44affkJIGy6YBioiHxHPJYeP6JgXtig4kzBd6ffa4Y8&s=10" group-title="EVENT 4/JULI/2026", 01:00 WIB Australia vs Mesir
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQID-lg2H4PeSDC44affkJIGy6YBioiHxHPJYeP6JgXtig4kzBd6ffa4Y8&s=10" group-title="EVENT 5/JULI/2026", 00:00 WIB Kanada vs Maroko
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
-#https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/.mpd
+https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/.mpd
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQID-lg2H4PeSDC44affkJIGy6YBioiHxHPJYeP6JgXtig4kzBd6ffa4Y8&s=10" group-title="EVENT 4/JULI/2026", 01:00 WIB Australia vs Mesir
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQID-lg2H4PeSDC44affkJIGy6YBioiHxHPJYeP6JgXtig4kzBd6ffa4Y8&s=10" group-title="EVENT 5/JULI/2026", 00:00 WIB Kanada vs Maroko
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d
+https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQID-lg2H4PeSDC44affkJIGy6YBioiHxHPJYeP6JgXtig4kzBd6ffa4Y8&s=10" group-title="EVENT 5/JULI/2026", 04:00 WIB Paraguay vs Perancis
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#http://193.47.62.47/hls/dTHXCZzsssQ.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQID-lg2H4PeSDC44affkJIGy6YBioiHxHPJYeP6JgXtig4kzBd6ffa4Y8&s=10" group-title="EVENT 5/JULI/2026", 04:00 WIB Paraguay vs Perancis
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=2c338a117d434ce4bbe3569231af90f1:a9633d901ee8a3f4f58ac314b5c5f4fb
+#KODIPROP:inputstream.adaptive.license_key=adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
-#https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.mpd
+https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/.mpd
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQID-lg2H4PeSDC44affkJIGy6YBioiHxHPJYeP6JgXtig4kzBd6ffa4Y8&s=10" group-title="EVENT 5/JULI/2026", 04:00 WIB Paraguay vs Perancis
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d
+https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
 
 
 
