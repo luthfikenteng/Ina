@@ -6,14 +6,14 @@ awalan
 
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/BMjMK6P8kRjb9v22nL3l79mF9hw=/640x198/filters:quality(70)/vidio-web-prod-user/uploads/user/cover/96649937/ProfileBannerVNL-e2e354bd7de07a0d.jpg" group-title="EVENT 8/JULI/2026", 18:00 WIB VNL : Perancis vs Belanda
-https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.pro2cdnlive.com/live/channel87.m3u8
+#https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.pro2cdnlive.com/live/channel87.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/BMjMK6P8kRjb9v22nL3l79mF9hw=/640x198/filters:quality(70)/vidio-web-prod-user/uploads/user/cover/96649937/ProfileBannerVNL-e2e354bd7de07a0d.jpg" group-title="EVENT 8/JULI/2026", 19:30 WIB VNL : China vs Kanada
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://damitv.app/
-https://damitv.ahmadadityaberdikari.workers.dev/play/womensvnl/2026-07-08/chi-can.m3u8
-https://damitv.ahmadadityaberdikari.workers.dev/play/channel/135.m3u8
-https://damitv.ahmadadityaberdikari.workers.dev/play/channel/12.m3u8
+#https://damitv.ahmadadityaberdikari.workers.dev/play/womensvnl/2026-07-08/chi-can.m3u8
+#https://damitv.ahmadadityaberdikari.workers.dev/play/channel/135.m3u8
+#https://damitv.ahmadadityaberdikari.workers.dev/play/channel/12.m3u8
 
 
 
@@ -555,7 +555,8 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w2097905317_b
 =======================================
 
 #EXTINF:-1 tvg-id="Rajawali TV" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://i.ibb.co.com/MkkwN1Zd/RTV.png" group-title="NASIONAL", RTV
-https://op-flashcon-digdayahd-1.dens.tv/h/h10/index.m3u8
+https://op-flashcon-digdayahd-1.dens.tv/h/h10/index.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
+
 
 
 
@@ -4301,4 +4302,3 @@ https://cctv.cirebonkota.go.id/hls/depan-ataqwa/index.m3u8
 #https://cctv.cirebonkota.go.id/hls/simpang-drajat/index.m3u8
 
 
- jvb 
