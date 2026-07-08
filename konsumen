@@ -3,8 +3,10 @@
 awalan
 
 
-#EXTINF:-1 tvg-logo="https://cdns.klimg.com/mav-prod-resized/1280x720/ori/image_bank/2026/7/5/ATK_BOLA_AVC_GIRLS_U18_MATCH.jpg" group-title="EVENT 5/JULI/2026", 19:00 WIB Thailand vs Indonesia
-#https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.pro2cdnlive.com/live/channel80.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/BMjMK6P8kRjb9v22nL3l79mF9hw=/640x198/filters:quality(70)/vidio-web-prod-user/uploads/user/cover/96649937/ProfileBannerVNL-e2e354bd7de07a0d.jpg" group-title="EVENT 8/JULI/2026", 18:00 WIB VNL : Perancis vs Belanda
+https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.pro2cdnlive.com/live/channel87.m3u8
 
 #EXTINF:-1 tvg-logo="https://dcm1eeuyachdi.cloudfront.net/fit-in/3840x3840/filters:quality(100):format(webp)/media/images/events/badminton-canada/img-banner/4bf85985-7a5.png" group-title="EVENT 5/JULI/2026", Yonex Canada Open 2026
 #https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.pro2cdnlive.com/live/channel61.m3u8
@@ -534,11 +536,12 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w2097905317_b
 =======================================
 
 #EXTINF:-1 tvg-id="Rajawali TV" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://i.ibb.co.com/MkkwN1Zd/RTV.png" group-title="NASIONAL", RTV
+https://op-flashcon-digdayahd-1.dens.tv/h/h10/index.m3u8
 
 
 
 #EXTINF:-1 tvg-id="Rajawali TV" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://i.ibb.co.com/MkkwN1Zd/RTV.png" group-title="NASIONAL", RTV
-https://cdnbal1.indihometv.com/atm/DASH/RAJAWALI_TV/RAJAWALI_TV-avc1_2500000=7-3277707030000000.mpd
+#https://cdnbal1.indihometv.com/atm/DASH/RAJAWALI_TV/RAJAWALI_TV-avc1_2500000=7-3277707030000000.mpd
 
 =======================================
 
@@ -1335,7 +1338,7 @@ https://flv.intechmedia.net/live/ch107.m3u8
 #https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=1561&type=dash
 
 #EXTINF:-1 tvg-id="Rajawali TV" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://i.ibb.co.com/MkkwN1Zd/RTV.png" group-title="KIDS", RTV HD
-https://cdnbal1.indihometv.com/atm/DASH/RAJAWALI_TV/RAJAWALI_TV-avc1_2500000=7-3277707030000000.mpd
+https://op-flashcon-digdayahd-1.dens.tv/h/h10/index.m3u8
 
 =======================================
 
