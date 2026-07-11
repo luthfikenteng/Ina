@@ -20,11 +20,21 @@ awalan
 
 
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/BMjMK6P8kRjb9v22nL3l79mF9hw=/640x198/filters:quality(70)/vidio-web-prod-user/uploads/user/cover/96649937/ProfileBannerVNL-e2e354bd7de07a0d.jpg" group-title="EVENT 11/JULI/2026", 15:30 WIB VNL : Kanada vs Italy
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/BMjMK6P8kRjb9v22nL3l79mF9hw=/640x198/filters:quality(70)/vidio-web-prod-user/uploads/user/cover/96649937/ProfileBannerVNL-e2e354bd7de07a0d.jpg" group-title="EVENT 11/JULI/2026", 17:20 WIB VNL : Jepang vs Turki
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://xl365.livebytexscorez.com/
+https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.pro2cdnlive.com/live/channel82.m3u8
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/BMjMK6P8kRjb9v22nL3l79mF9hw=/640x198/filters:quality(70)/vidio-web-prod-user/uploads/user/cover/96649937/ProfileBannerVNL-e2e354bd7de07a0d.jpg" group-title="EVENT 11/JULI/2026", 19:00 WIB VNL : China vs Republik Dominika
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://xl365.livebytexscorez.com/
+https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.pro2cdnlive.com/live/channel83.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/BMjMK6P8kRjb9v22nL3l79mF9hw=/640x198/filters:quality(70)/vidio-web-prod-user/uploads/user/cover/96649937/ProfileBannerVNL-e2e354bd7de07a0d.jpg" group-title="EVENT 11/JULI/2026", 21:30 WIB VNL : Bulgaria vs Prancis
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://xl365.livebytexscorez.com/
 https://live2.pro2cdnlive.com/live/channel33.m3u8
-
 
 
 
@@ -1360,7 +1370,8 @@ https://flv.intechmedia.net/live/ch107.m3u8
 #https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=1561&type=dash
 
 #EXTINF:-1 tvg-id="Rajawali TV" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://i.ibb.co.com/MkkwN1Zd/RTV.png" group-title="KIDS", RTV HD
-https://op-flashcon-digdayahd-1.dens.tv/h/h10/index.m3u8
+https://op-flashcon-digdayahd-1.dens.tv/h/h10/index.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
+
 
 =======================================
 
@@ -1660,8 +1671,13 @@ https://ott-balancer.tvri.go.id/live/eds/Jogjakarta/hls/Jogjakarta.m3u8
 
 
 #EXTINF:-1 group-title="RELIGI" tvg-id="AlQuranAlKareemTV.sa" tvg-logo="https://i.ibb.co.com/bjKp5VXr/Mekkah.png",Qur'an TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-https://op-group1-swiftservesd-1.dens.tv/s/s28/index.m3u8?app_type=web&amp;userid=lite&amp;chname=Quran_TV
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d2b87b73266741bc9e82b6296f732cd6:acc999bccde4bcdb93a00c5058a2def5
+https://atemecdnbalancer-voe.sysln.id/live/eds/ALQuranAlKareem/mediampd/ALQuranAlKareem.mpd
+http://m.live.net.sa:1935/live/quran/playlist.m3u8
+https://flv.intechmedia.net/live/ch14.m3u8
+
 
 
 #EXTINF:-1 group-title="RELIGI" tvg-id="AlQuranAlKareemTV.sa" tvg-logo="https://i.ibb.co.com/bjKp5VXr/Mekkah.png",Qur'an TV HD
@@ -1674,7 +1690,8 @@ https://op-group1-swiftservesd-1.dens.tv/s/s28/index.m3u8?app_type=web&amp;useri
 
 #EXTINF:-1 group-title="RELIGI" tvg-id="sunnahtv.sa" tvg-logo="https://i.ibb.co.com/ks9FnVD9/Madinah.png",Sunnah TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-https://op-group1-swiftservesd-1.dens.tv/s/s27/index.m3u8?app_type=web&amp;userid=lite&amp;chname=Sunna_TV
+https://flv.intechmedia.net/live/ch13.m3u8
+http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
 
 
 #EXTINF:-1 group-title="RELIGI" tvg-id="sunnahtv.sa" tvg-logo="https://i.ibb.co.com/ks9FnVD9/Madinah.png",Sunnah TV HD
