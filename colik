@@ -46,12 +46,11 @@ awalan
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQID-lg2H4PeSDC44affkJIGy6YBioiHxHPJYeP6JgXtig4kzBd6ffa4Y8&s=10" group-title="EVENT 8/JULI/2026", 03:00 WIB Swiss vs Kolombia
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQID-lg2H4PeSDC44affkJIGy6YBioiHxHPJYeP6JgXtig4kzBd6ffa4Y8&s=10" group-title="EVENT 15/JULI/2026", 02:00 WIB Perancis vs Spanyol
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#http://193.47.62.47/hls/dTHXCZzsssQ.m3u8
-
-
+http://193.47.62.51/hls/ECZzsss.m3u8
+http://193.47.62.51/hls/EVVVFEREHTRHF.m3u8
 
 
 
