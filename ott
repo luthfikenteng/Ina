@@ -29,9 +29,11 @@ awalan
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/MxBt8tCs/IMG-20250825-164825.png" group-title="EVENT 21/JUNI/2026", Macau Open 2026
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/MxBt8tCs/IMG-20250825-164825.png" group-title="EVENT 15/JULI/2026", Japan Open 2026
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-#https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4239071645568061_AiSD.m3u8?txSecret=a1d6c88d58c4edff7504b58ac7ade1b5&txTime=6A389720
+https://mobilelive-test.ysp.cctv.cn/ysp/2031468101.m3u8
+https://mobilelive-test.ysp.cctv.cn/ysp/2031468201.m3u8
+
 
 
 =======================================
