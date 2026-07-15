@@ -22,20 +22,15 @@ awalan
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQID-lg2H4PeSDC44affkJIGy6YBioiHxHPJYeP6JgXtig4kzBd6ffa4Y8&s=10" group-title="EVENT 15/JULI/2026", 02:00 WIB Perancis vs Spanyol
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQID-lg2H4PeSDC44affkJIGy6YBioiHxHPJYeP6JgXtig4kzBd6ffa4Y8&s=10" group-title="EVENT 16/JULI/2026", 02:00 WIB Inggris vs Argentina
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3146.ts
 
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/MxBt8tCs/IMG-20250825-164825.png" group-title="EVENT 15/JULI/2026", Japan Open 2026
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://mobilelive-test.ysp.cctv.cn/ysp/2031468101.m3u8
-https://mobilelive-test.ysp.cctv.cn/ysp/2031468201.m3u8
-https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4266836024550061_AiSD.m3u8?txSecret=d4a1c24da5304ca2f2f70190627a2b57&txTime=6A5802E0
-https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4266836167426061_AiSD.m3u8?txSecret=388522019b44941358b97a7a68954c14&txTime=6A5802E0
-https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4266836298806061_AiSD.m3u8?txSecret=ef1a6e1a0ec569613b60e16197a030bf&txTime=6A5802E0
 
 
 
