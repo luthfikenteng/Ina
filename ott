@@ -26,15 +26,6 @@ awalan
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQID-lg2H4PeSDC44affkJIGy6YBioiHxHPJYeP6JgXtig4kzBd6ffa4Y8&s=10" group-title="EVENT 20/JULI/2026", 02:00 WIB Spanyol vs Argentina
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-https://play2.315nb.com/live/1130397301_566367342_1080p.m3u8?txSecret=3899cf89f5eb1d67037d136bbdcefd9a&txTime=6A5D2C82&t=1784487538451
-https://live.kinxie.com/live/53452537_9a7fdb9b7a91071d1e63ca45de00111e.m3u8
-https://pulltx.bldoll.com/live/sd-6MvYMRTGwJ8SJyq4sg.m3u8?txSecret=57ac27d73b008eb49bb50da63ebacb0c&txTime=6A6226D5
-https://play2.315nb.com/live/1130397301_566367342_1080p.m3u8?txSecret=3899cf89f5eb1d67037d136bbdcefd9a&txTime=6A5D2C82&t=1784487538451
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQID-lg2H4PeSDC44affkJIGy6YBioiHxHPJYeP6JgXtig4kzBd6ffa4Y8&s=10" group-title="EVENT 20/JULI/2026", 02:00 WIB Spanyol vs Argentina
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-https://vs137.vcdn.biz/6aa0d03eb8d337c5a12c8275477af53a_megogo/live/hls/b/700_2490_4000/u_sid/0/o/229009131/rsid/15fbd560-a86a-45ca-8058-baf9f5f61c8e/u_uid/0/u_vod/0/u_device/cms_webandroid/u_devicekey/_site_mobile/lip/45.80.208.174*asn/u_srvc/84416/u_did/web_MjE7M10AtBKsWN3CHzhzNBgiG7LkULPx/type.live/playlist.m3u8
-https://cdn.skygo.mn/live/disk1/ONTV/DASH-FTA/ONTV.mpd
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/MxBt8tCs/IMG-20250825-164825.png" group-title="EVENT 18/JULI/2026", Japan Open 2026
@@ -709,8 +700,14 @@ https://5bf7b725107e5.streamlock.net/btv/btv/playlist.m3u8
 =======================================
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/CpS0ZqVN/JTV.png" group-title="DAERAH",JTV
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 14) ExoPlayerLib/2.15.1
-#https://cdn10jtedge.indihometv.com/atm/DASH/jtv/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=96528db3a2fc4bf3a415f2c5c274b79c:3d77cf2d7ef8385d4c5fc876b742610a
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+https://atemecdnbalancer-voe.sysln.id/live/eds/JTV/mediampd/JTV.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/CpS0ZqVN/JTV.png" group-title="DAERAH",JTV Kediri
+http://122.248.43.242:1935/JTVKEDIRI/_definst_/myStream/playlist.m3u8
 
 =======================================
 
