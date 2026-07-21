@@ -16,9 +16,13 @@ awalan
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/MxBt8tCs/IMG-20250825-164825.png" group-title="EVENT 19/JULI/2026", Japan Open 2026
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/MxBt8tCs/IMG-20250825-164825.png" group-title="EVENT 21/JULI/2026", China Open 2026
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4266838196161061_AiSD.m3u8?txSecret=371a9f17716466c422df0895adeb9af8&txTime=6A5D48E0
+https://live1.streambylivepulse.com/live/channel36/playlist.m3u8?wsSecret=dc910046bddb61f9dc0dd49027da1261&wsABSTime=1784644029
+https://live1.streambylivepulse.com/live/channel37/playlist.m3u8?wsSecret=319aee6055dffa2f25aa9bc72cb00cb5&wsABSTime=1784644057
+https://live1.streambylivepulse.com/live/channel38/playlist.m3u8?wsSecret=7cf7450f6644a5e7894b60087e647df8&wsABSTime=1784644092
+
+
 
 #EXTINF:-1 tvg-id="MUTV.uk" tvg-logo="https://i.ibb.co.com/27H8r2d9/MUTV.png" group-title="EVENT 18/JULI/2026", 22:00 WIB Friendly Match : MU vs Wrexham
 #https://get.perfecttv.net/mutv.mpd
