@@ -3,6 +3,13 @@
 awalan
 
 
+#EXTINF:-1 tvg-logo="https:.prod.vidiocdn.com/BMjMK6P8kRjb9v22nL3l79mF9hw=/640x198/filters:quality(70)/vidio-web-prod-user/uploads/user/cover/96649937/ProfileBannerVNL-e2e354bd7de07a0pg" group-title="EVENT 27/JULI/2026", 20:30 WIB Indonesia vs Camboja
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d418f733ed224f9bb9c2b1589db22a20:6ed6fe26daa4b926810869ff60254ebb
+https://tglmp02.akamaized.net/out/v1/cc0fc82e76cb4e0093e81695284af443/manifest.mpd
+
+
 
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/BMjMK6P8kRjb9v22nL3l79mF9hw=/640x198/filters:quality(70)/vidio-web-prod-user/uploads/user/cover/96649937/ProfileBannerVNL-e2e354bd7de07a0d.jpg" group-title="EVENT 26/JULI/2026", 18:30 WIB VNL : Turki vs Brazil
