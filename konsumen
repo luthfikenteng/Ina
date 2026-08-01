@@ -5,18 +5,18 @@ awalan
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2xwLoSBv6BcNQfdA4GEXxxZXd1G5Rn73mY6VPvMX5-Q&s=10" group-title="EVENT 1/AGUSTUS/2026", 15:30 WIB Persija vs PSMS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://lxscore.com/
-https://v4-81285a097b2cd341b7871fa3aafac269.livehwc4.com/hd-stream.lxscore.com/live/default-1838518.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=542cd3eee77cde5beac1ca8f6672bb5c
+#https://v4-81285a097b2cd341b7871fa3aafac269.livehwc4.com/hd-stream.lxscore.com/live/default-1838518.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=542cd3eee77cde5beac1ca8f6672bb5c
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2xwLoSBv6BcNQfdA4GEXxxZXd1G5Rn73mY6VPvMX5-Q&s=10" group-title="EVENT 1/AGUSTUS/2026", 15:30 WIB Persija vs PSMS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.textliveupdaterz.com/
-https://live2.streambylivepulse.com/live/channel4.m3u8
+#https://live2.streambylivepulse.com/live/channel4.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a8/SEA_V.League.png" group-title="EVENT 1/AGUSTUS/2026", 16:00 WIB Indonesia vs Thailand vs Philipina
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6529c8cd99db4489bd237f616f37124b:b9d299ba9ea94fd2ac4a77e8966dd91e
-https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/31/31.mpd
+#https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/31/31.mpd
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a8/SEA_V.League.png" group-title="EVENT 31/JULI/2026", 16:00 WIB Indonesia vs Thailand
@@ -177,13 +177,19 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/in
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=204&type=drm
 https://nextgenz.my.id/event/pidio/play.mpd?id=204&type=dash
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/cKN30V8Q/SCTV.png" group-title="NASIONAL",SCTV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://streambone.usw40304648193001.workers.dev/index.mpd?q=204&ext=drm&x=1785596737&k=0c5c2b436b9eb27a352d5b60d81c746ee9b61334c570d39d5918518ad8b00e32
+https://streambone.usw40304648193001.workers.dev/index.mpd?q=204&ext=dash&x=1785596737&k=9acd8ca4488855c4468dc2a5d89e6d25bacae259d781aad13a0cb37b3d341ac9&sc=204
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/cKN30V8Q/SCTV.png" group-title="NASIONAL",SCTV HD
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #https://indihuy.streamized.net/atm/DASH/sctv/sctv-avc1_2500000=7-3277707030000000.mpd
 #https://cdnbal1.indihometv.com/atm/DASH/sctv/sctv-avc1_2500000=7-3277707030000000.mpd
-https://cdnbal1.indihometv.com/atm/DASH/sctv/manifest.mpd
+#https://cdnbal1.indihometv.com/atm/DASH/sctv/manifest.mpd
 
 =======================================
 
