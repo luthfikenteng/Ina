@@ -172,15 +172,14 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/in
 
 
 #EXTINF:0 tvg-logo="https://i.ibb.co.com/cKN30V8Q/SCTV.png" group-title="NASIONAL",SCTV HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://nextgenz.my.id/event/pidio/play.mpd?id=204&type=dash
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/cKN30V8Q/SCTV.png" group-title="NASIONAL",SCTV HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://streambone.usw40304648193001.workers.dev/index.mpd?q=204&ext=drm&x=1785596737&k=0c5c2b436b9eb27a352d5b60d81c746ee9b61334c570d39d5918518ad8b00e32
-https://streambone.usw40304648193001.workers.dev/index.mpd?q=204&ext=dash&x=1785596737&k=9acd8ca4488855c4468dc2a5d89e6d25bacae259d781aad13a0cb37b3d341ac9&sc=204
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+https://tv.canal86.my.id/emtekhd/stream.m3u8?id=204&type=hls&e=1785727049&s=4e38ff6408e55fec8a31ef3d98676743f879bd2bd0a47662c97a644023c23093|user-agent=
+
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/cKN30V8Q/SCTV.png" group-title="NASIONAL",SCTV HD
