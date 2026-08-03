@@ -32,11 +32,11 @@ awalan
 
 
 
-#EXTINF:-1 tvg-logo="https://www.nusabali.com/article_images/226693/piala-aff-adopsi-aturan-piala-dunia-800-2026-07-27-104845_0.jpg" group-title="EVENT 31/JULI/2026", 17:00 WIB Timor-Leste vs Indonesia
+#EXTINF:-1 tvg-logo="https://www.nusabali.com/article_images/226693/piala-aff-adopsi-aturan-piala-dunia-800-2026-07-27-104845_0.jpg" group-title="EVENT 3/AGUSTUS/2026", 20:30 WIB Indonesia vs Vietnam
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://lxscore.com/
 #https://v4-81285a097b2cd341b7871fa3aafac269.livehwc4.com/hd-stream.lxscore.com/live/default-1832576.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=42e3934eff9d209643ed3e01f6f360e5
-#https://cilok99.serv00.net/ythls/xxxx.py/play.m3u8?id=UCCuzDCoI3EUOo_nhCj4noSw
+https://cilok99.serv00.net/ythls/xxxx.py/play.m3u8?id=UCCuzDCoI3EUOo_nhCj4noSw
 
 
 
@@ -183,8 +183,8 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/in
 
 #EXTINF:0 tvg-logo="https://i.ibb.co.com/cKN30V8Q/SCTV.png" group-title="NASIONAL",SCTV HD
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#https://nextgenz.my.id/event/pidio/play.mpd?id=204&type=dash
+https://nextgenz.my.id/event/pidio/play.mpd?id=204&type=dash
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/cKN30V8Q/SCTV.png" group-title="NASIONAL",SCTV HD
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
@@ -195,8 +195,8 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/in
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #https://indihuy.streamized.net/atm/DASH/sctv/sctv-avc1_2500000=7-3277707030000000.mpd
-https://cdnbal1.indihometv.com/atm/DASH/sctv/sctv-avc1_2500000=7-3277707030000000.mpd
-#https://cdnbal1.indihometv.com/atm/DASH/sctv/manifest.mpd
+#https://cdnbal1.indihometv.com/atm/DASH/sctv/sctv-avc1_2500000=7-3277707030000000.mpd
+https://cdnbal1.indihometv.com/atm/DASH/sctv/manifest.mpd
 
 =======================================
 
