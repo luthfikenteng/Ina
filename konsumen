@@ -147,6 +147,7 @@ http://beetv.my.id/stream/rctiplus.m3u8?ch=mnctv
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 https://nextgenz.my.id/event/pidio/play.mpd?id=204&type=dash
 http://tvratu.my.id/nissa/index.mpd?id=204&type=dash
+https://beetv.my.id/stream/vd.m3u8?ch=sctv
 
 =======================================
 
@@ -156,6 +157,7 @@ http://tvratu.my.id/nissa/index.mpd?id=204&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=drm
 https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=dash
 http://tvratu.my.id/nissa/index.mpd?id=205&type=dash
+https://beetv.my.id/stream/vd.m3u8?ch=indosiar
 
 =======================================
 
@@ -200,7 +202,6 @@ http://tvratu.my.id/nissa/index.mpd?id=8237&type=dash
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 http://tvratu.my.id/nissa/index.mpd?id=782&type=dash
-https://nextgenz.my.id/event/pidio/play.mpd?id=782&type=dash
 
 =======================================
 
