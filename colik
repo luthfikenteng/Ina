@@ -132,7 +132,8 @@ http://beetv.my.id/stream/rctiplus.m3u8?ch=gtv
 #EXTINF:-1 tvg-id="RCTI [1].id" tvg-logo="https://i.ibb.co.com/8LSDx2WG/RCTI.png" group-title="NASIONAL",RCTI
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
+#https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
+http://beetv.my.id/stream/rctiplus.m3u8?ch=rcti
 
 =======================================
 
@@ -272,7 +273,8 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h40/index.m3u8|referrer=http://www.den
 #EXTINF:-1 group-title="NASIONAL" tvg-id="iNews HD - [Channel 433].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co.com/Dfjt4MKN/INEWS.png",INEWS
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTVLCOPT:http-user-agent=android-R+
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
+#https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
+http://beetv.my.id/stream/rctiplus.m3u8?ch=inews
 
 #EXTINF:-1 group-title="NASIONAL" tvg-id="iNews HD - [Channel 433].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co.com/Dfjt4MKN/INEWS.png", INEWS HD
 #https://cdnbal1.indihometv.com/atm/DASH/inews/inews-avc1_2500000=7-3277707030000000.mpd
@@ -4075,3 +4077,9 @@ https://cctv.cirebonkota.go.id/hls/depan-ataqwa/index.m3u8
 #https://cctv.cirebonkota.go.id/hls/simpang-drajat/index.m3u8
 
 
+#EXTINF:-1 tvg-id="SoccerChannel.id@SD" group-title="TEST" tvg-logo="https://www.visionplus.id/images/repository/655/655-LOGO-m.png",spotv 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://colloriptvpro.biz.id/vismet/stream.php?id=120&type=drm
+https://colloriptvpro.biz.id/vismet/stream.mpd?id=120&type=mpd
