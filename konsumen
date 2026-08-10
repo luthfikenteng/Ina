@@ -158,7 +158,8 @@ https://stream.digitalbroadcast.id/lb0/8b2ccc69-a926-436b-bbc0-fb0822062ac4/inde
 #EXTINF:-1 tvg-id="NET" tvg-logo="https://i.ibb.co.com/qFLFkhp4/NET.png" group-title="NASIONAL" , MD TV 2
 #KODIPROP:inputstream.adaptive.stream_headers=referer=&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-flashcon-digdayahd-1.dens.tv/h/h06/index.m3u8
+#http://op-flashcon-digdayahd-1.dens.tv/h/h06/index.m3u8
+http://khano.nng.cloudns.us/live/m3u8/id/6cdb3402d11f58d.m3u8
 
 =======================================
 
