@@ -5,11 +5,12 @@ awalan
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6F6FGJweYSuy8NlIlqL0UcRZN27JkpkUmxe3cbM-r9w&s" group-title="EVENT 9/AGUSTUS/2026", 13:00 WIB Filipina vs Indonesia
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpFd0mWKykoprGEswodzzIl7vi52X2RFMAbO68bhTG6UErnKc8SvLpX2Zn&s=10" group-title="EVENT 15/AGUSTUS/2026", 20:00 WIB Singapura vs Thailand
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6529c8cd99db4489bd237f616f37124b:b9d299ba9ea94fd2ac4a77e8966dd91e
-#https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/31/31.mpd
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/webclient/live
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/V/vision/id=113.play
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6F6FGJweYSuy8NlIlqL0UcRZN27JkpkUmxe3cbM-r9w&s" group-title="EVENT 9/AGUSTUS/2026", Victor Korea Master 2026
