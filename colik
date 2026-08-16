@@ -5,8 +5,12 @@ awalan
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpFd0mWKykoprGEswodzzIl7vi52X2RFMAbO68bhTG6UErnKc8SvLpX2Zn&s=10" group-title="EVENT 15/AGUSTUS/2026", 20:00 WIB Singapura vs Thailand
-
+#EXTINF:-1 tvg-logo="https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/08/16/1786842538342_poster_tran_1920x1080_ngtn.png" group-title="EVENT 16/AGUSTUS/2026", 20:00 WIB Malaysia vs Vietnam
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/webclient/live
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/V/vision/id=113.play
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHPWnfx63h9EizaSbqCwTVmAYSRtbgK3DRrEXq4VAgdQ&s=10" group-title="EVENT 15/AGUSTUS/2026", 21:45 WIB Manchester United vs Milan
