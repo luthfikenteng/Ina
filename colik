@@ -1429,13 +1429,10 @@ https://ott-balancer.tvri.go.id/live/eds/Jogjakarta/hls/Jogjakarta.m3u8
 
 
 #EXTINF:-1 group-title="RELIGI" tvg-id="AlQuranAlKareemTV.sa" tvg-logo="https://i.ibb.co.com/bjKp5VXr/Mekkah.png",Qur'an TV
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d2b87b73266741bc9e82b6296f732cd6:acc999bccde4bcdb93a00c5058a2def5
-https://atemecdnbalancer-voe.sysln.id/live/eds/ALQuranAlKareem/mediampd/ALQuranAlKareem.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://m.live.net.sa:1935/live/quran/playlist.m3u8
-#https://flv.intechmedia.net/live/ch14.m3u8
-
+https://flv.intechmedia.net/live/ch14.m3u8
+https://op-flashcon-digdayahd-1.dens.tv/h/h15/index.m3u8
 
 
 #EXTINF:-1 group-title="RELIGI" tvg-id="AlQuranAlKareemTV.sa" tvg-logo="https://i.ibb.co.com/bjKp5VXr/Mekkah.png",Qur'an TV HD
@@ -1443,7 +1440,7 @@ http://m.live.net.sa:1935/live/quran/playlist.m3u8
 #https://triwied.serv00.net/live/ytlive.m3u8?id=sPCL4-6cpnk
 #https://rocket-tv.online/redtube/randomyt.m3u8?id=UCfBw_uwZb_oFLyVsjWk6owQ
 #https://playlist.x10.mx/youtube/play.m3u8?id=UCfBw_uwZb_oFLyVsjWk6owQ
-https://cilok99.serv00.net/ythls/xxxx.py/play.m3u8?id=UCfBw_uwZb_oFLyVsjWk6owQ
+#https://cilok99.serv00.net/ythls/xxxx.py/play.m3u8?id=UCfBw_uwZb_oFLyVsjWk6owQ
 
 =======================================
 
@@ -1457,7 +1454,7 @@ http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 #https://triwied.serv00.net/live/ytlive.m3u8?id=TpT8b8JFZ6E
 #https://rocket-tv.online/redtube/randomyt.m3u8?id=UCROKYPep-UuODNwyipe6JMw
-https://cilok99.serv00.net/ythls/xxxx.py/play.m3u8?id=UCROKYPep-UuODNwyipe6JMw
+#https://cilok99.serv00.net/ythls/xxxx.py/play.m3u8?id=UCROKYPep-UuODNwyipe6JMw
 
 =======================================
 
