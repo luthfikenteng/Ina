@@ -30,8 +30,11 @@ awalan
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6F6FGJweYSuy8NlIlqL0UcRZN27JkpkUmxe3cbM-r9w&s" group-title="EVENT 9/AGUSTUS/2026", Victor Korea Master 2026
-#https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.streambylivepulse.com/live/channel61.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6F6FGJweYSuy8NlIlqL0UcRZN27JkpkUmxe3cbM-r9w&s" group-title="EVENT 19/AGUSTUS/2026", BWF World Championship 2026
+https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4290266460986061_AiSD.m3u8?txSecret=fa8fee95d510c5e5dc0b41f1aff19f7f&txTime=6A864380
+https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4290266666589061_AiSD.m3u8?txSecret=419a4885d1a356b36d3cb3ad4c3b6055&txTime=6A864380
+https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4290266816896061_AiSD.m3u8?txSecret=fff1b6499afa68432007593b7f5ac008&txTime=6A864380
+https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4290267251105061_AiSD.m3u8?txSecret=5f6b9ef0e122116d7089e1099066022a&txTime=6A864380
 
 
 #EXTINF:-1 group-title="EVENT 16/AGUSTUS/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0RNBMXkbZ-32WBlcJWAZwlcuvgRUpa9wqrb0WbQ7XxbZIa0nfz4qCnLk&s=10", 22:00 WIB Racing Santander vs Villarreal
