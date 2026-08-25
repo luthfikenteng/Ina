@@ -210,8 +210,7 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
 =======================================
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/cKN30V8Q/SCTV.png" group-title="NASIONAL",SCTV HD
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #https://nextgenz.my.id/event/pidio/play.mpd?id=204&type=dash
 http://tvratu.my.id/nissa/index.mpd?id=204&type=dash
 https://beetv.my.id/xstreamx/vd.m3u8?ch=sctv
@@ -273,8 +272,7 @@ http://tvratu.my.id/nissa/index.mpd?id=8237&type=dash
 #https://d84q7nw4qf3j3.cloudfront.net/out/v1/0a6c6b1534444ab4bd903af8761e6747/index.mpd
 
 #EXTINF:0 tvg-logo="https://i.ibb.co.com/1GWCbMRs/ANTV.png" group-title="NASIONAL" tvg-id="ANTV",  ANTV HD
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 http://tvratu.my.id/nissa/index.mpd?id=782&type=dash
 https://beetv.my.id/xstreamx/vd.m3u8?ch=antv
 
