@@ -137,10 +137,10 @@ awalan
 
 
 
-#EXTINF:-1 group-title="EVENT 25/AGUSTUS/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0RNBMXkbZ-32WBlcJWAZwlcuvgRUpa9wqrb0WbQ7XxbZIa0nfz4qCnLk&s=10", 02:30 WIB Malaga vs Deportivo La Coruna
-#EXTVLCOPT:http-referrer=https://iron1.jarvisx1.cfd/000/
+#EXTINF:-1 group-title="EVENT 27/AGUSTUS/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0RNBMXkbZ-32WBlcJWAZwlcuvgRUpa9wqrb0WbQ7XxbZIa0nfz4qCnLk&s=10", 02:00 WIB Real Madrid vs Real Sociedad
+#EXTVLCOPT:http-referrer=https://saruman1.tharen1.cfd/000/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-#https://iron1.jarvisx1.cfd/puk3/usergenrx4t0l8sybkr.m3u8
+https://saruman1.tharen1.cfd/puk1/usergenrx0cir27aq.m3u8
 
 
 
@@ -302,6 +302,10 @@ https://flv.intechmedia.net/live/ch107.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/webclient/live
 #https://d2xz2v5wuvgur6.cloudfront.net/out/v1/7a69cfc9e135493f87ac4efd63000429/index.mpd
+
+#EXTINF:-1 tvg-id="TransTV-6" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://i.ibb.co.com/C5VjfGVQ/TRANSTV.png" group-title="NASIONAL",TRANSTV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+https://live.eu-north-1a.cf.dmcdn.net/sec2(QN9ErNwBwtWcE5lvKiajRGC8nPnefp730OM6W8Kj-tymzOfbETcjH0g1gNColbeJ4irKKw3ORQ7Zdzkc_rjgacrLrQUygpq4ILCIisPNuBYeC6w7pNoDyLcX_s-eLrD6)/dm/3/x8qckyq/d/live-720.m3u8
 
 =======================================
 
