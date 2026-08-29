@@ -3,12 +3,6 @@
 awalan
 
 
-#EXTINF:-1 tvg-logo="https://cdn.skor.id/uploads/member/images/news/260822105005-137.jpg" group-title="EVENT 28/AGUSTUS/2026", 14:00 WIB Indonesia vs Iran
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.streamdeliverynet.com/
-#https://live2.gigabitdelivery.com/live/channel33.m3u8
-
-
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoD9KcYMuZewlp2QkBrkQmNirldQHpJKlCVzRjFcDLYQ&s" group-title="EVENT 22/AGUSTUS/2026", 18:00 WIB Wehen Wiesbaden vs Bayer Leverkusen
@@ -25,6 +19,15 @@ awalan
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd
+
+
+#EXTINF:-1 tvg-logo="https://cdn.skor.id/uploads/member/images/news/260822105005-137.jpg" group-title="EVENT 29/AGUSTUS/2026",19:00 WIB China vs Iran
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.streamdeliverynet.com/
+https://live2.gigabitdelivery.com/live/channel33.m3u8
+
+
+
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/-zrf9WS9MahpJWfAEhBkL6DCjRg=/1920x1080/filters:quality(70)/vidio-web-prod-film/uploads/film/image_landscape/13609/premier-league-2026-27-51cc21.jpg" group-title="EVENT 23/AGUSTUS/2026", 20:00 WIB Brighton vs Aston Villa
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
