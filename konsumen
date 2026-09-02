@@ -76,9 +76,9 @@ awalan
 
 #EXTINF:-1 tvg-logo="https://cdns.klimg.com/bola.net/library/upload/24/2026/09/1280x720/china-masters-2026_a7f1d98.jpg" group-title="EVENT 2/SEPTEMBER/2026", China Master 2026
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4305631782905061_AiHD.m3u8?txSecret=4cb51243ac3fa73b0466fedfd10dd923&txTime=6A989C60
-https://2a6096f50ffc05c7c7766fbd1358fce6.v.smtcdns.net/play.cbalive.weibisai.com/live/4305632772373061_AiHD.m3u8?txSecret=f70b50ab08bf840e56277dbb4ca9a41b&txTime=6A989C60
-https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4305632882467061_AiHD.m3u8?txSecret=061cc159332b53426283a240fa33c628&txTime=6A989C60
+#https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4305631782905061_AiHD.m3u8?txSecret=4cb51243ac3fa73b0466fedfd10dd923&txTime=6A989C60
+#https://2a6096f50ffc05c7c7766fbd1358fce6.v.smtcdns.net/play.cbalive.weibisai.com/live/4305632772373061_AiHD.m3u8?txSecret=f70b50ab08bf840e56277dbb4ca9a41b&txTime=6A989C60
+#https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4305632882467061_AiHD.m3u8?txSecret=061cc159332b53426283a240fa33c628&txTime=6A989C60
 
 #EXTINF:-1 group-title="EVENT 30/AGUSTUS/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0RNBMXkbZ-32WBlcJWAZwlcuvgRUpa9wqrb0WbQ7XxbZIa0nfz4qCnLk&s=10", 22:00 WIB Real Madrid vs Malaga
 #KODIPROP:inputstreamaddon=inputstream.adaptive
