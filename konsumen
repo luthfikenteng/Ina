@@ -61,6 +61,12 @@ https://xxyznt1-cf.sbbol1011play.sbs/auth%3D3dc1ca3d37fff7b4dbbeaaefd43148d91712
 #http://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
 
 
+#EXTINF:-1 group-title="EVENT 5/SEPTEMBER/2026" tvg-logo="https://cdn1-production-images-kly.akamaized.net/txgrmsHOHkWn2PmutpkuYSk9Q9g=/800x450/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/2922557/original/067968900_1569475088-serie_aa.jpg", 20:00 WIB Fiorentina vs Como
+#EXTVLCOPT:http-referrer=https://galandriel1.thobias11.cfd/000/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+https://galandriel1.thobias11.cfd/puk4/usergendx42x9qrnd.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://img.okezone.com/okz/1200/content/2026/08/21/51/3237487/timnas_thailand_vs_vietnam_di_piala_aff_2026-eLZl_large.jpeg" group-title="EVENT 22/AGUSTUS/2026", 20:00 WIB Thailand vs Vietnam
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/webclient/live
@@ -135,12 +141,9 @@ https://xxyznt1-cf.sbbol1011play.sbs/auth%3D3dc1ca3d37fff7b4dbbeaaefd43148d91712
 
 
 #EXTINF:-1 group-title="EVENT 30/AGUSTUS/2026" tvg-logo="https://cdn1-production-images-kly.akamaized.net/txgrmsHOHkWn2PmutpkuYSk9Q9g=/800x450/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/2922557/original/067968900_1569475088-serie_aa.jpg", 23:30 WIB Napoli vs Como
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
-#https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
+#EXTVLCOPT:http-referrer=https://galandriel1.thobias11.cfd/000/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+#https://galandriel1.thobias11.cfd/puk4/usergendx42x9qrnd.m3u8
 
 #EXTINF:-1 group-title="EVENT 29/AGUSTUS/2026" tvg-logo="https://cdn1-production-images-kly.akamaized.net/txgrmsHOHkWn2PmutpkuYSk9Q9g=/800x450/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/2922557/original/067968900_1569475088-serie_aa.jpg", 23:30 WIB Sassuolo vs Torino
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
