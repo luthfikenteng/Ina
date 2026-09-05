@@ -164,16 +164,23 @@ awalan
 #https://play2.315nb.com/live/72221170_625c6a6de5a98ece032f67f11b9bd456.m3u8?auth_key=887513225-0-0-2f660d25b13629c4c3168edb775a1785
 
 
+#EXTINF:-1 group-title="EVENT 5/SEPTEMBER/2026" tvg-logo="https://cdn1-production-images-kly.akamaized.net/txgrmsHOHkWn2PmutpkuYSk9Q9g=/800x450/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/2922557/original/067968900_1569475088-serie_aa.jpg", 23:00 WIB Inter vs Napoli
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
+
+
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/-zrf9WS9MahpJWfAEhBkL6DCjRg=/1920x1080/filters:quality(70)/vidio-web-prod-film/uploads/film/image_landscape/13609/premier-league-2026-27-51cc21.jpg" group-title="EVENT 5/SEPTEMBER/2026", 23:30 WIB Hull City vs Aston Villa
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 https://play.aarray.cn/rrty/hd-zh-1-4558525_gqzm.m3u8?auth_key=1788629410-0-0-6e7191fa908365fdd59b21ddabd7389e&token=f9ca922ef20ab0a7&device=4&platform=rrty
 
 
-#EXTINF:-1 group-title="EVENT 30/AGUSTUS/2026" tvg-logo="https://cdn1-production-images-kly.akamaized.net/txgrmsHOHkWn2PmutpkuYSk9Q9g=/800x450/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/2922557/original/067968900_1569475088-serie_aa.jpg", 23:30 WIB Napoli vs Como
-#EXTVLCOPT:http-referrer=https://galandriel1.thobias11.cfd/000/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-#https://galandriel1.thobias11.cfd/puk4/usergendx42x9qrnd.m3u8
+
+
 
 #EXTINF:-1 group-title="EVENT 29/AGUSTUS/2026" tvg-logo="https://cdn1-production-images-kly.akamaized.net/txgrmsHOHkWn2PmutpkuYSk9Q9g=/800x450/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/2922557/original/067968900_1569475088-serie_aa.jpg", 23:30 WIB Sassuolo vs Torino
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
@@ -192,6 +199,14 @@ https://play.aarray.cn/rrty/hd-zh-1-4558525_gqzm.m3u8?auth_key=1788629410-0-0-6e
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
 #https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
+
+#EXTINF:-1 group-title="EVENT 5/SEPTEMBER/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmiW-NhV5g-As9b-GD4de6GwDL-5LQQt6TiQYnfJ5hsA&s=10", 23:30 WIB Schalke vs Bayern Munchen
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
+https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
+
 
 
 ====
