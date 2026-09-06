@@ -24,18 +24,24 @@ awalan
 #https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd
 
 
-#EXTINF:-1 tvg-logo="https://awsimages.detik.net.id/visual/2021/08/27/logo-bri-liga-1_169.png?w=1200" group-title="EVENT 5/SEPTEMBER/2026", 19:00 WIB Borneo vs Persija
+#EXTINF:-1 tvg-logo="https://awsimages.detik.net.id/visual/2021/08/27/logo-bri-liga-1_169.png?w=1200" group-title="EVENT 6/SEPTEMBER/2026", 19:00 WIB Madura United vs Persijap
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xl365.hexvaridstreamnode.com/
+https://live1.quickscoreboardz.com/live/channel23.m3u8?wsSecret=f196d60aa259b74b07eedeafaebfce89&wsABSTime=1788719522
+
+
+
+
+#EXTINF:-1 tvg-logo="https://awsimages.detik.net.id/visual/2021/08/27/logo-bri-liga-1_169.png?w=1200" group-title="EVENT 6/SEPTEMBER/2026", 19:00 WIB Persib vs PSM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://lxscore.com/
-#https://v4-81285a097b2cd341b7871fa3aafac269.livehwc4.com/hd-stream.prohades.com/live/default-1854133.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=bb9a6a9c371714772da13aef9da6027a
+https://v4-81285a097b2cd341b7871fa3aafac269.livehwc4.com/hd-stream.prohades.com/live/default-1854136.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=d43ea7b9bf95936c91b16010404f92e3
 
 
-
-#EXTINF:-1 tvg-logo="https://awsimages.detik.net.id/visual/2021/08/27/logo-bri-liga-1_169.png?w=1200" group-title="EVENT 5/SEPTEMBER/2026", 19:00 WIB Borneo vs Persija
+#EXTINF:-1 tvg-logo="https://awsimages.detik.net.id/visual/2021/08/27/logo-bri-liga-1_169.png?w=1200" group-title="EVENT 6/SEPTEMBER/2026", 19:00 WIB Persib vs PSM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xl365.drovaxcontentdelivery.com/
-#https://live2.domainkqt.cc/live/channel19.m3u8
-
+#EXTVLCOPT:http-referrer=https://xl365.hexvaridstreamnode.com/
+https://live1.quickscoreboardz.com/live/channel22.m3u8?wsSecret=1ba32325a53b2afd6161fd6dd6174fcb&wsABSTime=1788719463
 
 
 #EXTINF:-1 tvg-logo="https://awsimages.detik.net.id/visual/2021/08/27/logo-bri-liga-1_169.png?w=1200" group-title="EVENT 5/SEPTEMBER/2026", 19:00 WIB Borneo vs Persija
@@ -1328,7 +1334,7 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/703a71abac3844748b1e68166242d4f3/ind
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/1tSZ3sWz/VTV.png" group-title="KIDS",VTV
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
-https://flv.intechmedia.net/live/ch107.m3u8
+#https://flv.intechmedia.net/live/ch107.m3u8
 
 =======================================
 
