@@ -225,9 +225,8 @@ https://iron1.jarvisx1.cfd/puk3/usergenrx4t0l8sybkr.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/-zrf9WS9MahpJWfAEhBkL6DCjRg=/1920x1080/filters:quality(70)/vidio-web-prod-film/uploads/film/image_landscape/13609/premier-league-2026-27-51cc21.jpg" group-title="EVENT 12/SEPTEMBER/2026", 23:30 WIB Tottenham Hotspur vs Everton
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=8d6bd24873489e90c3d6faa3ed90ec0a:cde28d2fd89edf0d953bb5b027a9dbb4
-https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/ih3bjnxk6x/out/v1/6c9278592f634b86b46d302dd2b70fec/cenc.mpd
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+https://play.aarray.cn/rrty/hd-zh-1-4558551_gqzm.m3u8?auth_key=1789233975-0-0-31e1aa789a543494d2ea4ef7d42a494f&token=251a64b320baa3a8&device=4&platform=rrty
 
 #EXTINF:-1 group-title="EVENT 12/SEPTEMBER/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0RNBMXkbZ-32WBlcJWAZwlcuvgRUpa9wqrb0WbQ7XxbZIa0nfz4qCnLk&s=10", 23:30 WIB Athletic Club vs Elche
 #KODIPROP:inputstreamaddon=inputstream.adaptive
