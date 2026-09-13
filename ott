@@ -209,8 +209,8 @@ http://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/3b7qwiq
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/-zrf9WS9MahpJWfAEhBkL6DCjRg=/1920x1080/filters:quality(70)/vidio-web-prod-film/uploads/film/image_landscape/13609/premier-league-2026-27-51cc21.jpg" group-title="EVENT 13/SEPTEMBER/2026", 22:30 WIB Manchester United vs Manchester City
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#http://193.47.62.59/hls/gguuu.m3u8
-#https://play.aarray.cn/rrty/hd-zh-1-4558512_gqzm.m3u8?auth_key=1788711975-0-0-9266e1ec80295c60953db0e0c322c9bd&token=644bb03e791c70d7&device=4&platform=rrty
+http://193.47.62.59/hls/CYYYYQY.m3u8
+https://play.aarray.cn/rrty/hd-zh-1-4558548_gqzm.m3u8?auth_key=1789316714-0-0-867b0e52ff0f0dc63111e98e817d0b0f&token=c090c31848df7f9c&device=4&platform=rrty
 
 #EXTINF:-1 tvg-logo="https://cdn1-production-images-kly.akamaized.net/kR3lFvEmDlzRImWSYcdwx0YP6qc=/1280x720/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/1023889/original/071532700_1445106942-BUNDES.jpg" group-title="EVENT 13/SEPTEMBER/2026", 22:30 WIB Elversberg vs Bayern Munchen
 #KODIPROP:inputstreamaddon=inputstream.adaptive
