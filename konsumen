@@ -2,10 +2,26 @@
 
 awalan
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4ADdVFPyKVXLvbWcDLbxMuiBMcUU4w9iXX6BjOJAWwA&s=10" group-title="EVENT 12/SEPTEMBER/2026", 15:30 WIB Persija vs Persib
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4ADdVFPyKVXLvbWcDLbxMuiBMcUU4w9iXX6BjOJAWwA&s=10" group-title="EVENT 13/SEPTEMBER/2026", 15:30 WIB Persita vs Malut United
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://lxscore.com/
+https://v4-81285a097b2cd341b7871fa3aafac269.livehwc4.com/hd-stream.prohades.com/live/default-1622769.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=057d21d9bd34320a0315bea54f7ce531
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4ADdVFPyKVXLvbWcDLbxMuiBMcUU4w9iXX6BjOJAWwA&s=10" group-title="EVENT 13/SEPTEMBER/2026", 15:30 WIB Persita vs Malut United
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xl365.domainkqt.cc/
-#https://live2.felnorastreamvault.com/live/channel4.m3u8
+https://live2.felnorastreamvault.com/live/channel8.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4ADdVFPyKVXLvbWcDLbxMuiBMcUU4w9iXX6BjOJAWwA&s=10" group-title="EVENT 13/SEPTEMBER/2026", 15:30 WIB PSM vs Arema
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://lxscore.com/
+https://v4-81285a097b2cd341b7871fa3aafac269.livehwc4.com/hd-stream.prohades.com/live/default-1622770.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=b2690e22018f79d95e95549ad82201ea
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4ADdVFPyKVXLvbWcDLbxMuiBMcUU4w9iXX6BjOJAWwA&s=10" group-title="EVENT 13/SEPTEMBER/2026", 15:30 WIB PSM vs Arema
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xl365.domainkqt.cc/
+https://live2.felnorastreamvault.com/live/channel28.m3u8
 
 
 
