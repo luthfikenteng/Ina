@@ -5,14 +5,14 @@ awalan
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4ADdVFPyKVXLvbWcDLbxMuiBMcUU4w9iXX6BjOJAWwA&s=10" group-title="EVENT 18/SEPTEMBER/2026", 15:30 WIB Arema vs Persik Kediri
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://lxscore.com/
-https://v4-81285a097b2cd341b7871fa3aafac269.livehwc4.com/hd-stream.prohades.com/live/default-1622772.m3u8?edge_slice=true&user_session_id=fe513ab3cd22966b437c46d549f0f568&hwTime=6aacf7fc&hwSecret=2137af191c46e0a267df43dc5b81879c511a65d49f6de9f5d5f5c09d26437e2a&sub_m3u8=true
+#https://v4-81285a097b2cd341b7871fa3aafac269.livehwc4.com/hd-stream.prohades.com/live/default-1622772.m3u8?edge_slice=true&user_session_id=fe513ab3cd22966b437c46d549f0f568&hwTime=6aacf7fc&hwSecret=2137af191c46e0a267df43dc5b81879c511a65d49f6de9f5d5f5c09d26437e2a&sub_m3u8=true
 
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4ADdVFPyKVXLvbWcDLbxMuiBMcUU4w9iXX6BjOJAWwA&s=10" group-title="EVENT 18/SEPTEMBER/2026", 15:30 WIB Arema vs Persik Kediri
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xl365.domainkqt.cc/
-https://live2.zundrixmediapipeline.com/live/channel18.m3u8
+#https://live2.zundrixmediapipeline.com/live/channel18.m3u8
 
 
 
@@ -32,6 +32,15 @@ https://live2.zundrixmediapipeline.com/live/channel18.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xl365.domainkqt.cc/
 #https://live2.felnorastreamvault.com/live/channel14.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://cdn1-production-images-kly.akamaized.net/wZo5rB0ATUElS3B4yqGchvKFdzo=/500x281/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9350490/original/030199000_1789618850-THUMBNAIL_CABOR_20TH_ASIAN_GAMES_AICHI-NAGOYA_2026_1.jpg" group-title="EVENT 18/SEPTEMBER/2026", 17:20 WIB Indonesia (W) vs Japan (W)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://webtv.sk/tv/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3da197d13d754505887a04aedd17922e:0028b47ca60594991910c6f6048c51a0
+https://tglmp02.akamaized.net/out/v1/2f39077458694b06bdfb15ef16f55d45/manifest.mpd
 
 
 
