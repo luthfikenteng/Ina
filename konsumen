@@ -63,7 +63,15 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1
 #EXTINF:-1 tvg-logo="https://awsimages.detik.net.id/visual/2021/08/27/logo-bri-liga-1_169.png?w=1200" group-title="EVENT 19/SEPTEMBER/2026", 19:00 WIB Bhayangkara vs Adhyaksa
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xl365.domainkqt.cc/
-https://live1.quickscoreboardz.com/live/channel25.m3u8?wsSecret=6e598a864bcbc5ee1a7d19e01fc7d6fb&wsABSTime=1789841159
+https://live2.zundrixmediapipeline.com/live/channel20.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36&referrer=https://xl365.domainkqt.cc/
+
+#EXTINF:-1 tvg-logo="https://awsimages.detik.net.id/visual/2021/08/27/logo-bri-liga-1_169.png?w=1200" group-title="EVENT 19/SEPTEMBER/2026", 19:00 WIB Persija vs Malut United
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xl365.domainkqt.cc/
+https://live2.zundrixmediapipeline.com/live/channel20.m3u8
+
+
+
 
 
 #EXTINF:-1 tvg-logo="https://awsimages.detik.net.id/visual/2021/08/27/logo-bri-liga-1_169.png?w=1200" group-title="EVENT 12/SEPTEMBER/2026", 19:00 WIB Bali United vs Adhyaksa
