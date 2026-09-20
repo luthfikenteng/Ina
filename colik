@@ -273,7 +273,9 @@ http://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/3b7qwiq
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/-zrf9WS9MahpJWfAEhBkL6DCjRg=/1920x1080/filters:quality(70)/vidio-web-prod-film/uploads/film/image_landscape/13609/premier-league-2026-27-51cc21.jpg" group-title="EVENT 20/SEPTEMBER/2026", 22:30 WIB Fulham vs Manchester United
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-https://play.aarray.cn/rrty/hd-zh-1-4558565_gqzm.m3u8?auth_key=1789921334-0-0-48552de29b9d6e7cc6687954aa522d2e&token=26563d6d8a80e03c&device=4&platform=rrty
+https://play.aarray.cn/rrty/hd-zh-1-4558565_gqzm.m3u8?auth_key=1789925351-0-0-dec482dc160ef3b1e042ea97545d68f3&token=f4c699b42b31e383&device=4&platform=rrty
+https://live.dyrur1.com/live/72221280_bdcd95c5a1557078aa6aaf3e8f20ffd0_540p.m3u8?auth_key=1789932449-0-0-4e30bc27cd59b4125388c79b30af01b0
+
 
 #EXTINF:-1 tvg-logo="https://cdn1-production-images-kly.akamaized.net/kR3lFvEmDlzRImWSYcdwx0YP6qc=/1280x720/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/1023889/original/071532700_1445106942-BUNDES.jpg" group-title="EVENT 13/SEPTEMBER/2026", 22:30 WIB Elversberg vs Bayern Munchen
 #KODIPROP:inputstreamaddon=inputstream.adaptive
