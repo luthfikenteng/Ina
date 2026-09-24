@@ -388,7 +388,30 @@ awalan
 ====
 
 
-#EXTINF:-1 group-title="EVENT 13/SEPTEMBER/2026" tvg-logo="https://ichef.bbci.co.uk/images/ic/1200x675/p0m5wskq.jpg", 01:45 WIB Atalanta vs Cagliari
+#EXTINF:-1 group-title="EVENT 25/SEPTEMBER/2026" tvg-logo="https://awsimages.detik.net.id/api/wm/2023/01/25/uefa-nations-league_169.jpeg?wid=54&w=1200&v=1&t=jpeg", 01:45 WIB Belanda vs Jerman
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd
+
+
+#EXTINF:-1 group-title="EVENT 25/SEPTEMBER/2026" tvg-logo="https://awsimages.detik.net.id/api/wm/2023/01/25/uefa-nations-league_169.jpeg?wid=54&w=1200&v=1&t=jpeg", 01:45 WIB Norwegia vs Denmark
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/nvidia_sport2/playlist_cenc.mpd
+
+
+#EXTINF:-1 group-title="EVENT 25/SEPTEMBER/2026" tvg-logo="https://awsimages.detik.net.id/api/wm/2023/01/25/uefa-nations-league_169.jpeg?wid=54&w=1200&v=1&t=jpeg", 01:45 WIB Portugal vs Wales
+#EXTVLCOPT:http-referrer=https://iron1.xn--x2rw19a.space/000/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+https://iron1.xn--x2rw19a.space/puk1/usergenrx0cir27aq.m3u8
+
+
+#EXTINF:-1 group-title="EVENT 25/SEPTEMBER/2026" tvg-logo="https://awsimages.detik.net.id/api/wm/2023/01/25/uefa-nations-league_169.jpeg?wid=54&w=1200&v=1&t=jpeg", 01:45 WIB Serbia vs Yunani
+#EXTVLCOPT:http-referrer=https://iron1.xn--x2rw19a.space/000/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+https://iron1.xn--x2rw19a.space/puk3/usergenrx4t0l8sybkr.m3u8
 
 
 
@@ -4098,9 +4121,9 @@ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6otiglnptp/
 =======================================
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co.com/Rfr9xrZ/PS1.png", PRIMA SPORT 1
-#EXTVLCOPT:http-referrer=https://saruman1.tharen1.cfd/000/
+#EXTVLCOPT:http-referrer=https://iron1.xn--x2rw19a.space/000/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://saruman1.tharen1.cfd/puk1/usergenrx0cir27aq.m3u8
+https://iron1.xn--x2rw19a.space/puk1/usergenrx0cir27aq.m3u8
 
 =======================================
 
@@ -4112,9 +4135,9 @@ https://arwen1.panaka1.cfd/puk2/usergenrnd0clv03fyt.m3u8
 =======================================
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co.com/Z65KGMBy/IMG-20250501-215053.png", PRIMA SPORT 3
-#EXTVLCOPT:http-referrer=https://iron1.jarvisx1.cfd/000/
+#EXTVLCOPT:http-referrer=https://iron1.xn--x2rw19a.space/000/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://iron1.jarvisx1.cfd/puk3/usergenrx4t0l8sybkr.m3u8
+https://iron1.xn--x2rw19a.space/puk3/usergenrx4t0l8sybkr.m3u8
 
 =======================================
 
