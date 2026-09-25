@@ -392,26 +392,26 @@ awalan
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd
+#https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd
 
 
 #EXTINF:-1 group-title="EVENT 25/SEPTEMBER/2026" tvg-logo="https://awsimages.detik.net.id/api/wm/2023/01/25/uefa-nations-league_169.jpeg?wid=54&w=1200&v=1&t=jpeg", 01:45 WIB Norwegia vs Denmark
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-https://dash2.antik.sk/stream/nvidia_sport2/playlist_cenc.mpd
+#https://dash2.antik.sk/stream/nvidia_sport2/playlist_cenc.mpd
 
 
 #EXTINF:-1 group-title="EVENT 25/SEPTEMBER/2026" tvg-logo="https://awsimages.detik.net.id/api/wm/2023/01/25/uefa-nations-league_169.jpeg?wid=54&w=1200&v=1&t=jpeg", 01:45 WIB Portugal vs Wales
 #EXTVLCOPT:http-referrer=https://iron1.xn--x2rw19a.space/000/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://iron1.xn--x2rw19a.space/puk1/usergenrx0cir27aq.m3u8
+#https://iron1.xn--x2rw19a.space/puk1/usergenrx0cir27aq.m3u8
 
 
 #EXTINF:-1 group-title="EVENT 25/SEPTEMBER/2026" tvg-logo="https://awsimages.detik.net.id/api/wm/2023/01/25/uefa-nations-league_169.jpeg?wid=54&w=1200&v=1&t=jpeg", 01:45 WIB Serbia vs Yunani
 #EXTVLCOPT:http-referrer=https://iron1.xn--x2rw19a.space/000/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://iron1.xn--x2rw19a.space/puk3/usergenrx4t0l8sybkr.m3u8
+#https://iron1.xn--x2rw19a.space/puk3/usergenrx4t0l8sybkr.m3u8
 
 
 
