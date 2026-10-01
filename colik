@@ -130,10 +130,11 @@ awalan
 #https://live2.gigabitdelivery.com/live/channel33.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://cdn1-production-images-kly.akamaized.net/tkshEXm4uyxnZRjcyMwgnEtlgCM=/800x450/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9358409/original/096434200_1790339227-InShot_20260925_192401217.jpg.jpeg" group-title="EVENT 28/SEPTEMBER/2026",19:30 WIB Indonesia vs Malaysia
+#EXTINF:-1 tvg-logo="https://cdn1-production-images-kly.akamaized.net/tkshEXm4uyxnZRjcyMwgnEtlgCM=/800x450/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9358409/original/096434200_1790339227-InShot_20260925_192401217.jpg.jpeg" group-title="EVENT 1/OKTOBER/2026",19:30 WIB Indonesia vs Babgladesh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xl365.domainkqt.cc/
-#https://live2.zundrixmediapipeline.com/live/channel1.m3u8
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6
+https://ls-mp04stg.eo-edgefunctions7.com/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd
 
 
 
