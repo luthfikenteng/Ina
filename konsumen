@@ -438,45 +438,44 @@ https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/
 
 
 
-#EXTINF:-1 group-title="EVENT 3/OKTOBER/2026" tvg-logo="https://awsimages.detik.net.id/api/wm/2023/01/25/uefa-nations-league_169.jpeg?wid=54&w=1200&v=1&t=jpeg", 01:45 WIB Bosnia Herzegovina vs Swedia
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281
-#https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd
-
 
 
 
 ====
 
-#EXTINF:-1 group-title="EVENT 3/OKTOBER/2026" tvg-logo="https://awsimages.detik.net.id/api/wm/2023/01/25/uefa-nations-league_169.jpeg?wid=54&w=1200&v=1&t=jpeg", 01:45 WIB Bosnia Herzegovina vs Swedia
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281
-#https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd
-
-
-#EXTINF:-1 group-title="EVENT 3/OKTOBER/2026" tvg-logo="https://awsimages.detik.net.id/api/wm/2023/01/25/uefa-nations-league_169.jpeg?wid=54&w=1200&v=1&t=jpeg", 01:45 WIB Hungaria vs Georgia
-#EXTVLCOPT:http-referrer=https://iron1.xn--x2rw19a.space/000/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-#https://iron1.xn--x2rw19a.space/puk1/usergenrx0cir27aq.m3u8
-
-
-
-#EXTINF:-1 group-title="EVENT 3/OKTOBER/2026" tvg-logo="https://awsimages.detik.net.id/api/wm/2023/01/25/uefa-nations-league_169.jpeg?wid=54&w=1200&v=1&t=jpeg", 01:45 WIB Ukraina vs Irlandia Utara
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://pu1se1.xn--ukq5h.shop/000/
-#https://pu1se1.xn--ukq5h.shop/puk5/usergen0grnd8l2y6gw.m3u8
-
-
-#EXTINF:-1 group-title="EVENT 3/OKTOBER/2026" tvg-logo="https://awsimages.detik.net.id/api/wm/2023/01/25/uefa-nations-league_169.jpeg?wid=54&w=1200&v=1&t=jpeg", 01:45 WIB Belgia vs Turki
+#EXTINF:-1 group-title="EVENT 4/OKTOBER/2026" tvg-logo="https://awsimages.detik.net.id/api/wm/2023/01/25/uefa-nations-league_169.jpeg?wid=54&w=1200&v=1&t=jpeg", 01:45 WIB Makedonia Utara vs Skotlandia
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
-#https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
+https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
+
+
+#EXTINF:-1 group-title="EVENT 4/OKTOBER/2026" tvg-logo="https://awsimages.detik.net.id/api/wm/2023/01/25/uefa-nations-league_169.jpeg?wid=54&w=1200&v=1&t=jpeg", 01:45 WIB Spanyol vs Republik Ceko
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
+
+
+
+#EXTINF:-1 group-title="EVENT 4/OKTOBER/2026" tvg-logo="https://awsimages.detik.net.id/api/wm/2023/01/25/uefa-nations-league_169.jpeg?wid=54&w=1200&v=1&t=jpeg", 01:45 WIB Swiss vs Slovenia
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281
+https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd
+
+
+#EXTINF:-1 group-title="EVENT 4/OKTOBER/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTM9KGb8pBl467oZ9756YDp0x1UWLCo3gAQcsq6sOkQDvJYgPcyns8N4zs&s=10", 07:00 WIB Argentina vs Burkina Faso
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
 
 
 
