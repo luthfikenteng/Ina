@@ -130,11 +130,19 @@ awalan
 #https://live2.gigabitdelivery.com/live/channel33.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiG7XHDi4G6YsOAS-cL2PZt3y2t0tykeTqjWwCDBJI1w&s=10" group-title="EVENT 1/OKTOBER/2026",19:30 WIB Indonesia vs Babgladesh
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_xdCT4C4TYg7SDYH8Jz67G2BlsgQGXffFSB3iEfK4R-NTvMrvfcBoy94&s=10" group-title="EVENT 5/OKTOBER/2026",16:00 WIB Malaysia vs Vietnam
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6
-#https://ls-mp04stg.eo-edgefunctions7.com/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd
+https://ls-mp04stg.eo-edgefunctions7.com/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd
+
+
+
+#EXTINF:-1 tvg-logo="https://cdn1-production-images-kly.akamaized.net/aqMJw_nzI5Sp-_A0eCNoplL_xqU=/1200x675/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9364378/original/004338100_1790957580-InShot_20261002_231024239.jpg.jpeg" group-title="EVENT 5/OKTOBER/2026",19:00 WIB Indonesia vs Thailand
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6
+https://ls-mp04stg.eo-edgefunctions7.com/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd
 
 
 
