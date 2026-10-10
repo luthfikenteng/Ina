@@ -202,8 +202,10 @@ https://play.aarray.cn/rrty/hd-zh-1-4558589_gqzm.m3u8?auth_key=1791644109-0-0-07
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 https://play.aarray.cn/rrty/hd-zh-1-4558596_gqzm.m3u8?auth_key=1791644108-0-0-6b49f7d79a4ce329157bef856e0a6726&token=fc2b246f8fa8f857&device=4&platform=rrty
 
-
-
+#EXTINF:-1 group-title="EVENT 10/OKTOBER/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0RNBMXkbZ-32WBlcJWAZwlcuvgRUpa9wqrb0WbQ7XxbZIa0nfz4qCnLk&s=10", 21:15 WIB Deportivo Alaves vs Atletico Madrid
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+https://play.aarray.cn/rrty/hd-zh-1-4565432_gqzm.m3u8?auth_key=1791645081-0-0-ff8fe58879c03cce6b8e866c4679d35d&token=ed65c09a4af2cb46&device=4&platform=rrty
 
 
 
@@ -212,6 +214,9 @@ https://play.aarray.cn/rrty/hd-zh-1-4558596_gqzm.m3u8?auth_key=1791644108-0-0-6b
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd
+
+
+
 
 
 #EXTINF:-1 tvg-logo="https://cdns.klimg.com/bola.net/library/upload/24/2026/09/1280x720/china-masters-2026_a7f1d98.jpg" group-title="EVENT 2/SEPTEMBER/2026", China Master 2026
