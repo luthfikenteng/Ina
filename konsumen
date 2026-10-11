@@ -142,14 +142,14 @@ awalan
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/-zrf9WS9MahpJWfAEhBkL6DCjRg=/1920x1080/filters:quality(70)/vidio-web-prod-film/uploads/film/image_landscape/13609/premier-league-2026-27-51cc21.jpg" group-title="EVENT 11/OKTOBER/2026", 20:00 WIB Crystal Palace vs Nottingham Forest
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-https://live3.dyrur1.com/live/72221300_08ada0c9629741bd30ab1f8c4f2bef70_540p.m3u8
+#https://live3.dyrur1.com/live/72221300_08ada0c9629741bd30ab1f8c4f2bef70_540p.m3u8
 #https://play.aarray.cn/rrty/hd-zh-1-4558586_gqzm.m3u8?auth_key=1791731954-0-0-f6978eb5f8153ef2457f04f3ba40e4b6&token=1f929a237891e5cc&device=4&platform=rrty
 
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/-zrf9WS9MahpJWfAEhBkL6DCjRg=/1920x1080/filters:quality(70)/vidio-web-prod-film/uploads/film/image_landscape/13609/premier-league-2026-27-51cc21.jpg" group-title="EVENT 11/OKTOBER/2026", 20:00 WIB Hull City vs Everton
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-https://live4.dyrur1.com/live/72221302_fa04376826e7cd12ca86d7b58ddb6e6e_540p.m3u8
+#https://live4.dyrur1.com/live/72221302_fa04376826e7cd12ca86d7b58ddb6e6e_540p.m3u8
 #https://play.aarray.cn/rrty/hd-zh-1-4558588_gqzm.m3u8?auth_key=1791731954-0-0-9dd147ed9e54a7f39a3d6a137fee98c2&token=f289407b2601fa49&device=4&platform=rrty
 
 
@@ -242,12 +242,12 @@ https://live4.dyrur1.com/live/72221302_fa04376826e7cd12ca86d7b58ddb6e6e_540p.m3u
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/-zrf9WS9MahpJWfAEhBkL6DCjRg=/1920x1080/filters:quality(70)/vidio-web-prod-film/uploads/film/image_landscape/13609/premier-league-2026-27-51cc21.jpg" group-title="EVENT 11/OKTOBER/2026", 22:30 WIB Liverpool vs Manchester City
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-https://play.aarray.cn/rrty/hd-zh-1-4558591_gqzm.m3u8?auth_key=1791735734-0-0-cb15c444d5f49a8448201e5938e75120&token=b51efcdc4e20487c&device=4&platform=rrty
-
+#https://play.aarray.cn/rrty/hd-zh-1-4558591_gqzm.m3u8?auth_key=1791735734-0-0-cb15c444d5f49a8448201e5938e75120&token=b51efcdc4e20487c&device=4&platform=rrty
+https://play.aarray.cn/rrty/hd-zh-1-4558591_gqzm.m3u8?auth_key=1791739269-0-0-71e03bcd09a7d5c04b0e5de69572f73d&token=2d86f7f6d3d54e38&device=4&platform=rrty
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/-zrf9WS9MahpJWfAEhBkL6DCjRg=/1920x1080/filters:quality(70)/vidio-web-prod-film/uploads/film/image_landscape/13609/premier-league-2026-27-51cc21.jpg" group-title="EVENT 11/OKTOBER/2026", 22:30 WIB Liverpool vs Manchester City
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
+#EXTVLCOPT:http-referrer=https://xl365.domainkqt.cc/
 https://live2.jorvakstreamcache.com/live/channel1.m3u8
 
 
