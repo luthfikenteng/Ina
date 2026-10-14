@@ -124,9 +124,9 @@ https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
 #https://live2.zundrixmediapipeline.com/live/channel11.m3u8
-https://live2.jorvakstreamcache.com/live/channel15.m3u8
-https://pull.streamviewk7x.click/livesp/sd-6Mxj4TBjTzY1booREa_autosp.m3u8?txSecret=5e5f8673ceaed11738b0b356d357f841&txTime=6AD0C3C4
-https://live.dyrur1.com/live/14400810_6fc5379024769431fe190576b4129244_1080p.m3u8?auth_key=1791994180-0-0-bf5038505f52486f00c0ecc327ab78ec
+#https://live2.jorvakstreamcache.com/live/channel15.m3u8
+#https://pull.streamviewk7x.click/livesp/sd-6Mxj4TBjTzY1booREa_autosp.m3u8?txSecret=5e5f8673ceaed11738b0b356d357f841&txTime=6AD0C3C4
+#https://live.dyrur1.com/live/14400810_6fc5379024769431fe190576b4129244_1080p.m3u8?auth_key=1791994180-0-0-bf5038505f52486f00c0ecc327ab78ec
 
 
 #EXTINF:-1 tvg-logo="https://img2.beritasatu.com/cache/beritasatu/480x310-3/2026/10/1791449205-1536x1024.webp" group-title="EVENT 8/OKTOBER/2026", 19:00 WIB Port FC vs Persib
@@ -336,17 +336,17 @@ https://live.dyrur1.com/live/14400810_6fc5379024769431fe190576b4129244_1080p.m3u
 
 
 
-#EXTINF:-1 group-title="EVENT 10/SEPTEMBER/2026" tvg-logo="https://ichef.bbci.co.uk/images/ic/1200x675/p0m5wskq.jpg", 23:45 WIB PSV vs Shaktar Donetsk
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca
-#https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd
-
-
-
-#EXTINF:-1 group-title="EVENT 10/SEPTEMBER/2026" tvg-logo="https://ichef.bbci.co.uk/images/ic/1200x675/p0m5wskq.jpg", 23:45 WIB Fenerbahce vs Roma
+#EXTINF:-1 group-title="EVENT 14/OKTOBER/2026" tvg-logo="https://ichef.bbci.co.uk/images/ic/1200x675/p0m5wskq.jpg", 23:45 WIB LASK Linz vs Liverpool
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b
-#https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd
+
+
+
+#EXTINF:-1 group-title="EVENT 14/OKTOBER/2026" tvg-logo="https://ichef.bbci.co.uk/images/ic/1200x675/p0m5wskq.jpg", 23:45 WIB Feyenoord vs Como
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd
 
 
 
@@ -443,34 +443,37 @@ https://live.dyrur1.com/live/14400810_6fc5379024769431fe190576b4129244_1080p.m3u
 #https://pu1se1.xn--ukq5h.shop/puk4/usergendx3j2x4tqrnd.m3u8
 
 
-#EXTINF:-1 group-title="EVENT 11/SEPTEMBER/2026" tvg-logo="https://ichef.bbci.co.uk/images/ic/1200x675/p0m5wskq.jpg", 02:00 WIB Bayern Munchen vs Bodo / Glimt
+#EXTINF:-1 group-title="EVENT 15/OKTOBER/2026" tvg-logo="https://ichef.bbci.co.uk/images/ic/1200x675/p0m5wskq.jpg", 02:00 WIB Aston Villa vs Fenerbahce
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b
-#https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd
 
 
 
-#EXTINF:-1 group-title="EVENT 11/SEPTEMBER/2026" tvg-logo="https://ichef.bbci.co.uk/images/ic/1200x675/p0m5wskq.jpg", 02:00 WIB Como vs RB Leipzig
+
+#EXTINF:-1 group-title="EVENT 15/OKTOBER/2026" tvg-logo="https://ichef.bbci.co.uk/images/ic/1200x675/p0m5wskq.jpg", 02:00 WIB Roma vs Real Madrid
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca
-#https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd
 
 
-#EXTINF:-1 group-title="EVENT 11/SEPTEMBER/2026" tvg-logo="https://ichef.bbci.co.uk/images/ic/1200x675/p0m5wskq.jpg", 02:00 WIB Manchester United vs Sabah
+#EXTINF:-1 group-title="EVENT 15/OKTOBER/2026" tvg-logo="https://ichef.bbci.co.uk/images/ic/1200x675/p0m5wskq.jpg", 02:00 WIB Manchester City vs PSG
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
-#https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd
 
 
 
-#EXTINF:-1 group-title="EVENT 11/SEPTEMBER/2026" tvg-logo="https://ichef.bbci.co.uk/images/ic/1200x675/p0m5wskq.jpg", 02:00 WIB Slavia Praha vs Lens
-#EXTVLCOPT:http-referrer=https://galandriel1.thobias11.cfd/000/
+#EXTINF:-1 group-title="EVENT 15/OKTOBER/2026" tvg-logo="https://ichef.bbci.co.uk/images/ic/1200x675/p0m5wskq.jpg", 02:00 WIB Bodo / Glimt vs Borussia Dortmund
+#EXTVLCOPT:http-referrer=https://pu1se1.xn--ukq5h.shop/000/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-#https://galandriel1.thobias11.cfd/puk4/usergendx42x9qrnd.m3u8
+https://pu1se1.xn--ukq5h.shop/puk4/usergendx3j2x4tqrnd.m3u8
 
 
-
-
+#EXTINF:-1 group-title="EVENT 15/OKTOBER/2026" tvg-logo="https://ichef.bbci.co.uk/images/ic/1200x675/p0m5wskq.jpg", 02:00 WIB Shakhtar Donetsk vs AEK Athens
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://pu1se1.xn--ukq5h.shop/000/
+https://pu1se1.xn--ukq5h.shop/puk5/usergen0grnd8l2y6gw.m3u8
 
 #EXTINF:-1 group-title="EVENT 18/SEPTEMBER/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0RNBMXkbZ-32WBlcJWAZwlcuvgRUpa9wqrb0WbQ7XxbZIa0nfz4qCnLk&s=10", 00:00 WIB Real Betis vs Getafe
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
@@ -3374,8 +3377,8 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1
 
 #EXTINF:0 tvg-id="TNT 4" tvg-logo="https://i.ibb.co.com/rKVqGRhm/TNT4.png" group-title="SPORTS",TNT SPORTS 4 FHD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=192b1115da041585c77200128549efa1:634e10efe4abbb14be400a3ccbac0258
-#https://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/pnu10tp36z/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd
 
 =======================================
 
