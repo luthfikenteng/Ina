@@ -88,13 +88,13 @@ awalan
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/-zrf9WS9MahpJWfAEhBkL6DCjRg=/1920x1080/filters:quality(70)/vidio-web-prod-film/uploads/film/image_landscape/13609/premier-league-2026-27-51cc21.jpg" group-title="EVENT 17/OKTOBER/2026", 18:30 WIB Everton vs Chelsea
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd
+#https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd
 
 
 #EXTINF:-1 tvg-logo="https://awsimages.detik.net.id/visual/2021/08/27/logo-bri-liga-1_169.png?w=1200" group-title="EVENT 17/OKTOBER/2026", 19:00 WIB Persita vs Persija
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xl365.domainkqt.cc/
-https://live1.quickscoreboardz.com/live/channel29.m3u8?wsSecret=5bf6e96bcc874032f2fdaf8179daaa7d&wsABSTime=1792255342
+#https://live1.quickscoreboardz.com/live/channel29.m3u8?wsSecret=5bf6e96bcc874032f2fdaf8179daaa7d&wsABSTime=1792255342
 
 
 #EXTINF:-1 tvg-logo="https://awsimages.detik.net.id/visual/2021/08/27/logo-bri-liga-1_169.png?w=1200" group-title="EVENT 19/SEPTEMBER/2026", 19:00 WIB Persija vs Malut United
@@ -140,7 +140,7 @@ https://live1.quickscoreboardz.com/live/channel29.m3u8?wsSecret=5bf6e96bcc874032
 #EXTINF:-1 group-title="EVENT 17/OKTOBER/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0RNBMXkbZ-32WBlcJWAZwlcuvgRUpa9wqrb0WbQ7XxbZIa0nfz4qCnLk&s=10", 19:00 WIB Espanyol vs Atletico Madrid
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://kuruk1.xn--okq6e.shop/000/
-https://kuruk1.xn--okq6e.shop/kuk1/usergendx419snx12kdgwqrnd.m3u8
+#https://kuruk1.xn--okq6e.shop/kuk1/usergendx419snx12kdgwqrnd.m3u8
 
 
 
@@ -168,7 +168,7 @@ https://kuruk1.xn--okq6e.shop/kuk1/usergendx419snx12kdgwqrnd.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
-https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
+#https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
 
 
 
@@ -177,7 +177,7 @@ https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/
 #EXTINF:-1 group-title="EVENT 17/OKTOBER/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmiW-NhV5g-As9b-GD4de6GwDL-5LQQt6TiQYnfJ5hsA&s=10", 20:30 WIB Union Berlin vs Borussia Dortmund
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://pulse1.sanseny001.shop/000/
-https://pulse1.sanseny001.shop/puk5/usergen0grnd8l2y6gw.m3u8
+#https://pulse1.sanseny001.shop/puk5/usergen0grnd8l2y6gw.m3u8
 
 
 
@@ -187,20 +187,20 @@ https://pulse1.sanseny001.shop/puk5/usergen0grnd8l2y6gw.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
-https://play.aarray.cn/rrty/hd-zh-1-4558609_gqzm.m3u8?auth_key=1792253299-0-0-7f62e6648cc72b7071f6b0f2b7e5f193&token=ce6d393a16201099&device=4&platform=rrty
+#https://play.aarray.cn/rrty/hd-zh-1-4558609_gqzm.m3u8?auth_key=1792253299-0-0-7f62e6648cc72b7071f6b0f2b7e5f193&token=ce6d393a16201099&device=4&platform=rrty
 
 
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/-zrf9WS9MahpJWfAEhBkL6DCjRg=/1920x1080/filters:quality(70)/vidio-web-prod-film/uploads/film/image_landscape/13609/premier-league-2026-27-51cc21.jpg" group-title="EVENT 17/OKTOBER/2026", 21:00 WIB Brentford vs Liverpool
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-https://play.aarray.cn/rrty/hd-zh-1-4558598_gqzm.m3u8?auth_key=1792253354-0-0-cd511a318337889d0ae7be257b2d3423&token=f605457ea3fa442f&device=4&platform=rrty
+#https://play.aarray.cn/rrty/hd-zh-1-4558598_gqzm.m3u8?auth_key=1792253354-0-0-cd511a318337889d0ae7be257b2d3423&token=f605457ea3fa442f&device=4&platform=rrty
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/-zrf9WS9MahpJWfAEhBkL6DCjRg=/1920x1080/filters:quality(70)/vidio-web-prod-film/uploads/film/image_landscape/13609/premier-league-2026-27-51cc21.jpg" group-title="EVENT 17/OKTOBER/2026", 21:00 WIB Fulham vs Hull City
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
-https://play.aarray.cn/rrty/hd-zh-1-4558604_gqzm.m3u8?auth_key=1792253354-0-0-45d39c884fd9cf8365af6ab6ed525e3a&token=da3d8339a4f5a08c&device=4&platform=rrty
+#https://play.aarray.cn/rrty/hd-zh-1-4558604_gqzm.m3u8?auth_key=1792253354-0-0-45d39c884fd9cf8365af6ab6ed525e3a&token=da3d8339a4f5a08c&device=4&platform=rrty
 
 
 
@@ -297,7 +297,7 @@ https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/-zrf9WS9MahpJWfAEhBkL6DCjRg=/1920x1080/filters:quality(70)/vidio-web-prod-film/uploads/film/image_landscape/13609/premier-league-2026-27-51cc21.jpg" group-title="EVENT 17/OKTOBER/2026", 23:30 WIB Newcastle United vs Aston Villa
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-https://play.aarray.cn/rrty/hd-zh-1-4558593_gqzm.m3u8?auth_key=1791657129-0-0-0506b01e3d0eaae81db6fbd9f0cd8d49&token=a86ad4eb411e6696&device=4&platform=rrty
+https://play.aarray.cn/rrty/hd-zh-1-4558621_gqzm.m3u8?auth_key=1792258099-0-0-6295e31435a6171ede08920c981a6d12&token=19a4776d50422b11&device=4&platform=rrty
 
 
 
