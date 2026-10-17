@@ -187,14 +187,23 @@ https://pulse1.sanseny001.shop/puk5/usergen0grnd8l2y6gw.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
-https://play.aarray.cn/rrty/hd-zh-1-4558581_gqzm.m3u8?auth_key=1791644044-0-0-37edf5a594c45023f9d0426fda2de689&token=70dc2191af8553a8&device=4&platform=rrty
+https://play.aarray.cn/rrty/hd-zh-1-4558609_gqzm.m3u8?auth_key=1792248859-0-0-18ae0b23ae14f88c62cee209e1ee69ba&token=9528823cf9b09109&device=4&platform=rrty
 
 
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/-zrf9WS9MahpJWfAEhBkL6DCjRg=/1920x1080/filters:quality(70)/vidio-web-prod-film/uploads/film/image_landscape/13609/premier-league-2026-27-51cc21.jpg" group-title="EVENT 17/OKTOBER/2026", 21:00 WIB Brentford vs Liverpool
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-https://play.aarray.cn/rrty/hd-zh-1-4558583_gqzm.m3u8?auth_key=1791644044-0-0-a01a0d6c9f1a38b24bb76f1e9ec24afa&token=770cf3619bb4bb07&device=4&platform=rrty
+https://play.aarray.cn/rrty/hd-zh-1-4558598_gqzm.m3u8?auth_key=1792248745-0-0-c3ed391ee2dc5cb91e11bc89b595dc2b&token=d73924558ec3a28a&device=4&platform=rrty
+
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/-zrf9WS9MahpJWfAEhBkL6DCjRg=/1920x1080/filters:quality(70)/vidio-web-prod-film/uploads/film/image_landscape/13609/premier-league-2026-27-51cc21.jpg" group-title="EVENT 17/OKTOBER/2026", 21:00 WIB Fulham vs Hull City
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
+https://play.aarray.cn/rrty/hd-zh-1-4558604_gqzm.m3u8?auth_key=1792248859-0-0-51402d460c307a395e89a59b66627779&token=01494fc55aa24704&device=4&platform=rrty
+
+
 
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/-zrf9WS9MahpJWfAEhBkL6DCjRg=/1920x1080/filters:quality(70)/vidio-web-prod-film/uploads/film/image_landscape/13609/premier-league-2026-27-51cc21.jpg" group-title="EVENT 10/OKTOBER/2026", 21:00 WIB Ipswich Town vs Fulham
