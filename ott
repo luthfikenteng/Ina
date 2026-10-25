@@ -69,7 +69,7 @@ awalan
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
-https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
+#https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
 
 
 
@@ -94,7 +94,7 @@ https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/
 #EXTINF:-1 tvg-logo="https://awsimages.detik.net.id/visual/2021/08/27/logo-bri-liga-1_169.png?w=1200" group-title="EVENT 25/OKTOBER/2026", 19:00 WIB Garudayaksa vs Persib
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xl365.domainkqt.cc/
-https://live2.jorvakstreamcache.com/live/channel20.m3u8
+#https://live2.jorvakstreamcache.com/live/channel20.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://awsimages.detik.net.id/visual/2021/08/27/logo-bri-liga-1_169.png?w=1200" group-title="EVENT 19/SEPTEMBER/2026", 19:00 WIB Persija vs Malut United
@@ -186,31 +186,31 @@ https://live2.jorvakstreamcache.com/live/channel20.m3u8
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/-zrf9WS9MahpJWfAEhBkL6DCjRg=/1920x1080/filters:quality(70)/vidio-web-prod-film/uploads/film/image_landscape/13609/premier-league-2026-27-51cc21.jpg" group-title="EVENT 25/OKTOBER/2026", 21:00 WIB Liverpool vs Brighton
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-http://193.47.62.41/hls/Xa111aa.m3u8
-https://play.aarray.cn/rrty/hd-zh-1-4558645_gqzm.m3u8?auth_key=1792944252-0-0-5f8c3a23ce8b457faaf48458f913b17a&token=a9ff5d44aa71cae8&device=4&platform=rrty
+#http://193.47.62.41/hls/Xa111aa.m3u8
+#https://play.aarray.cn/rrty/hd-zh-1-4558645_gqzm.m3u8?auth_key=1792944252-0-0-5f8c3a23ce8b457faaf48458f913b17a&token=a9ff5d44aa71cae8&device=4&platform=rrty
 
 
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/-zrf9WS9MahpJWfAEhBkL6DCjRg=/1920x1080/filters:quality(70)/vidio-web-prod-film/uploads/film/image_landscape/13609/premier-league-2026-27-51cc21.jpg" group-title="EVENT 25/OKTOBER/2026", 21:00 WIB Manchester United vs AFC Bournemouth
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-http://193.47.62.55/hls/Xa111aaa.m3u8
-https://play.aarray.cn/rrty/hd-zh-1-4558646_gqzm.m3u8?auth_key=1792944671-0-0-3258b9d0353a0ea93d45789ceb0e7eb3&token=57b45095b4516ea7&device=4&platform=rrty
+#http://193.47.62.55/hls/Xa111aaa.m3u8
+#https://play.aarray.cn/rrty/hd-zh-1-4558646_gqzm.m3u8?auth_key=1792944671-0-0-3258b9d0353a0ea93d45789ceb0e7eb3&token=57b45095b4516ea7&device=4&platform=rrty
 
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/-zrf9WS9MahpJWfAEhBkL6DCjRg=/1920x1080/filters:quality(70)/vidio-web-prod-film/uploads/film/image_landscape/13609/premier-league-2026-27-51cc21.jpg" group-title="EVENT 25/OKTOBER/2026", 21:00 WIB Hull City vs Brentford
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-http://193.47.62.59/hls/Xa111.m3u8
-https://play.aarray.cn/rrty/hd-zh-1-4558641_gqzm.m3u8?auth_key=1792944314-0-0-3c302b0cccfc2d5edbbe4c552043482d&token=690c596b9df279b0&device=4&platform=rrty
+#http://193.47.62.59/hls/Xa111.m3u8
+#https://play.aarray.cn/rrty/hd-zh-1-4558641_gqzm.m3u8?auth_key=1792944314-0-0-3c302b0cccfc2d5edbbe4c552043482d&token=690c596b9df279b0&device=4&platform=rrty
 
 
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/-zrf9WS9MahpJWfAEhBkL6DCjRg=/1920x1080/filters:quality(70)/vidio-web-prod-film/uploads/film/image_landscape/13609/premier-league-2026-27-51cc21.jpg" group-title="EVENT 25/OKTOBER/2026", 21:00 WIB Crystal Palace vs Newcastle United
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-http://193.47.62.55/hls/a111.m3u8
-https://play.aarray.cn/rrty/hd-zh-1-4558641_gqzm.m3u8?auth_key=1792940534-0-0-64d132185a22c62525411e7650be6dda&token=f5eadba79730c24d&device=4&platform=rrty
+#http://193.47.62.55/hls/a111.m3u8
+#https://play.aarray.cn/rrty/hd-zh-1-4558641_gqzm.m3u8?auth_key=1792940534-0-0-64d132185a22c62525411e7650be6dda&token=f5eadba79730c24d&device=4&platform=rrty
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/-zrf9WS9MahpJWfAEhBkL6DCjRg=/1920x1080/filters:quality(70)/vidio-web-prod-film/uploads/film/image_landscape/13609/premier-league-2026-27-51cc21.jpg" group-title="EVENT 10/OKTOBER/2026", 21:00 WIB Sunderland vs Brighton
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -223,7 +223,7 @@ https://play.aarray.cn/rrty/hd-zh-1-4558641_gqzm.m3u8?auth_key=1792940534-0-0-64
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
-https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
+#https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
 
 
 
@@ -411,6 +411,15 @@ https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/
 
 ====
 
+#EXTINF:-1 group-title="EVENT 26/OKTOBER/2026" tvg-logo="https://cdn1-production-images-kly.akamaized.net/txgrmsHOHkWn2PmutpkuYSk9Q9g=/800x450/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/2922557/original/067968900_1569475088-serie_aa.jpg", 00:00 WIB Lecce vs Juventus
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
+https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
+
+
+
 #EXTINF:-1 group-title="EVENT 7/OKTOBER/2026" tvg-logo="https://awsimages.detik.net.id/api/wm/2023/01/25/uefa-nations-league_169.jpeg?wid=54&w=1200&v=1&t=jpeg", 01:45 WIB Inggris vs Ceko
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -497,7 +506,7 @@ https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/
 #EXTVLCOPT:http-referrer=https://pulse1.sanseny001.shop/000/
 #https://pulse1.sanseny001.shop/puk5/usergen0grnd8l2y6gw.m3u8
 
-#EXTINF:-1 group-title="EVENT 18/SEPTEMBER/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0RNBMXkbZ-32WBlcJWAZwlcuvgRUpa9wqrb0WbQ7XxbZIa0nfz4qCnLk&s=10", 00:00 WIB Real Betis vs Getafe
+#EXTINF:-1 group-title="EVENT 26/OKTOBER/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0RNBMXkbZ-32WBlcJWAZwlcuvgRUpa9wqrb0WbQ7XxbZIa0nfz4qCnLk&s=10", 00:30 WIB Real Sociedad vs Levante
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -514,12 +523,12 @@ https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/
 #https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
 
 
-#EXTINF:-1 group-title="EVENT 18/OKTOBER/2026" tvg-logo="https://cdn1-production-images-kly.akamaized.net/txgrmsHOHkWn2PmutpkuYSk9Q9g=/800x450/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/2922557/original/067968900_1569475088-serie_aa.jpg", 01:45 WIB Roma vs Genoa
+#EXTINF:-1 group-title="EVENT 26/OKTOBER/2026" tvg-logo="https://cdn1-production-images-kly.akamaized.net/txgrmsHOHkWn2PmutpkuYSk9Q9g=/800x450/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/2922557/original/067968900_1569475088-serie_aa.jpg", 02:45 WIB Udinese vs Milan
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
-#https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
+https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
 
 
 
@@ -578,13 +587,13 @@ https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/
 #https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
 
 
-#EXTINF:-1 group-title="EVENT 18/SEPTEMBER/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0RNBMXkbZ-32WBlcJWAZwlcuvgRUpa9wqrb0WbQ7XxbZIa0nfz4qCnLk&s=10", 02:30 WIB Malaga vs Villarreal
+#EXTINF:-1 group-title="EVENT 26/OKTOBER/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0RNBMXkbZ-32WBlcJWAZwlcuvgRUpa9wqrb0WbQ7XxbZIa0nfz4qCnLk&s=10", 03:00 WIB Barcelona vs Real Madrid
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
-#https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
 
 
 
@@ -1557,7 +1566,7 @@ https://e.siar.us/live/dtvi.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=93&type=drm&token=apistech
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/webclient/live
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-https://d84q7nw4qf3j3.cloudfront.net/out/v1/010bb28c19b64975b318d3b00f58b18b/index.mpd
+#https://d84q7nw4qf3j3.cloudfront.net/out/v1/010bb28c19b64975b318d3b00f58b18b/index.mpd
 #https://cdnbal1.indihometv.com/atm/DASH/ROCK_ACTION/ROCK_ACTION-avc1_2500000=7-3277707030000000.mpd
 
 =======================================
