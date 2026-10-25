@@ -186,14 +186,15 @@ https://live2.jorvakstreamcache.com/live/channel20.m3u8
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/-zrf9WS9MahpJWfAEhBkL6DCjRg=/1920x1080/filters:quality(70)/vidio-web-prod-film/uploads/film/image_landscape/13609/premier-league-2026-27-51cc21.jpg" group-title="EVENT 25/OKTOBER/2026", 21:00 WIB Liverpool vs Brighton
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-http://193.47.62.44/hls/a111aa.m3u8
+http://193.47.62.59/hls/Xa111aa.m3u8
+#http://193.47.62.44/hls/a111aa.m3u8
 https://admin2.formaturamaxi.com.br/fubo.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/-zrf9WS9MahpJWfAEhBkL6DCjRg=/1920x1080/filters:quality(70)/vidio-web-prod-film/uploads/film/image_landscape/13609/premier-league-2026-27-51cc21.jpg" group-title="EVENT 25/OKTOBER/2026", 21:00 WIB Manchester United vs AFC Bournemouth
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-http://193.47.62.55/hls/a111aaa.m3u8
+http://193.47.62.41/hls/Xa111a.m3u8
 https://play.aarray.cn/rrty/hd-zh-1-4558646_gqzm.m3u8?auth_key=1792940472-0-0-fe8e8e95d08a045e81236bac44a77c63&token=92a28c228859f3d5&device=4&platform=rrty
 
 
@@ -201,7 +202,7 @@ https://play.aarray.cn/rrty/hd-zh-1-4558646_gqzm.m3u8?auth_key=1792940472-0-0-fe
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/-zrf9WS9MahpJWfAEhBkL6DCjRg=/1920x1080/filters:quality(70)/vidio-web-prod-film/uploads/film/image_landscape/13609/premier-league-2026-27-51cc21.jpg" group-title="EVENT 25/OKTOBER/2026", 21:00 WIB Hull City vs Brentford
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-http://193.47.62.41/hls/a111a.m3u8
+http://193.47.62.55/hls/Xa111.m3u8
 https://play.aarray.cn/rrty/hd-zh-1-4558643_gqzm.m3u8?auth_key=1792940533-0-0-a0802b1f72e78843310a9cbb33a98403&token=9d084f72c7c78b61&device=4&platform=rrty
 
 
