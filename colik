@@ -690,7 +690,7 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9e9aba7068ca4c7f8a73381bef5f8742/in
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
 #EXTVLCOPT:http-referrer=http://www.vidio.com/
 #https://nextgenz.my.id/event/pidio/play.mpd?id=204&type=dash
-http://tvratu.my.id/nissa/index.mpd?id=204&type=dash
+#http://tvratu.my.id/nissa/index.mpd?id=204&type=dash
 #https://beetv.my.id/xstreamx/vd.m3u8?ch=sctv
 https://nextgenz.my.id/event/pidio/play.mpd?id=204&type=dash
 
@@ -714,7 +714,7 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/e930be336fed49e6b26a7554e113f7a4/in
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/MkVjq2ZN/INDOSIAR.png" group-title="NASIONAL", Indosiar
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
 #EXTVLCOPT:http-referrer=http://www.vidio.com/
-http://tvratu.my.id/nissa/index.mpd?id=205&type=dash
+#http://tvratu.my.id/nissa/index.mpd?id=205&type=dash
 #https://beetv.my.id/xstreamx/vd.m3u8?ch=indosiar
 https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=dash
 
@@ -834,7 +834,6 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/3aefa03d32954b678e5faab6daa04b58/in
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #http://op-flashcon-digdayahd-1.dens.tv/h/h06/index.m3u8
 https://op-flashcon-digdayahd-1.dens.tv/h/h223/02.m3u8
-http://khano.nng.cloudns.us/live/m3u8/id/6cdb3402d11f58d.m3u8
 
 =======================================
 
