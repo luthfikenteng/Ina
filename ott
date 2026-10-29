@@ -673,7 +673,7 @@ awalan
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 https://d2tjypxxy769fn.cloudfront.net/out/v1/b8b9b1d5f80f45649b4a3619291551ab/index.mpd
 
-#EXTINF:0 tvg-id="GTV HD [3].id" tvg-logo="https://i.ibb.co.com/39DJnjwt/GTV.png" group-title="NASIONAL", GTV
+#EXTINF:0 tvg-id="GTV HD [3].id" tvg-logo="https://i.ibb.co.com/39DJnjwt/GTV.png" group-title="NASIONAL BACKUP", GTV
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=gtv
@@ -681,7 +681,7 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
 
 =======================================
 
-#EXTINF:-1 tvg-id="RCTI [1].id" tvg-logo="https://i.ibb.co.com/8LSDx2WG/RCTI.png" group-title="NASIONAL",RCTI
+#EXTINF:-1 tvg-id="RCTI [1].id" tvg-logo="https://i.ibb.co.com/8LSDx2WG/RCTI.png" group-title="NASIONAL BACKUP",RCTI
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
@@ -697,7 +697,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/in
 
 =======================================
 
-#EXTINF:-1 tvg-id="MNCTV HD [2][203]" tvg-logo="https://i.ibb.co.com/F48M3H1r/MNC.png" group-title="NASIONAL",MNC TV
+#EXTINF:-1 tvg-id="MNCTV HD [2][203]" tvg-logo="https://i.ibb.co.com/F48M3H1r/MNC.png" group-title="NASIONAL BACKUP",MNC TV
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=mnctv
@@ -720,7 +720,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/in
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9e9aba7068ca4c7f8a73381bef5f8742/index.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/cKN30V8Q/SCTV.png" group-title="NASIONAL",SCTV HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/cKN30V8Q/SCTV.png" group-title="NASIONAL BACKUP",SCTV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; MiTV-AXSO1) AppleWebKit/537.36
 #EXTVLCOPT:http-referrer=http://www.vidio.com/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -746,14 +746,14 @@ https://nextgenz.my.id/event/pidio/play.mpd?id=204&type=dash
 https://d2tjypxxy769fn.cloudfront.net/out/v1/e930be336fed49e6b26a7554e113f7a4/index.mpd
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/MkVjq2ZN/INDOSIAR.png" group-title="NASIONAL", INDOSIAR HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/MkVjq2ZN/INDOSIAR.png" group-title="NASIONAL BACKUP", INDOSIAR HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; MiTV-AXSO1) AppleWebKit/537.36
 #EXTVLCOPT:http-referrer=http://www.vidio.com/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://calistaiptv.my.id/indopart/play.drm?id=205&type=drm
 #https://calistaiptv.my.id/indopart/play.mpd?id=205&type=dash
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/MkVjq2ZN/INDOSIAR.png" group-title="NASIONAL", Indosiar
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/MkVjq2ZN/INDOSIAR.png" group-title="NASIONAL BACKUP", Indosiar
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
 #EXTVLCOPT:http-referrer=http://www.vidio.com/
 #http://tvratu.my.id/nissa/index.mpd?id=205&type=dash
@@ -792,11 +792,11 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h207/index.m3u8|referrer=http://www.de
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/703a71abac3844748b1e68166242d4f3/index.mpd
 
 
-#EXTINF:-1 tvg-id="MentariTV.id" group-title="NASIONAL" tvg-name="Mentari TV" tvg-logo="https://i.ibb.co.com/7Jnn95wt/MENTARI.png", MENTARI TV
+#EXTINF:-1 tvg-id="MentariTV.id" group-title="NASIONAL BACKUP" tvg-name="Mentari TV" tvg-logo="https://i.ibb.co.com/7Jnn95wt/MENTARI.png", MENTARI TV
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
 #EXTVLCOPT:http-referrer=http://www.vidio.com/
 #https://ratuvidio.adptv.workers.dev/index.mpd?id=8237&type=dash
-http://tvratu.my.id/nissa/index.mpd?id=8237&type=dash
+#http://tvratu.my.id/nissa/index.mpd?id=8237&type=dash
 https://nextgenz.my.id/event/pidio/play.mpd?id=8237&type=dash
 
 =======================================
@@ -808,7 +808,7 @@ https://nextgenz.my.id/event/pidio/play.mpd?id=8237&type=dash
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/0a6c6b1534444ab4bd903af8761e6747/index.mpd
 
-#EXTINF:0 tvg-logo="https://i.ibb.co.com/1GWCbMRs/ANTV.png" group-title="NASIONAL" tvg-id="ANTV",  ANTV HD
+#EXTINF:0 tvg-logo="https://i.ibb.co.com/1GWCbMRs/ANTV.png" group-title="NASIONAL BACKUP" tvg-id="ANTV",  ANTV HD
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
 #EXTVLCOPT:http-referrer=http://www.vidio.com/
 #http://tvratu.my.id/nissa/index.mpd?id=782&type=dash
@@ -823,7 +823,7 @@ https://flv.intechmedia.net/live/ch107.m3u8
 
 =======================================
 
-#EXTINF:-1 tvg-id="TransTV-6" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://i.ibb.co.com/C5VjfGVQ/TRANSTV.png" group-title="NASIONAL",TRANSTV HD
+#EXTINF:-1 tvg-id="TransTV-6" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://i.ibb.co.com/C5VjfGVQ/TRANSTV.png" group-title="NASIONAL BACKUP",TRANSTV HD
 #EXTVLCOPT:http-origin=https://20.detik.com/
 #EXTVLCOPT:http-referrer=https://20.detik.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
@@ -841,7 +841,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/7a69cfc9e135493f87ac4efd63000429/in
 
 =======================================
 
-#EXTINF:-1 tvg-id="Trans7" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://i.ibb.co.com/fV6VG0Vt/TRANS7.png" group-title="NASIONAL",TRANS7 HD
+#EXTINF:-1 tvg-id="Trans7" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://i.ibb.co.com/fV6VG0Vt/TRANS7.png" group-title="NASIONAL BACKUP",TRANS7 HD
 #EXTVLCOPT:http-origin=https://20.detik.com/
 #EXTVLCOPT:http-referrer=https://20.detik.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
@@ -871,7 +871,7 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/in
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/3aefa03d32954b678e5faab6daa04b58/index.mpd
 
 
-#EXTINF:-1 tvg-id="NET" tvg-logo="https://i.ibb.co.com/qFLFkhp4/NET.png" group-title="NASIONAL" , MD TV
+#EXTINF:-1 tvg-id="NET" tvg-logo="https://i.ibb.co.com/qFLFkhp4/NET.png" group-title="NASIONAL BACKUP" , MD TV
 #KODIPROP:inputstream.adaptive.stream_headers=referer=&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #http://op-flashcon-digdayahd-1.dens.tv/h/h06/index.m3u8
@@ -904,7 +904,7 @@ https://op-flashcon-digdayahd-1.dens.tv/s/s104/index.m3u8|referrer=http://dens.t
 
 =======================================
 
-#EXTINF:-1 group-title="NASIONAL" tvg-id="iNews HD - [Channel 433].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co.com/Dfjt4MKN/INEWS.png",INEWS
+#EXTINF:-1 group-title="NASIONAL BACKUP" tvg-id="iNews HD - [Channel 433].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co.com/Dfjt4MKN/INEWS.png",INEWS
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTVLCOPT:http-user-agent=android-R+
 #https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
@@ -920,7 +920,7 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/34d8dd29eb1d4eba931c7c5ab5f4be09/ind
 
 =======================================
 
-#EXTINF:-1 group-title="NASIONAL" tvg-id="Sindo News TV HD - [Channel 5].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co.com/7Jv7DPNY/SINDONEWS.png",SINDONEWS
+#EXTINF:-1 group-title="NASIONAL BACKUP" tvg-id="Sindo News TV HD - [Channel 5].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co.com/7Jv7DPNY/SINDONEWS.png",SINDONEWS
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #https://cdnbal1.indihometv.com/atm/DASH/mncnews/mncnews-avc1_2500000=7-3277707030000000.mpd
