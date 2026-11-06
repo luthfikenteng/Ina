@@ -4,9 +4,7 @@ awalan
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/jZuKFR92L4Y/sddefault.jpg?v=6acd9904" group-title="EVENT 6/NOVEMBER/2026", Korea Open 2026
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4363764504903061_AiSD.m3u8?txSecret=14bfad1cb03333cd8284baa682a72e45&txTime=6AEE4DE0
-https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4363764680895061_AiSD.m3u8?txSecret=a38b2c31f332c65af3c48d21b3f28f5e&txTime=6AEE4DE0
-https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4363764924798061_AiSD.m3u8?txSecret=4f67109802687e2af79e7a523a5bd6dc&txTime=6AEE4DE0
+
 
 
 
@@ -677,21 +675,21 @@ https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com
 =======================================
 ===============MOTOGP================
 =======================================
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/TqRf4Xk3/IMG-20250816-175900.png" group-title="EVENT 6/NOVEMBER/2026", MOTOGP 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/TqRf4Xk3/IMG-20250816-175900.png" group-title="EVENT 7/NOVEMBER/2026", MOTOGP 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/webclient/live
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=120
 https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/TqRf4Xk3/IMG-20250816-175900.png" group-title="EVENT 6/NOVEMBER/2026", MOTOGP 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/TqRf4Xk3/IMG-20250816-175900.png" group-title="EVENT 7/NOVEMBER/2026", MOTOGP 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed
 https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/TqRf4Xk3/IMG-20250816-175900.png" group-title="EVENT 6/NOVEMBER/2026", MOTOGP 3
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/TqRf4Xk3/IMG-20250816-175900.png" group-title="EVENT 7/NOVEMBER/2026", MOTOGP 3
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd
