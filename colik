@@ -342,8 +342,7 @@ https://live2.jorvakstreamcache.com/live/channel1.m3u8
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/-zrf9WS9MahpJWfAEhBkL6DCjRg=/1920x1080/filters:quality(70)/vidio-web-prod-film/uploads/film/image_landscape/13609/premier-league-2026-27-51cc21.jpg" group-title="EVENT 8/NOVEMBER/2026", 23:30 WIB Manchester United vs Aston Villa
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-http://193.47.62.59/hls/G333a.m3u8
-#https://play.aarray.cn/rrty/hd-zh-1-4558679_gqzm.m3u8?auth_key=1793553791-0-0-ca0e093aea306fb69a1c05589ef117b5&token=aacc09ddba1da568&device=4&platform=rrty
+https://play.aarray.cn/rrty/hd-zh-1-4558721_gqzm.m3u8?auth_key=1794158469-0-0-e616cde5b0256bbf075fcffe27d80046&token=5706895d694dc354&device=4&platform=rrty
 
 
 #EXTINF:-1 group-title="EVENT 24/OKTOBER/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0RNBMXkbZ-32WBlcJWAZwlcuvgRUpa9wqrb0WbQ7XxbZIa0nfz4qCnLk&s=10", 23:30 WIB Valencia vs Villarreal
