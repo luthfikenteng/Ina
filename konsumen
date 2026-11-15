@@ -780,12 +780,10 @@ https://rplus.inisemar.my.id/mnctv.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/cKN30V8Q/SCTV.png" group-title="NASIONAL",SCTV HD
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
-#EXTVLCOPT:http-referrer=http://www.vidio.com/
-#https://nextgenz.my.id/event/pidio/play.mpd?id=204&type=dash
-#http://tvratu.my.id/nissa/index.mpd?id=204&type=dash
-#https://beetv.my.id/xstreamx/vd.m3u8?ch=sctv
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 https://nextgenz.my.id/event/pidio/play.mpd?id=204&type=dash
+
 
 =======================================
 
@@ -805,10 +803,8 @@ https://nextgenz.my.id/event/pidio/play.mpd?id=204&type=dash
 #https://calistaiptv.my.id/indopart/play.mpd?id=205&type=dash
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/MkVjq2ZN/INDOSIAR.png" group-title="NASIONAL", Indosiar
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
-#EXTVLCOPT:http-referrer=http://www.vidio.com/
-#http://tvratu.my.id/nissa/index.mpd?id=205&type=dash
-#https://beetv.my.id/xstreamx/vd.m3u8?ch=indosiar
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=dash
 
 =======================================
@@ -844,10 +840,8 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h207/index.m3u8|referrer=http://www.de
 
 
 #EXTINF:-1 tvg-id="MentariTV.id" group-title="NASIONAL" tvg-name="Mentari TV" tvg-logo="https://i.ibb.co.com/7Jnn95wt/MENTARI.png", MENTARI TV
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
-#EXTVLCOPT:http-referrer=http://www.vidio.com/
-#https://ratuvidio.adptv.workers.dev/index.mpd?id=8237&type=dash
-#http://tvratu.my.id/nissa/index.mpd?id=8237&type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 https://nextgenz.my.id/event/pidio/play.mpd?id=8237&type=dash
 
 =======================================
@@ -860,10 +854,8 @@ https://nextgenz.my.id/event/pidio/play.mpd?id=8237&type=dash
 #https://d84q7nw4qf3j3.cloudfront.net/out/v1/0a6c6b1534444ab4bd903af8761e6747/index.mpd
 
 #EXTINF:0 tvg-logo="https://i.ibb.co.com/1GWCbMRs/ANTV.png" group-title="NASIONAL" tvg-id="ANTV",  ANTV HD
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
-#EXTVLCOPT:http-referrer=http://www.vidio.com/
-#http://tvratu.my.id/nissa/index.mpd?id=782&type=dash
-#https://beetv.my.id/xstreamx/vd.m3u8?ch=antv
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 https://nextgenz.my.id/event/pidio/play.mpd?id=782&type=dash
 
 =======================================
